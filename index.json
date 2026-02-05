@@ -1,0 +1,381 @@
+{
+  "metadata": {
+    "migration_date": "2026-02-05T21:18:21.520Z",
+    "source_version": "8.24.0",
+    "source_extraction_date": "2025-10-28T19:56:32.631636",
+    "total_units": 28,
+    "repository": "MikeKapin/csa-training-data",
+    "structure_version": "1.0.0"
+  },
+  "editions": {
+    "8th_edition_2025": {
+      "publication_date": "June 2025",
+      "units_available": [
+        "Unit 1 - Safety",
+        "Unit 2 - Fasteners, tools, and testing instruments",
+        "Unit 3 - Properties, Characteristics, and Safe Handling of Fuel Gases",
+        "Unit 4 - Utilization Codes, Acts and Regulations",
+        "Unit 5 - Introduction to Electricity",
+        "Unit 6 - Technical Manuals, Specifications, Drawings and Graphs"
+      ],
+      "is_primary": true,
+      "description": "Latest edition - primary source for content generation"
+    },
+    "7th_edition": {
+      "units_available": [
+        "G2 Review Quizzes",
+        "G3 Review Quizzes",
+        "Unit 1 - Safety",
+        "Unit 10 - Advanced Piping and Tubing Systems",
+        "Unit 11 - Pressure Regulators",
+        "Unit 12 - Basic Electricity for Gas Fired Equipment",
+        "Unit 13 - Controls",
+        "Unit 14 - Building as a System",
+        "Unit 15 - Domestic Appliances",
+        "Unit 16 - Gas Fired Refrigerators",
+        "Unit 17 - Conversion Burners",
+        "Unit 18 - Water Heaters and Combination Systems",
+        "Unit 19 - Forced Warm Air Heating Systems",
+        "Unit 2 - Fasteners, Tools and Testing Equipment",
+        "Unit 20 - Hydronic Heating Systems",
+        "Unit 21 - Space Heaters and Fireplaces",
+        "Unit 22 - Venting Systems",
+        "Unit 23 - Forced Air Add-On Devices",
+        "Unit 24 - Air Handling",
+        "Unit 3 - Properties of Natural Gas and Fuels Safe Handling",
+        "Unit 4 - Code and Regs",
+        "Unit 5 - Introduction to Electricity",
+        "Unit 6 - Technical Manuals, Specs, Drawings and Graphs",
+        "Unit 7 - Customer Relations",
+        "Unit 8 - Intro to Piping and Tubing Systems",
+        "Unit 9 - Intro to Gas Appliances"
+      ],
+      "is_fallback": true,
+      "description": "Previous edition - used as supplementary/fallback content"
+    }
+  },
+  "units": [
+    {
+      "unit_number": 1,
+      "unit_name": "Unit 1 - Safety",
+      "file": "units/unit-01.json",
+      "editions_available": [
+        "8th_2025",
+        "7th"
+      ],
+      "total_items": 31,
+      "content_size_kb": 203
+    },
+    {
+      "unit_number": 2,
+      "unit_name": "Unit 2 - Fasteners, Tools and Testing Equipment",
+      "file": "units/unit-02.json",
+      "editions_available": [
+        "8th_2025",
+        "7th"
+      ],
+      "total_items": 33,
+      "content_size_kb": 119
+    },
+    {
+      "unit_number": 3,
+      "unit_name": "Unit 3 - Properties of Natural Gas and Fuels Safe Handling",
+      "category": "G3",
+      "file": "units/unit-03.json",
+      "editions_available": [
+        "7th"
+      ],
+      "total_items": 14,
+      "content_size_kb": 90
+    },
+    {
+      "unit_number": 3,
+      "unit_name": "Unit 3 - Properties, Characteristics, and Safe Handling of Fuel Gases",
+      "file": "units/unit-03.json",
+      "editions_available": [
+        "8th_2025"
+      ],
+      "total_items": 3,
+      "content_size_kb": 19
+    },
+    {
+      "unit_number": 4,
+      "unit_name": "Unit 4 - Code and Regs",
+      "category": "G3",
+      "file": "units/unit-04.json",
+      "editions_available": [
+        "7th"
+      ],
+      "total_items": 10,
+      "content_size_kb": 64
+    },
+    {
+      "unit_number": 4,
+      "unit_name": "Unit 4 - Utilization Codes, Acts and Regulations",
+      "file": "units/unit-04.json",
+      "editions_available": [
+        "8th_2025"
+      ],
+      "total_items": 3,
+      "content_size_kb": 19
+    },
+    {
+      "unit_number": 4,
+      "unit_name": "Unit 4a - Laws Governing the Gas Industry and Due Diligence",
+      "category": "G3",
+      "file": "units/unit-04.json",
+      "editions_available": [
+        "7th"
+      ],
+      "total_items": 10,
+      "content_size_kb": 47
+    },
+    {
+      "unit_number": 5,
+      "unit_name": "Unit 5 - Introduction to Electricity",
+      "file": "units/unit-05.json",
+      "editions_available": [
+        "8th_2025",
+        "7th"
+      ],
+      "total_items": 51,
+      "content_size_kb": 276
+    },
+    {
+      "unit_number": 6,
+      "unit_name": "Unit 6 - Technical Manuals, Specs, Drawings and Graphs",
+      "category": "G3",
+      "file": "units/unit-06.json",
+      "editions_available": [
+        "7th"
+      ],
+      "total_items": 12,
+      "content_size_kb": 43
+    },
+    {
+      "unit_number": 6,
+      "unit_name": "Unit 6 - Technical Manuals, Specifications, Drawings and Graphs",
+      "file": "units/unit-06.json",
+      "editions_available": [
+        "8th_2025"
+      ],
+      "total_items": 5,
+      "content_size_kb": 16
+    },
+    {
+      "unit_number": 7,
+      "unit_name": "Unit 7 - Customer Relations",
+      "category": "G3",
+      "file": "units/unit-07.json",
+      "editions_available": [
+        "8th_2025",
+        "7th"
+      ],
+      "total_items": 18,
+      "content_size_kb": 111
+    },
+    {
+      "unit_number": 8,
+      "unit_name": "Unit 8 - Introduction to Piping and Tubing Systems",
+      "category": "G3",
+      "file": "units/unit-08.json",
+      "editions_available": [
+        "8th_2025",
+        "7th"
+      ],
+      "total_items": 26,
+      "content_size_kb": 112
+    },
+    {
+      "unit_number": 9,
+      "unit_name": "Unit 9 - Introduction to Gas Appliances",
+      "category": "G3",
+      "file": "units/unit-09.json",
+      "editions_available": [
+        "8th_2025",
+        "7th"
+      ],
+      "total_items": 19,
+      "content_size_kb": 159
+    },
+    {
+      "unit_number": 10,
+      "unit_name": "Unit 10 - Piping and Tubing Systems for Industrial and Commercial Applications",
+      "category": "G2",
+      "file": "units/unit-10.json",
+      "editions_available": [
+        "8th_2025",
+        "7th"
+      ],
+      "total_items": 32,
+      "content_size_kb": 117
+    },
+    {
+      "unit_number": 11,
+      "unit_name": "Unit 11 - Pressure regulators, overpressure protection, meters, and fuel containers",
+      "category": "G2",
+      "file": "units/unit-11.json",
+      "editions_available": [
+        "8th_2025",
+        "7th"
+      ],
+      "total_items": 45,
+      "content_size_kb": 344
+    },
+    {
+      "unit_number": 12,
+      "unit_name": "Unit 12 - Basic electricity for gas-fired equipment",
+      "category": "G2",
+      "file": "units/unit-12.json",
+      "editions_available": [
+        "8th_2025",
+        "7th"
+      ],
+      "total_items": 68,
+      "content_size_kb": 368
+    },
+    {
+      "unit_number": 13,
+      "unit_name": "Unit 13 - Controls: Fundamentals",
+      "category": "G2",
+      "file": "units/unit-13.json",
+      "editions_available": [
+        "8th_2025",
+        "7th"
+      ],
+      "total_items": 159,
+      "content_size_kb": 1085
+    },
+    {
+      "unit_number": 14,
+      "unit_name": "Unit 14 - The building as a system",
+      "category": "G2",
+      "file": "units/unit-14.json",
+      "editions_available": [
+        "8th_2025",
+        "7th"
+      ],
+      "total_items": 23,
+      "content_size_kb": 126
+    },
+    {
+      "unit_number": 15,
+      "unit_name": "Unit 15 - Domestic appliances",
+      "category": "G2",
+      "file": "units/unit-15.json",
+      "editions_available": [
+        "8th_2025",
+        "7th"
+      ],
+      "total_items": 23,
+      "content_size_kb": 114
+    },
+    {
+      "unit_number": 16,
+      "unit_name": "Unit 16 - Domestic gas-fired refrigerators",
+      "category": "G2",
+      "file": "units/unit-16.json",
+      "editions_available": [
+        "8th_2025",
+        "7th"
+      ],
+      "total_items": 18,
+      "content_size_kb": 114
+    },
+    {
+      "unit_number": 17,
+      "unit_name": "Unit 17 - Conversion burners",
+      "category": "G2",
+      "file": "units/unit-17.json",
+      "editions_available": [
+        "8th_2025",
+        "7th"
+      ],
+      "total_items": 12,
+      "content_size_kb": 71
+    },
+    {
+      "unit_number": 18,
+      "unit_name": "Unit 18 - Water heaters and combination systems",
+      "category": "G2",
+      "file": "units/unit-18.json",
+      "editions_available": [
+        "8th_2025",
+        "7th"
+      ],
+      "total_items": 28,
+      "content_size_kb": 179
+    },
+    {
+      "unit_number": 19,
+      "unit_name": "Unit 19 - Forced warm-air heating systems",
+      "category": "G2",
+      "file": "units/unit-19.json",
+      "editions_available": [
+        "8th_2025",
+        "7th"
+      ],
+      "total_items": 18,
+      "content_size_kb": 117
+    },
+    {
+      "unit_number": 20,
+      "unit_name": "Unit 20 - Hydronic heating systems",
+      "category": "G2",
+      "file": "units/unit-20.json",
+      "editions_available": [
+        "8th_2025",
+        "7th"
+      ],
+      "total_items": 20,
+      "content_size_kb": 112
+    },
+    {
+      "unit_number": 21,
+      "unit_name": "Unit 21 - Space heaters and fireplaces",
+      "category": "G2",
+      "file": "units/unit-21.json",
+      "editions_available": [
+        "8th_2025",
+        "7th"
+      ],
+      "total_items": 24,
+      "content_size_kb": 170
+    },
+    {
+      "unit_number": 22,
+      "unit_name": "Unit 22 - Venting practices",
+      "category": "G2",
+      "file": "units/unit-22.json",
+      "editions_available": [
+        "8th_2025",
+        "7th"
+      ],
+      "total_items": 17,
+      "content_size_kb": 116
+    },
+    {
+      "unit_number": 23,
+      "unit_name": "Unit 23 - Forced-air add-on devices",
+      "category": "G2",
+      "file": "units/unit-23.json",
+      "editions_available": [
+        "8th_2025",
+        "7th"
+      ],
+      "total_items": 9,
+      "content_size_kb": 64
+    },
+    {
+      "unit_number": 24,
+      "unit_name": "Unit 24 - Air Handling",
+      "category": "G2",
+      "file": "units/unit-24.json",
+      "editions_available": [
+        "7th"
+      ],
+      "total_items": 12,
+      "content_size_kb": 60
+    }
+  ]
+}

@@ -1,0 +1,752 @@
+{
+  "unit_name": "Unit 17 - Conversion burners",
+  "unit_number": 17,
+  "category": "G2",
+  "editions": {
+    "8th_2025": {
+      "unit_name": "Unit 17 - Conversion burners",
+      "edition": "8th Edition",
+      "publication_date": "June 2025",
+      "is_primary": true,
+      "category": "G2",
+      "total_chapters": 3,
+      "total_pages": 83,
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "chapter_name": "Guidelines for converting appliances",
+          "pages": "6-15",
+          "topics": [
+            "Factors to consider before conversion",
+            "Availability of gas",
+            "Design of combustion chamber",
+            "Appliance venting",
+            "Appliance approval",
+            "Responsibility of gas technician/fitter",
+            "Determining appliance acceptability",
+            "Choosing correct burner",
+            "Installation responsibilities",
+            "Appliance approval (CSA B149.1 Clause 4.2.1)",
+            "Authority having jurisdiction (AHJ)",
+            "Field approval cost considerations",
+            "Oil crisis of 1973",
+            "Tacit approval for oil-to-gas conversions",
+            "Availability of natural gas/propane supply",
+            "Combustion chamber design",
+            "Updraft type (most suitable for conversion)",
+            "Semi-revertible flue (more difficult, limited burner selection)",
+            "Fully revertible type",
+            "Centreline of flue outlet within 12 in (300mm) of burner port",
+            "Bypass requirement (CSA B149.1 Clause 7.8.1)",
+            "Failed trials-for-ignition gas buildup",
+            "Efficiency of current appliance",
+            "Oil and solid-fuel larger radiant flames",
+            "Maximum scrubbing of flue gas against heat exchanger",
+            "Secondary heat exchangers",
+            "Shelves on top of unit",
+            "Potbelly design",
+            "Appliance venting to masonry chimney",
+            "Lower flue gas temperatures of gas firing",
+            "Condensation in oversized and unlined chimney",
+            "Chimney liner installation",
+            "New vent system if chimney in poor condition",
+            "Soot accumulation inside chimney flue",
+            "Chimney cleaning required",
+            "Danger of dried soot falling and blocking vent connector",
+            "Three-pass boiler (multiple passes to increase efficiency)",
+            "Overall heating system",
+            "Insufficient duct or register capacity",
+            "Small radiators",
+            "Incorrectly located thermostat",
+            "Age of appliance (oil-fired over 10 years not recommended)",
+            "Manufacturer recommendations",
+            "Installer responsibilities",
+            "Quality of workmanship",
+            "Safe and satisfactory installation",
+            "Determining acceptability",
+            "Specifying best suited burner",
+            "Handling installation",
+            "Code requirements (CSA B149.1 Clause 4.3)",
+            "Initial installation (Clause 4.3.1)",
+            "Appliance in safe working order",
+            "User instructions (Clause 4.3.2)",
+            "Manufacturer instructions (Clause 4.3.3)",
+            "Replacement parts (Clause 4.3.4)",
+            "Appliance conversion (Clause 4.3.5)",
+            "Former form of energy removal or safety",
+            "Fuel oil supply tank procedures",
+            "Fuel oil central distributing system",
+            "Propane system disconnection",
+            "Electrical appliance power shut-off",
+            "User procedures (Clause 4.3.6)",
+            "Written advice to user",
+            "Piping pressure test (Clause 4.3.7)",
+            "Gas tight test (Clause 4.3.8)",
+            "Ontario amendments to Clause 4.3.5",
+            "Fuel Oil Regulation compliance",
+            "Certificate holder for oil removal",
+            "Approval requirements (Clause 4.2.1)",
+            "Suitability of use (Clause 4.5.3)",
+            "Manufacturer certified instructions",
+            "Converted appliance approval if no instructions",
+            "Conversions minimum clearances (Clause 7.6.1)",
+            "Boiler clearances (Clause 7.1.3)",
+            "Forced-air furnace clearances",
+            "Top (casing, bonnet, plenum): 1 in (25mm)",
+            "Jacket sides and rear: 6 in (150mm)",
+            "Front: 24 in (610mm)",
+            "Gravity furnace clearances",
+            "Vertical: 6 in (150mm)",
+            "Sides and rear: 6 in (150mm)",
+            "Front: 24 in (610mm)",
+            "Conversion requirements (Clause 7.6.2)",
+            "Thoroughly clean appliance",
+            "Leak test",
+            "Examine for serviceability",
+            "Repair or replace unserviceable parts",
+            "Chimney requirements (Clause 7.6.3)",
+            "Examine chimney (Clauses 8.12.2 to 8.12.11)",
+            "Conversion burners (Clause 7.7.1)",
+            "Manufacturer designed burner",
+            "Compatible burner",
+            "Mobile homes (Clause 7.7.2)",
+            "Furnace manufacturer certified burner conversion package",
+            "Certified conversion burner",
+            "Compatible with furnace and installation",
+            "Basic design not altered",
+            "Firing rate not exceed manufacturer specified rate",
+            "Combustion and ventilation air (CSA Z240 MH Series)",
+            "Flame impingement (Clause 7.7.3)",
+            "Correctly positioned and secured",
+            "Eliminate direct flame impingement",
+            "Flame spreader only acceptable surface",
+            "Revertible flue furnace installation (Clause 7.8.1)",
+            "Natural-draft burner restrictions",
+            "Centreline 12 in (300mm) above burner port",
+            "Flue outlet extension for draft hood/regulator",
+            "Relief opening 12 in (300mm) above highest flue pass",
+            "Bypass 1 in (25mm) diameter requirement",
+            "Direct draft damper alternative",
+            "Fan-assisted burner requirements",
+            "Spark ignition requirement",
+            "Pre-purge requirement",
+            "Automatic valve with integral dual safety shut-off",
+            "Bypass requirements (Clause 7.8.2)",
+            "Gas-tight construction",
+            "Metal equivalent in strength and corrosion resistance",
+            "Secondary heating surfaces (Clause 7.8.3)",
+            "Suction side of circulating air blower",
+            "Single cylindrical flue pipe exception",
+            "Continuously gas-tight welded joint",
+            "Markings (Clause 7.8.4)",
+            "Caution sign or label requirements",
+            "Black letters on yellow background",
+            "Blower compartment access door placement",
+            "WARNING/AVERTISSEMENT lettering",
+            "3/8 in (9.6mm) height for WARNING",
+            "3/16 in (4.8mm) height for remainder",
+            "Flue outlet material (Clause 7.8.5)",
+            "No. 24 GSG (0.60mm) galvanized steel equivalent",
+            "Temperature limits (Clause 7.8.6)",
+            "High-temperature limit control requirement",
+            "Gravity furnace: 350°F (175°C) maximum",
+            "Forced-air furnace: 250°F (120°C) maximum",
+            "Vent connector (Clause 8.18.11)",
+            "Minimum clearance from combustible wall/partition",
+            "Type B vent material restrictions (Clause 8.18.18)",
+            "Type L vent material restrictions",
+            "Converted furnace or boiler prohibition",
+            "Draft hood location (Clause 8.23.6)",
+            "Same room as combustion air opening",
+            "Not in false ceiling space",
+            "Not in different room",
+            "No pressure difference between relief opening and air supply",
+            "Conversion burner draft hood location",
+            "Draft regulators (Clause 8.25)",
+            "Relief opening not obstructed",
+            "Single-acting type for incinerators",
+            "Double-acting type for all other installations",
+            "Oil and solid-fuel appliances single-acting regulator",
+            "Replace or adjust to double-acting for conversion"
+          ],
+          "content": "Chapter 1 provides guidelines for determining whether appliances should be converted from oil or solid fuel to gas, and outlines installer responsibilities and code requirements.\n\nFACTORS TO CONSIDER:\n\nNot all appliances can or should be converted. Consult code requirements, manufacturer specifications, and local regulations while considering whether appliance should be converted or if existing conversion burner was properly installed. Important considerations when converting from oil or solid fuel to gas:\n\n- Availability of gas\n- Design of combustion chamber\n- Appliance venting\n- Appliance approval\n\nFor new installations, gas technician/fitter is responsible for determining acceptability of appliance, choosing correct burner, and doing installation. For existing installations, gas technician/fitter servicing converted appliance should assess whether conversion complied with legal requirements in effect at time of conversion and if it is still in compliance with current requirements and safety concerns.\n\nBEFORE PROCEEDING:\n\nComplete careful inspection of condition of appliance before removing parts from existing appliance. It is pointless to recommend conversion of unit when its general condition indicates that it is near end of its useful life. Moreover, if heating system is improperly sized or unit cannot perform in extremely cold weather, system itself requires improvements. Conversion to gas does not improve poorly designed systems.\n\nFIVE MAIN FACTORS TO CONSIDER:\n\nUnless all factors are in place and workable, it is pointless to begin conversion.\n\n1. APPLIANCE APPROVAL:\n\nClause 4.2.1 of CSA B149.1, along with local regulations, requires that appliance be of type and rating approved for specific purpose for which it is employed. Unless appliance was originally approved for use with specific make and model of gas conversion burner, conversion may require reapproval of appliance by authority having jurisdiction (AHJ). If this is case, consider cost of field approval when making decision regarding feasibility of new conversion or decision to leave existing installation in operation.\n\nAlthough legal and liability issues related to appliance approval are often most important factor in determining whether new conversion should be conducted, these issues were not usually considered before 1980, when most conversion burners were installed. Following \"oil crisis\" of 1973, when oil prices skyrocketed, many local authorities gave tacit approval for oil-to-gas conversions based on use of approved gas conversion burners installed in accordance with burner manufacturer instructions and code requirements established at that time.\n\n2. AVAILABILITY OF NATURAL GAS/PROPANE:\n\nCheck with local gas company to ensure that natural gas supply line is available for area or if propane supply system can be installed.\n\n3. DESIGN OF COMBUSTION CHAMBER:\n\nMost suitable combustion chamber design for conversion is UPDRAFT TYPE.\n\nAppliances having SEMI-REVERTIBLE FLUE are more difficult to convert satisfactorily, and burner selection is somewhat limited. Some heat exchanger designs are not suitable for conversion.\n\nFor example, when oil furnace is FULLY REVERTIBLE TYPE, having centreline of its flue outlet within 12 in (300mm) of burner port, Clause 7.8.1 of CSA B149.1 prohibits installation of conversion burner unless bypass is installed to allow gas that may build up in heat exchanger during failed trials-for-ignition to escape vent.\n\n4. EFFICIENCY OF CURRENT APPLIANCE:\n\nOil and solid-fuel appliances operate with larger, more radiant flames than gas burners and, thus, produce larger amount of radiant heat transfer. To get maximum heat transfer from conversion, it is desirable to have maximum scrubbing of flue gas against heat exchanger areas. Units without secondary heat exchangers, shelves on top of unit, or potbelly design do not usually result in efficient conversions.\n\n5. APPLIANCE VENTING:\n\nMost oil and solid-fuel appliances vent to masonry chimney. Due to lower flue gas temperatures of gas firing, condensation can develop in oversized and unlined chimney. If chimney is in poor condition or it is not possible to install liner, new vent system must be installed as part of conversion.\n\nAdditionally, if soot has accumulated inside chimney flue, further arrangements have to be made to have chimney thoroughly cleaned out. Unless this is done, there is danger of soot drying out and falling down in large quantities, blocking vent connector.\n\nTHREE-PASS BOILER:\n\nTo increase efficiency, updraft boilers have multiple passes, such as three-pass boiler.\n\nOTHER FACTORS TO CONSIDER:\n\nOVERALL HEATING SYSTEM:\nQuestioning owner on efficiency of appliance may point to weak spots in system that cannot necessarily be improved with conversion. Some rooms may be poorly heated because of:\n- Insufficient duct or register capacity\n- Small radiators\n- Incorrectly located thermostat\n\nAGE OF APPLIANCE:\nOil-fired appliances that are more than ten years old should not be converted.\n\nMANUFACTURER RECOMMENDATIONS:\nCheck with manufacturer before conversion since some units may specifically not be recommended for conversion.\n\nINSTALLER'S RESPONSIBILITIES:\n\nSuccess and continued safe operation of conversion burner installation depends great deal on quality of workmanship and care taken during initial burner installation.\n\nResponsibility for safe and satisfactory installation rests with person who:\n- Determines acceptability of appliance to be converted\n- Specifies burner that is best suited for job\n- Handles installation\n\nIn many cases, one person or organization, the installing contractor, assumes these responsibilities.\n\nCODE REQUIREMENTS:\n\nClause 4.3 of CSA B149.1 clearly specifies installer's responsibilities during and after conversion. They must also comply with any amendments that local AHJ makes to Code.\n\n4.3.1 INITIAL INSTALLATION:\n\"Before leaving installations, installers shall ensure that appliance, accessory, component, equipment, or piping and tubing they installed complies with Code requirements, and person initially activating appliance shall ensure that appliance is in safe working order.\"\n\n4.3.2 USER INSTRUCTIONS:\n\"Installers shall instruct user in safe and correct operation of all appliances or equipment that they install.\"\n\n4.3.3 MANUFACTURER INSTRUCTIONS:\n\"The installer shall ensure that manufacturer's instructions supplied with appliance are left with user.\"\n\n4.3.4 REPLACEMENT PARTS:\n\"Before installing any replacement part of appliance, installer shall ensure that replacement part provides operational characteristics at least equivalent to those of original part.\"\n\n4.3.5 APPLIANCE CONVERSION:\n\"When installation or conversion of appliance constitutes conversion from another form of energy, installer shall advise user of appliance, at time of installation or conversion, to have former form of energy either removed or left safe and secure from accidental activation.\"\n\nUser shall be advised for:\na) FUEL OIL SUPPLY TANK:\n   i) Remove fill pipe, and cap or plug exposed fill pipe opening to inside tank\n   ii) Shut off tank outlet valve, remove filter, and plug or cap valve outlet\n   iii) Where tank located outdoors, disconnect all exposed piping or tubing, and cap or plug piping or tubing as close as practicable to tank\n\nb) FUEL OIL CENTRAL DISTRIBUTING SYSTEM:\n   i) Shut off fuel oil supply line valve located within building\n   ii) Disconnect fuel oil supply line immediately downstream of meter, and cap or plug outlet of meter\n\nc) PROPANE SYSTEM:\n   i) Shut off cylinder or tank valve\n   ii) Disconnect and cap or plug propane gas piping system [or tubing] outdoors\n\nd) ELECTRICAL APPLIANCE:\n   i) Shut off power supply to electrical appliance at switch\n   ii) Ensure that overcurrent protection, fuse, or circuit breaker has been removed or put in off position\n\nONTARIO AMENDMENTS TO CLAUSE 4.3.5:\nIn Ontario, Clause 4.3.5 has been revoked and following substituted. When installation or conversion constitutes conversion from another form of energy, installer shall, at time of installation or conversion:\n\na) FUEL OIL TANK:\n   i) Remove fill pipe and cap or plug exposed fill pipe opening to inside tank; however, do not remove tank vent pipe\n   ii) Shut off tank outlet valve, remove filter, and plug or cap valve outlet\n   iii) Where tank located outdoors, disconnect all exposed piping or tubing as close as practicable to tank; cap or plug exposed fill pipe opening to tank; however, do not remove tank vent pipe\n   iv) Advise owner/operator of tank in writing that tank may be required to be removed in accordance with Fuel Oil Regulation and oil shall be removed by certificate holder trained for purpose\n\n4.3.6 USER PROCEDURES:\n\"The installer installing installation or conversion, as specified in Clause 4.3.5, shall advise user of appliance in writing of procedures to be followed in discontinuing supply of former form of energy.\"\n\n4.3.7 PIPING PRESSURE TEST:\n\"It shall be responsibility of installer of gas piping [or tubing] system to perform pressure tests in accordance with Clause 6.22.2 and to ensure that piping or tubing system is gas-tight at completion of tests.\"\n\n4.3.8 GAS TIGHT TEST:\n\"It shall be responsibility of installer of appliance to perform tests in accordance with Clause 6.22.3 and to ensure that system is gas-tight at completion of tests.\"\n\nCODE REQUIREMENTS - SPECIFIC SECTIONS:\n\nAPPROVAL (CLAUSE 4.2.1):\n\"An appliance, accessory, component, equipment, or material used in installation shall be of type and rating approved for specific purpose for which it is employed.\"\n\nSUITABILITY OF USE (CLAUSE 4.5.3):\n\"When appliance is converted from gas or fuel specified on rating plate, conversion shall be in accordance with manufacturer's certified instructions. If there are no manufacturer's instructions for conversion of appliance, converted appliance shall be approved.\"\n\nCONVERSIONS - MINIMUM CLEARANCES (CLAUSE 7.6.1):\n\"The minimum clearances from combustible material for boiler or furnace converted to gas shall be:\na) for boiler, as specified in Clause 7.1.3;\nb) for forced-air furnace:\n   i) from top (casing, bonnet, or plenum) — 1 in (25mm)\n   ii) jacket sides and rear — 6 in (150mm)\n   iii) front — 24 in (610mm)\nc) for gravity furnace:\n   i) vertical — 6 in (150mm)\n   ii) sides and rear — 6 in (150mm)\n   iii) front — 24 in (610mm), except as specified in Clause 4.13.2\"\n\nCONVERSION REQUIREMENTS (CLAUSE 7.6.2):\n\"An appliance to be converted shall be thoroughly cleaned, leak tested and examined for serviceability. Any unserviceable parts shall be repaired or replaced.\"\n\nCHIMNEY REQUIREMENTS (CLAUSE 7.6.3):\n\"When existing vented appliance is to be converted from solid or liquid fuel, chimney shall be examined and shall meet requirements of Clauses 8.12.2 to 8.12.11.\"\n\nCONVERSION BURNERS (CLAUSE 7.7.1):\n\"A conversion burner designed by manufacturer of appliance to be converted, or burner compatible with appliance to be converted, shall be used.\"\n\nMOBILE HOMES (CLAUSE 7.7.2):\n\"When oil-fired furnace in mobile home is converted to gas, conversion shall be by means of:\na) furnace manufacturer's certified burner conversion package; or\nb) certified conversion burner, provided that:\n   i) it is compatible with furnace and its installation\n   ii) basic design of furnace is not altered\n   iii) when adjusted, burner firing rate does not exceed furnace manufacturer's specified firing rate\"\n\nFLAME IMPINGEMENT (CLAUSE 7.7.3):\n\"A conversion burner shall be correctly positioned and firmly secured to eliminate direct flame impingement on any surface other than flame spreader.\"\n\nREVERTIBLE FLUE FURNACE INSTALLATION (CLAUSE 7.8.1):\n\"A revertible flue furnace shall not be converted by installation of:\na) natural-draft burner, unless:\n   i) centreline of flue collar is at least 12 in (300mm) above burner port\n   ii) flue outlet is extended to permit installation of draft hood or draft regulator so that relief opening is at least 12 in (300mm) above highest flue pass\n   iii) bypass at least 1 in (25mm) in diameter is connected to top of highest flue pass and extends through outer casing, terminating in vent connector. Direct draft damper may be used as alternative to bypass; or\n\nb) fan-assisted burner, unless:\n   i) there is compliance with requirements of Items a) i) to iii); or\n   ii) there is compliance with requirements of Items a) i) and ii), and burner incorporates spark ignition, pre-purge, and automatic valve with integral dual safety shut-off feature\"\n\nBYPASS REQUIREMENTS (CLAUSE 7.8.2):\n\"The bypass referred to in Item a) iii) of Clause 7.8.1 shall be gas-tight and shall be constructed of metal at least equivalent in strength and corrosion resistance to metal from which it is extended.\"\n\nSECONDARY HEATING SURFACES (CLAUSE 7.8.3):\n\"A forced-air furnace with secondary heating surface located on suction side of circulating air blower shall not be converted to gas except where such heating surface consists of single cylindrical flue pipe passing directly from primary heat exchanger to flue collar and having single continuously gas-tight welded joint.\"\n\nMARKINGS (CLAUSE 7.8.4):\n\"An easily readable caution sign or label of durable material having black letters on yellow background shall be either on or attached to each side of circulating air blower compartment access door of fuel converted forced-air furnace and shall be worded as follows:\n\n'WARNING: THIS COMPARTMENT MUST BE CLOSED EXCEPT WHEN SERVICING'\n'AVERTISSEMENT : CE COMPARTMENT EST OBLIGÉ DE RESTER FERMÉ, SAUF POUR L'ENTRETIEN'\n\nThe lettering of 'WARNING' and 'AVERTISSEMENT' shall be minimum of 3/8 in (9.6mm) in height, and remainder of lettering shall be in minimum of 3/16 in (4.8mm) in height.\"\n\nFLUE OUTLET MATERIAL (CLAUSE 7.8.5):\n\"The flue outlet referred to in Clause 7.8.1 shall be made of material at least equivalent in strength and corrosion resistance to that of No. 24 GSG (0.60mm) galvanized steel.\"\n\nTEMPERATURE LIMITS (CLAUSE 7.8.6):\n\"An automatically controlled gravity or forced-air furnace shall be equipped with high-temperature limit control, and maximum setting of control shall be:\na) 350°F (175°C) for gravity furnace; and\nb) 250°F (120°C) for forced-air furnace.\"\n\nVENT CONNECTOR (CLAUSE 8.18.11):\n\"Except as provided in Clause 8.18.13, minimum clearance of vent connector of other than Type B vent material from combustible wall or partition shall be in accordance with Table 8.6.\"\n\nCONVERTED FURNACE OR BOILER (CLAUSE 8.18.18):\n\"A vent connector of either Type B or Type L vent material shall not be used between flue outlet and draft-control device of either converted furnace or converted boiler.\"\n\nDRAFT HOOD LOCATION (CLAUSE 8.23.6):\n\"A draft hood shall be in same room as combustion air opening of appliance. Draft hood shall not be installed in false ceiling space, in room other than one appliance serves, or in any manner that could permit difference in pressure between draft-hood relief opening and combustion air supply. Draft hood supplied for conversion burner shall be located so that burner is capable of safe and efficient operation.\"\n\nDRAFT REGULATORS (CLAUSE 8.25):\n\"A draft regulator, when used, shall be located so that relief opening is not obstructed by any part of appliance or adjacent construction. When used with incinerator, draft regulator shall be of single-acting type. In all other installations, it shall be of double-acting type.\"\n\nIMPORTANT: Oil and solid-fuel appliances are usually equipped with single-acting draft regulator. When converting such appliance, replace or adjust draft regulator to function as double-acting type.",
+          "assignment_questions": [
+            {
+              "question": "Indicate whether the given statement is true or false. Conversion to natural gas will improve an improperly sized system.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "b) False"
+            },
+            {
+              "question": "Which combustion chamber design is most suitable for conversion?",
+              "options": [
+                "a) Pulse type",
+                "b) Updraft type",
+                "c) Revertible type",
+                "d) Semi-revertible type"
+              ],
+              "correct_answer": "b) Updraft type"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. A gas fired appliance has lower flue gas temperatures than the temperature of emissions from oil or solid-fuel appliances.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "a) True"
+            },
+            {
+              "question": "Which of the following could be the result of an oversized, unlined chimney?",
+              "options": [
+                "a) Sooting",
+                "b) Overheating",
+                "c) Flue gas condensing",
+                "d) Too much draft action"
+              ],
+              "correct_answer": "c) Flue gas condensing"
+            },
+            {
+              "question": "What must be done if there are no manufacturer instructions for the conversion of an appliance?",
+              "options": [
+                "a) Hire an engineer",
+                "b) Do not attempt the conversion",
+                "c) Find a similar appliance with instructions",
+                "d) Seek approval of the AHJ"
+              ],
+              "correct_answer": "d) Seek approval of the AHJ"
+            },
+            {
+              "question": "What is the maximum setting of a high-limit control on a forced-air furnace?",
+              "options": [
+                "a) 120 °C (250 °F)",
+                "b) 100 °C (212 °F)",
+                "c) 250 °C (480 °F)",
+                "d) 200 °C (392 °F)"
+              ],
+              "correct_answer": "a) 120 °C (250 °F)"
+            }
+          ]
+        },
+        {
+          "chapter_number": 2,
+          "chapter_name": "Preparing the appliance and choosing a conversion burner",
+          "pages": "27-36",
+          "topics": [
+            "Smoke test purpose",
+            "Water test for boilers",
+            "Heat exchanger leak detection",
+            "Flue outlet plugging",
+            "Crack repair restrictions",
+            "Welding not permitted for heat exchanger cracks",
+            "Furnace cement not permitted",
+            "High-temperature silicone not permitted",
+            "Heat exchanger or appliance must be replaced",
+            "Combustion air and venting system checks",
+            "Masonry chimneys too large for gas conversion",
+            "Liner installation requirement",
+            "Barometric draft control device location",
+            "Must be in same room as appliance",
+            "Double swing barometric damper (preferred location)",
+            "Correct and incorrect locations",
+            "Reducer placement",
+            "Choosing conversion burner",
+            "Basic design of appliance (combustion chamber size and shape)",
+            "Input requirement",
+            "Type of gas",
+            "Investigate burner capabilities",
+            "Design variations among manufacturers",
+            "Varying performance levels",
+            "CSA ANSI Z21.8 certification",
+            "Types of conversion burners",
+            "Natural-draft (atmospheric) burners",
+            "Power burners",
+            "Natural-draft burners definition",
+            "Not equipped with mechanical device for combustion air",
+            "Two main types for flame geometry",
+            "Upshot burner",
+            "Fires vertically with flame diverted by spreader",
+            "Circular flame with uniform cross-section",
+            "Used with coal-burning furnaces/boilers",
+            "Remove grates and ashpit doors",
+            "Install in ashpit section",
+            "Flame spreader distributes heat to dome and heating surfaces",
+            "Series of ports, slots, or ribbons",
+            "Runner tube igniter",
+            "Stainless steel flame deflector",
+            "Telescoping venturi",
+            "Adjustable legs",
+            "Secondary air adjustment",
+            "Inshot burner",
+            "Fires horizontally into combustion chamber",
+            "Spreader or target plate downstream",
+            "Direct flame",
+            "Replace oil burners",
+            "Flange-mounted",
+            "Fire into refractory or stainless steel combustion chamber",
+            "Stainless steel flame spreader",
+            "Primary air shutter",
+            "Adjusting mounting flange",
+            "Power burners with mechanical device",
+            "Fan or blower for pressurized combustion air",
+            "Better control of combustion process",
+            "High input for given volume",
+            "Pressure delivery and burner design provide flame geometry",
+            "Low-pressure upshot (fan-assist burner)",
+            "Fires vertically, round and symmetrical flame",
+            "Air pressure sufficient to overcome burner resistance only",
+            "Low-pressure inshot (fan-assist burner)",
+            "Fires horizontally",
+            "Air pressure sufficient to overcome burner resistance only",
+            "High-pressure inshot (forced-draft burner)",
+            "Fires horizontally",
+            "Air pressure sufficient to overcome burner and appliance resistance",
+            "Burner selection criteria",
+            "Firing rate (input range) of burner",
+            "Flue gas travel",
+            "Combustion chamber geometry",
+            "Firing rate determination",
+            "Natural gas: 1000 Btu/ft³",
+            "Propane: 2500 Btu/ft³",
+            "No. 2 fuel oil: 140,000 Btu per US gallon",
+            "30% greater input for gas conversion",
+            "Maximum permissible firing rates for atmospheric burners",
+            "Round grates (diameter based)",
+            "Rectangular grates (area based)",
+            "Manifold pressure and orifice size setting",
+            "Flue gas travel modes",
+            "Updraft (constantly upward, exit at highest point)",
+            "All burner types may be considered",
+            "Semi-revertible (upward then downward)",
+            "Centreline 12 in (30cm) or more above burner port",
+            "Some atmospheric and all power burners",
+            "Revertible (upward then downward)",
+            "Centreline less than 12 in (30cm) above burner port",
+            "Only per Clause 7.8.1 of CSA B149.1",
+            "Combustion chamber geometry matching",
+            "Short fireboxes (higher heat release burner)",
+            "Avoid long flames that impinge on metal surfaces",
+            "Burner flame geometry should match chamber",
+            "Round flame for round chamber",
+            "Elongated flame for rectangular chamber",
+            "Type A designs (combustion chambers at base)",
+            "Heat transfer surfaces below and above flame level",
+            "Type B designs (chambers on supporting base)",
+            "Heat transfer surfaces above flame level only",
+            "Inshot burners acceptable only with liner and insulation",
+            "Mounting flanges",
+            "Different lengths or adjustable flange",
+            "Air tube length selection per manufacturer",
+            "Match thickness of boiler wall with insulation",
+            "Air tube and mounting plate sizing",
+            "End of air tube flush with inside of chamber",
+            "No more than 1/4 in short of inside",
+            "If extends into chamber, damage from overheating",
+            "Seal between burner and boiler must be airtight"
+          ],
+          "content": "Chapter 2 covers preparing appliances for conversion and choosing appropriate conversion burners.\n\nPREPARING THE APPLIANCE:\n\nSMOKE TEST:\nPurpose: To check venting system for proper operation\n\nWATER TEST:\nPurpose: To check boiler heat exchanger for leaks\n\nFLUE OUTLET:\nMust be plugged before smoke test is performed.\n\nHEAT EXCHANGER CRACKS:\nIf cracks are discovered in heat exchanger of furnace, heat exchanger or appliance must be replaced. Repairs by welding, furnace cement, or high-temperature silicone are NOT permitted.\n\nAFTER APPLIANCE CHECKED AND REPAIRED:\nCheck combustion air and venting system before mounting burner, selecting proper orifice size, or selecting proper burner air tube.\n\nMASONRY CHIMNEYS:\nMost masonry chimneys used for oil burners are too large and should have liner installed for gas conversion.\n\nADJUSTABLE BAROMETRIC DRAFT CONTROL DEVICE:\nCannot be located in separate room from appliance. Must be in same room as appliance.\n\nDOUBLE SWING BAROMETRIC DAMPER:\nPreferred location is on vent connector. Other correct locations exist, but some locations are incorrect (such as too close to appliance or downstream of reducer).\n\nCHOOSING A CONVERSION BURNER:\n\nThere are numerous criteria for selecting correct conversion burner:\n- Basic design of appliance (combustion chamber size and shape)\n- Input requirement\n- Type of gas\n\nWhen selecting specific type of burner, investigate capabilities of burner since design variations among manufacturers provide varying performance levels for same type of burner. Most common gas conversion burners are made by same manufacturers of oil burners and look similar.\n\nReview manufacturer specifications and recommendations before specifying any particular burner model. Each conversion burner should bear seal of approved testing body certifying compliance with CSA ANSI Z21.8.\n\nTYPES OF CONVERSION BURNERS:\n\nThere are two main types of conversion burners, classified according to how combustion air is distributed:\n\n1. NATURAL-DRAFT (ATMOSPHERIC) BURNERS:\nUse combustion air naturally supplied to combustion chamber\n\nCSA B149.1 defines natural-draft burner as \"burner that is not equipped with mechanical device for supplying combustion air\".\n\nThere are two main types of atmospheric burners designed to provide required flame geometry (shape of flame):\n- Upshot\n- Inshot\n\nUPSHOT BURNER:\nUpshot burner fires vertically with flame being diverted by spreader. Flame is generally circular in shape and has uniform cross-section.\n\nThis type of burner is mainly used with furnaces or boilers originally manufactured for coal-burning use. By removing grates and ashpit doors, conversion burner can be installed in ashpit section, and flame spreader distributes heat from firepot up to dome and heating surfaces.\n\nAtmospheric upshot burner design consists of series of ports, slots, or ribbons whereby flames fire vertically — generally uniform in height — in combustion chamber.\n\nComponents:\n- Runner tube igniter\n- Stainless steel flame deflector\n- Telescoping venturi\n- Adjustable legs\n- Secondary air adjustment\n\nINSHOT BURNER:\nInshot burner fires horizontally into combustion chamber. It may have spreader or target plate downstream of burner head to direct flame.\n\nInshot conversion burners are mainly intended to replace oil burners. Oil burners are generally flange-mounted and fire into refractory or stainless steel combustion chamber within furnace body.\n\nComponents:\n- Stainless steel flame spreader\n- Primary air shutter\n- Adjusting mounting flange\n\n2. POWER BURNERS:\nPower burners come with mechanical device, such as fan or blower, to provide pressurized combustion air to burner. This allows better control of combustion process and high input for given volume of combustion space. Pressure at which air is delivered, as well as burner design, provide flame geometry.\n\nTYPES OF POWER BURNERS:\n\nLOW-PRESSURE UPSHOT (FAN-ASSIST BURNER):\n- Fires vertically into combustion zone with generally round and symmetrical flame\n- Combustion air supplied at pressure sufficient to overcome resistance of burner only\n\nLOW-PRESSURE INSHOT (FAN-ASSIST BURNER):\n- Fires horizontally into combustion zone\n- Combustion air supplied at pressure sufficient to overcome resistance of burner only\n\nHIGH-PRESSURE INSHOT (FORCED-DRAFT BURNER):\n- Fires horizontally into combustion zone\n- Combustion air supplied at pressure sufficient to overcome resistance of burner AND appliance\n\nBURNER SELECTION CRITERIA:\n\nBefore reaching final decision as to what burner is best suited for appliance, consider following conditions to ensure proper selection and application:\n- Firing rate (input range) of burner\n- Flue gas travel\n- Combustion chamber geometry\n\nFIRING RATE:\nTo determine input requirement, you must know amount of heat required to heat building. With older oil-to-gas conversions, heat loss of building is rarely available. Therefore, firing rate of existing fuel can be converted to gas input.\n\nCONVERSION FACTORS:\n- Natural gas: 1000 Btu/ft³\n- Propane: 2500 Btu/ft³\n- No. 2 fuel oil: 140,000 Btu per US gallon (33,475 Btu/L)\n\nIMPORTANT: Since gas burner is less efficient, conversion burner with 30% greater input (than previous oil burner) should be selected to avoid flue gas condensation.\n\nMAXIMUM PERMISSIBLE FIRING RATES FOR ATMOSPHERIC BURNERS:\n\nTables provide maximum firing rates based on:\n- Round grates (by diameter): 14 in to 28 in (75,000 to 300,000 Btu/h)\n- Rectangular grates (by area): 18×18 in to 24×28 in (165,000 to 300,000 Btu/h)\n\nOnce you have determined input, you can set manifold pressure and orifice size according to manufacturer input tables.\n\nFLUE GAS TRAVEL:\n\nOil and solid-fuel appliances have three basic modes of flue gas travel:\n\nUPDRAFT:\n- Flue gas travel is constantly upward, with flue products exiting at or very near highest point of heat exchanger\n- All burner types may be considered for this conversion\n\nSEMI-REVERTIBLE:\n- Flue gas travel is upward initially, then downward to exit appliance\n- Centreline of flue outlet is 12 in (30cm) or more above burner port level\n- Some atmospheric and all power burners may be considered for this conversion\n\nREVERTIBLE:\n- Flue gas travel is upward initially, then downward to exit appliance\n- Centreline of flue outlet is located less than 12 in (30cm) above burner port level\n- Revertible appliances are only to be converted according to Clause 7.8.1 of CSA B149.1\n\nCOMBUSTION CHAMBER GEOMETRY:\n\nCertain types of burners are better adapted to one boiler than another.\n\nFor example, where short fireboxes are encountered, it is often better to use burner with higher heat release and avoid long flames that impinge upon metal surfaces. Similarly, geometry of burner flame should match that of combustion chamber whenever possible (i.e., round flame for round chamber, elongated flame for rectangular chamber).\n\nTWO BASIC TYPES OF CHAMBER GEOMETRY:\n\nTYPE A DESIGNS:\n- Combustion chambers at base of heating zone\n- Heat transfer surfaces: Below and above flame level\n\nTYPE B DESIGNS:\n- Combustion chambers and heat exchangers on supporting base\n- Heat transfer surfaces: Above flame level only\n\nIMPORTANT: For Type B combustion chambers, inshot burners are acceptable only if combustion chamber liner and insulation are installed.\n\nMOUNTING FLANGES:\n\nBurner air tube may be available in different lengths or with adjustable flange. Length of air tube must be selected according to instructions provided by manufacturer of boiler, and it must match thickness of boiler wall complete with its insulation.\n\nAIR TUBE AND MOUNTING PLATE SIZING:\n\nSelect air tube and mounting plate sized so that end of air tube is flushed with, or no more than 1/4 in short of, inside of appliance combustion chamber front wall when burner is mounted. If it extends into combustion chamber, there may be damage from overheating. Seal between burner and boiler must be airtight.",
+          "assignment_questions": [
+            {
+              "question": "What is the purpose of a smoke test?",
+              "options": [
+                "a) To check the chimney for leaks",
+                "b) To check the venting system for leaks",
+                "c) To check the furnace combustion chamber for leaks",
+                "d) To check the venting system for proper operation"
+              ],
+              "correct_answer": "d) To check the venting system for proper operation"
+            },
+            {
+              "question": "What is the purpose of a water test for conversion purposes?",
+              "options": [
+                "a) To check the chimney for condensing",
+                "b) To check the boiler heat exchanger for leaks",
+                "c) To check the furnace heat exchanger for leaks",
+                "d) To check the boiler make-up water supply quality"
+              ],
+              "correct_answer": "b) To check the boiler heat exchanger for leaks"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. The flue outlet must be plugged before a smoke test is performed.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "a) True"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. If cracks are discovered in the heat exchanger of a furnace, _______.",
+              "options": [
+                "a) They can be repaired by welding",
+                "b) They can be repaired with furnace cement",
+                "c) The heat exchanger of appliance must be replaced",
+                "d) They can be repaired with high-temperature silicone"
+              ],
+              "correct_answer": "c) The heat exchanger of appliance must be replaced"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. After the appliance has been checked and repaired, _______.",
+              "options": [
+                "a) Mount the burner",
+                "b) Select the proper orifice size",
+                "c) Select the proper burner air tube",
+                "d) Check the combustion air and venting system"
+              ],
+              "correct_answer": "d) Check the combustion air and venting system"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. Most masonry chimneys used for oil burners are too large and should have a liner installed for gas conversion.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "a) True"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. An adjustable barometric draft control device can be located in a separate room to the appliance.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "b) False"
+            },
+            {
+              "question": "What is the purpose of the fan or blower on a natural-draft power conversion burner?",
+              "options": [
+                "a) To provide pressurized combustion air",
+                "b) To overcome the resistance of the appliance",
+                "c) To force the flue gas through the venting system",
+                "d) To draw gas in from the zero-governor regulator"
+              ],
+              "correct_answer": "a) To provide pressurized combustion air"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. A conversion burner with a 30% greater input (than the previous oil burner) should be selected to avoid flue gas condensation.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "a) True"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. _______ are contained in one US gallon of No. 2 fuel oil.",
+              "options": [
+                "a) 1000 Btu",
+                "b) 3412 Btu",
+                "c) 140 000 Btu",
+                "d) 33 475 Btu"
+              ],
+              "correct_answer": "c) 140 000 Btu"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. Revertible appliances are not recommended for conversion.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "a) True"
+            },
+            {
+              "question": "Indicate whether the given statement is true, false, or true under certain conditions. Inshot burners are accepted for use on a Type B combustion chamber.",
+              "options": [
+                "a) True",
+                "b) False",
+                "c) True, on condition that the internal heating surfaces are cleaned.",
+                "d) True, on condition that the combustion chamber liner and insulation are installed"
+              ],
+              "correct_answer": "d) True, on condition that the combustion chamber liner and insulation are installed"
+            },
+            {
+              "question": "How should the burner air tube and mounting plate be sized?",
+              "options": [
+                "a) It should be 9.5 in (942 mm) long",
+                "b) The end of the tube should be flush with the inside of the combustion chamber",
+                "c) The end of the tube should extend into the inside of the combustion chamber by at least ¼ in",
+                "d) The end of the tube should be flush with the outside of the combustion chamber"
+              ],
+              "correct_answer": "b) The end of the tube should be flush with the inside of the combustion chamber"
+            }
+          ]
+        },
+        {
+          "chapter_number": 3,
+          "chapter_name": "Burner selection tables and combustion testing",
+          "pages": "74-89",
+          "topics": [
+            "Burner selection tables by manufacturer",
+            "Appliance model cross-reference",
+            "Burner model specifications",
+            "Diffuser/head types",
+            "Air tube specifications",
+            "OEM air tube compatibility",
+            "Insertion depth requirements",
+            "Input MBH (thousand Btu/h)",
+            "Orifice sizing (decimal equivalents)",
+            "Air setting percentages",
+            "Air band configurations",
+            "Head bar settings",
+            "Air shutter positions",
+            "Manifold pressure (natural gas and propane)",
+            "Manufacturer-specific front plates",
+            "Gasket and grommet kits",
+            "Air flow switch cover spacers",
+            "Universal air tube applications",
+            "Drill size decimal equivalents",
+            "Fraction to decimal conversion table",
+            "Breeching pipe definition",
+            "Flue gas exhaust pipe configurations",
+            "Net stack temperature",
+            "Gross stack temperature",
+            "Temperature difference (flue gas vs ambient)",
+            "Incomplete combustion causes",
+            "Lack of air as primary cause",
+            "Perfect combustion impossibility",
+            "Products of complete combustion",
+            "Heat, carbon dioxide, water vapour, nitrogen",
+            "Combustion air requirements",
+            "10 ft³ per ft³ of natural gas",
+            "25 ft³ per ft³ of propane",
+            "Flue gas analysis",
+            "O2 indicating excess air",
+            "CO2 analysis for natural gas",
+            "7.5% CO2 with 7.5% O2 indicates 50% excess air",
+            "Appliance efficiency and flue gas temperature",
+            "100% efficiency = room temperature flue gas",
+            "Carbon monoxide limits",
+            "Must remain at 0 ppm on air-free basis",
+            "20 ppm acceptable limit",
+            "Products of combustion without sufficient air",
+            "Carbon monoxide production",
+            "Barometric damper adjustment",
+            "Neutral pressure point at burner",
+            "0 to -0.02 in w.c. target",
+            "-0.02 to -0.04 in w.c. acceptable",
+            "Flue gas cooling below 120°F (49°C)",
+            "Condensation and corrosion of vent",
+            "CO quantity increase",
+            "Carbon condensation and soot plugging",
+            "Extensive manufacturer tables",
+            "Burner compatibility charts",
+            "Orifice drill size charts",
+            "Air adjustment specifications",
+            "Pressure settings for dual fuel"
+          ],
+          "content": "Chapter 3 provides comprehensive burner selection tables organized by appliance manufacturer, along with combustion testing requirements and troubleshooting information.\n\nBURNER SELECTION TABLES:\n\nExtensive tables are provided showing burner compatibility for appliances from numerous manufacturers. Tables include:\n\nAPPLIANCE INFORMATION:\n- Appliance model number\n- Burner model recommendation\n- Diffuser/head type\n- Air tube specifications\n- OEM air tube part numbers\n- Insertion depth requirements\n\nBURNER SPECIFICATIONS:\n- Input MBH (thousand Btu/h)\n- Orifice size (decimal equivalents)\n- Air setting (percentages or specific configurations)\n- Air band positions\n- Head bar settings\n- Air shutter positions\n- Manifold pressure for natural gas\n- Manifold pressure for propane\n\nSPECIAL NOTES:\n- Manufacturer-specific front plates (with order information)\n- Required gasket and grommet kits\n- Air flow switch cover spacers\n- Universal air tube applications\n- Covers and cabinet compatibility\n\nMANUFACTURERS INCLUDED:\nTables cover conversion specifications for appliances from:\n- Peerless (SC/SCT, WBV, Pensotti DK2, S1/BL series)\n- Slant Fin (L/LD, TR, EC, XL series)\n- Smith Cast-Iron Boilers (Series 8, 19A, Solaia)\n- Southern Breeze\n- Thermo-Dynamics (CWL-GS, EMG, HT, PK, SPK, TDX, VT series)\n- Thermo Pride (OH6)\n- Triad (900SH)\n- Triangle Tube (Phase III Alpha)\n- Utica Boilers (SFH series)\n- Weil-McLain (GO, UO, 80 series)\n- Williamson-Thermoflo (W/HBO, CHB, CLB, PMP/PLB)\n- York Shipley (CT series)\n\nDRILL SIZE DECIMAL EQUIVALENTS:\n\nComprehensive conversion table provided showing:\n- Fractional sizes (1/64\" to 1\")\n- Decimal equivalents (0.0156 to 1.0000)\n- Drill number sizes (#60 to #1)\n- Letter drill sizes (A to Z)\n\nThis allows precise orifice selection and verification.\n\nCOMBUSTION TESTING:\n\nBREECHING PIPE:\nFlue gas exhaust pipe that connects downstream of draft regulator or penetrates chimney (not roof penetration, not direct appliance connection).\n\nNET STACK TEMPERATURE:\nDescribes difference in temperature between flue gas in vent and ambient air. Critical for determining heat loss and appliance efficiency.\n\nINCOMPLETE COMBUSTION:\nIf appliance is firing at correct input, primary cause of incomplete combustion is lack of air (not lack of gas, too much air, or too much gas).\n\nPERFECT COMBUSTION:\nPerfect combustion cannot be maintained in combustion chamber. Always some level of incomplete combustion or excess air.\n\nPRODUCTS OF COMPLETE COMBUSTION:\n- Heat\n- Carbon dioxide (CO2)\n- Water vapour (H2O)\n- Nitrogen (N2)\n\nCOMBUSTION AIR REQUIREMENTS:\nFor perfect (theoretical) combustion:\n- Natural gas: 10 ft³ of air per ft³ of natural gas\n- Propane: 25 ft³ of air per ft³ of propane\n\nFLUE GAS ANALYSIS:\n\nOXYGEN (O2):\nElement in flue gas analysis that best indicates how much excess air is being introduced into combustion chamber. Higher O2 = more excess air.\n\nCARBON DIOXIDE (CO2):\nFor flue gas analysis of natural gas, 7.5% reading for both CO2 and O2 indicates approximately 50% excess air.\n\nAPPLIANCE EFFICIENCY:\nIf appliance is 100% efficient, temperature of flue gas will be room temperature (all heat extracted before gases exit). In reality:\n- 130°F (54°C) is very efficient\n- 325°F (205°C) is typical for many appliances\n- 3550°F (1950°C) is flame temperature (0% efficiency)\n\nCARBON MONOXIDE (CO):\nCarbon monoxide must remain at 0 ppm on air-free basis for perfect combustion. Acceptable limit is 20 ppm. Levels of 50 ppm or 100 ppm indicate problems.\n\nWithout sufficient air for combustion in gas-fired appliance, you would expect to find carbon monoxide in products of combustion (not ethane, oxygen, or hydrogen sulphide).\n\nBAROMETRIC DAMPER ADJUSTMENT:\n\nIn order to achieve neutral pressure point at burner, barometric damper should be adjusted to approximately 0 to -0.02 in w.c. (or -0.02 to -0.04 in w.c. as acceptable range).\n\nFLUE GAS COOLING:\n\nDuring combustion of natural gas, if combustion products in vent are cooled down below 120°F (49°C), following condition would occur:\n\nFlue products would condense and corrode the vent (not increase CO quantity, increase CO2 quantity, or cause carbon condensation and soot plugging, though these may be secondary effects).\n\nSPECIAL INSTALLATION NOTES:\n\nThroughout tables, special notes indicate:\n- \"Must have gasket under ignitor and grommet in access cover: kit # GSKTKIT1\"\n- \"Air flow switch cover spacer required - P/N: 50925\"\n- \"12 × 8 blanket required for EC series\"\n- \"Burner does not fit in cabinet with door on\"\n- \"For [series] with [burner type], use front plate # [number] (order from [manufacturer])\"\n\nThese notes are critical for proper installation and must be followed to ensure safe and efficient operation.",
+          "assignment_questions": [
+            {
+              "question": "Complete the following sentence with the correct option. A breeching pipe is _______.",
+              "options": [
+                "a) A flue gas exhaust pipe that penetrates the roof",
+                "b) A flue gas exhaust pipe that penetrates the chimney",
+                "c) A flue gas exhaust pipe that connects directly to the appliances",
+                "d) A flue gas exhaust pipe that connects downstream of the draft regulator"
+              ],
+              "correct_answer": "d) A flue gas exhaust pipe that connects downstream of the draft regulator"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. _______ describes the difference in temperature between the flue gas in the vent and the ambient air",
+              "options": [
+                "a) Net stack temperature",
+                "b) Gross stack temperature",
+                "c) Ultimate stack temperature",
+                "d) Theoretical stack temperature"
+              ],
+              "correct_answer": "a) Net stack temperature"
+            },
+            {
+              "question": "What is the primary cause of incomplete combustion (if the appliance is firing at the correct input)?",
+              "options": [
+                "a) Lack of air",
+                "b) Lack of gas",
+                "c) Too much air",
+                "d) Too much gas"
+              ],
+              "correct_answer": "a) Lack of air"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. Perfect combustion can be maintained in a combustion chamber.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "b) False"
+            },
+            {
+              "question": "What are the products of complete combustion?",
+              "options": [
+                "a) Heat, carbon monoxide, water vapour",
+                "b) Heat, carbon dioxide, carbon monoxide",
+                "c) Heat, carbon dioxide, water vapour, nitrogen",
+                "d) Heat, carbon dioxide, carbon monoxide, nitrogen"
+              ],
+              "correct_answer": "c) Heat, carbon dioxide, water vapour, nitrogen"
+            },
+            {
+              "question": "How many ft³ of combustion air is required for the perfect combustion of 1 ft³ of propane gas?",
+              "options": [
+                "a) 10 ft³ (0.28 m³)",
+                "b) 16 ft³ (0.45 m³)",
+                "c) 25 ft³ (0.71 m³)",
+                "d) 32 ft³ (0.91 m³)"
+              ],
+              "correct_answer": "c) 25 ft³ (0.71 m³)"
+            },
+            {
+              "question": "Which element in a flue gas analysis best indicates how much excess air is being introduced into the combustion chamber?",
+              "options": [
+                "a) O2",
+                "b) N2",
+                "c) CO",
+                "d) CO2"
+              ],
+              "correct_answer": "a) O2"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. For a flue gas analysis of natural gas, a 7.5% reading for both CO2 and O2 indicates approximately _______ excess air.",
+              "options": [
+                "a) 10%",
+                "b) 25%",
+                "c) 50%",
+                "d) 0%"
+              ],
+              "correct_answer": "c) 50%"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. If an appliance is 100% efficient, the temperature of the flue gas will be _______.",
+              "options": [
+                "a) 130 °F (54 °C)",
+                "b) 325 °F (205 °C)",
+                "c) 3550 °F (1950 °C)",
+                "d) Room temperature"
+              ],
+              "correct_answer": "d) Room temperature"
+            },
+            {
+              "question": "At how many ppm (on an air-free basis) must the carbon monoxide remain?",
+              "options": [
+                "a) 0 ppm",
+                "b) 20 ppm",
+                "c) 50 ppm",
+                "d) 100 ppm"
+              ],
+              "correct_answer": "a) 0 ppm"
+            },
+            {
+              "question": "Without sufficient air for combustion in a gas-fired appliance, what would you expect to find in the products of combustion?",
+              "options": [
+                "a) Ethane",
+                "b) Oxygen",
+                "c) Hydrogen sulphide",
+                "d) Carbon monoxide"
+              ],
+              "correct_answer": "d) Carbon monoxide"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. In order to achieve a neutral pressure point at the burner, the barometric damper should be adjusted to approximately _______.",
+              "options": [
+                "a) −0.4 in w.c.",
+                "b) 0 to −0.02 in w.c.",
+                "c) −0.02 to −0.04 in w.c.",
+                "d) −0.04 to −0.06 in w.c."
+              ],
+              "correct_answer": "b) 0 to −0.02 in w.c."
+            },
+            {
+              "question": "During the combustion of natural gas, the combustion products in the vent are cooled down below 120 °F (49 °C). Given this scenario, which of the following conditions would occur?",
+              "options": [
+                "a) The flue products would condense and corrode the vent",
+                "b) The quantity of CO would increase",
+                "c) The quantity of carbon dioxide would increase",
+                "d) The carbon in the flue gas would condense and plug the vent with soot"
+              ],
+              "correct_answer": "a) The flue products would condense and corrode the vent"
+            }
+          ]
+        }
+      ]
+    },
+    "7th": {
+      "unit_name": "Unit 17 - Conversion Burners",
+      "category": "G2",
+      "documents": [
+        {
+          "filename": "CSA Unit 17 - Question Bank.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 17 - Conversion Burners",
+          "char_count": 16497,
+          "content": "CSA Unit 17 - Conversion Burners Multiple Choice Test\nInstructions: Select the best answer for each question.\nQuestions 1-70\n1. What is the primary purpose of conversion guidelines according to CSA Unit 17? a) To increase appliance efficiency b) To ensure proper appliance selection and safe conversion practices c) To reduce installation costs d) To comply with manufacturer warranties\n2. According to CSA B149.1 Clause 4.2.1, an appliance must be: a) Less than 5 years old b) Of a type and rating approved for the specific purpose for which it is employed c) Originally designed for gas firing d) Manufactured by an approved company\n3. Oil-fired appliances that are more than how many years old should NOT be converted? a) 5 years b) 8 years c) 10 years d) 15 years\n4. Which combustion chamber design is most suitable for conversion? a) Revertible type b) Semi-revertible type c) Updraft type d) Horizontal type\n5. For a fully revertible type furnace, CSA B149.1 Clause 7.8.1 prohibits conversion burner installation unless: a) The unit is less than 5 years old b) A bypass is installed to allow gas escape during failed ignition trials c) The appliance is re-certified d) A new heat exchanger is installed\n6. What distance defines a revertible flue furnace restriction? a) Centerline of flue outlet within 6 inches (150 mm) of burner port b) Centerline of flue outlet within 8 inches (200 mm) of burner port c) Centerline of flue outlet within 10 inches (250 mm) of burner port d) Centerline of flue outlet within 12 inches (300 mm) of burner port\n7. Lower flue gas temperatures from gas firing can lead to: a) Improved efficiency b) Condensation in oversized and unlined chimneys c) Better heat transfer d) Reduced maintenance requirements\n8. According to CSA B149.1 Clause 4.3.1, before leaving installations, installers must ensure: a) The customer is satisfied with the work b) All paperwork is completed c) The appliance is in safe working order and complies with Code requirements d) Payment has been received\n9. When converting from fuel oil, the installer must advise the user to: a) Keep the old system as backup b) Remove or secure the former energy source from accidental activation c) Maintain the old fuel supply d) Upgrade the electrical system\n10. For fuel oil supply tanks, the installer should advise to remove: a) The entire tank immediately b) Only the fuel c) The fill pipe and cap the exposed opening d) The vent pipe only\n11. CSA B149.1 Clause 4.3.7 states that pressure tests are the responsibility of: a) The gas supplier b) The building inspector c) The installer of the piping or tubing system d) The appliance manufacturer\n12. The minimum clearance for a converted forced-air furnace jacket sides and rear is: a) 1 inch (25 mm) b) 3 inches (75 mm) c) 6 inches (150 mm) d) 24 inches (610 mm)\n13. Before conversion, an appliance must be: a) Painted and cleaned b) Thoroughly cleaned, leak tested, and examined for serviceability c) Photographed for records d) Approved by the manufacturer\n14. When an oil-fired furnace in a mobile home is converted to gas, it must use: a) Any certified conversion burner b) The furnace manufacturer's certified burner conversion package or a certified conversion burner meeting specific requirements c) Only power burners d) Only atmospheric burners\n15. A conversion burner must be positioned to eliminate: a) All noise during operation b) Direct flame impingement on any surface other than a flame spreader c) Heat loss to the surroundings d) Maintenance requirements\n16. The bypass referred to in revertible flue restrictions must be at least: a) 1/2 inch (12 mm) in diameter b) 3/4 inch (19 mm) in diameter c) 1 inch (25 mm) in diameter d) 1.5 inches (38 mm) in diameter\n17. A high-temperature limit control maximum setting for a forced-air furnace is: a) 200°F (95°C) b) 250°F (120°C) c) 300°F (150°C) d) 350°F (175°C)\n18. For a gravity furnace, the high-temperature limit control maximum setting is: a) 250°F (120°C) b) 300°F (150°C) c) 350°F (175°C) d) 400°F (205°C)\n19. The minimum clearance for a conversion burner vent connector from combustible material is: a) 3 inches (75 mm) b) 6 inches (150 mm) c) 9 inches (225 mm) d) 12 inches (300 mm)\n20. Type B or Type L vent material shall NOT be used: a) In any conversion installation b) Between the flue outlet and draft-control device of converted appliances c) With natural gas applications d) In residential installations\n21. A draft hood must be located: a) In the basement only b) In the same room as the combustion air opening of the appliance c) Outside the building d) In a false ceiling space\n22. What type of draft regulator is required for most gas conversion installations? a) Single-acting type b) Double-acting type c) Automatic type d) Manual type\n23. Cerafelt is: a) A type of metal gasket b) A soft fiber ceramic material used in modern oil appliances c) A brand of conversion burner d) A type of insulation\n24. One boiler horsepower (BHP) equals: a) 30,000 Btu/h b) 33,475 Btu/h c) 35,000 Btu/h d) 40,000 Btu/h\n25. An inshot burner: a) Fires vertically into the combustion chamber b) Fires horizontally into the combustion chamber c) Is used only with coal appliances d) Cannot be used for conversions\n26. An upshot burner: a) Fires horizontally with the flame being diverted b) Fires vertically with the flame being diverted by a spreader c) Is mainly intended to replace oil burners d) Cannot be used with furnaces\n27. In a wet-base boiler, the return lines enter: a) At the top of the boiler b) At the side of the boiler c) At the base of the boiler d) Through the heat exchanger\n28. When inspecting a boiler for conversion, you should check for: a) Paint condition only b) Cracks or loose cement in heating sections c) Age of the unit only d) Original purchase price\n29. A boiler leak test should be performed with: a) Air pressure b) Pressurized water c) Vacuum testing d) Visual inspection only\n30. The combustion chamber lining is required to: a) Improve appearance b) Protect surfaces that do not transfer heat c) Reduce noise d) Increase fuel capacity\n31. When preparing a furnace for conversion, you must ensure: a) The unit is properly painted b) Inner steel heat exchanger sections have not rusted through c) The warranty is still valid d) The original burner is functional\n32. Hairline cracks in heat exchangers: a) Are not a safety concern b) Can be repaired with cement c) May open and shut with heat and might not appear during smoke tests d) Only occur in old furnaces\n33. If cracks are detected in the heat exchanger: a) They can be repaired with welding b) The unit can still be converted safely c) The heat exchanger must be replaced d) Only minor cracks are acceptable\n34. A furnace smoke test is conducted to: a) Check fuel efficiency b) Test the airtightness of the combustion chamber c) Measure heat output d) Verify proper wiring\n35. Movable flue pipe dampers are: a) Required on all conversions b) Not permitted on any gas conversion installation c) Only allowed on power burner installations d) Required by local codes\n36. When sizing a chimney for conversion, if the masonry chimney is too large, you should: a) Use it anyway b) Install an approved liner c) Replace the entire chimney d) Use a different appliance\n37. A single fan-assist appliance: a) Can be vented into a chimney on its own b) Cannot be vented into a chimney on its own c) Requires special approval d) Must use a draft hood\n38. Atmospheric conversion burner applications require: a) Barometric draft regulators b) Draft hoods c) Power venting d) Natural draft only\n39. Power burner applications must use: a) Draft hoods only b) Natural ventilation c) Double-acting barometric draft regulators if specified by manufacturer d) Single-acting regulators\n40. Natural draft burners are defined as burners: a) That use natural gas only b) Not equipped with a mechanical device for supplying combustion air c) That operate without electricity d) Designed for outdoor use only\n41. The maximum permissible firing rate for a 16-inch diameter round grate with atmospheric burners is: a) 75,000 Btu/h b) 100,000 Btu/h c) 125,000 Btu/h d) 150,000 Btu/h\n42. For oil burner nozzle calculations, one US gallon of No. 2 fuel oil equals: a) 120,000 Btu b) 130,000 Btu c) 140,000 Btu d) 150,000 Btu\n43. In an updraft flue gas travel mode: a) Gas travels up then down to exit b) Gas travels constantly upward c) Gas travels horizontally d) Gas recirculates in the chamber\n44. Type A combustion chamber designs have heat transfer surfaces: a) Above flame level only b) Below flame level only c) At, below, and above flame level d) At flame level only\n45. The burner air tube should be positioned so it is: a) Flush with or no more than 1/4 inch short of the inside combustion chamber front wall b) Extended 1 inch into the combustion chamber c) Positioned 2 inches from the wall d) Centered in the combustion chamber\n46. Perfect combustion is the process of combining: a) Any amounts of fuel and oxygen b) Chemically exact amounts of fuel and oxygen so both are totally consumed c) Fuel with unlimited air supply d) Fuel with minimal oxygen\n47. Natural gas requires how many cubic feet of air to burn 1 cubic foot completely? a) 5 cu ft b) 8 cu ft c) 10 cu ft d) 12 cu ft\n48. Propane requires how many cubic feet of air to burn 1 cubic foot completely? a) 15 cu ft b) 20 cu ft c) 25 cu ft d) 30 cu ft\n49. The ultimate % CO2 for natural gas at perfect combustion is: a) 10.5% b) 11.9% c) 13.2% d) 13.9%\n50. The ultimate % CO2 for propane at perfect combustion is: a) 11.9% b) 12.5% c) 13.9% d) 14.5%\n51. Flue gas analysis measurements should be taken: a) Anywhere in the vent system b) As close as possible to the flue collar and before any draft control devices c) At the top of the chimney d) In the combustion chamber\n52. Net stack temperature is: a) The flue gas temperature only b) The room temperature only c) The difference between flue gas temperature and ambient room temperature d)",
+          "content_truncated": true
+        },
+        {
+          "filename": "CSA Unit 17- Conversion Burners - Final.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 17 - Conversion Burners",
+          "char_count": 86674,
+          "content": "CSA Unit 17 - Conversion \nBurners\nChapter 1                       \nGuidelines for converting \nappliances\nNot all appliances can be nor should be converted. Consult Code \nrequirements, manufacturer's specifications, and local regulations while \nconsidering whether an appliance should be converted or whether an \nexisting conversion burner was properly installed.\nMK by Mike Kapin\nCreated\nCopywrite 2025\nPurpose of Conversion Guidelines\nAvailability of Gas\nEnsure a natural gas supply line is available for the area or that a propane supply \nsystem can be installed.\nDesign of the Combustion Chamber\nConsider the suitability of the combustion chamber design for conversion.\nAppliance Venting\nAssess the existing venting system and determine if a new one is required.\nAppliance Approval\nVerify that the appliance is approved for the specific purpose and conversion.\nResponsibilities in New \nInstallations\nFor new installations, the gas technician/fitter is responsible for \ndetermining the acceptability of an appliance, choosing the correct \nburner, and doing the installation.\nDetermining \nAcceptability\nThe technician must assess if \nthe appliance is suitable for \nconversion.\nChoosing the Correct \nBurner\nSelecting the appropriate \nconversion burner for the \nappliance.\nPerforming the Installation\nEnsuring the conversion is installed correctly and safely.\nResponsibilities in Existing \nInstallations\nFor existing installations, the gas technician/fitter servicing the \nconverted appliance should assess whether the conversion complied \nwith the legal requirements in effect at the conversion and whether it is \nstill in compliance with current requirements and safety concerns. The \ntechnician's/fitter's responsibilities are included in the applicable Code.\n•\nAssess compliance with past legal requirements.\n•\nVerify compliance with current requirements and safety concerns.\n•\nUnderstand issues related to conversion burners.\nChapter Objectives\nAt the end of this chapter, you will be able to:\n1\nDetermine Suitability of \nAppliance for Conversion\nUnderstand the factors that \nmake an appliance suitable or \nunsuitable for conversion.\n2\nDescribe the Installer's \nResponsibilities\nOutline the duties and \nobligations of the installer during \nand after conversion.\n3\nOutline Applicable Code \nRequirements\nIdentify and apply the relevant \nCSA B149.1 Code requirements \nfor conversions.\nTerminology: Responsibility\nThe state or fact of being responsible, answerable, or accountable for \nsomething within one's power, control, or management.\nThis definition is crucial for understanding the roles of gas \ntechnicians/fitters in appliance conversion.\nRed Seal Alignment: CSA Gas Trade Units\n12\nD - Controls and Electrical Systems\nTask 10\nSelects and installs electronic components\n13\nD - Controls and Electrical Systems\nTask 11\nSelects and installs electrical components\n14\nD - Controls and Electrical Systems\nTask 12\nInstalls automation and instrumentation \ncontrol systems.\n15\nE - Installation of Systems and Equipment\nTask 13\nInstalls gas-fired system piping and \nequipment\n16\nE - Installation of Systems and Equipment\nTask 14\nInstalls gas-fired system components.\n17\nE - Installation of Systems and Equipment\nTask 15\nInstalls propane storage and handling \nsystems.\n18\nF - Testing Commissioning of Systems\nTask 16\nTests gas-fired systems\n19\nF - Testing Commissioning of Systems\nTask 17\nCommissions gas-fired systems.\n20\nG - Servicing Gas-fired Systems\nTask 18\nMaintains gas-fired systems\n21\nG - Servicing Gas-fired Systems\nTask 19\nRepairs gas-fired systems.\n22\nG - Servicing Gas-fired Systems\nTask 20\nDecommissions gas-fired systems.\nRed Seal Alignment: \nOccupational A - Common Skills\n1\nOccupational A \n- Common \nSkills\nTask 1\nPerforms \nsafety-related \nfunctions.\n2\nOccupational A \n- Common \nSkills\nTask 2\nMaintains and \nuses tools and \nequipment.\n3\nOccupational A \n- Common \nSkills\nTask 3\nPlans and \nprepares for \ninstallation, \nservice and \nmaintenance.\nRed Seal Alignment: \nPreparation and B - Gas Piping \nAssembly\n4\nPreparation \nand B - Gas \nPiping \nAssembly\nTask 4\nFits tube and \ntubing for gas \npiping systems.\n5\nPreparation \nand B - Gas \nPiping \nAssembly\nTask 5\nFits plastic pipe \nfor gas piping \nsystems.\n6\nPreparation \nand B - Gas \nPiping \nAssembly\nTask 6\nFits steel pipe \nfor gas piping \nsystems.\nRed Seal Alignment: Venting \nSystems Supply and Air C\n7\nVenting \nSystems \nSupply and Air \nC\nTask 7\nInstalls venting\n8\nVenting \nSystems \nSupply and Air \nC\nTask 8\nInstalls air \nsupply system.\n9\nVenting \nSystems \nSupply and Air \nC\nTask 9\nInstalls draft \ncontrol \nsystems.\nRed Seal Alignment: Domestic Appliances\n10\nDomestic Appliances\nN/A\nDomestic Appliances\n11\nDomestic Appliances\nN/A\nDomestic Gas-fired Refrigerators\n12\nDomestic Appliances\nN/A\nConversion Burners\n13\nDomestic Appliances\nN/A\nWater Heaters and Combination Systems\n14\nDomestic Appliances\nN/A\nForced Warm-air Heating Systems\n15\nDomestic Appliances\nN/A\nHydronic Heating Systems\n16\nDomestic Appliances\nN/A\nSpace Heaters and Decorative Appliances\n17\nDomestic Appliances\nN/A\nVenting Practices\n18\nDomestic Appliances\nN/A\nForced-air Add-on Devices\n19\nDomestic Appliances\nN/A\nAir Handling\nFactors to Consider Before \nConversion\nBefore proceeding with the removal of parts from the existing appliance, \ncomplete a careful inspection of the condition of the appliance.\nIt is pointless to recommend the conversion of a unit when its general \ncondition indicates that it is near the end of its useful life. Moreover, if the \nheating system is improperly sized or the unit cannot perform in \nextremely cold weather, the system itself requires improvements. A \nconversion to gas will not improve poorly designed systems.\nThe information below describes the five main factors to consider before \nconversion. Unless all factors are in place and workable, it is pointless to \nbegin the conversion.\nFactor 1: Appliance Approval\nCode Requirements\nClause 4.2.1 of CSA B149.1, along with local regulations, \nrequires that an appliance be of the type and rating \napproved for the specific purpose for which it is employed.\nRe-approval Considerations\nUnless the appliance was originally approved for use with a \nspecific make and model of gas conversion burner, the \nconversion may require re-approval of the appliance by the \nauthority having jurisdiction. If this is the case, consider the \ncost of a field approval when making a decision regarding \nthe feasibility of a new conversion or a decision to leave an \nexisting installation in operation.\nHistorical Context of \nAppliance Approval\nAlthough the legal and liability issues related to appliance approval are \noften the most important factor in determining whether a new \nconversion should be conducted, these issues were not usually \nconsidered before 1980, when most conversion burners were installed.\nFollowing the \"oil crisis\" of 1973, when oil prices skyrocketed, many local \nauthorities gave tacit approval for oil-to-gas conversions based on the \nuse of approved gas conversion burners installed in accordance with \nburner manufacturer's instructions and Code requirements established \nat that time.\nFactor 2: Availability of \nNatural Gas/Propane\nCheck with the local gas company to ensure that a natural gas supply line \nis available for the area or that a propane supply system can be installed.\nNatural Gas Supply\nVerify the presence of a natural \ngas supply line in the conversion \narea.\nPropane System \nInstallation\nConfirm the feasibility of installing \na propane supply system if natural \ngas is unavailable.\nFactor 3: Design of \nCombustion Chamber - \nUpdraft Type\nThe most suitable combustion chamber design for conversion is the \nupdraft type shown in Figure 1-1(a).\nAppliances having a semi-revertible flue [Figure 1-1(b)] are more difficult \nto convert satisfactorily and burner selection is somewhat limited. Some \nheat exchanger designs are not suitable for conversion.\nFactor 3: Design of \nCombustion Chamber - \nRevertible Type Restrictions\nFor example, when an oil furnace is a fully revertible type [Figure 1-1(c)], \nhaving the centreline of its flue outlet within 12 inches (300 mm) of the \nburner port, Clause 7.8.1 of the CSA B149.1 prohibits the installation of a \nconversion burner unless a bypass is installed to allow gas that may build \nup in the heat exchanger during failed trials-for-ignition to escape the \nvent.\n•\nCentreline of flue outlet within 12 inches (300 mm) of burner port.\n•\nRequires a bypass for gas escape during failed ignition trials.\n•\nProhibited without bypass installation.\nFactor 4: Efficiency of \nCurrent Appliance\nOil and solid-fuel appliances operate with larger, more radiant flames \nthan gas burners and, thus, produce a larger amount of radiant heat \ntransfer. To get the maximum heat transfer from a conversion, it is \ndesirable to have a maximum scrubbing of the flue gas against the heat \nexchanger areas.\nUnits without secondary heat exchangers, shelves on top of the unit, or a \npot-belly design do not usually result in efficient conversions.\nUpdraft Boiler Efficiency\nTo increase efficiency, updraft boilers will have multiple passes, such as \nthe three-pass boiler shown in Figure 1-2.\nThis design maximizes heat transfer by increasing the contact time \nbetween flue gases and heat exchanger surfaces.\nFactor 5: Appliance Venting - Chimney Condition\nMost oil and solid-fuel appliances vent to a masonry chimney. Due to the lower flue gas temperatures of gas firing, \ncondensation can develop in an oversized and unlined chimney. If the chimney is in poor condition, or if it is not possible to \ninstall a liner, a new vent system must be installed as part of the conversion.\nCondensation Risk\nLower flue gas temperatures from gas firing can lead to \ncondensation in oversized/unlined chimneys.\nChimney Condition\nPoor chimney condition or inability to install a liner \nnecessitates a new vent system.\nFactor 5: Appliance Venting \n- Soot Accumulation\nAdditionally, if soot has accumulated inside a chimney flue, further \narrangeme",
+          "content_truncated": true
+        },
+        {
+          "filename": "CSA Unit 17- Conversion Burners - Final.pptx",
+          "file_type": "powerpoint",
+          "relative_path": "CSA Units\\Unit 17 - Conversion Burners",
+          "char_count": 85293,
+          "content": "CSA Unit 17 - Conversion Burners\nChapter 1                       Guidelines for converting appliances\nNot all appliances can be nor should be converted. Consult Code requirements, manufacturer's specifications, and local regulations while considering whether an appliance should be converted or whether an existing conversion burner was properly installed.\nMK\nby Mike Kapin\nCreated\nCopywrite 2025\nPurpose of Conversion Guidelines\nAvailability of Gas\nEnsure a natural gas supply line is available for the area or that a propane supply system can be installed.\nDesign of the Combustion Chamber\nConsider the suitability of the combustion chamber design for conversion.\nAppliance Venting\nAssess the existing venting system and determine if a new one is required.\nAppliance Approval\nVerify that the appliance is approved for the specific purpose and conversion.\nResponsibilities in New Installations\nFor new installations, the gas technician/fitter is responsible for determining the acceptability of an appliance, choosing the correct burner, and doing the installation.\nDetermining Acceptability\nThe technician must assess if the appliance is suitable for conversion.\nChoosing the Correct Burner\nSelecting the appropriate conversion burner for the appliance.\nPerforming the Installation\nEnsuring the conversion is installed correctly and safely.\nResponsibilities in Existing Installations\nFor existing installations, the gas technician/fitter servicing the converted appliance should assess whether the conversion complied with the legal requirements in effect at the conversion and whether it is still in compliance with current requirements and safety concerns. The technician's/fitter's responsibilities are included in the applicable Code.\nAssess compliance with past legal requirements.\nVerify compliance with current requirements and safety concerns.\nUnderstand issues related to conversion burners.\nChapter Objectives\nAt the end of this chapter, you will be able to:\n1\nDetermine Suitability of Appliance for Conversion\nUnderstand the factors that make an appliance suitable or unsuitable for conversion.\n2\nDescribe the Installer's Responsibilities\nOutline the duties and obligations of the installer during and after conversion.\n3\nOutline Applicable Code Requirements\nIdentify and apply the relevant CSA B149.1 Code requirements for conversions.\nTerminology: Responsibility\nThe state or fact of being responsible, answerable, or accountable for something within one's power, control, or management.\nThis definition is crucial for understanding the roles of gas technicians/fitters in appliance conversion.\nRed Seal Alignment: CSA Gas Trade Units\n12\nD - Controls and Electrical Systems\nTask 10\nSelects and installs electronic components\n13\nD - Controls and Electrical Systems\nTask 11\nSelects and installs electrical components\n14\nD - Controls and Electrical Systems\nTask 12\nInstalls automation and instrumentation control systems.\n15\nE - Installation of Systems and Equipment\nTask 13\nInstalls gas-fired system piping and equipment\n16\nE - Installation of Systems and Equipment\nTask 14\nInstalls gas-fired system components.\n17\nE - Installation of Systems and Equipment\nTask 15\nInstalls propane storage and handling systems.\n18\nF - Testing Commissioning of Systems\nTask 16\nTests gas-fired systems\n19\nF - Testing Commissioning of Systems\nTask 17\nCommissions gas-fired systems.\n20\nG - Servicing Gas-fired Systems\nTask 18\nMaintains gas-fired systems\n21\nG - Servicing Gas-fired Systems\nTask 19\nRepairs gas-fired systems.\n22\nG - Servicing Gas-fired Systems\nTask 20\nDecommissions gas-fired systems.\nRed Seal Alignment: Occupational A - Common Skills\n1\nOccupational A - Common Skills\nTask 1\nPerforms safety-related functions.\n2\nOccupational A - Common Skills\nTask 2\nMaintains and uses tools and equipment.\n3\nOccupational A - Common Skills\nTask 3\nPlans and prepares for installation, service and maintenance.\nRed Seal Alignment: Preparation and B - Gas Piping Assembly\n4\nPreparation and B - Gas Piping Assembly\nTask 4\nFits tube and tubing for gas piping systems.\n5\nPreparation and B - Gas Piping Assembly\nTask 5\nFits plastic pipe for gas piping systems.\n6\nPreparation and B - Gas Piping Assembly\nTask 6\nFits steel pipe for gas piping systems.\nRed Seal Alignment: Venting Systems Supply and Air C\n7\nVenting Systems Supply and Air C\nTask 7\nInstalls venting\n8\nVenting Systems Supply and Air C\nTask 8\nInstalls air supply system.\n9\nVenting Systems Supply and Air C\nTask 9\nInstalls draft control systems.\nRed Seal Alignment: Domestic Appliances\n10\nDomestic Appliances\nN/A\nDomestic Appliances\n11\nDomestic Appliances\nN/A\nDomestic Gas-fired Refrigerators\n12\nDomestic Appliances\nN/A\nConversion Burners\n13\nDomestic Appliances\nN/A\nWater Heaters and Combination Systems\n14\nDomestic Appliances\nN/A\nForced Warm-air Heating Systems\n15\nDomestic Appliances\nN/A\nHydronic Heating Systems\n16\nDomestic Appliances\nN/A\nSpace Heaters and Decorative Appliances\n17\nDomestic Appliances\nN/A\nVenting Practices\n18\nDomestic Appliances\nN/A\nForced-air Add-on Devices\n19\nDomestic Appliances\nN/A\nAir Handling\nFactors to Consider Before Conversion\nBefore proceeding with the removal of parts from the existing appliance, complete a careful inspection of the condition of the appliance.\nIt is pointless to recommend the conversion of a unit when its general condition indicates that it is near the end of its useful life. Moreover, if the heating system is improperly sized or the unit cannot perform in extremely cold weather, the system itself requires improvements. A conversion to gas will not improve poorly designed systems.\nThe information below describes the five main factors to consider before conversion. Unless all factors are in place and workable, it is pointless to begin the conversion.\nFactor 1: Appliance Approval\nCode Requirements\nClause 4.2.1 of CSA B149.1, along with local regulations, requires that an appliance be of the type and rating approved for the specific purpose for which it is employed.\nRe-approval Considerations\nUnless the appliance was originally approved for use with a specific make and model of gas conversion burner, the conversion may require re-approval of the appliance by the authority having jurisdiction. If this is the case, consider the cost of a field approval when making a decision regarding the feasibility of a new conversion or a decision to leave an existing installation in operation.\nHistorical Context of Appliance Approval\nAlthough the legal and liability issues related to appliance approval are often the most important factor in determining whether a new conversion should be conducted, these issues were not usually considered before 1980, when most conversion burners were installed.\nFollowing the \"oil crisis\" of 1973, when oil prices skyrocketed, many local authorities gave tacit approval for oil-to-gas conversions based on the use of approved gas conversion burners installed in accordance with burner manufacturer's instructions and Code requirements established at that time.\nFactor 2: Availability of Natural Gas/Propane\nCheck with the local gas company to ensure that a natural gas supply line is available for the area or that a propane supply system can be installed.\nNatural Gas Supply\nVerify the presence of a natural gas supply line in the conversion area.\nPropane System Installation\nConfirm the feasibility of installing a propane supply system if natural gas is unavailable.\nFactor 3: Design of Combustion Chamber - Updraft Type\nThe most suitable combustion chamber design for conversion is the updraft type shown in Figure 1-1(a).\nAppliances having a semi-revertible flue [Figure 1-1(b)] are more difficult to convert satisfactorily and burner selection is somewhat limited. Some heat exchanger designs are not suitable for conversion.\nFactor 3: Design of Combustion Chamber - Revertible Type Restrictions\nFor example, when an oil furnace is a fully revertible type [Figure 1-1(c)], having the centreline of its flue outlet within 12 inches (300 mm) of the burner port, Clause 7.8.1 of the CSA B149.1 prohibits the installation of a conversion burner unless a bypass is installed to allow gas that may build up in the heat exchanger during failed trials-for-ignition to escape the vent.\nCentreline of flue outlet within 12 inches (300 mm) of burner port.\nRequires a bypass for gas escape during failed ignition trials.\nProhibited without bypass installation.\nFactor 4: Efficiency of Current Appliance\nOil and solid-fuel appliances operate with larger, more radiant flames than gas burners and, thus, produce a larger amount of radiant heat transfer. To get the maximum heat transfer from a conversion, it is desirable to have a maximum scrubbing of the flue gas against the heat exchanger areas.\nUnits without secondary heat exchangers, shelves on top of the unit, or a pot-belly design do not usually result in efficient conversions.\nUpdraft Boiler Efficiency\nTo increase efficiency, updraft boilers will have multiple passes, such as the three-pass boiler shown in Figure 1-2.\nThis design maximizes heat transfer by increasing the contact time between flue gases and heat exchanger surfaces.\nFactor 5: Appliance Venting - Chimney Condition\nMost oil and solid-fuel appliances vent to a masonry chimney. Due to the lower flue gas temperatures of gas firing, condensation can develop in an oversized and unlined chimney. If the chimney is in poor condition, or if it is not possible to install a liner, a new vent system must be installed as part of the conversion.\nCondensation Risk\nLower flue gas temperatures from gas firing can lead to condensation in oversized/unlined chimneys.\nChimney Condition\nPoor chimney condition or inability to install a liner necessitates a new vent system.\nFactor 5: Appliance Venting - Soot Accumulation\nAdditionally, if soot has accumulated inside a chimney flue, further arrangements will have to be made to have the chimney thoroughly cleaned out. Unless this is done, there is danger that the soot will dry out and fall down in",
+          "content_truncated": true
+        },
+        {
+          "filename": "Assignments_GT2_17_01_Gdln_convert_appl_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 17 - Conversion Burners\\Assignments",
+          "char_count": 1227,
+          "content": "Gas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 17 – Chapter 01: Guidelines for \nconverting appliances \n \n1. A conversion to natural gas will improve an improperly sized system? \na) True \nb) False \n \n2. What combustion chamber design is most suitable for conversion? \na) Pulse type \nb) Updraft type \nc) Revertible type \nd) Semi-revertible \n \n3. A gas fired will have lower flue gas temperatures than the temperature of emissions from \noil or solid-fuel appliances. \na) True \nb) False \n \n4. What could be the result of an oversized unlined chimney? \na) Sooting \nb) Overheating \nc) Flue gas condensing \nd) Too much draft action \n \n5. What must be done if there are no manufacturer’s instructions for conversion of the \nappliance? \na) Hire an engineer  \nb) Do not attempt the conversion \nc) Find a similar appliance with instructions \nd) Seek approval of the authority having jurisdiction\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n6. What is the maximum setting of a high-limit control on a forced-air furnace? \na) 1200 C (2500 F) \nb) 1000 C (2120 F) \nc) 2500 C (1200 F) \nd) 2000 C (392 F)",
+          "content_truncated": false
+        },
+        {
+          "filename": "Assignments_GT2_17_02_Prep_conver_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 17 - Conversion Burners\\Assignments",
+          "char_count": 2897,
+          "content": "Gas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 17 – Chapter 02: Preparation for \nconversion \n \n1. What is the purpose of a smoke test? \na) Check chimney for leaks \nb) Check venting system for leaks \nc) Check furnace combustion chamber for leaks \nd) Check for proper operation of the venting system \n \n2. What is the purpose of a water test for conversion purposes? \na) Check chimney for condensing \nb) Check boiler heat exchanger for leaks \nc) Check furnace heat exchanger for leaks  \nd) Check the boiler make-up water supply quality \n \n3. The flue outlet has to be plugged before a smoke test is performed. \na) True \nb) False \n \n4. If cracks are discovered in the heat exchanger of a furnace, what must be done? \na) They can be repaired by welding \nb) They can be repaired with furnace cement \nc) The heat exchanger of appliance must be replaced \nd) They can be repaired with high temperature silicone \n \n5. After the appliance has been checked and repaired, what is done next? \na) Mount the burner \nb) Select the proper orifice size \nc) Select the proper burner air tube \nd) Check the combustion air and venting system\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n6. Most masonry chimneys use for oil burners will be too large and should have a liner \ninstalled for the gas conversion. \na) True \nb) False \n \n7. An adjustable barometric draft control device can be located in a separate room as the \nappliance. \na) True \nb) False \n \n8. What is the purpose of the fan or blower on a natural draft power conversion burner? \na) Provide pressurized combustion air \nb) Overcome the resistance of the appliance \nc) Force the flue gas through the venting system \nd) Draw gas in from the zero governor regulator \n \n9. A conversion burner should be selected that has a 30% greater input than the previous oil \nburner to avoid flue gas condensation. \na) True \nb) False \n \n10. How many Btu are contained in one US gallon of No. 2 fuel oil? \na) 1000 Btu’s \nb) 3412 Btu’s \nc) 140,000 Btu’s \nd) 33,475 Btu’s \n \n11. Revertible appliances are not recommended for conversion? \na) True \nb) False\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n3 \n12. Are inshot burners accepted for use on a Type B combustion chamber? If so, under what \nconditions? \na) Yes always \nb) Yes, if a revertible flue travel. \nc) Yes, as long as the combustion chamber liner and insulation are installed. \nd) No \n \n13. How should the burner air tube and mounting plate be sized?  \na) It shall be 9.5” long \nb) End of the tube is flush with the inside of the combustion chamber. \nc) End of the tube extends into the inside of the combustion chamber by at least ¼.” \nd) End of the tube is flush with the outside of the combustion chamber.",
+          "content_truncated": false
+        },
+        {
+          "filename": "Assignments_GT2_17_03_Burner install_flue_gas_ana_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 17 - Conversion Burners\\Assignments",
+          "char_count": 3104,
+          "content": "Gas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 17 – Chapter 03: Burner installation and \nflue gas analysis \n \n1. What is the breeching pipe? \na) A flue gas exhaust pipe that penetrates the roof \nb) A flue gas exhaust pipe that penetrates the chimney \nc) A flue gas exhaust pipe that connects directly to the appliances \nd) A flue gas exhaust pipe that connects downstream of the draft regulator \n  \n2. What is the term used to describe the difference in temperature between the flue gas in the \nvent and the ambient air? \na) Net stack temperature  \nb) Gross stack temperature \nc) Ultimate stack temperature \nd) Theoretical stack temperature \n \n3. What is the primary cause of incomplete combustion when the appliance is firing at the \ncorrect input? \na) lack of air \nb) lack of gas \nc) too much air \nd) too much gas \n \n4. Perfect combustion can be maintained in a combustion chamber? \na) True \nb) False \n \n5. What are the products of complete combustion? \na) heat, carbon monoxide and water vapour \nb) heat, carbon dioxide and carbon monoxide \nc) heat, carbon dioxide, water vapour and nitrogen \nd) heat, carbon dioxide, carbon monoxide and nitrogen\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n6. How many cubic feet of combustion air is required for perfect combustion of one cubic foot \nof propane gas? \na) 10 cubic feet (0.28 m3) \nb) 16 cubic feet (0.45 m3) \nc) 25 cubic feet (0.71 m3) \nd) 32 cubic feet (0.91 m3) \n \n7. Which element of the flue gas analysis is the best indication of how much excess air is being \nintroduced into the combustion chamber? \na) O2 \nb) N2 \nc) CO \nd) CO2 \n \n8. For a flue gas analysis of natural gas, a 7% reading for both CO2 and O2 would indicate \napproximately how much excess air? \na) 10% \nb) 25% \nc) 50% \nd) No excess air \n \n9. What would be the temperature of the flue gas if an appliance was 100% efficient? \na) 130°F (54°C) \nb) 325°F (205°C) \nc) 3550°F (1950°C) \nd) Room temperature \n \n10. At what level must the level of carbon monoxide remain below (on an air-free basis)? \na) 0 PPM \nb) 20 PPM \nc) 50 PPM \nd) 100 PPM\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n3 \n11. Without sufficient air for combustion in a gas-fired appliance, which would you expect to \nfind in the products of combustion? \na) Ethane \nb) Oxygen \nc) Hydrogen Sulfide \nd) Carbon monoxide \n \n12. Approximately what pressure should the barometric damper be adjusted to, in order to \nachieve a neutral pressure point at the burner? \na) -.4 WC” \nb) 0 WC” to -.02 WC” \nc) -.02 WC” to -.04 WC” \nd) -.04 WC” to -.06 WC”  \n \n13. During the combustion of natural gas, the combustion products in the vent are cooled down \nbelow 120F. Which of the following conditions will occur? \na) The flue products will condense and corrode the vent \nb) The quantity of CO will increase \nc) The quantity of carbon dioxide will increase \nd) The carbon in the flue gas will condense and plug the vent with soot",
+          "content_truncated": false
+        },
+        {
+          "filename": "Assignments_GT2_17_01_Gdln_convert_appl_INST.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 17 - Conversion Burners\\Assignments\\Answer Keys",
+          "char_count": 1227,
+          "content": "Gas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 17 – Chapter 01: Guidelines for \nconverting appliances \n \n1. A conversion to natural gas will improve an improperly sized system? \na) True \nb) False \n \n2. What combustion chamber design is most suitable for conversion? \na) Pulse type \nb) Updraft type \nc) Revertible type \nd) Semi-revertible \n \n3. A gas fired will have lower flue gas temperatures than the temperature of emissions from \noil or solid-fuel appliances. \na) True \nb) False \n \n4. What could be the result of an oversized unlined chimney? \na) Sooting \nb) Overheating \nc) Flue gas condensing \nd) Too much draft action \n \n5. What must be done if there are no manufacturer’s instructions for conversion of the \nappliance? \na) Hire an engineer  \nb) Do not attempt the conversion \nc) Find a similar appliance with instructions \nd) Seek approval of the authority having jurisdiction\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n6. What is the maximum setting of a high-limit control on a forced-air furnace? \na) 1200 C (2500 F) \nb) 1000 C (2120 F) \nc) 2500 C (1200 F) \nd) 2000 C (392 F)",
+          "content_truncated": false
+        },
+        {
+          "filename": "Assignments_GT2_17_02_Prep_conver_INST.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 17 - Conversion Burners\\Assignments\\Answer Keys",
+          "char_count": 2897,
+          "content": "Gas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 17 – Chapter 02: Preparation for \nconversion \n \n1. What is the purpose of a smoke test? \na) Check chimney for leaks \nb) Check venting system for leaks \nc) Check furnace combustion chamber for leaks \nd) Check for proper operation of the venting system \n \n2. What is the purpose of a water test for conversion purposes? \na) Check chimney for condensing \nb) Check boiler heat exchanger for leaks \nc) Check furnace heat exchanger for leaks  \nd) Check the boiler make-up water supply quality \n \n3. The flue outlet has to be plugged before a smoke test is performed. \na) True \nb) False \n \n4. If cracks are discovered in the heat exchanger of a furnace, what must be done? \na) They can be repaired by welding \nb) They can be repaired with furnace cement \nc) The heat exchanger of appliance must be replaced \nd) They can be repaired with high temperature silicone \n \n5. After the appliance has been checked and repaired, what is done next? \na) Mount the burner \nb) Select the proper orifice size \nc) Select the proper burner air tube \nd) Check the combustion air and venting system\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n6. Most masonry chimneys use for oil burners will be too large and should have a liner \ninstalled for the gas conversion. \na) True \nb) False \n \n7. An adjustable barometric draft control device can be located in a separate room as the \nappliance. \na) True \nb) False \n \n8. What is the purpose of the fan or blower on a natural draft power conversion burner? \na) Provide pressurized combustion air \nb) Overcome the resistance of the appliance \nc) Force the flue gas through the venting system \nd) Draw gas in from the zero governor regulator \n \n9. A conversion burner should be selected that has a 30% greater input than the previous oil \nburner to avoid flue gas condensation. \na) True \nb) False \n \n10. How many Btu are contained in one US gallon of No. 2 fuel oil? \na) 1000 Btu’s \nb) 3412 Btu’s \nc) 140,000 Btu’s \nd) 33,475 Btu’s \n \n11. Revertible appliances are not recommended for conversion? \na) True \nb) False\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n3 \n12. Are inshot burners accepted for use on a Type B combustion chamber? If so, under what \nconditions? \na) Yes always \nb) Yes, if a revertible flue travel. \nc) Yes, as long as the combustion chamber liner and insulation are installed. \nd) No \n \n13. How should the burner air tube and mounting plate be sized?  \na) It shall be 9.5” long \nb) End of the tube is flush with the inside of the combustion chamber. \nc) End of the tube extends into the inside of the combustion chamber by at least ¼.” \nd) End of the tube is flush with the outside of the combustion chamber.",
+          "content_truncated": false
+        },
+        {
+          "filename": "Assignments_GT2_17_03_Burner install_flue_gas_ana_INST.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 17 - Conversion Burners\\Assignments\\Answer Keys",
+          "char_count": 3104,
+          "content": "Gas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 17 – Chapter 03: Burner installation and \nflue gas analysis \n \n1. What is the breeching pipe? \na) A flue gas exhaust pipe that penetrates the roof \nb) A flue gas exhaust pipe that penetrates the chimney \nc) A flue gas exhaust pipe that connects directly to the appliances \nd) A flue gas exhaust pipe that connects downstream of the draft regulator \n  \n2. What is the term used to describe the difference in temperature between the flue gas in the \nvent and the ambient air? \na) Net stack temperature  \nb) Gross stack temperature \nc) Ultimate stack temperature \nd) Theoretical stack temperature \n \n3. What is the primary cause of incomplete combustion when the appliance is firing at the \ncorrect input? \na) lack of air \nb) lack of gas \nc) too much air \nd) too much gas \n \n4. Perfect combustion can be maintained in a combustion chamber? \na) True \nb) False \n \n5. What are the products of complete combustion? \na) heat, carbon monoxide and water vapour \nb) heat, carbon dioxide and carbon monoxide \nc) heat, carbon dioxide, water vapour and nitrogen \nd) heat, carbon dioxide, carbon monoxide and nitrogen\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n6. How many cubic feet of combustion air is required for perfect combustion of one cubic foot \nof propane gas? \na) 10 cubic feet (0.28 m3) \nb) 16 cubic feet (0.45 m3) \nc) 25 cubic feet (0.71 m3) \nd) 32 cubic feet (0.91 m3) \n \n7. Which element of the flue gas analysis is the best indication of how much excess air is being \nintroduced into the combustion chamber? \na) O2 \nb) N2 \nc) CO \nd) CO2 \n \n8. For a flue gas analysis of natural gas, a 7% reading for both CO2 and O2 would indicate \napproximately how much excess air? \na) 10% \nb) 25% \nc) 50% \nd) No excess air \n \n9. What would be the temperature of the flue gas if an appliance was 100% efficient? \na) 130°F (54°C) \nb) 325°F (205°C) \nc) 3550°F (1950°C) \nd) Room temperature \n \n10. At what level must the level of carbon monoxide remain below (on an air-free basis)? \na) 0 PPM \nb) 20 PPM \nc) 50 PPM \nd) 100 PPM\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n3 \n11. Without sufficient air for combustion in a gas-fired appliance, which would you expect to \nfind in the products of combustion? \na) Ethane \nb) Oxygen \nc) Hydrogen Sulfide \nd) Carbon monoxide \n \n12. Approximately what pressure should the barometric damper be adjusted to, in order to \nachieve a neutral pressure point at the burner? \na) -.4 WC” \nb) 0 WC” to -.02 WC” \nc) -.02 WC” to -.04 WC” \nd) -.04 WC” to -.06 WC”  \n \n13. During the combustion of natural gas, the combustion products in the vent are cooled down \nbelow 120F. Which of the following conditions will occur? \na) The flue products will condense and corrode the vent \nb) The quantity of CO will increase \nc) The quantity of carbon dioxide will increase \nd) The carbon in the flue gas will condense and plug the vent with soot",
+          "content_truncated": false
+        }
+      ],
+      "total_documents": 9,
+      "total_chars": 202920,
+      "edition": "7th Edition",
+      "is_primary": false
+    }
+  }
+}

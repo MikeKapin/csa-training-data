@@ -1,0 +1,1049 @@
+{
+  "unit_name": "Unit 8 - Introduction to Piping and Tubing Systems",
+  "unit_number": 8,
+  "category": "G3",
+  "editions": {
+    "8th_2025": {
+      "unit_name": "Unit 8 - Introduction to Piping and Tubing Systems",
+      "edition": "8th Edition",
+      "publication_date": "June 2025",
+      "is_primary": true,
+      "category": "G3",
+      "total_chapters": 6,
+      "total_pages": 93,
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "chapter_name": "Introduction to piping and tubing systems",
+          "pages": "29-39",
+          "topics": [
+            "Steel piping and tubing fittings",
+            "45° and 90° elbows",
+            "Couplings, nipples, unions",
+            "Bushings, tees, plugs, caps",
+            "Prohibited fittings (running threads, street elbows, close nipples)",
+            "Gas valves",
+            "Manual gas shut-off valves",
+            "Plug-type valves (spring-loaded, lubricated)",
+            "Ball-type valves",
+            "Eccentric valves",
+            "Needle valves",
+            "Master shut-off valves",
+            "CSA B149.1 Clause 6.18 requirements"
+          ],
+          "content": "Steel piping and tubing fittings\n\nSteel pipe fittings must be of malleable iron or steel construction and be approved for use with gas systems.\n\nSteel pipe fittings consist of\n• 45° and 90° elbows;\n• straight and reducing couplings;\n• nipples and unions;\n• bushings;\n• normal and reducing tees; and\n• plugs and caps.\n\nFigure 1-14 shows several types of steel fittings commonly used for gas systems.\n\nProhibited fittings\nYou cannot use some types of fittings with gas systems.\n\nThese include\n• fittings with running threads (such as thread protectors);\n• street elbow and tee fittings;\n• close nipples; and\n• fittings with right-hand and left-hand threads.\n\nGas valves\n\nGas valves control the flow of gas to different appliances, as well as to main and pilot burners at various points along a piping system. With different valves, a gas technician/fitter can make a complete shutdown or regulate the flow at specific locations.\n\nCSA B149.1 outlines specific locations and applications for installing manual gas valves. A gas technician/fitter must take care to select the right valve for the job, because valve size, gas pressure, and location are all important factors. In addition, you must ensure that valves can be removed for repair or replacement.\n\nManual gas shut-off valves\n\nManual gas valves are incorporated into a piping system in different ways. In most cases, the valve size dictates the jointing method used. The larger valves are usually flanged in place; the mid-range sizes are threaded; and the smaller sizes, when used with copper tubing, are connected using flare fittings.\n\nClause 6.18 of CSA B149.1 outlines the code requirements for manual gas shut-off valves.\n\nManual gas shut-off valves fall into the following three categories:\n1) Plug type\n2) Ball type\n3) Eccentric type\n\nPlug type\nPlug-type valves open fully (and close fully) with a quarter turn of the handle.\n\nThere are two basic types that are common to the gas industry:\n- Spring-loaded valve: Made of brass and approved only for indoor use with sizes reaching up to 1-in diameter\n- Lubricated plug valve: Made of malleable iron and approved for indoor or outdoor use. Commonly named Lubeseal. Designed to be lubricated and maintained with the valve in place (ensuring no interruption of service)\n\nEccentric valve\nAnother type of plug valve is the rotating-eccentric valve. A rotating-eccentric valve has a spherically faced plug that rotates approximately 50° from a fully open to fully closed position — the eccentric motion reducing operating torque requirements. You can achieve a tight shut-off with this type of valve because it produces no sliding friction between the plug and seat (the absence of which reduces seat wear and seating torque).\n\nBall type\nBall-type valves also open and close with a quarter turn of the handle and are also approved for indoor or outdoor use.\n\nBall-type valves have a Teflon seat and a stainless-steel sealing ball. To control the flow, the ball has a hole drilled through its centre and fits, in the closed position, tightly against the Teflon seat. With this type of valve, lubrication is not a concern.\n\nNeedle type\nNeedle valves are used for smaller applications and internal valve control. Needle valves are simple flow restrictors, which are usually opened or closed using a screwdriver. When slightly unscrewed, the flow is limited; full flow occurs when the needle is unscrewed to its fullest extent.\n\nMaster shut-off valves\nClause 6.18 of CSA B149.1 contains Code requirements for master shut-off valves. According to the Code, when multiple outlets are installed in a classroom, laboratory (or similar facility) they must be able to be controlled via an easy-to-identify master shut-off valve in a readily accessible location.",
+          "assignment_questions": [
+            {
+              "question": "Which of the following piping materials cannot be used in a gas piping system?",
+              "options": [
+                "a) Steel",
+                "b) Copper",
+                "c) Lead",
+                "d) Plastic"
+              ],
+              "correct_answer": "c) Lead"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. Steel or malleable iron fittings may be used with steel pipes.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "a) True"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. You cannot use Type _______ copper tubing in gas systems (because its wall thickness is slightly less than that of Type G tubing).",
+              "options": [
+                "a) K",
+                "b) L",
+                "c) M"
+              ],
+              "correct_answer": "c) M"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. All piping shall be sized _______.",
+              "options": [
+                "a) To meet the volume and pressure requirements at the point of use",
+                "b) To meet the pressure requirements at the point of use",
+                "c) To meet the volume requirements at the point of use",
+                "d) In accordance with the appliance manufacturer's installation manual"
+              ],
+              "correct_answer": "a) To meet the volume and pressure requirements at the point of use"
+            },
+            {
+              "question": "What is the maximum allowable pressure drop on a piping system that has a natural gas supply pressure of 7 to 14 in w.c.?",
+              "options": [
+                "a) 0.5 in w.c.",
+                "b) 1 in w.c.",
+                "c) 50%",
+                "d) Does not matter if the minimum pressure is achieved"
+              ],
+              "correct_answer": "b) 1 in w.c."
+            },
+            {
+              "question": "Complete the following sentence with the correct option. Gas pressure requirements for an appliance shall be determined according to _______.",
+              "options": [
+                "a) Pipe sizing tables",
+                "b) Provincial regulations",
+                "c) Either the appliance rating plate or the appliance manufacturer",
+                "d) The gas utility"
+              ],
+              "correct_answer": "c) Either the appliance rating plate or the appliance manufacturer"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. An extension of an existing piping or tubing system shall be sized _______.",
+              "options": [
+                "a) To meet the load demand of the extended piping system",
+                "b) To the requirements of Clause 6.3 of CSA B149.1",
+                "c) To the requirements of Clause 5.2 of CSA Z662",
+                "d) To the diameter of the supply pipe"
+              ],
+              "correct_answer": "a) To meet the load demand of the extended piping system"
+            },
+            {
+              "question": "What is the maximum pressure drop allowed on a piping system that has a natural gas supply pressure less than 7 in w.c.?",
+              "options": [
+                "a) 0.5 in w.c.",
+                "b) 1 in w.c.",
+                "c) 1.5 in w.c.",
+                "d) 2 in w.c."
+              ],
+              "correct_answer": "a) 0.5 in w.c."
+            },
+            {
+              "question": "Complete the following sentence with the correct option. The volume of gas required to an appliance shall be determined by _______.",
+              "options": [
+                "a) either the rating plate or the appliance manufacturer",
+                "b) the size of the piping system the appliance is connected to",
+                "c) provincial regulations",
+                "d) Annex A in CSA B149.1"
+              ],
+              "correct_answer": "a) either the rating plate or the appliance manufacturer"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. The ends of all piping must be reamed.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "a) True"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. The maximum spacing of supports for 1-in horizontal piping is _______.",
+              "options": [
+                "a) 12 ft",
+                "b) 6 ft",
+                "c) 8 ft",
+                "d) 16 ft"
+              ],
+              "correct_answer": "c) 8 ft"
+            },
+            {
+              "question": "Which of the following piping diameters require welded joints?",
+              "options": [
+                "a) NPS 2 ¼ and larger",
+                "b) NPS 2 ½ and larger",
+                "c) NPS 4 and larger",
+                "d) NPS 4 ½ and larger"
+              ],
+              "correct_answer": "c) NPS 4 and larger"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. A copper joint may be made with brazing material that has a melting temperature exceeding 1000 °F (537 °C).",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "a) True"
+            },
+            {
+              "question": "During a period when an appliance is not connected to the outlet of a piping system, how shall it be made tight?",
+              "options": [
+                "a) Not applicable; a piping outlet must always be connected to an appliance",
+                "b) By using either a cap or plug made from a material compatible with the piping or tubing system",
+                "c) By means of an unplugged valve",
+                "d) It is not required to be sealed if the appliance is being serviced"
+              ],
+              "correct_answer": "b) By using either a cap or plug made from a material compatible with the piping or tubing system"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. A _______ is an area in a piping system that collects condensate (and from which you can remove condensate).",
+              "options": [
+                "a) Drip pocket",
+                "b) Debris pocket",
+                "c) Collection pocket",
+                "d) Condensate trap"
+              ],
+              "correct_answer": "a) Drip pocket"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. The minimum diameter of piping that can be installed underground is _______.",
+              "options": [
+                "a) NPS ¼",
+                "b) NPS ⅜",
+                "c) NPS ½",
+                "d) NPS ¾"
+              ],
+              "correct_answer": "c) NPS ½"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. The gas supply to an underground plastic pipe or tubing shall be controlled by a _______.",
+              "options": [
+                "a) Shut-off valve situated above ground",
+                "b) Regulator",
+                "c) Gate valve located above ground",
+                "d) Gas meter"
+              ],
+              "correct_answer": "a) Shut-off valve situated above ground"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. A vented appliance may be connected with a hose.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "b) False"
+            },
+            {
+              "question": "Indicate whether the given statement is true (under certain conditions) or false. A connector may be used to connect a mobile home.",
+              "options": [
+                "a) True (on condition that the mobile home is not on a permanent foundation)",
+                "b) False"
+              ],
+              "correct_answer": "a) True (on condition that the mobile home is not on a permanent foundation)"
+            },
+            {
+              "question": "What are the pressure test requirements for a 250-ft (76-m) natural gas piping system with a working pressure of 2 psig?",
+              "options": [
+                "a) 15 psig for 30 min",
+                "b) 15 psig for 60 min",
+                "c) 60 psig for 15 min",
+                "d) 60 psig for 60 min"
+              ],
+              "correct_answer": "b) 15 psig for 60 min"
+            },
+            {
+              "question": "What are the minimum test requirements for all wrapped or factory-coated piping?",
+              "options": [
+                "a) 15 psig and 15 min",
+                "b) 15 psig and 60 min",
+                "c) 100 psig and 60 min",
+                "d) 100 psig and within the time duration required by Table 6.3"
+              ],
+              "correct_answer": "d) 100 psig and within the time duration required by Table 6.3"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. Rooftop piping may be supported with treated wood blocks.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "b) False"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. Plastic pipe may be used on a liquid propane system.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "b) False"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. Piping less than NPS ½ may be used indoors _______.",
+              "options": [
+                "a) On a propane branch line if it is ¼ in and not exceeding 15 ft in length",
+                "b) On a propane branch line if it is ⅜ in and not exceeding 25 ft in length",
+                "c) Piping less than NPS ½ cannot be used indoors",
+                "d) If it is schedule 80"
+              ],
+              "correct_answer": "a) On a propane branch line if it is ¼ in and not exceeding 15 ft in length"
+            },
+            {
+              "question": "Indicate whether the given statement is true (under certain conditions) or false. Propane piping or tubing may be supported by other piping or tubing.",
+              "options": [
+                "a) True, provided that the piping is less than NPS ¾ in",
+                "b) False"
+              ],
+              "correct_answer": "b) False"
+            },
+            {
+              "question": "What is the required diameter of a dirt pocket used on a propane system?",
+              "options": [
+                "a) The diameter shall be NPS 2 or equal to the diameter it serves, whichever is less",
+                "b) The diameter shall be NPS 2 or equal to the diameter it serves whichever is greater",
+                "c) The diameter shall be equal to the diameter of the pipe it serves",
+                "d) The maximum size of a dirt pocket of a propane system is 1 in"
+              ],
+              "correct_answer": "a) The diameter shall be NPS 2 or equal to the diameter it serves, whichever is less"
+            },
+            {
+              "question": "Indicate whether the given statement is true (under certain conditions) or false. A close nipple may be used on a propane piping system.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "b) False"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. When tubing runs horizontally across studs notched to accommodate the tubing, it must be protected where it crosses each stud by a _______.",
+              "options": [
+                "a) 12-gauge (USG) steel plate",
+                "b) 14-gauge (USG) steel plate",
+                "c) 16-gauge (USG) steel plate",
+                "d) 18-gauge (USG) steel plate"
+              ],
+              "correct_answer": "c) 16-gauge (USG) steel plate"
+            },
+            {
+              "question": "What is the maximum interval that propane tubing can be run, without identification, inside a residential occupancy?",
+              "options": [
+                "a) 3 ft",
+                "b) 6 ft",
+                "c) 12 ft",
+                "d) 24 ft"
+              ],
+              "correct_answer": "b) 6 ft"
+            },
+            {
+              "question": "Where must shut-off valves be positioned if propane piping or tubing is extended from one building to another?",
+              "options": [
+                "a) At the exit of the first building",
+                "b) At the point of entry to the second building",
+                "c) One at the exit of the first building and another at the point of entry to the second building",
+                "d) Shut-off valves are not required between buildings"
+              ],
+              "correct_answer": "c) One at the exit of the first building and another at the point of entry to the second building"
+            },
+            {
+              "question": "What is the required test pressure of a propane piping system 50 ft long with a working pressure of 10 psig?",
+              "options": [
+                "a) 15 psig for 60 min",
+                "b) 15 psig for 180 min",
+                "c) 50 psig for 60 min",
+                "d) 50 psig for 180 min"
+              ],
+              "correct_answer": "c) 50 psig for 60 min"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. An individual shut-off valve is required for all propane appliances on a recreational vehicle.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "a) True"
+            }
+          ]
+        },
+        {
+          "chapter_number": 2,
+          "chapter_name": "Code requirements for testing",
+          "pages": "40-48",
+          "topics": [
+            "Testing requirements for gas piping systems",
+            "Pressure test device calibration requirements",
+            "Visual inspection",
+            "Testing before installation of appliances",
+            "Testing after installation of appliances",
+            "Leak detection (soap test)",
+            "Checking for shut-off valve seepage",
+            "Propane system testing",
+            "Documenting test results on test tag",
+            "CSA B149.1 Clause 6.22",
+            "Table 6.3 pressure test requirements"
+          ],
+          "content": "Overview\n\nPurpose\nA gas technician/fitter must know how to interpret codes to properly test gas piping systems and gas-fired appliances and equipment to ensure that they are able to operate safely and efficiently.\n\nObjectives\nAt the end of this Chapter, you will be able to\n• interpret codes as they apply to testing piping systems; and\n• describe how to document test results on the test tag.\n\nTerminology\n- Pressure test tag: A tag attached to a system in a prominent place after testing that includes location, testing, and tester information\n\nCodes as they apply to testing piping systems\n\nTesting requirements for gas piping systems\nAfter installing a gas piping system, it must be pressure tested in accordance with the requirements outlined in the applicable codes and regulations. Inspect and test all piping and components that are going to be concealed (before they are concealed).\n\nPerform testing at these two specific times:\n• Before the installation of any appliances (CSA B149.1, Clause 6.22.2); and\n• After the installation of appliances (CSA B149.1, Clause 6.22.3)\n\nPressure test device calibration requirements\nFor systems where the working pressure exceeds 0.5 psig (3.5 kPa) but does not exceed 5 psig (35 kPa), the pressure gauge or equivalent device shall undergo calibration to read in increments of not greater than 2 in w.c. (0.5 kPa).\n\nFor systems where the working pressure exceeds 5 psig (35 kPa), the pressure gauge or equivalent device shall undergo calibration to read in increments of not greater than either 2 psig (14 kPa) or 2% of the maximum dial reading of the gauge, whichever is less.\n\nWhen using a pressure gauge, it must be a minimum of 3 in (75 mm) in diameter, and the maximum range must exceed the test pressure by at least 15% but not more than 300%.\n\nVisual inspection\nDuring the installation of piping and tubing and before pressure testing, visually inspect piping and tubing for cuts, abrasions, and any other possible defects that could cause the leaking or failure of the system when it is under pressure.\n\nRemember: Inspect and test all piping and components that are going to be concealed (before they are concealed).\n\nTesting before the installation of appliances\nPerform the first system test after the installation of the piping system, before the connection of any appliances to the system. Before testing, isolate or remove any components of the system that have a pressure rating below the test pressure to prevent any damage to these components.\n\nTo perform the test, follow these steps:\n1) Isolate the piping system for testing by capping or plugging all open ends.\n2) Insert a pressure gauge at one end of the system.\n3) Pressurize the system with air or inert gas (nitrogen or carbon dioxide) to the specified test pressure. Figure 2-1 (Table 6.3 of CSA B149.1) shows the pressure test requirements for gas piping and tubing systems.\n4) Measure the pressure with a pressure gauge calibrated in 14 kPa (2 psig) increments or less, or 2% of the full-scale reading of the gauge, whichever is greater.\n\nLeak detection\nIf a pressure drop in the system indicates a leak, do a \"soap test\" to locate the leak source.\n1) Apply leak detector solution to each joint or fitting in the suspect portion of the system.\n2) A leak will cause the solution to bubble, indicating the source of the leak.\n\nTesting after the installation of appliances\nAfter the appliances are installed, visually check the system to ensure that there are no openings in the system from which gas can escape. Calibrate the manometer or pressure gauge used for this test in 1 in w.c. (250 kPa) increments or less.\n\nPerform the pressure test as follows:\n1) Shut off the appliances and install a manometer or pressure gauge at the gas meter outlet.\n2) Introduce gas into the system, listen for the gas flow to stop, and monitor the gas meter test dial to ensure that no gas is escaping.\n3) Turn off the meter valve. The system contains the gas under pressure.\n4) Maintain the gas pressure indicated on the manometer or pressure test gauge for a minimum of 10 min. If the manometer or pressure gauge indicates that there is a leak, refer to the earlier section of this Chapter, \"Testing before the installation of appliances\".\n5) Upon successfully completing the test, perform a leak test on all untested control valves and appliance piping (under normal operating pressure) using a leak detection solution to ensure that they are gas tight.\n\nChecking for shut-off valve seepage\nPerform a shut-off valve seepage test (or \"bubble test\") to ensure that gas seepage from the meter valve is not masking any undetected gas leaks. (A gas meter valve might sometimes seep gas if its sealing grease becomes hard and dry.) If the valve passes gas in this way, the system test is not accurate, and the results are invalid. For this reason, before performing the pressure test, check the gas meter valve for seepage by doing the following:\n1) When the system is brought to a static pressure condition, release a small amount of the contained gas pressure by quickly removing then replacing the manometer or pressure gauge tubing.\n2) This action opens the service regulator, allowing the testing of the system back to the gas meter shut-off valve.\n3) If, after this action, the gas pressure increases slowly to static pressure, the meter valve is seeping gas and should undergo servicing before testing proceeds.\n\nPropane system testing\nPropane system testing has two stages.\n\nBefore the installation of appliances\nPropane follows the same procedure as natural gas. (Refer to the earlier section in this Chapter, \"Testing before the installation of appliances\".)\n\nAfter the installation of appliances\nIf a meter is installed on a propane system, this test follows the same procedure as the test for natural gas. (Refer to the earlier section in this Chapter, \"Testing after the installation of appliances\").\n\nIf no meter is installed, follow these steps:\n1) Do a main manual shut-off valve seepage test. (Refer to the earlier section in this Chapter, \"Checking for shut-off valve seepage\".)\n2) Place a pressure gauge on the system. (Refer to CSA B149.1 for pressure gauge requirements.)\n3) If it is a two-stage system, do the following:\n   a) Place another pressure gauge on the second stage. (You can use a manometer in place of a pressure gauge on low-pressure systems.)\n   b) Perform a seepage test on the manual shut-off valve at the second-stage regulator.\n4) Pressurize the system by opening the manual valves on each stage.\n5) When the system is up to pressure, close the manual valves.\n6) Mark the pressure gauges and observe for leakage.\n\nLeak detection\nIf a pressure drop in the system indicates a leak, do a \"soap test\" to locate its source.\n• Apply leak detector solution to each joint or fitting in the suspect portion of the system.\n• A leak will cause the solution to bubble at its source.\n\nDocumenting test results on a test tag\n\nDocumenting test results\nIn some jurisdictions, a gas technician/fitter is required to attach a test tag to the system in a prominent location after completing a test on a natural gas or propane system.\n\nThe test tag must contain the following information:\n• Address of the test\n• Contractor's name\n• Contractor's registration number\n• Date of the test\n• Test pressure\n• Test duration\n• Total pipe length\n• Pipe size\n• Fitter's name\n• Fitter's certificate number and classification\n• The statement \"Do not remove.\"",
+          "assignment_questions": [
+            {
+              "question": "At what stage during piping installation is the initial pressure testing to be carried out?",
+              "options": [
+                "a) After all the appliances have been installed and connected",
+                "b) Before any appliance is installed, with a leak test required after the appliance is installed",
+                "c) Before any appliances are installed",
+                "d) Before the piping is painted"
+              ],
+              "correct_answer": "b) Before any appliance is installed, with a leak test required after the appliance is installed"
+            },
+            {
+              "question": "What is the minimum diameter gauge that can be used for pressure testing?",
+              "options": [
+                "a) 2 in (50 mm)",
+                "b) 2.5 in (64 mm)",
+                "c) 3 in (75 mm)",
+                "d) 4 in (100 mm)"
+              ],
+              "correct_answer": "c) 3 in (75 mm)"
+            },
+            {
+              "question": "Which two inert gases may be used to pressure test gas piping systems?",
+              "options": [
+                "a) Nitrogen and hydrogen",
+                "b) Argon and carbon dioxide",
+                "c) Carbon dioxide and nitrogen",
+                "d) Hydrogen and argon"
+              ],
+              "correct_answer": "c) Carbon dioxide and nitrogen"
+            },
+            {
+              "question": "What should be done immediately after you open a gas valve at the gas meter?",
+              "options": [
+                "a) Listen for the gas flow to stop and monitor the gas meter test dial",
+                "b) Test fire the gas appliance and check the input",
+                "c) Ventilate by opening a window, so gas can escape during the purging process",
+                "d) Plug the relief port so the over pressure device doesn't trip"
+              ],
+              "correct_answer": "a) Listen for the gas flow to stop and monitor the gas meter test dial"
+            },
+            {
+              "question": "How can a leak be located?",
+              "options": [
+                "a) By providing a lit taper at each joint and looking for a small flame",
+                "b) By watching the meter for movement",
+                "c) By wiping each joint in the system with a leak-detecting solution",
+                "d) Visibly inspecting for oil residue which indicates the location of a leak"
+              ],
+              "correct_answer": "c) By wiping each joint in the system with a leak-detecting solution"
+            },
+            {
+              "question": "Propane systems require testing after installation. Put the following steps (a–e) in the correct order (1–5) for testing a system without a gas meter.",
+              "options": [
+                "a) Place a pressure gauge on the system",
+                "b) Mark the pressure gauges and observe for leakage",
+                "c) When the system is up to pressure, close the manual valves",
+                "d) Do a main manual shut-off valve seepage test",
+                "e) Pressurize the system by opening the manual valves on each stage"
+              ],
+              "correct_answer": "Order: 1-d, 2-a, 3-e, 4-c, 5-b"
+            },
+            {
+              "question": "Which personal information must a gas technician/fitter place on a test tag after testing is complete?",
+              "options": [
+                "a) Name, registration number, clause",
+                "b) Name, certification number, and classification",
+                "c) The contractor's registration number and company name",
+                "d) The gas technician's name, address, and phone number"
+              ],
+              "correct_answer": "b) Name, certification number, and classification"
+            }
+          ]
+        },
+        {
+          "chapter_number": 3,
+          "chapter_name": "Purging a system",
+          "pages": "49-54",
+          "topics": [
+            "Purging requirements",
+            "Locations for purge points",
+            "Branch lines",
+            "Purging procedures",
+            "Use of hose to outdoors",
+            "Use of burner",
+            "Use of pilot tubing",
+            "Use of readily accessible burner",
+            "Use of purge tool (Annex H)",
+            "Differences between purging natural gas and propane",
+            "Upper and lower explosive limits",
+            "Specific gravity",
+            "CSA B149.1 Clause 6.23"
+          ],
+          "content": "Overview\n\nPurpose\nA gas technician/fitter must know how to properly purge a gas piping system in accordance with applicable codes to prevent a buildup of combustible air/gas mixtures and to ensure that the piping/tubing system delivers air-free gas to appliances.\n\nObjectives\nAt the end of this Chapter, you will be able to\n• refer to Code requirements related to purging;\n• identify the locations for purge points; and\n• describe the differences in purging natural gas and propane.\n\nTerminology\n- Branch line: A part of a piping or tubing system that conveys gas from the main piping or tubing or header to an appliance\n- Purge: The replacement of the existing fluid (gaseous or liquid) in piping, tubing, equipment, a container, or an appliance with another (desired) fluid\n- Purge burner: A burner equipped with a constant ignition source and flame arrestor intended to burn the escaping (discharged) gas during purging operations\n- Specific gravity: The ratio of the density of gas to the density of air at a specified temperature and pressure\n\nPurging requirements and locations for purge points\n\nAfter successfully completing pressure and leak tests, you must purge the gas system. Purging involves forcing air out of the system with gas under pressure. It is important to begin purging at the proper location and to continue purging at specified locations to ensure that the complete system is purged.\n\nClause 6.23 of CSA B149.1 covers purging requirements and procedures.\n\nIncorrect purging methods and shortcuts have led to leaks, fires, and even explosions. It is imperative that gas technicians/fitters purge in accordance with safe, approved methods.\n\nPurge points and procedures\nPurging should start at the appliance farthest from the supply source. Purging of branch lines then follows one by one at a location farthest from the point where the gas enters the individual branch line.\n\nClause 6.23 of CSA B149.1 lists several options for purging natural gas and propane piping and tubing systems. You should review this information to ensure that you use the most suitable method for the type of installation you are dealing with.\n\nIt is worth noting again that incorrect purging procedures have led to gas leaks, fires, and, in rare cases, explosions.\n\nThe following methods are acceptable and code-recognized procedures for purging:\n- Use of a hose to the outdoors: Use a long hose that terminates outside (away from air intakes and sources of ignition) and has a quarter-turn valve. Position another gas technician/fitter at the outside location.\n- Use of a burner: Use a specially approved burner that connects to piping and has a propane-fired pilot light that flares off the gas/air mixture until a stable flame is established.\n- Use of pilot tubing: On appliances equipped with a constant pilot, you can disconnect the tubing at the gas valve and purge it using the gas control valve knob. The input of the appliance must be less than 400 000 Btu.\n- Use of a readily accessible burner: When an installation includes a gas range, you may purge the system piping at the top range burners with a match lit beside them until a steady flame is established. The appliance's input must be less than 400 000 Btu.\n- Use of a purge tool: Annex H outlines the use of this approved assembly, which connects to the drip pocket and allows for purging indoors using the spring-loaded nozzle valve.\n\nClause 6.23 of CSA B149.1 (which also references Annex H in the Code) lists purging requirements and procedures. Gas technicians/fitters should review and become familiar with these code requirements.\n\nDifferences between purging natural gas and propane\n\nWith respect to purging, the main differences to be aware with natural gas and propane are their different upper and lower explosive limits and their different specific gravities.\n\nUpper and lower explosive limits (limits of flammability)\nBoth natural gas and propane will explode if mixed with a certain volume of air and ignited.\n\nGas - Approximate explosive limits (flammability limits)\n- Natural gas: Ranges from 4 to 15% natural gas in air\n- Propane: Ranges from 2 to 9.5% propane in air\n\nExplosion risk\nImportant: Concentrations above these limits potentially increase the risk of explosion; concentrations below these limits lessen the risk of explosion.",
+          "assignment_questions": [
+            {
+              "question": "Which appliance piping should be purged first?",
+              "options": [
+                "a) The section closest to the appliance",
+                "b) The one with the largest input",
+                "c) The one farthest from the point of supply",
+                "d) The one with the smallest input"
+              ],
+              "correct_answer": "c) The one farthest from the point of supply"
+            },
+            {
+              "question": "What type of gas cock must be placed within 5 ft of the purge point?",
+              "options": [
+                "a) One with a half-turn lever handle",
+                "b) One with a \"dead man\" valve",
+                "c) A lubricated quarter-turn valve",
+                "d) A quarter-turn shut-off valve"
+              ],
+              "correct_answer": "d) A quarter-turn shut-off valve"
+            },
+            {
+              "question": "What is used to purge the air out of a gas piping system that is 4 in diameter or larger?",
+              "options": [
+                "a) An inert gas",
+                "b) Compressed air",
+                "c) Gas (propane or natural gas)",
+                "d) Vacuum pump"
+              ],
+              "correct_answer": "a) An inert gas"
+            },
+            {
+              "question": "What is the maximum input of a propane appliance that can be purged at the pilot outlet of the appliance control valve?",
+              "options": [
+                "a) 20 000 Btu/h",
+                "b) 45 000 Btu/h",
+                "c) 125 000 Btu/h",
+                "d) 400 000 Btu/h"
+              ],
+              "correct_answer": "d) 400 000 Btu/h"
+            },
+            {
+              "question": "What characteristics of propane differentiate propane purging from natural gas purging?",
+              "options": [
+                "a) Smell and calorific value",
+                "b) Specific gravity and explosive limits",
+                "c) The difference in Btus",
+                "d) There is no difference"
+              ],
+              "correct_answer": "b) Specific gravity and explosive limits"
+            },
+            {
+              "question": "Complete the following statement. The approximate explosive range of natural gas is ________ natural gas in air.",
+              "options": [
+                "a) 4 to 15%",
+                "b) 5 to 15%",
+                "c) 10 to 20%",
+                "d) 15 to 20%"
+              ],
+              "correct_answer": "a) 4 to 15%"
+            },
+            {
+              "question": "Complete the following statement. The approximate explosive limits of propane gas range from ________ propane in air.",
+              "options": [
+                "a) 2 to 9.5%",
+                "b) 2 to 15%",
+                "c) 5 to 15%",
+                "d) 7 to 10%"
+              ],
+              "correct_answer": "a) 2 to 9.5%"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. Natural gas is heavier than air.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "b) False"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. Air is lighter than propane.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "a) True"
+            }
+          ]
+        },
+        {
+          "chapter_number": 4,
+          "chapter_name": "Corrosion protection",
+          "pages": "55-66",
+          "topics": [
+            "Reasons for corrosion protection",
+            "Corrosion causes (atmospheric, soil, chemicals, cement, cinders, electrolytic action)",
+            "Corrosion process (electrochemical action)",
+            "Anode and cathode",
+            "Electrolyte",
+            "Metallic path",
+            "Metals with different potentials",
+            "Resistivity (ohm/cm)",
+            "Wenner four-pin method",
+            "Corrosion protection methods",
+            "Copper pipe and tubing protection",
+            "Steel and iron pipe protection",
+            "Plastic pipes",
+            "Protective coatings",
+            "Electrical insulation",
+            "Cathodic protection",
+            "Dielectric fittings",
+            "Bonding of piping",
+            "CSA B149.1 Clause 4.7.3",
+            "CSA C22.1 bonding requirements"
+          ],
+          "content": "Overview\n\nPurpose\nCorrosion can quickly destroy a piping system, so measures must be taken to control and prevent it. This Chapter explains why corrosion protection is important and what a gas technician/fitter must do to ensure that piping is properly protected.\n\nObjectives\nAt the end of this Chapter, you will be able to\n• describe the corrosion process;\n• describe the reasons for corrosion protection; and\n• describe corrosion protection methods.\n\nTerminology\n- Grounding: A specific form of bonding involving the connection of one or more conductive objects to the ground by means of a conductor, such as a wire or rod\n- Resistivity: The resistance of an electrolyte to electric force within a cube measuring 1 cm3\n\nReasons for corrosion protection\n\nCorrosion\nCorrosion is one of the ways that a pure metal can revert to a more stable compound. Some metals, when unprotected from the atmosphere, gradually corrode.\n\nThe metals used to make pipelines and piping systems are generally pure. However, you can also find metals as chemical compounds, such as oxides, sulphides, and other salts.\n\nMany metals are more stable in their natural compound form than as pure metals. For example, iron oxide (rust) is more stable than pure iron used in pipes because, after the atmosphere has reacted with the iron and created the compound iron oxide, it will have no further chemical reaction to atmospheric elements and has become, therefore, stable.\n\nCauses of corrosion\nCorrosive materials and conditions that can have adverse effects on gas piping and tubing include the following:\n• Atmospheric and soil conditions;\n• Chemicals;\n• Cement;\n• Cinders and fly ash; and\n• Electrolytic action.\n\nCorrosion protection and control\nCorrosion protection and control is a highly specialized field. A qualified corrosion engineer or a firm specializing in this work should always supervise the design, installation, and testing of piping protection systems. (You can obtain a current list of corrosion specialists from your local gas authority.) Nevertheless, as a gas technician/fitter, you must fully understand the corrosion process so that you can take preventive measures when installing or repairing piping that may be exposed to corrosive conditions.\n\nGas system piping and tubing installed in locations where it may be exposed to corrosion must have protection. Protection can be provided in numerous ways — depending on the material to protect and the nature of the exposure to corrosion.\n\nThe corrosion process\n\nCorrosion is an electrochemical action that changes pure metals into their compounds while producing electric current.\n\nThese four things are necessary for corrosion to occur:\n• an anode;\n• a cathode;\n• an electrolyte; and\n• a conductive path.\n\nCorrosion cannot occur if any of these are absent.\n\nAnode and cathode\nMetal corrodes when there is a complete electrical circuit, as the electrical current travels from the anode to the cathode in the electrolyte. This conventional current, which is the movement of positive charges, can be found in a basic electrical circuit. The anode and cathode are called electrodes.\n\nAn everyday example of how we directly benefit from this electrochemical action is the dry cell battery, which produces an electric current because the zinc casing is an anode and the carbon rod is a cathode. The electric current runs from the anode to the cathode, passes through the light, and goes back to the anode.\n\nElectrolyte\nDry metals, in general, do not corrode because water is essential to the corrosion process, because it is water that is the electrolyte conducting the electric current.\n\nAlthough pure water is a poor electrical conductor, traces of salts, acids, and alkalis within it increase its effectiveness as an electrolyte and greatly accelerate the processes of corrosion. Water and these contaminants are present in most soils and, with oxygen permeating the soil from the air above, all the agents of corrosion are present.\n\nSoils have varying abilities to resist current flow and, therefore, have varying abilities as electrolytes. For example, a soil with very high resistance to electrical current (dry soil or gravel) is a poor electrolyte, while a moist soil with low resistance to electric current (loam or clay) is a better electrolyte. Therefore, piping that is buried in moist soil is more prone to corrosion than piping buried in dry soil.\n\nMetallic path\nIn an unprotected underground pipe, the electric current flows from the anodic areas of the pipe, through the (electrolyte) soil to the cathodic areas of the pipe. The current then returns through the pipe and completes the circuit. The metallic path is the pipe length the electrical current is travelling from the time it enters the cathode until it leaves the anode.\n\nMetals with different potentials\nAll metals have a known electrical value on an electromotive scale. If two metals have different electrical potentials, a current will flow between them with the current always flowing from active metals (with higher potential) to less active metals (with lower potential).\n\nCurrent flows between metals of differing potential regardless of whether they are close together or far apart. Surface corrosion occurs when the metals are close together, for example, when there is mill scale on steel piping.\n\nAlso, however, when the characteristics of the soil change from one end of a pipeline to the other, the soil's resistivity may change the metal's potential which, again, creates current flow and corrosion.\n\nResistivity\n\"Resistivity\" refers to the electrolyte's (here, soil) resistance to electric force within a cube measuring 1 cm3. Resistivity is expressed in ohm/cm.\n\nNearly all soils are corrosive to steel, but those below 10 000 ohms/cm are considered especially corrosive. Soils below 5000 ohms/cm are sufficiently corrosive to cast iron or ductile iron to warrant cathodic protection. Sharp changes in soil resistivity over a pipeline route can also cause severe corrosion problems.\n\nThe Wenner four-pin method is the technique that is usually used to measure resistivity. The Wenner four-pin method involves driving four pins into the ground in a straight line at specific distances apart, the imposition of a current between the two outside pins, and the measurement of the voltage across the two inside pins. These readings are used to calculate resistivity.\n\nCorrosion protection methods\n\nIn general, piping and tubing are\n• covered with an approved corrosion-resistant paint or coating when conditions require; and\n• coated or wrapped at locations where it passes through walls where it can sustain physical damage or be subject to corrosion.\n\nDifferent types of pipes and tubing require different treatment.\n\nCopper pipe and tubing\nCopper pipe and tubing must be protected from corrosion in situations where:\n- Aboveground: When copper passes through certain material (concrete, a cement block, or similar) that would cause corrosion if the copper came in direct contact with this material. When the copper could contact a dissimilar metal. When copper could come into contact with corrosive chemicals or vapours.\n- Underground: If using Type L or G copper, all underground copper tubing installations require the use of an approved protective coating. Use of Type K copper is allowed (this type does not require external protection).\n\nSteel and iron pipes\nSteel and iron pipes must be protected from corrosion in situations where:\n- Aboveground: When the steel or iron passes through certain material (concrete, a cement block, or similar) that would cause corrosion if the steel or iron came in direct contact with this materials. When the steel or iron pipe could contact a dissimilar metal. When the pipe could come into contact with corrosive chemicals or vapours.\n- Underground: Installations require protection for steel and iron pipe by means of an approved method or a combination of methods, such as protective coating, corrosion-resistant wrapping, cathodic protection, electrical bonding, and isolation of individual pipe sections.\n\nPlastic pipes\nYou may only use polyethylene (plastic) pipes for underground installations. (The material of all risers extending above grade must be steel or copper.) Connectors must be approved transition fittings, and a tracer wire must follow the pipe in case the pipe needs to be located in the future.\n\nMethods for protecting underground piping\nThere are three methods for protecting underground piping from corrosion:\n• protective coatings;\n• electrical insulation; and\n• cathodic protection.\n\nProtective coatings\nProtective coatings insulate a pipe from the soil (here, the electrolyte). A good coating has a high dielectric strength (i.e., it is a good electrical insulator), adheres tightly to the pipe, and has the necessary mechanical strength to withstand handling, soil stresses, and any tendency toward cracking.\n\nThe main coatings used are yard-applied coal tar and extruded polyethylene. While most coatings absorb some water and allow some current to penetrate through the steel surface, for most practical purposes, the steel is considered to be isolated from the soil.\n\nRepairing a pipe that has a protective coating\nWhen repairing or joining a pipe with a protective coating, ensure you use approved protective coatings like Polyken tape or heat-shrink sleeves.\n\nWhen repairing the pipe, check the quality of the protective coating using the \"jeep test\" (also known as the \"holiday detector test\") — an electronic testing unit that will find imperfections in the coating for you to repair them before you bury the piping.\n\nEnsure that a protected piping system is electrically insulated from other metallic structures by installing a dielectric fitting on the pipeline directly outside the building wall. The fitting prevents electrical contact between protected piping (underground) and unprotected piping (aboveground). It is usually an insulated union, insulated flange, or insulated meter spud.\n\nIn addition, insulated couplings separate long gas piping networks into individual electrical units. In this way, long electric current lines are inhibited, and you can accurately assess the number of anodes required for each unit.\n\nBonding of piping\nCSA B149.1, Clause 4.7.3, requires that all building metal gas piping that may become energized shall be made electrically continuous and shall be bonded in accordance with the requirements of the local electrical code or, in the absence of such, CSA C22.1.\n\nCSA B149.1 forbids the use of gas piping as an electrical ground, while CSA C22.1 requires bonding of continuous metal gas piping systems in a building supplied with electric power. Note that bonding and grounding are not the same.\n\nBonding, as defined in CSA C22.1, is \"a low impedance path obtained by permanently joining all non-current-carrying metal parts to ensure electrical continuity and having the capacity to conduct safely any current likely to be imposed on it.\"\n\nGrounding, as defined in CSA C22.1, is \"a permanent and continuous conductive path to the earth with sufficient ampacity to carry any fault current liable to be imposed on it, and of a sufficiently low impedance to limit the voltage rise above ground and to facilitate the operation of the protective devices in the circuit.\"\n\nThus, code-compliant bonding of gas piping in the field ensures that the gas piping is made equipotential with the non-current-carrying conductive parts of electrical equipment.\n\nAlso note that the requirement in Rule 10-700 c) of CSA C22.1 to provide equipotential bonding to a metal gas piping system is not intended to apply to metal gas tubing, i.e., CSST. Attempts to bond metal gas tubing with conventional bonding means can create a hazardous situation where the tubing can be punctured by the installation of the bonding means or by arcing between improperly secured bonding means during faults or lightning strikes.\n\nThe grounding conductor at a building connects to a grounding electrode, and both CSA B149.1 and CSA C22.1 require the installation of the bonding of the gas piping to that system in an approved manner. This bonding connection provides equipotentiality — the state in which conductive parts are at a substantially equal electric potential.",
+          "assignment_questions": [
+            {
+              "question": "Indicate whether the given statement is true or false. Cement can have an adverse effect on gas piping and tubing.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "a) True"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. For corrosion to occur, _______ are necessary.",
+              "options": [
+                "a) Cathode and anode",
+                "b) Anode, cathode, conductive path",
+                "c) Anode, cathode, electrolyte, conductive path",
+                "d) Electrolyte, anode, conductive path"
+              ],
+              "correct_answer": "c) Anode, cathode, electrolyte, conductive path"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. _______ is an example of the benefit of electrochemical action.",
+              "options": [
+                "a) A light bulb",
+                "b) A capacitor",
+                "c) A dry cell battery",
+                "d) Corrosion"
+              ],
+              "correct_answer": "c) A dry cell battery"
+            },
+            {
+              "question": "Which of the following is a better electrolyte?",
+              "options": [
+                "a) Dry sandy soil",
+                "b) Moist loamy soil",
+                "c) Wet sandy soil",
+                "d) Dry loamy soil"
+              ],
+              "correct_answer": "b) Moist loamy soil"
+            },
+            {
+              "question": "In which direction will electrical current flow if an electrolyte is placed between two metals of differing potential?",
+              "options": [
+                "a) From the higher potential metal to a lower potential metal",
+                "b) From the lower potential metal to a higher potential metal"
+              ],
+              "correct_answer": "a) From the higher potential metal to a lower potential metal"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. When installed underground, _______ copper tubing does not require a protective coating.",
+              "options": [
+                "a) Type G",
+                "b) Type K",
+                "c) Type L",
+                "d) Type GP"
+              ],
+              "correct_answer": "b) Type K"
+            },
+            {
+              "question": "What are three methods that are used to protect underground steel piping?",
+              "options": [
+                "a) Protective coating",
+                "b) Fibreglass insulation",
+                "c) Cathodic protection",
+                "d) Electrical bonding",
+                "e) Latex-based interior paint coating"
+              ],
+              "correct_answer": "a) Protective coating, c) Cathodic protection, d) Electrical bonding"
+            },
+            {
+              "question": "Complete the following sentences (1–3) with the correct options (a–c).",
+              "options": [
+                "1) _______ is not usually used underground. - c) Steel and iron pipe",
+                "2) Use uncoated _______ in aboveground applications where it is not exposed to corrosive elements or physical damage. - a) Copper pipe and tubing",
+                "3) Use _______ for underground installations. - b) Polyethylene pipe"
+              ],
+              "correct_answer": "1-c, 2-a, 3-b"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. An underground steel piping system is isolated from the aboveground piping to which it is connected by using _______.",
+              "options": [
+                "a) Dielectric fittings",
+                "b) Unions",
+                "c) Plastic connectors",
+                "d) Brass connectors"
+              ],
+              "correct_answer": "a) Dielectric fittings"
+            }
+          ]
+        },
+        {
+          "chapter_number": 5,
+          "chapter_name": "Water distribution piping",
+          "pages": "67-77",
+          "topics": [
+            "Piping and tubing materials (copper, galvanized steel, plastic)",
+            "Codes and standards",
+            "Regulations (licensed plumber/steamfitter requirements)",
+            "Copper tubing types (Type K, L, M)",
+            "Steel pipes (galvanized)",
+            "Plastic pipes (PVC, CPVC, Poly B, PE-AL-PE, PEX-AL-PEX, PP-R)",
+            "Joining methods (threaded, soldered, compression, flared, solvent welded, crimped, cold flared)",
+            "Soft soldering vs hard soldering",
+            "Compression joints",
+            "Flared joints",
+            "Solvent-welded joints",
+            "Crimped joints",
+            "Expansion joints"
+          ],
+          "content": "Overview\n\nPurpose\nA gas technician/fitter may be required to perform various duties related to the installation and repair of water heaters, boilers, and pool heaters. These duties may include tasks that involve the piping and tubing systems that supply water to gas- fired appliances. This Chapter outlines the standards, regulations, codes, and application requirements for water distribution piping.\n\nObjectives\nAt the end of this Chapter, you will be able to\n• identify standards, regulations, and codes for water distribution piping;\n• identify the types of piping used in water distribution; and\n• describe the methods used to join these materials.\n\nTerminology\n- Water distribution piping: In relation to potable water systems, used to identify piping downstream of the main shut-off (control) valve, usually at the water meter\n\nPiping and tubing\n\nThe three most common materials used for water distribution piping are\n• copper;\n• galvanized steel (however, most codes no longer permit this within potable systems); and\n• plastic.\n\nThere are other piping materials, such as cast iron, that are approved for water distribution, but they are used in situations that are beyond the normal scope of work for a gas technician/fitter.\n\nCodes and standards\nYou can find design standards for water service piping in the applicable plumbing code. (These standards are printed or stamped on the exterior wall of the tube or pipe.)\n\nConsult local codes for items such as water supply shut-off vacuum relief, temperature or pressure relief (or both), and cross-connection control requirements. Also note that the installation of plastic piping and tubing must be done in accordance with building code regulations concerning combustible piping, fire separations, etc.\n\nRegulations\nMost provincial regulations require a licensed plumber or steamfitter to perform any work beyond the immediate piping attached to a boiler or water heater. Since the scope of work of a gas technician/fitter does not include any work beyond that considered essential to the operation of the appliance, refusal to adhere to local regulations may invalidate manufacturer warranties and insurance company coverage. (Furthermore, working beyond the scope of your licensing coverage can carry liability as per your local AHJ.)\n\nCopper tubing\nThere are three types of copper tubes used for water distribution. The table below lists them in descending order, according to wall thickness.\n\nType - Colour code - Available in\n- Type K copper: Green - Coils (soft copper), Rigid lengths (hard copper)\n- Type L copper: Blue - Coils (soft copper), Rigid lengths (hard copper)\n- Type M copper: Red - Coils (soft copper), Rigid lengths (hard copper)\n\nHowever, you can use only the hard copper rigid lengths for water distribution piping.\n\nSteel pipes\nWelded and seamless steel galvanized pipe may be used for water supply in industrial applications and for the repair of existing galvanized steel piping systems.\n\nPlastic pipes\nSeveral types of plastic pipes are used for water distribution; however, some are limited to cold water applications only.\n\nThe types of plastic pipes and their applications are as follows:\n- Polyvinyl chloride series 80, 100, 125, 160, and 200 (PVC): For cold water distribution only\n- Chlorinated polyvinyl chloride (CPVC): Hot and cold water distribution\n- Polybutylene (Poly B): Hot and cold water distribution\n- Polyethylene aluminum polyethylene (PE-AL-PE): Cold water distribution only\n- Cross-linked polyethylene aluminum cross-linked polyethylene (PEX-AL-PEX): Hot and cold water distribution\n- Polypropylene (PP-R): Hot and cold water distribution\n\nJoining methods for water distribution piping and fittings\n\nPipe and tubing joining methods\nA gas technician/fitter use several methods to join the various types of water service piping and tubing.\n\nThe types of joints used include\n• threaded;\n• soldered;\n• compression;\n• flared;\n• solvent welded;\n• crimped; and\n• cold flared.\n\nThreaded joints\nThreaded joints are used on some water pipes and fittings, as well as on adapters, such as those used to join the threaded outlets of a hot water heater to incoming copper or plastic water distribution tubing. You should use an approved thread sealant with this type of joint.\n\nSolder joints\nSoldering can refer to the process of joining two or more pieces of metal together by means of an alloy with a lower melting temperature than the metal being joined. The many different solders available use alloys consisting of various combinations of tin, lead, silver, and copper.\n\nSoft soldering and hard soldering\nJoining copper tubing using hard and soft solders is common in the plumbing and gas trades. The difference between a soft-soldered and a hard-soldered joint (also known as \"silver brazing\") is the melting temperature of the alloy being used. Hard solders have a melting temperature above 1000 °F (537 °C) and provide a stronger joint.\n\n(Plumbing products, such as flux and solder, now come lead-free.)\n\nCompression joints\nA compression-type fitting often joins copper and plastic tubing and consists of a fitting body, a nut, and a ferrule. Place the nut and ferrule over the tubing, then insert the tubing into the fitting body. Next, tighten the nut onto the external thread of the fitting body, compressing the ferrule and sealing the joint. In some cases when plastic tubing is used, place a supporting insert inside the tubing to prevent it from collapsing as it is being tightened.\n\nFlared joints\nFlared joints are used on soft copper tubing. This type of joint requires a special tool to form the flare on the end of the tubing. This process works as follows:\n1) Cut the end of the copper tubing square and smooth. You may ream the inside edge and slightly chamfer the outside edge to ensure a clean, tight joint.\n2) Place a flare nut and any other necessary parts of the fitting over the copper tubing in the correct orientation and slide down the tubing to leave the end clear for flaring.\n3) Insert the tubing into the block of the flaring tool. The block or die bar of the compression-type flaring tool swings open to allow insertion of the copper tubing and, when closed and tightened by wing nuts, holds the tubing securely in position. You can also use a ratchet-style flaring tool.\n4) Centre the die over the open end of the tubing and turn the handle to force the die down onto the tubing to form the flare.\n\nSolvent-welded joints\nSome plastic pipes are joined by using solvent cement. In this method, the joint consists of a pipe end and a socket fitting. The piping end must be square, and the pipe and socket fitting clean and dry. Apply the cement to both the pipe and socket, then push the pipe into the socket with a twisting motion to make the joint. The cement must be suitable for the type of pipe being used.\n\nCrimped joints\nThis type of joint is used with plastic tubing and consists of an insert fitting with raised grooves (barb type) on the ends, which are inserted into the tubing, and a crimp ring that is placed over the tubing. A special crimping tool, sized for the tubing diameter, is used to compress the ring.\n\nExpansion joints\nThis type of joint uses the memory effect of polyethylene to make a watertight seal and is typically used with PEX-a, cross-linked polyethylene.\n\nThe fitting is slightly larger than the original inside diameter of the tubing, so the \"memory effect\" causes the material to try to return the tubing to its original form, providing a continuous, watertight seal.\n\nThis process works as follows:\n1) Cut the tube square then place a polyethylene collar over the end of the tube.\n2) Place a special tool at the end of the tube and expand the tube and collar.\n3) Remove the tool and insert the fitting into the tube.\n4) The tube will immediately begin to return to its original diameter, in effect, shrinking itself around the fitting to create a watertight seal.\n\nThe collar provides extra strength at the joint. It is also colour-coded to provide identification of hot and cold water lines.",
+          "assignment_questions": [
+            {
+              "question": "What are the three most common materials used for water distribution piping?",
+              "options": [
+                "a) Cast iron, copper, plastic",
+                "b) Copper, galvanized steel, asbestos cement pipe",
+                "c) Galvanized steel, plastic, cast iron",
+                "d) Copper, galvanized steel, plastic"
+              ],
+              "correct_answer": "d) Copper, galvanized steel, plastic"
+            },
+            {
+              "question": "What is the colour code for Type K copper?",
+              "options": [
+                "a) Red",
+                "b) Blue",
+                "c) Green",
+                "d) Yellow"
+              ],
+              "correct_answer": "c) Green"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. Cross-linked polyethylene may be used on both hot and cold water distribution lines.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "a) True"
+            },
+            {
+              "question": "What is the approximate melting temperature of hard solders?",
+              "options": [
+                "a) 1000 °F",
+                "b) 750 °F",
+                "c) 500 °F",
+                "d) 250 °F"
+              ],
+              "correct_answer": "a) 1000 °F"
+            },
+            {
+              "question": "Indicate whether the given statement is true, false, or true under certain conditions. The solvent cement specified for use with one type of plastic pipe can be used with another type of plastic pipe.",
+              "options": [
+                "a) True",
+                "b) True, on condition that it has a complete bead",
+                "c) False"
+              ],
+              "correct_answer": "c) False"
+            },
+            {
+              "question": "Match the types of pipes and tubing (1–8) with the descriptions (a–h).",
+              "options": [
+                "1. Type M copper - h) Colour-coded red; available in coils or rigid lengths",
+                "2. PEX-AL-PEX - f) Cross-linked; can be used for hot and cold water distribution",
+                "3. Type K copper - e) Colour-coded green; available in coils or rigid lengths",
+                "4. Steel - g) Welded and seamless galvanized; can be used in industrial applications",
+                "5. PVC - b) Series 80, 100, 125, 160, and 200; can be used for cold water only",
+                "6. PP-R - c) Polypropylene; can be used for hot and cold water distribution",
+                "7. Type L copper - a) Colour-coded blue; available in coils or rigid lengths",
+                "8. CPVC - d) Chlorinated; can be used for hot and cold water distribution"
+              ],
+              "correct_answer": "1-h, 2-f, 3-e, 4-g, 5-b, 6-c, 7-a, 8-d"
+            }
+          ]
+        },
+        {
+          "chapter_number": 6,
+          "chapter_name": "Pipe sizing",
+          "pages": "78-121",
+          "topics": [
+            "Pipe measurement and fitting allowance",
+            "Centre-to-centre, centre-to-face, end-to-centre",
+            "Factors influencing flow rate",
+            "Pressure drop",
+            "Pipe sizing tables (Annex A and B)",
+            "Low-pressure systems (7-14 in w.c.)",
+            "Longest measured run (LMR)",
+            "Calculated zone (CZ)",
+            "Sizing procedure for low-pressure systems",
+            "High-pressure systems",
+            "Equivalent length of fittings (Table A.16)",
+            "Proving the CZ",
+            "Propane piping systems",
+            "Single-stage vs two-stage systems",
+            "Imperial and metric calculations"
+          ],
+          "content": "[This chapter contains extensive pipe sizing examples, tables, and calculations for both natural gas and propane systems. The content includes detailed step-by-step procedures for sizing low-pressure and high-pressure piping systems, including calculating loads, determining longest measured runs (LMR), selecting calculated zones (CZ), and proving pipe sizes.]\n\nPipe measurement and fitting allowance\n\nWhen measuring pipe for cutting, the gas technician/fitter must account for the length of pipe that will be concealed by fittings. This concealed length is called the \"fitting allowance.\"\n\nThere are three common methods of measuring pipe:\n1) Centre-to-centre\n2) Centre-to-face\n3) End-to-centre\n\nFactors influencing flow rate\n\nThere are six factors that influence the flow rate through a pipe:\n1) Volume of gas required\n2) Pressure drop\n3) Length of pipe\n4) Diameter of pipe\n5) Type of gas\n6) Number of fittings\n\nPressure drop\nThe maximum allowable pressure drop depends on the system pressure:\n- For natural gas systems operating at 7 to 14 in w.c.: maximum 1 in w.c. pressure drop\n- For natural gas systems operating at less than 7 in w.c.: maximum 0.5 in w.c. pressure drop\n- For propane systems at 11 in w.c.: maximum 1 in w.c. pressure drop\n\nPipe sizing tables\nCSA B149.1 provides comprehensive pipe sizing tables in Annex A (natural gas) and Annex B (propane).\n\nSizing procedure for low-pressure systems:\n1) Identify the type of gas\n2) Identify the type of pipe\n3) Identify the system pressure\n4) Identify the pressure drop\n5) Select the pipe sizing table\n6) Identify the pipe loads\n7) Record the LMR (longest measured run)\n8) Select the CZ (calculated zone)\n9) Size the pipe\n\nHigh-pressure systems require additional steps:\n8) Estimate the CZ\n9) Size the pipe based on CZ above\n10) Prove the CZ\n\n[The chapter includes numerous detailed examples with imperial and metric calculations, schematic diagrams, and comprehensive pipe sizing exercises.]",
+          "assignment_questions": [
+            {
+              "question": "Indicate whether the given statement is true or false. One way to measure pipe length is to measure the pipe from end to centre.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "a) True"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. Fitting allowances for a specific diameter and type of fitting are the same for all manufacturers.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "b) False"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. Refer to Illustration 1. To be properly sized for the application, this pipe would be cut to a length of _______ if the centre-to-face measurement is 2 ¼ in, and the thread allowance is ¾ in.",
+              "options": [
+                "a) 21 in",
+                "b) 22.5 in",
+                "c) 23 in",
+                "d) 20 in"
+              ],
+              "correct_answer": "b) 22.5 in"
+            },
+            {
+              "question": "Complete the following sentences with the correct options.",
+              "options": [
+                "1) A natural gas piping system operating at a pressure between 7 and 14 in w.c. must not have a pressure drop greater than _______ w.c. - a) 1 in",
+                "2) The pressure drop in a propane gas piping system of 11 in w.c. must not exceed _______ w.c. - c) 1 in",
+                "3) Up to _______ w.c. is acceptable for a natural gas piping system operating at less than 7 in w.c. - b) 0.5 in"
+              ],
+              "correct_answer": "1-a, 2-c, 3-b"
+            },
+            {
+              "question": "Size the low-pressure piping system shown in Illustration 2. Complete the fields in the table with the correct information. [Complex sizing exercise with multiple pipes A, B, C]",
+              "options": [
+                "Type of gas: Natural gas",
+                "Type of pipe: Black iron pipe",
+                "System pressure: 7 in w.c.",
+                "Pressure drop: 1 in w.c.",
+                "Pipe sizing table: Table A.2 a)",
+                "LMR: 35 ft",
+                "CZ: 40 ft",
+                "Pipe loads and sizes vary"
+              ],
+              "correct_answer": "Complete table with proper sizing calculations"
+            },
+            {
+              "question": "Size the low-pressure piping system (metric). [Similar exercise in metric units]",
+              "options": [
+                "Type of gas: Natural gas",
+                "Type of pipe: Black iron pipe",
+                "System pressure: 1.75 kPa",
+                "Pressure drop: 250 Pa",
+                "Various pipe sizes calculated"
+              ],
+              "correct_answer": "Complete table with proper metric sizing"
+            },
+            {
+              "question": "Size the propane piping system shown. Complete the fields in the table with the correct information.",
+              "options": [
+                "Type of gas: Propane",
+                "Type of pipe: Copper tubing",
+                "System pressure: 11 in w.c.",
+                "Pressure drop: 1 in w.c.",
+                "Table B.6 a)",
+                "Various loads and pipe sizes"
+              ],
+              "correct_answer": "Complete table with propane sizing calculations"
+            },
+            {
+              "question": "Size the 2-psig piping system shown. [Complex multi-zone sizing exercise]",
+              "options": [
+                "Low pressure zone and 2 psig zone",
+                "Natural gas",
+                "Different pipe types and sizing tables",
+                "Multiple pipes with different loads"
+              ],
+              "correct_answer": "Complete comprehensive sizing table"
+            },
+            {
+              "question": "Propane system sizing (metric). [Metric propane sizing exercise]",
+              "options": [
+                "Propane",
+                "Copper tubing",
+                "2.7 kPa system pressure",
+                "250 Pa pressure drop",
+                "Table B.6 b)"
+              ],
+              "correct_answer": "Complete metric propane sizing"
+            },
+            {
+              "question": "Complex low-pressure natural gas system sizing with multiple branches. [Multi-branch sizing exercise]",
+              "options": [
+                "Natural gas",
+                "Black iron pipe",
+                "Multiple pipe loads",
+                "Various pipe sizes from NPS ½ to NPS ¾"
+              ],
+              "correct_answer": "Complete multi-branch sizing calculations"
+            },
+            {
+              "question": "Final comprehensive pipe sizing exercise combining multiple concepts. [Advanced sizing problem]",
+              "options": [
+                "Combines low-pressure and high-pressure zones",
+                "Natural gas",
+                "Multiple pipe types",
+                "Complex load calculations"
+              ],
+              "correct_answer": "Complete comprehensive sizing analysis"
+            }
+          ]
+        }
+      ]
+    },
+    "7th": {
+      "unit_name": "Unit 8 - Intro to Piping and Tubing Systems",
+      "category": "G3",
+      "documents": [
+        {
+          "filename": "CSA Unit 8 - Intro to Piping and Tubing Systems - Final.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 8 - Intro to Piping and Tubing Systems",
+          "char_count": 155624,
+          "content": "CSA Unit 8 - Intro to Piping \nand Tubing Systems\nChapter 1                                \nPiping and Tubing Systems\nA gas technician/fitter must know how to select and use the different \ntypes of piping, tubing, valves, and connectors for constructing gas \ndistribution systems. This guide covers the requirements, specifications, \nand proper installation methods for various piping materials used in gas \nsystems.\nMK by Mike Kapin\nCreated\nCopywrite 2025\nObjectives and Terminology\nObjectives\nAt the end of this Chapter, you will be able to:\n•\ndescribe requirements of piping, tubing, and connectors\n•\ndescribe valves and fittings\nKey Terminology\nUnderstanding the following terms is essential for gas \ntechnicians:\n•\nConnector - Tubing or hose with a fitting at each end for \nconnecting an appliance with piping\n•\nCSST - Corrugated stainless steel tubing with PVC \ncovering\n•\nFlexible metallic hose - All-metallic flexible gas conduit\n•\nNPT - National Pipe Thread Taper standard for threaded \npipes\n•\nNPS - Nominal Pipe Size standard for pipe dimensions\nPiping Material Requirements\nSteel Gas Piping\nMust conform to ASTM specification A53 or A106. Gas technicians most commonly use \nblack pipe for gas with pipe fittings of steel or malleable iron.\nCopper Tubing\nMust conform to ASTM B837 for G tube and ASTM B88 for type K and L tube. Type M \ncopper tubing cannot be used in gas systems due to insufficient wall thickness.\nCorrugated Stainless Steel Tubing\nConsists of continuous, flexible, stainless steel pipe with exterior PVC covering. \nAvailable for installation on gas systems up to 5 psig.\nPolyethylene Pipe\nUsed for underground gas piping. Must conform to CSA B137.4 for distribution mains, \nhouse service lines, and after meter kits.\nPipe Sizing and Measurement\nNominal Pipe Size (NPS)\nThe gas industry sizes black pipe using the Nominal Pipe Size \n(NPS). For any nominal size of pipe, the outside diameter (OD) \nremains the same and the inside diameter (ID) changes as the \nwall thickness increases.\nNominal size is a designation used for general identification. \nPipe is threaded on the outside only, therefore, the OD must \nremain constant.\nPipe measurement - end-to-center measurement\nThreading and Pipe Ends\nNPT Threading\nGas piping utilizes a tapered \nthread (NPT) cut on a pipe \nthreading machine or hand \ntool. The taper on NPT \nthreads allows them to form \na seal when torqued as the \nflanks of the threads \ncompress against each \nother.\nTypes of Pipe Ends\nGas piping and tubing ends \nmay be finished in the \nfollowing ways, depending \non the application: plain, \ngrooved, bevelled, and \nthreaded.\nWall Thickness\nSteel pipe used for gas systems is either Schedule 40 (standard) \nor Schedule 80 (extra heavy), with Schedule referring to the wall \nthickness of the pipe. Both have the same outside diameter.\nCopper Pipe and Tubing\nAdvantages of Copper Pipe\n•\nFlexibility and ease of bending\n•\nLow weight\n•\nEase of making connections\n•\nCorrosion resistance\n•\nAvailable in long lengths\n•\nRequires fewer and smaller tools to install\n•\nCleaner than steel pipe\nThese factors combine to make copper systems easier and \nquicker to install. In multi-Chapter buildings, the long \nlengths of tubing are safer because they require fewer joints.\nTypes of Copper Tubing\nCopper tubing for gas systems must conform to:\n•\nASTM B837 for G tube\n•\nASTM B88 for type K and L tube (seamless water tube)\nTwo basic kinds of copper tubing:\n•\nSoft drawn (soft temper annealed) - Supplied in coils, \nmost commonly used for gas systems\n•\nHard drawn (hard temper) - Comes in straight lengths, \nused when larger pipe sizes are required\nJoining Copper Tubing\nBrazing Method\nUse phosphorous-free material having a melting point in excess of \n1000°F (525°C). This creates a strong, permanent connection suitable \nfor gas systems.\n45° Brass Flare Connectors\nUse an appropriate flaring tool that matches the OD of the tube and \nhas the appropriate 45° flare angle. The tool usually consists of \nflaring bars with openings for various tube sizes, a yoke with flaring \ncone, and a clamp.\nFlaring Process\nCut the copper tube square using an appropriate tubing cutter. \nAfter cutting, ream the tube to the full ID leaving no inside burr. \nResize tube that is out of round prior to flaring back to round.\nFlaring Copper Tubing\nReaming the Tubing\nAfter cutting the copper tube square, it must be reamed to remove any burrs that could restrict gas flow or create turbulence in the system.\nFlaring the Tubing\nThe flaring tool creates a precise 45° flare that will mate perfectly with the flare fitting to create a gas-tight seal when properly tightened.\nCompleted 45° Flare\nThe finished flare should be smooth, without cracks or thin spots, and should seat properly against the fitting to ensure a leak-free connection.\nCorrugated Stainless Steel Tubing (CSST)\nCSST Characteristics\nCorrugated stainless steel gas tubing consists of a continuous, flexible, \nstainless steel pipe with an exterior PVC covering. The piping comes in \ncoils that have undergone air-testing for leaks.\nMost often installed in a central manifold configuration (also called parallel \nconfiguration) with lines that extend to gas appliances. CSST is lightweight \nand requires fewer connections than traditional gas piping, because it can \nbe bent easily and routed around obstacles.\nComponents of the Titeflex CSST system\nFlexible stainless-steel tubing is approved and available for installation on \ngas systems up to 5 psig. It can be purchased in rolls up to 250 ft. (70 m) in \nlength and in diameters of 3/8 in to 1 in.\nCSST Installation Requirements\n1\nMeter Support\nCSST must not be tied directly to a gas meter without \nfirst ensuring that the meter assembly is \nindependently supported, since CSST would not lend \nthe same level of support as iron piping tie.\n2\nManufacturer Systems\nExamples of CSST manufacturers are \nProFlex/WardFlex, Track Pipe, Gas Tite, and Titeflex, \nall of which incorporate corrugated semi-rigid \nstainless-steel tubing and all metal components, \nincluding fittings, valves, and multiport manifolds.\n3\nIdentification\nThe tubing comes with a continuous yellow \npolyethylene coating for easy identification. It can be \nfield measured, cut, and installed using approved \nfittings.\n4\nSystem Benefits\nThe multiport manifold allows for easy, future \nexpansion of the system for room additions or \nadditional appliances. CSST has the potential for \nhigher levels of system safety, because connections \nand joints behind the wall, common in black iron pipe, \nare essentially eliminated.\nAluminum and Polyethylene Piping\nAluminum Tubing Applications\n•\nPilot tubing\n•\nVenting of regulators\n•\nRegulator vent tube within the enclosure of an appliance\nAluminum tubing is joined by means of compression fittings.\nPolyethylene (PE) Piping\nGas technicians often install underground gas piping using \npolyethylene piping. A gas technician must be able to \nrecognize types of polyethylene piping materials, operate \nthe specialized equipment, and perform the different joining \nmethods.\nPolyethylene is a thermoplastic that softens when heated \nand solidifies when cooled, without any chemical reaction \ntaking place. PE piping can be fused by applying heat and \npressure, normally with electricity-powered heating irons.\nPolyethylene Pipe Applications\nUnderground \nApplications\nThe plastic pipe or tubing used \nfor gas distribution systems \nmust conform to CSA B137.4. \nInstallations where you can use \nthis include distribution mains, \nhouse service lines, and after \nmeter kits.\nOutdoor Appliances\nPlastic pipe or tubing can be \ninstalled underground to feed \noutdoor gas-fired appliances \nsuch as pool heaters and BBQs, \nor as a customer supply line from \none building on a property to \nanother on the same property.\nInstallation Limitations\nDue to the fragile nature of \nplastic pipe, it cannot be used as \nabove-grade supply piping. \nSpecial certified sleeves protect \nthe piping as it extends above \ngrade to make the transition to \nthe building supply piping or the \nappliance connection.\nPolyethylene Pipe Markings\nRequired Markings\nIn accordance with CSA B137.4, any polyethylene piping \nshall have a clear marking, in a colour that contrasts with \nthe pipe and at intervals not greater than 4.9 ft (1.5 m), \nthat contains the following information:\n•\nThe manufacturer's name or trademark\n•\nThe minimum wall thickness or standard dimension \nratio (SDR)\n•\nThe date of manufacture or date code\n•\nThe nominal size of the pipe (e.g., NPS 2)\n•\nThe designation B137.4\n•\nThe word \"gas\"\nMaterial Specification Codes\nThere are many different grades of polyethylene (PE) \nused in plastic pipeline systems. Each pipe has a marking \ncontaining the grade of PE and a four-digit code:\n•\nThe first number denotes the density of the pipe\n•\nThe second number is the melt index rating\n•\nThe last two numbers indicate the design strength for \ndensity\nExamples include PE 2306 (medium density) and PE \n3406 (high density).\nPolyethylene Pipe Joining Equipment\nPipe Cutter\nHas a thin cutting wheel \nor blade that helps cut \nplastic pipe cleanly and \nsquarely.\nHeating Iron\nUsually uses electrical \nheating and comes with \nTeflon coating or a \nsimilar non-stick coating \nto prevent the molten \nplastic from sticking to \nthe heating plate.\nButt Fusion Joining \nMachine\nHas a pipe facer \nattachment for \nsimultaneously shaving \noff the ends of two pipes \nand clamps for \nseparately gripping and \naligning pipes or fittings \nduring fusing.\nTemperature \nControl\nHeating irons must be \nset to the desired \ntemperature, 500°F ± \n7°F (260°C ± 4°C), and \nallowed to stabilize \nbefore use.\nPolyethylene Pipe Joining Process\nCutting Pipe Ends\nCut pipe ends square and \nensure that surfaces to be \njoined are properly aligned. \nThis is critical for creating a \nstrong, leak-free joint.\nCleaning Components\nRemove water, dirt, grease, \noil, fingerprints, and \ncuttings. Wipe the inside \nand outside of the pipes with \na clean, lint-free cloth or a \ngood qualit",
+          "content_truncated": true
+        },
+        {
+          "filename": "CSA Unit 8 - Intro to Piping and Tubing Systems - Final.pptx",
+          "file_type": "powerpoint",
+          "relative_path": "CSA Units\\Unit 8 - Intro to Piping and Tubing Systems",
+          "char_count": 156746,
+          "content": "CSA Unit 8 - Intro to Piping and Tubing Systems\nChapter 1                                Piping and Tubing Systems\nA gas technician/fitter must know how to select and use the different types of piping, tubing, valves, and connectors for constructing gas distribution systems. This guide covers the requirements, specifications, and proper installation methods for various piping materials used in gas systems.\nMK\nby Mike Kapin\nCreated\nCopywrite 2025\nObjectives and Terminology\nObjectives\nAt the end of this Chapter, you will be able to:\ndescribe requirements of piping, tubing, and connectors\ndescribe valves and fittings\nKey Terminology\nUnderstanding the following terms is essential for gas technicians:\nConnector - Tubing or hose with a fitting at each end for connecting an appliance with piping\nCSST - Corrugated stainless steel tubing with PVC covering\nFlexible metallic hose - All-metallic flexible gas conduit\nNPT - National Pipe Thread Taper standard for threaded pipes\nNPS - Nominal Pipe Size standard for pipe dimensions\nPiping Material Requirements\nSteel Gas Piping\nMust conform to ASTM specification A53 or A106. Gas technicians most commonly use black pipe for gas with pipe fittings of steel or malleable iron.\nCopper Tubing\nMust conform to ASTM B837 for G tube and ASTM B88 for type K and L tube. Type M copper tubing cannot be used in gas systems due to insufficient wall thickness.\nCorrugated Stainless Steel Tubing\nConsists of continuous, flexible, stainless steel pipe with exterior PVC covering. Available for installation on gas systems up to 5 psig.\nPolyethylene Pipe\nUsed for underground gas piping. Must conform to CSA B137.4 for distribution mains, house service lines, and after meter kits.\nPipe Sizing and Measurement\nNominal Pipe Size (NPS)\nThe gas industry sizes black pipe using the Nominal Pipe Size (NPS). For any nominal size of pipe, the outside diameter (OD) remains the same and the inside diameter (ID) changes as the wall thickness increases.\nNominal size is a designation used for general identification. Pipe is threaded on the outside only, therefore, the OD must remain constant.\nPipe measurement - end-to-center measurement\nThreading and Pipe Ends\nNPT Threading\nGas piping utilizes a tapered thread (NPT) cut on a pipe threading machine or hand tool. The taper on NPT threads allows them to form a seal when torqued as the flanks of the threads compress against each other.\nTypes of Pipe Ends\nGas piping and tubing ends may be finished in the following ways, depending on the application: plain, grooved, bevelled, and threaded.\nWall Thickness\nSteel pipe used for gas systems is either Schedule 40 (standard) or Schedule 80 (extra heavy), with Schedule referring to the wall thickness of the pipe. Both have the same outside diameter.\nCopper Pipe and Tubing\nAdvantages of Copper Pipe\nFlexibility and ease of bending\nLow weight\nEase of making connections\nCorrosion resistance\nAvailable in long lengths\nRequires fewer and smaller tools to install\nCleaner than steel pipe\nThese factors combine to make copper systems easier and quicker to install. In multi-Chapter buildings, the long lengths of tubing are safer because they require fewer joints.\nTypes of Copper Tubing\nCopper tubing for gas systems must conform to:\nASTM B837 for G tube\nASTM B88 for type K and L tube (seamless water tube)\nTwo basic kinds of copper tubing:\nSoft drawn (soft temper annealed) - Supplied in coils, most commonly used for gas systems\nHard drawn (hard temper) - Comes in straight lengths, used when larger pipe sizes are required\nJoining Copper Tubing\nBrazing Method\nUse phosphorous-free material having a melting point in excess of 1000°F (525°C). This creates a strong, permanent connection suitable for gas systems.\n45° Brass Flare Connectors\nUse an appropriate flaring tool that matches the OD of the tube and has the appropriate 45° flare angle. The tool usually consists of flaring bars with openings for various tube sizes, a yoke with flaring cone, and a clamp.\nFlaring Process\nCut the copper tube square using an appropriate tubing cutter. After cutting, ream the tube to the full ID leaving no inside burr. Resize tube that is out of round prior to flaring back to round.\nFlaring Copper Tubing\nReaming the Tubing\nAfter cutting the copper tube square, it must be reamed to remove any burrs that could restrict gas flow or create turbulence in the system.\nFlaring the Tubing\nThe flaring tool creates a precise 45° flare that will mate perfectly with the flare fitting to create a gas-tight seal when properly tightened.\nCompleted 45° Flare\nThe finished flare should be smooth, without cracks or thin spots, and should seat properly against the fitting to ensure a leak-free connection.\nCorrugated Stainless Steel Tubing (CSST)\nCSST Characteristics\nCorrugated stainless steel gas tubing consists of a continuous, flexible, stainless steel pipe with an exterior PVC covering. The piping comes in coils that have undergone air-testing for leaks.\nMost often installed in a central manifold configuration (also called parallel configuration) with lines that extend to gas appliances. CSST is lightweight and requires fewer connections than traditional gas piping, because it can be bent easily and routed around obstacles.\nComponents of the Titeflex CSST system\nFlexible stainless-steel tubing is approved and available for installation on gas systems up to 5 psig. It can be purchased in rolls up to 250 ft. (70 m) in length and in diameters of 3/8 in to 1 in.\nCSST Installation Requirements\n1\nMeter Support\nCSST must not be tied directly to a gas meter without first ensuring that the meter assembly is independently supported, since CSST would not lend the same level of support as iron piping tie.\n2\nManufacturer Systems\nExamples of CSST manufacturers are ProFlex/WardFlex, Track Pipe, Gas Tite, and Titeflex, all of which incorporate corrugated semi-rigid stainless-steel tubing and all metal components, including fittings, valves, and multiport manifolds.\n3\nIdentification\nThe tubing comes with a continuous yellow polyethylene coating for easy identification. It can be field measured, cut, and installed using approved fittings.\n4\nSystem Benefits\nThe multiport manifold allows for easy, future expansion of the system for room additions or additional appliances. CSST has the potential for higher levels of system safety, because connections and joints behind the wall, common in black iron pipe, are essentially eliminated.\nAluminum and Polyethylene Piping\nAluminum Tubing Applications\nPilot tubing\nVenting of regulators\nRegulator vent tube within the enclosure of an appliance\nAluminum tubing is joined by means of compression fittings.\nPolyethylene (PE) Piping\nGas technicians often install underground gas piping using polyethylene piping. A gas technician must be able to recognize types of polyethylene piping materials, operate the specialized equipment, and perform the different joining methods.\nPolyethylene is a thermoplastic that softens when heated and solidifies when cooled, without any chemical reaction taking place. PE piping can be fused by applying heat and pressure, normally with electricity-powered heating irons.\nPolyethylene Pipe Applications\nUnderground Applications\nThe plastic pipe or tubing used for gas distribution systems must conform to CSA B137.4. Installations where you can use this include distribution mains, house service lines, and after meter kits.\nOutdoor Appliances\nPlastic pipe or tubing can be installed underground to feed outdoor gas-fired appliances such as pool heaters and BBQs, or as a customer supply line from one building on a property to another on the same property.\nInstallation Limitations\nDue to the fragile nature of plastic pipe, it cannot be used as above-grade supply piping. Special certified sleeves protect the piping as it extends above grade to make the transition to the building supply piping or the appliance connection.\nPolyethylene Pipe Markings\nRequired Markings\nIn accordance with CSA B137.4, any polyethylene piping shall have a clear marking, in a colour that contrasts with the pipe and at intervals not greater than 4.9 ft (1.5 m), that contains the following information:\nThe manufacturer's name or trademark\nThe minimum wall thickness or standard dimension ratio (SDR)\nThe date of manufacture or date code\nThe nominal size of the pipe (e.g., NPS 2)\nThe designation B137.4\nThe word \"gas\"\nMaterial Specification Codes\nThere are many different grades of polyethylene (PE) used in plastic pipeline systems. Each pipe has a marking containing the grade of PE and a four-digit code:\nThe first number denotes the density of the pipe\nThe second number is the melt index rating\nThe last two numbers indicate the design strength for density\nExamples include PE 2306 (medium density) and PE 3406 (high density).\nPolyethylene Pipe Joining Equipment\nPipe Cutter\nHas a thin cutting wheel or blade that helps cut plastic pipe cleanly and squarely.\nHeating Iron\nUsually uses electrical heating and comes with Teflon coating or a similar non-stick coating to prevent the molten plastic from sticking to the heating plate.\nButt Fusion Joining Machine\nHas a pipe facer attachment for simultaneously shaving off the ends of two pipes and clamps for separately gripping and aligning pipes or fittings during fusing.\nTemperature Control\nHeating irons must be set to the desired temperature, 500°F ± 7°F (260°C ± 4°C), and allowed to stabilize before use.\nPolyethylene Pipe Joining Process\nCutting Pipe Ends\nCut pipe ends square and ensure that surfaces to be joined are properly aligned. This is critical for creating a strong, leak-free joint.\nCleaning Components\nRemove water, dirt, grease, oil, fingerprints, and cuttings. Wipe the inside and outside of the pipes with a clean, lint-free cloth or a good quality paper towel and some soap and water.\nAdjusting Heating Iron Temperature\nSet the thermoswitch to the desired temperature, allow it to stabilize, then check the temperature with a tempilstik. Tu",
+          "content_truncated": true
+        },
+        {
+          "filename": "Unit 8_01_Qstns_Piping_and_Tubing_Systems_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 8 - Intro to Piping and Tubing Systems\\Assignments",
+          "char_count": 6404,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 8 – Chapter 01: Piping and Tubing \nSystems \n \n1. Which of the following piping materials cannot be used in gas piping systems? \na) Steel \nb) Copper \nc) Lead \nd) Plastic \n \n2. Indicate True or False: \nSteel or malleable iron fittings may be used with steel pipe. \na) True \nb) False \n \n3. Complete the following sentence: \nYou cannot use type ________ copper tubing in gas systems, as its wall thickness is slightly \nless than that of type G tubing. \na) K \nb) L \nc) M \n \n4. How shall piping be sized? \na) To meet the volume and pressure requirements at the point of use. \nb) To meet the pressure requirements at the point of use. \nc) To meet the volume requirements at the point of use. \nd) According to the appliance manufacturers installation manual. \n \n5. What is the maximum allowable pressure drop on a piping system that has a natural gas \nsupply pressure of 7 in w.c. to 14 in w.c.? \na) .5 Inch w.c. \nb) 1 inch w.c. \nc) 50%\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n6. How shall the gas pressure requirements for an appliance be determined? \na) Pipe sizing tables \nb) Provincial regulations \nc) Appliance rating plate or from the appliance manufacturer \n \n7. How shall an extension of an existing piping or tubing system be sized? \na) Sized to meet the load demand of the extended piping system \nb) Sized to meet the requirements of Clause 6.3 of CSA B149.1 \nc) Sized to meet the requirements of Clause 5.2 of CSA Z662 \n \n8. What is the maximum pressure drop allowed on a piping system that has a natural gas \nsupply pressure less than 7 in w.c.? \na) 1 inch w.c. \nb) 0.5 inch w.c.  \nc) 1.5 inches w.c \nd) 2 inches w.c \n \n9. How shall the volume of gas to an appliance be determined? \na) From either the rating plate or the appliance manufacturer \nb) By the size of the piping system the appliance is connected to \nc) According to provincial regulations \n \n10. Must the ends of all piping be reamed? \na) Yes  \nb) No \n \n11. What is the maximum spacing of supports for 1 in horizontal piping? \na) 12 ft  \nb) 6 ft  \nc) 8 ft  \nd) 16 ft\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n3 \n12. What diameters of piping require welded joints? \na) Diameters NPS 2-1/2 and larger  \nb) Diameters NPS 4 and larger \nc) Diameters NPS 2-1/4 and larger \nd) Diameters NPS 4-1/2 and larger \n \n13. May a copper joint be made with brazing material that has a melting temperature exceeding \n1000°F (537 °C)? \na) Yes  \nb) No \n \n14. During a period when a piping outlet to an appliance is not connected to the appliance, how \nshall it be made tight? \na) A piping outlet must always be connected to an appliance. \nb) By means of a plugged valve or either a cap or plug made of a material compatible with \nthe piping or tubing system. \n \n15. Complete the following sentence: \nA __________ is an area in a piping system that collects condensate and from which you can \nremove the condensate. \na) Drip pocket \nb) Dirt pocket \nc) Collection pocket \n \n16. What is the minimum diameter of piping that can be installed underground? \na) NPS 3/4 \nb) NPS 3/8 \nc) NPS 1/2  \n \n17. How shall the gas supply to an underground plastic pipe or tubing be controlled? \na) By a shut-off valve situated above ground  \nb) By a regulator\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n4 \n18. May a vented appliance be connected with a hose? \na) Yes \nb) No \n \n19. May a connector be used to connect a mobile home? \na) Yes, where the mobile home is not on a permanent foundation \nb) No \n \n20. What are the pressure test requirements for a 250 ft (76 m) natural gas piping system with \na working pressure of 2 psig? \na) 15 psig for 30 minutes \nb) 15 psig for 60 minutes  \nc) 60 psig for 15 minutes \n \n21. What are the minimum test requirements for all wrapped or factory-coated piping? \na) 100 psig and 15 minutes \nb) 100 psig and 60 minutes \nc) 100 psig and within the time duration required of Table 6.3, Note 2  \n \n22. May rooftop piping be supported with treated wood blocks? \na) Yes \nb) No \n \n23. May plastic pipe be used on liquid propane system? \na) Yes \nb) No \n \n24. When may piping less than NPS 1/2 be used indoors? \na) On a propane branch line not exceeding 15 ft in length \nb) On a propane branch line not exceeding 25 ft in length \nc) Piping less than NPS 1/2 cannot be used indoors\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n5 \n25. May propane piping or tubing be supported by other piping or tubing? \na) Yes, providing the piping is less than NPS ¾ \nb) No  \n \n26. What is the required diameter of a dirt pocket used on propane systems? \na) The diameter shall be NPS 2 or equal to the diameter it serves whichever is the lesser. \nb) The diameter shall be NPS 2 or equal to the diameter it serves whichever is the greater. \n \n27. May a close nipple be used on a propane piping system? \na) Yes \nb) No  \n \n28. Complete the following sentence:  \nWhen tubing runs horizontally across studs notched to accommodate the tubing, it must be \nprotected where it crosses each stud by a __________________. \na) 12-gauge (USG) steel plate \nb) 16-gauge (USG) steel plate \nc) 14-gauge (USG) steel plate \nd) 18-gauge (USG) steel plate \n \n29. What is the maximum interval that propane tubing can be run inside a residential \noccupancy without identification? \na) 6 ft  \nb) 12 ft \nc) 3 ft \nd) 24 ft \n \n30. Where must the shut-off valves be placed if propane piping or tubing is extended from one \nbuilding to another? \na) At the exit of the first building. \nb) At the point of entry to the second building. \nc) One at the exit of the first building and another at the point of entry to the second \nbuilding.\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n6 \n31. What is the required test pressure of a propane piping system 50 ft long with a working \npressure of 10 psig? \na) 50 psig for 60 minutes  \nb) 50 psig for 180 minutes \nc) 15 psig for 180 minutes \n \n \n32. Is an individual shut-off valve required for all propane appliances on a recreational vehicle? \na) Yes \nb) No",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 8_02_Qstns_Code Requirements forTesting_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 8 - Intro to Piping and Tubing Systems\\Assignments",
+          "char_count": 2157,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 8 – Chapter 02: Code Requirements for \nTesting \n \n1. When during a piping installation should pressure testing be carried out? \na) After all of the appliances have been installed and connected. \nb) Before any appliance is installed. A leak test is required after the appliance is installed. \nc) Before any appliances are installed. \n \n2. What is the minimum diameter gauge that can be used for pressure testing? \na) 3 inches (75 mm) \nb) 2 inches (50 mm) \nc) 4 inches (100 mm) \n \n3. What two inert gases may be used to pressure-test gas piping systems? \na) Nitrogen and Hydrogen \nb) Argon and Carbon dioxide  \nc) Carbon dioxide and Nitrogen \nd) Hydrogen and Argon \n \n4. What should be done immediately after opening the gas valve at the gas meter? \na) Listen for the gas flow to stop and monitor the gas meter test dial. \nb) Test fire the gas appliance and check the input. \nc) Ventilate by opening a window allowing any gas to escape during the purging process. \n \n5. How can a leak be located? \na) By providing a lit taper at each joint and looking for a small flame. \nb) By watching the meter for movement. \nc) By wiping each joint in the system with a leak detecting solution (i.e., soap and water)\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n \n6. After installation, a propane system requires testing. Put the following steps in order for \ntesting a system that does not have a gas meter: \na) Place a pressure gauge on the system.  \n1 \nb) Mark the pressure gauges and observe for leakage.  \n2 \nc) When the system is up to pressure, close the manual valves.  \n3 \nd) Do a main manual shut-off valve seepage test.  \n4 \ne) Pressurize the system by opening the manual valves on each stage.  \n5 \n \n7. What personal information must the gas technician/fitter place on the test tag after testing \nis complete? \na) Name, certification number, and classification. \nb) Contractors registration and company name. \nc) Name, address and phone number of gas technician.",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 8_03_Qstns_Purging_a_System_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 8 - Intro to Piping and Tubing Systems\\Assignments",
+          "char_count": 1709,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n1 \nUnit 8 – Chapter 03: Purging a System \n \n1. Which appliance piping should be purged first? \na) The one with the largest input. \nb) The one farthest from the point of supply \nc) The one with the smallest input. \n \n2. What type of gas cock must be placed within 5 ft of the purge point? \na) One with ¼ turn lever handle \nb) One with a ‘dead man’ valve \nc) A lubricated 1/4 turn valve \n \n3. What substance is used to purge the air out of a gas piping system that is 4 in diameter or \nlarger? \na) An inert gas (carbon dioxide or nitrogen) \nb) Compressed Air \nc) Gas (Propane or natural gas) \n \n4. What is the maximum input of a propane appliance that may be purged at the pilot outlet of \nthe appliance control valve? \na) 125,000 Btu/h \nb) 45,000 Btu/h \nc) 400 000 Btu/h \n \n5. What characteristics of propane differentiate propane purging from natural gas purging? \na) Smell, calorific value \nb) Specific gravity, explosive limits\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n2 \n6. Complete the following statement: \nThe approximate explosive range of natural gas is ________ to ________ natural gas in air.   \na) 5% to 15% \nb) 10% to 20% \nc) 4% to 15% \nd) 15% to 20% \n \n7. Complete the following statement: \nThe approximate explosive limits of propane gas range from ________ to ________ propane in \nair.   \na) 5% to 15% \nb) 2% to 10% \nc) 7% to 10% \nd) 2% to 15% \n \n8. Indicate True or False: \nNatural gas is heavier than air. \na) True \nb) False \n \n9. Indicate True or False: \nAir is lighter than propane. \na) True \nb) False",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 8_04_Qstns_Protection_of_Piping_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 8 - Intro to Piping and Tubing Systems\\Assignments",
+          "char_count": 1899,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 8 – Chapter 04: Protection of Piping and \nTubing from Corrosion \n \n1. Indicate True or False: \nCement can have an adverse effect on gas piping and tubing. \na) True \nb) False \n \n2. What is necessary for corrosion to occur? \na) Cathode, Anode \nb) Anode, Cathode, Conductive path \nc) Anode, Cathode, Electrolyte, Conductive path \nd) Electrolyte, Anode, Conductive path \n \n3. What is an example of the benefit of electrochemical action? \na) The light bulb \nb) The dry cell battery \nc) Corrosion \n \n4. Which is a better electrolyte? \na) Dry sandy soil \nb) Moist loamy soil \n \n5. In which direction will the electrical current flow if an electrolyte is placed between two \nmetals of differing potential? \na) From the higher potential metal to a lower potential metal \nb) From the lower potential metal to a higher potential metal\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n6. When installed underground, which type of copper tubing does not require a protective \ncoating? \na) Type G \nb) Type K \nc) Type GP \n \n7. List the methods that are used to protect underground steel piping. \n \n \n \n \n8. Match the type of pipe/tubing with the corresponding statement.  \na) ____________________ is not usually used underground:  \nPolyethylene pipe \nb) You may use uncoated _______________ in above ground \napplications where it is not exposed to corrosive \nelements or physical damage:  \nSteel and iron pipe  \nc) You may only use _______________ for underground \ninstallations:  \nCopper pipe and tubing  \n \n9. How is an underground steel piping system isolated from the above-ground piping to which \nit is connected? \na) By the use of dielectric fittings \nb) By unions \nc) By plastic connectors \nd) By brass connectors",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 8_05_Qstns_Piping_and_Tubing_in_Water_Distribution_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 8 - Intro to Piping and Tubing Systems\\Assignments",
+          "char_count": 1770,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 8 – Chapter 05: Piping and Tubing Used \nin Water Distribution \n \n1. What are the three most common materials used for water distribution piping? \na) Cast iron, copper, plastic \nb) Copper, galvanized steel, asbestos cement pipe \nc) Galvanized steel, plastic, cast iron \nd) Copper, galvanized steel, plastic \n \n2. What is the colour code for Type K copper? \na) Blue \nb) Green \nc) Yellow \n \n3. May polybutylene be used on both hot and cold-water distribution lines? \na) Yes \nb) No \n \n4. What is the melting temperature of hard solders? \na) Above 1000˚F \nb) Above 750˚F \nc) Above 500˚F \nd) Above 250˚F \n \n5. Can the solvent cement specified for use with one type of plastic pipe be used with another \ntype of plastic pipe? \na) Yes \nb) Yes, as long as it has a complete bead. \nc) No\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n \n6. Match the different types of pipe and tubing with the appropriate description. \na) Colour coded blue, available in coils or rigid lengths:  \nType M Copper \nb) Series 80, 100, 125, 160, 200 – may be used for cold water \nonly:  \nPEX-AL-PEX \nc) (Polypropylene) may be used for hot and cold-water \ndistribution:  \nType K Copper \nd) (Chlorinated) may be used for hot and cold-water \ndistribution:  \nSteel \ne) Colour coded green, available in coils or rigid lengths:  \nPVC \nf) Cross-linked, may be used for hot and cold-water \ndistribution:  \nPP-R \ng) Welded and seamless galvanized, may be used in industrial \napplications:  \nType L Copper \nh) Colour coded red, available in coils or rigid lengths – only \nrigid lengths can be used for water:  \nCPVC",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 8_06_Qstns_Sizing_of_Piping_and_Tubing_Systems_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 8 - Intro to Piping and Tubing Systems\\Assignments",
+          "char_count": 6964,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 8 – Chapter 06: Sizing of Piping and \nTubing Systems \n \n1. Indicate True or False: \nOne method of measuring pipe length is to measure the pipe from end to centre. \na) True \nb) False \n \n2. Are fitting allowances for a specific diameter and type of fitting the same for all \nmanufacturers? \na) Yes \nb) No \n \n3. What length should the pipe be cut to be properly sized for the application shown in \nIllustration 1? \na) 21 Inches \nb) 23 inches \nc) 20 Inches \n \n \nIllustration 1\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n4. Match the correct measurement with the following statements. \na) A natural gas piping system operating at a pressure between 7 \nin w.c. and 14 in w.c. must not have a pressure drop greater \nthan ________ w.c.:  \n1 inch \nb) The pressure drop in a propane gas piping system of 11 in w.c. \nmust not exceed _______ w.c. :  \n0.5 inch  \nc) Up to __________ w.c. is acceptable for a natural gas piping \nsystem operating at less than 7 in w.c.:  \n1 inch\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n3 \n5. Size the low pressure piping system shown in Illustration 2, then match the blanks with the \ncorrect answer provided: \n \nIllustration 2 \n \na) Type of gas: __________ \nBlack iron pipe \nb) Type of pipe: __________ \n100 MBtu/h \nc) System pressure: __________ \n130 MBtu/h \nd) Pressure drop: __________ \nA.2 (a) \ne) Pipe sizing table: __________ \nNPS 1/2 \nf) LMR: __________ \nNPS 3/4 \ng) CZ: __________ \n40 ft \nh) Pipe A – Pipe load: __________  \n30 MBtu/h \ni) Pipe A – Pipe Size: __________  \nNPS 1/2 \nj) Pipe B – Pipe load: __________  \n35 ft \nk) Pipe B – Pipe Size: __________  \n7” w.c. \nl) Pipe C – Pipe load: __________  \n1” w.c \nm) Pipe C – Pipe Size: __________  \nNatural gas\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n4 \n6. Size the low pressure piping system shown in Illustration 3, then match the blanks with the \ncorrect answer provided: \n \n \nIllustration 3 \n \na) Type of gas: __________  \n7” w.c. \nb) Type of pipe: __________  \n105 MBtu/h \nc) System pressure: __________  \n40 ft \nd) Pressure drop: __________ \nA.2 (a) \ne) Pipe sizing table: __________ \nNPS 1/2 \nf) LMR: __________ \n22 ft \ng) CZ: __________ \nNatural gas \nh) Pipe A – Pipe load: __________ \nBlack iron pipe \ni) Pipe A – Pipe Size: __________ \n1” w.c.\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n5 \n7. Size the low pressure piping system shown in Illustration 4, then match the blanks with the \ncorrect answer provided: \n \n \nIllustration 4 \n \na) Type of gas: __________ \n12 m \nb) Type of pipe: __________ \nNPS 1/2 \nc) System pressure: __________ \n35 kW \nd) Pressure drop: __________ \nA.2 (b) \ne) Pipe sizing table: __________ \nNatural gas \nf) LMR: __________ \nBlack iron pipe \ng) CZ: __________ \nNPS 3/4 \nh) Pipe A – Pipe load: __________  \n250 Pa \ni) Pipe A – Pipe Size: __________  \n12 m \nj) Pipe B – Pipe load: __________  \n10 kW \nk) Pipe B – Pipe Size: __________  \n45 kW \nl) Pipe C – Pipe load: __________  \n1.75 kPa \nm) Pipe C – Pipe Size: __________  \nNPS 3/4\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n6 \n8. Size the low pressure piping system shown in Illustration 5, then match the blanks with the \ncorrect answer provided: \n \n \nIllustration 5 \n \na) Type of gas: __________  \n15 m \nb) Type of pipe: __________  \n48 kW \nc) System pressure: __________  \nNPS 3/4 \nd) Pressure drop: __________ \nNatural gas \ne) Pipe sizing table: __________ \n15 m \nf) LMR: __________ \nA.2 (b) \ng) CZ: __________ \n1.75 kPa \nh) Pipe A – Pipe load: __________ \nBlack iron pipe \ni) Pipe A – Pipe Size: __________ \n250 Pa\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n7 \n9. Size the piping system shown in Illustration 6, then match the blanks with the correct \nanswer provided: \n \n \nIllustration 6 \n \na) Type of gas: __________ \nNPS 5/8 \nb) Type of pipe: __________ \nPropane \nc) System pressure: __________ \nCopper tubing \nd) Pressure drop: __________ \nB.1 (a) \ne) Pipe sizing table: __________ \n1” w.c. \nf) LMR: __________ \n100 MBtu/h \ng) CZ: __________ \n140 MBtu/h \nh) Pipe A – Pipe load: __________  \n11” w.c \ni) Pipe A – Pipe Size: __________  \n35 ft \nj) Pipe B – Pipe load: __________  \n40 ft \nk) Pipe B – Pipe Size: __________  \nNPS ½ \nl) Pipe C – Pipe load: __________  \n40 MBtu/h \nm) Pipe C – Pipe Size: __________  \nNPS 3/4\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n8 \n10. Size the piping system shown in Illustration 7, then match the blanks with the correct \nanswer provided: \n \n \nIllustration 7 \n \na) Type of gas: __________ \nB.6 (b) \nb) Type of pipe: __________ \n19 mm OD \nc) System pressure: __________ \n9 m \nd) Pressure drop: __________ \n50 kW \ne) Pipe sizing table: __________ \n250 Pa \nf) LMR: __________ \nPropane \ng) CZ: __________ \nCopper tubing \nh) Pipe A – Pipe load: __________  \n2.7 kPa \ni) Pipe A – Pipe Size: __________  \n9.5 mm OD \nj) Pipe B – Pipe load: __________  \n50 kW \nk) Pipe B – Pipe Size: __________  \n7 m\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n9 \n11. Size the 2 psig piping system shown in Illustration 8, then match the blanks with the correct \nanswer provided: \n \n \nIllustration 8 \n \na) Type of gas – Low Pressure: __________ \n130 MBtu/h \nb) Type of gas – 2 psig: __________ \n10 ft \nc) Type of pipe – Low Pressure: __________ \n9 ft/6 ft \nd) Type of pipe – 2 psig: __________ \n30 MBtu/h \ne) System pressure – Low Pressure: __________ \n2 psig \nf) System pressure – 2 psig: __________ \nBlack iron pipe \ng) Pressure drop – Low Pressure: __________ \nNPS 1/2 \nh) Pressure drop – 2 psig: __________ \n3/8” OC copper tube \ni) Sizing table – Low Pressure: __________ \n1/2” OD copper tube \nj) Sizing table – 2 psig: __________ \nCopper tubing \nk) Longest measured run – Low Pressure: _________ \n1” w.c. \nl) Longest measured run – 2 psig: __________ \n7” w.c./9” w.c \nm) Code zone – Low Pressure: __________ \nNatural gas \nn) Code zone – 2 psig: __________ \nA.2 (a) \n(continued)\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n10 \no) Pipe A – Pipe load: __________ \n50 ft \np) Pipe A – Pipe Size: __________ \n50 ft \nq) Pipe B – Pipe load: __________ \nNatural gas \nr) Pipe B – Pipe Size: __________ \nA.4 (a) \ns) Pipe C – Pipe load: __________ \n30 MBtu/h \nt) Pipe C – Pipe Size: __________ \n100 MBtu/h \nu) Pipe D – Pipe load: __________ \nNPS 1/2 \nv) Pipe D – Pipe Size: __________ \n  \n1.5” psig",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 8_01_Qstns_Piping_and_Tubing_Systems_INS.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 8 - Intro to Piping and Tubing Systems\\Assignments\\Answer Keys",
+          "char_count": 6405,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 8 – Chapter 01: Piping and Tubing \nSystems \n \n1. Which of the following piping materials cannot be used in gas piping systems? \na) Steel \nb) Copper \nc) Lead \nd) Plastic \n \n2. Indicate True or False: \nSteel or malleable iron fittings may be used with steel pipe. \na) True \nb) False \n \n3. Complete the following sentence: \nYou cannot use type ________ copper tubing in gas systems, as its wall thickness is slightly \nless than that of type G tubing. \na) K \nb) L \nc) M \n \n4. How shall piping be sized? \na) To meet the volume and pressure requirements at the point of use. \nb) To meet the pressure requirements at the point of use. \nc) To meet the volume requirements at the point of use. \nd) According to the appliance manufacturers installation manual. \n \n5. What is the maximum allowable pressure drop on a piping system that has a natural gas \nsupply pressure of 7 in w.c. to 14 in w.c.? \na) .5 Inch w.c. \nb) 1 inch w.c. \nc) 50%\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n6. How shall the gas pressure requirements for an appliance be determined? \na) Pipe sizing tables \nb) Provincial regulations \nc) Appliance rating plate or from the appliance manufacturer \n \n7. How shall an extension of an existing piping or tubing system be sized? \na) Sized to meet the load demand of the extended piping system \nb) Sized to meet the requirements of Clause 6.3 of CSA B149.1 \nc) Sized to meet the requirements of Clause 5.2 of CSA Z662 \n \n8. What is the maximum pressure drop allowed on a piping system that has a natural gas \nsupply pressure less than 7 in w.c.? \na) 1 inch w.c. \nb) 0.5 inch w.c.  \nc) 1.5 inches w.c \nd) 2 inches w.c \n \n9. How shall the volume of gas to an appliance be determined? \na) From either the rating plate or the appliance manufacturer \nb) By the size of the piping system the appliance is connected to \nc) According to provincial regulations \n \n10. Must the ends of all piping be reamed? \na) Yes  \nb) No \n \n11. What is the maximum spacing of supports for 1 in horizontal piping? \na) 12 ft  \nb) 6 ft  \nc) 8 ft  \nd) 16 ft\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n3 \n12. What diameters of piping require welded joints? \na) Diameters NPS 2-1/2 and larger  \nb) Diameters NPS 4 and larger \nc) Diameters NPS 2-1/4 and larger \nd) Diameters NPS 4-1/2 and larger \n \n13. May a copper joint be made with brazing material that has a melting temperature exceeding \n1000°F (537 °C)? \na) Yes  \nb) No \n \n14. During a period when a piping outlet to an appliance is not connected to the appliance, how \nshall it be made tight? \na) A piping outlet must always be connected to an appliance. \nb) By means of a plugged valve or either a cap or plug made of a material compatible \nwith the piping or tubing system. \n \n15. Complete the following sentence: \nA __________ is an area in a piping system that collects condensate and from which you can \nremove the condensate. \na) Drip pocket \nb) Dirt pocket \nc) Collection pocket \n \n16. What is the minimum diameter of piping that can be installed underground? \na) NPS 3/4 \nb) NPS 3/8 \nc) NPS 1/2  \n \n17. How shall the gas supply to an underground plastic pipe or tubing be controlled? \na) By a shut-off valve situated above ground  \nb) By a regulator\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n4 \n18. May a vented appliance be connected with a hose? \na) Yes \nb) No \n \n19. May a connector be used to connect a mobile home? \na) Yes, where the mobile home is not on a permanent foundation \nb) No \n \n20. What are the pressure test requirements for a 250 ft (76 m) natural gas piping system with \na working pressure of 2 psig? \na) 15 psig for 30 minutes \nb) 15 psig for 60 minutes  \nc) 60 psig for 15 minutes \n \n21. What are the minimum test requirements for all wrapped or factory-coated piping? \na) 100 psig and 15 minutes \nb) 100 psig and 60 minutes \nc) 100 psig and within the time duration required of Table 6.3, Note 2  \n \n22. May rooftop piping be supported with treated wood blocks? \na) Yes \nb) No \n \n23. May plastic pipe be used on liquid propane system? \na) Yes \nb) No \n \n24. When may piping less than NPS 1/2 be used indoors? \na) On a propane branch line not exceeding 15 ft in length \nb) On a propane branch line not exceeding 25 ft in length \nc) Piping less than NPS 1/2 cannot be used indoors\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n5 \n25. May propane piping or tubing be supported by other piping or tubing? \na) Yes, providing the piping is less than NPS ¾ \nb) No  \n \n26. What is the required diameter of a dirt pocket used on propane systems? \na) The diameter shall be NPS 2 or equal to the diameter it serves whichever is the \nlesser. \nb) The diameter shall be NPS 2 or equal to the diameter it serves whichever is the greater. \n \n27. May a close nipple be used on a propane piping system? \na) Yes \nb) No  \n \n28. Complete the following sentence:  \nWhen tubing runs horizontally across studs notched to accommodate the tubing, it must be \nprotected where it crosses each stud by a __________________. \na) 12-gauge (USG) steel plate \nb) 16-gauge (USG) steel plate \nc) 14-gauge (USG) steel plate \nd) 18-gauge (USG) steel plate \n \n29. What is the maximum interval that propane tubing can be run inside a residential \noccupancy without identification? \na) 6 ft  \nb) 12 ft \nc) 3 ft \nd) 24 ft \n \n30. Where must the shut-off valves be placed if propane piping or tubing is extended from one \nbuilding to another? \na) At the exit of the first building. \nb) At the point of entry to the second building. \nc) One at the exit of the first building and another at the point of entry to the second \nbuilding.\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n6 \n31. What is the required test pressure of a propane piping system 50 ft long with a working \npressure of 10 psig? \na) 50 psig for 60 minutes  \nb) 50 psig for 180 minutes \nc) 15 psig for 180 minutes \n \n \n32. Is an individual shut-off valve required for all propane appliances on a recreational vehicle? \na) Yes \nb) No",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 8_02_Qstns_Code Requirements forTesting_INS.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 8 - Intro to Piping and Tubing Systems\\Assignments\\Answer Keys",
+          "char_count": 2159,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 8 – Chapter 02: Code Requirements for \nTesting \n \n1. When during a piping installation should pressure testing be carried out? \na) After all of the appliances have been installed and connected. \nb) Before any appliance is installed. A leak test is required after the appliance is \ninstalled. \nc) Before any appliances are installed. \n \n2. What is the minimum diameter gauge that can be used for pressure testing? \na) 3 inches (75 mm) \nb) 2 inches (50 mm) \nc) 4 inches (100 mm) \n \n3. What two inert gases may be used to pressure-test gas piping systems? \na) Nitrogen and Hydrogen \nb) Argon and Carbon dioxide  \nc) Carbon dioxide and Nitrogen \nd) Hydrogen and Argon \n \n4. What should be done immediately after opening the gas valve at the gas meter? \na) Listen for the gas flow to stop and monitor the gas meter test dial. \nb) Test fire the gas appliance and check the input. \nc) Ventilate by opening a window allowing any gas to escape during the purging process. \n \n5. How can a leak be located? \na) By providing a lit taper at each joint and looking for a small flame. \nb) By watching the meter for movement. \nc) By wiping each joint in the system with a leak detecting solution (i.e., soap and \nwater)\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n \n6. After installation, a propane system requires testing. Put the following steps in order for \ntesting a system that does not have a gas meter: \na) Place a pressure gauge on the system.  \n2 \nb) Mark the pressure gauges and observe for leakage.  \n5 \nc) When the system is up to pressure, close the manual valves.  \n4 \nd) Do a main manual shut-off valve seepage test.  \n1 \ne) Pressurize the system by opening the manual valves on each stage.  \n3 \n \n7. What personal information must the gas technician/fitter place on the test tag after testing \nis complete? \na) Name, certification number, and classification. \nb) Contractors registration and company name. \nc) Name, address and phone number of gas technician.",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 8_03_Qstns_Purging_a_System_INS.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 8 - Intro to Piping and Tubing Systems\\Assignments\\Answer Keys",
+          "char_count": 1709,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n1 \nUnit 8 – Chapter 03: Purging a System \n \n1. Which appliance piping should be purged first? \na) The one with the largest input. \nb) The one farthest from the point of supply \nc) The one with the smallest input. \n \n2. What type of gas cock must be placed within 5 ft of the purge point? \na) One with ¼ turn lever handle \nb) One with a ‘dead man’ valve \nc) A lubricated 1/4 turn valve \n \n3. What substance is used to purge the air out of a gas piping system that is 4 in diameter or \nlarger? \na) An inert gas (carbon dioxide or nitrogen) \nb) Compressed Air \nc) Gas (Propane or natural gas) \n \n4. What is the maximum input of a propane appliance that may be purged at the pilot outlet of \nthe appliance control valve? \na) 125,000 Btu/h \nb) 45,000 Btu/h \nc) 400 000 Btu/h \n \n5. What characteristics of propane differentiate propane purging from natural gas purging? \na) Smell, calorific value \nb) Specific gravity, explosive limits\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n2 \n6. Complete the following statement: \nThe approximate explosive range of natural gas is ________ to ________ natural gas in air.   \na) 5% to 15% \nb) 10% to 20% \nc) 4% to 15% \nd) 15% to 20% \n \n7. Complete the following statement: \nThe approximate explosive limits of propane gas range from ________ to ________ propane in \nair.   \na) 5% to 15% \nb) 2% to 10% \nc) 7% to 10% \nd) 2% to 15% \n \n8. Indicate True or False: \nNatural gas is heavier than air. \na) True \nb) False \n \n9. Indicate True or False: \nAir is lighter than propane. \na) True \nb) False",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 8_04_Qstns_Protection_of_Piping_INS.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 8 - Intro to Piping and Tubing Systems\\Assignments\\Answer Keys",
+          "char_count": 2021,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 8 – Chapter 04: Protection of Piping and \nTubing from Corrosion \n \n1. Indicate True or False: \nCement can have an adverse effect on gas piping and tubing. \na) True \nb) False \n \n2. What is necessary for corrosion to occur? \na) Cathode, Anode \nb) Anode, Cathode, Conductive path \nc) Anode, Cathode, Electrolyte, Conductive path \nd) Electrolyte, Anode, Conductive path \n \n3. What is an example of the benefit of electrochemical action? \na) The light bulb \nb) The dry cell battery \nc) Corrosion \n \n4. Which is a better electrolyte? \na) Dry sandy soil \nb) Moist loamy soil \n \n5. In which direction will the electrical current flow if an electrolyte is placed between two \nmetals of differing potential? \na) From the higher potential metal to a lower potential metal \nb) From the lower potential metal to a higher potential metal\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n6. When installed underground, which type of copper tubing does not require a protective \ncoating? \na) Type G \nb) Type K \nc) Type GP \n \n7. List the methods that are used to protect underground steel piping. \nProtective coating \nCorrosion-resistant wrapping \nCathodic protection \nElectrical bonding \nIsolation of individual pipe sections \n \n8. Match the type of pipe/tubing with the corresponding statement.  \na) ____________________ is not usually used underground:  \nSteel and iron pipe \nb) You may use uncoated _______________ in above ground \napplications where it is not exposed to corrosive \nelements or physical damage:  \nCopper pipe and tubing \nc) You may only use _______________ for underground \ninstallations:  \nPolyethylene pipe \n \n9. How is an underground steel piping system isolated from the above-ground piping to which \nit is connected? \na) By the use of dielectric fittings \nb) By unions \nc) By plastic connectors \nd) By brass connectors",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 8_05_Qstns_Piping_and_Tubing_in_Water_Distribution_INS.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 8 - Intro to Piping and Tubing Systems\\Assignments\\Answer Keys",
+          "char_count": 1770,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 8 – Chapter 05: Piping and Tubing Used \nin Water Distribution \n \n1. What are the three most common materials used for water distribution piping? \na) Cast iron, copper, plastic \nb) Copper, galvanized steel, asbestos cement pipe \nc) Galvanized steel, plastic, cast iron \nd) Copper, galvanized steel, plastic \n \n2. What is the colour code for Type K copper? \na) Blue \nb) Green \nc) Yellow \n \n3. May polybutylene be used on both hot and cold-water distribution lines? \na) Yes \nb) No \n \n4. What is the melting temperature of hard solders? \na) Above 1000˚F \nb) Above 750˚F \nc) Above 500˚F \nd) Above 250˚F \n \n5. Can the solvent cement specified for use with one type of plastic pipe be used with another \ntype of plastic pipe? \na) Yes \nb) Yes, as long as it has a complete bead. \nc) No\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n \n6. Match the different types of pipe and tubing with the appropriate description. \na) Colour coded blue, available in coils or rigid lengths:  \nType L Copper \nb) Series 80, 100, 125, 160, 200 – may be used for cold water \nonly:  \nPVC \nc) (Polypropylene) may be used for hot and cold-water \ndistribution:  \nPP-R \nd) (Chlorinated) may be used for hot and cold-water \ndistribution:  \nCPVC \ne) Colour coded green, available in coils or rigid lengths:  \nType K Copper \nf) Cross-linked, may be used for hot and cold-water \ndistribution:  \nPEX-AL-PEX \ng) Welded and seamless galvanized, may be used in \nindustrial applications:  \nSteel \nh) Colour coded red, available in coils or rigid lengths – only \nrigid lengths can be used for water:  \nType M Copper",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 8_06_Qstns_Sizing_of_Piping_and_Tubing_Systems_INS.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 8 - Intro to Piping and Tubing Systems\\Assignments\\Answer Keys",
+          "char_count": 6988,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 8 – Chapter 06: Sizing of Piping and \nTubing Systems \n \n1. Indicate True or False: \nOne method of measuring pipe length is to measure the pipe from end to centre. \na) True \nb) False \n \n2. Are fitting allowances for a specific diameter and type of fitting the same for all \nmanufacturers? \na) Yes \nb) No \n \n3. What length should the pipe be cut to be properly sized for the application shown in \nIllustration 1? \na) 21 Inches \nb) 23 inches \nc) 20 Inches \n \n \nIllustration 1\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n4. Match the correct measurement with the following statements. \na) A natural gas piping system operating at a pressure between 7 in \nw.c. and 14 in w.c. must not have a pressure drop greater than \n________ w.c.:  \n1 inch \nb) The pressure drop in a propane gas piping system of 11 in w.c. must \nnot exceed _______ w.c. :  \n1 inch \nc) Up to __________ w.c. is acceptable for a natural gas piping system \noperating at less than 7 in w.c.:  \n0.5 inch\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n3 \n5. Size the low pressure piping system shown in Illustration 2, then match the blanks with the \ncorrect answer provided: \n \nIllustration 2 \n \na) Type of gas: __________ \nNatural gas \nb) Type of pipe: __________ \nBlack iron pipe \nc) System pressure: __________ \n7”w.c. \nd) Pressure drop: __________ \n1” w.c. \ne) Pipe sizing table: __________ \nA.2 (a) \nf) LMR: __________ \n35 ft \ng) CZ: __________ \n40 ft \nh) Pipe A – Pipe load: __________  \n30 MBtu/h \ni) Pipe A – Pipe Size: __________  \nNPS 1/2 \nj) Pipe B – Pipe load: __________  \n100 MBtu/h \nk) Pipe B – Pipe Size: __________  \nNPS 1/2 \nl) Pipe C – Pipe load: __________  \n130 MBtu/h \nm) Pipe C – Pipe Size: __________  \nNPS 3/4\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n4 \n6. Size the low pressure piping system shown in Illustration 3, then match the blanks with the \ncorrect answer provided: \n \n \nIllustration 3 \n \na) Type of gas: __________  \nNatural gas \nb) Type of pipe: __________  \nBlack iron pipe \nc) System pressure: __________  \n7” w.c. \nd) Pressure drop: __________ \n1” w.c. \ne) Pipe sizing table: __________ \nA.2 (a) \nf) LMR: __________ \n22 ft \ng) CZ: __________ \n40 ft \nh) Pipe A – Pipe load: __________ \n105 MBtu/h \ni) Pipe A – Pipe Size: __________ \nNPS 1/2\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n5 \n7. Size the low pressure piping system shown in Illustration 4, then match the blanks with the \ncorrect answer provided: \n \n \nIllustration 4 \n \na) Type of gas: __________ \nNatural gas  \nb) Type of pipe: __________ \nBlack iron pipe   \nc) System pressure: __________ \n1.75 kPa   \nd) Pressure drop: __________ \n250 Pa   \ne) Pipe sizing table: __________ \nA.2 (b)  \nf) LMR: __________ \n12 m \ng) CZ: __________ \n12 m   \nh) Pipe A – Pipe load: __________  \n35 kW  \ni) Pipe A – Pipe Size: __________  \nNPS ¾  \nj) Pipe B – Pipe load: __________  \n10 kW   \nk) Pipe B – Pipe Size: __________  \nNPS ½  \nl) Pipe C – Pipe load: __________  \n45 kW \nm) Pipe C – Pipe Size: __________  \nNPS 3/4\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n6 \n8. Size the low pressure piping system shown in Illustration 5, then match the blanks with the \ncorrect answer provided: \n \n \nIllustration 5 \n \na) Type of gas: __________  \nNatural gas \nb) Type of pipe: __________  \nBlack iron pipe \nc) System pressure: __________  \n1.75 kPa \nd) Pressure drop: __________ \n250 Pa \ne) Pipe sizing table: __________ \nA.2 (b) \nf) LMR: __________ \n15 m \ng) CZ: __________ \n15 m \nh) Pipe A – Pipe load: __________ \n48 kW \ni) Pipe A – Pipe Size: __________ \nNPS 3/4\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n7 \n9. Size the piping system shown in Illustration 6, then match the blanks with the correct \nanswer provided: \n \n \nIllustration 6 \n \na) Type of gas: __________ \nPropane   \nb) Type of pipe: __________ \nCopper tubing   \nc) System pressure: __________ \n11” w.c   \nd) Pressure drop: __________ \n1” w.c.  \ne) Pipe sizing table: __________ \nB.1 (a)  \nf) LMR: __________ \n35 ft \ng) CZ: __________ \n40 ft   \nh) Pipe A – Pipe load: __________  \n100 MBtu/h   \ni) Pipe A – Pipe Size: __________  \nNPS 5/8 \nj) Pipe B – Pipe load: __________  \n40 MBtu/h \nk) Pipe B – Pipe Size: __________  \nNPS ½ \nl) Pipe C – Pipe load: __________  \n140 MBtu/h \nm) Pipe C – Pipe Size: __________  \nNPS 3/4\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n8 \n10. Size the piping system shown in Illustration 7, then match the blanks with the correct \nanswer provided: \n \n \nIllustration 7 \n \na) Type of gas: __________ \nPropane \nb) Type of pipe: __________ \nCopper tubing \nc) System pressure: __________ \n2.7 kPa \nd) Pressure drop: __________ \n250 Pa \ne) Pipe sizing table: __________ \nB.6 (b) \nf) LMR: __________ \n7 m \ng) CZ: __________ \n9 m \nh) Pipe A – Pipe load: __________  \n50kW \ni) Pipe A – Pipe Size: __________  \n19 mm OD \nj) Pipe B – Pipe load: __________  \n50kW \nk) Pipe B – Pipe Size: __________  \n9.5 mm OD\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n9 \n11. Size the 2 psig piping system shown in Illustration 8, then match the blanks with the correct \nanswer provided: \n \n \nIllustration 8 \n \na) Type of gas – Low Pressure: __________ \nNatural gas \nb) Type of gas – 2 psig: __________ \nNatural gas \nc) Type of pipe – Low Pressure: __________ \nBlack iron pipe \nd) Type of pipe – 2 psig: __________ \nCopper tubing \ne) System pressure – Low Pressure: \n__________ \n7” w.c./9” w.c. \nf) System pressure – 2 psig: __________ \n2psig \ng) Pressure drop – Low Pressure: __________ \n1” w.c. \nh) Pressure drop – 2 psig: __________ \n1.5” psig \ni) Sizing table – Low Pressure: __________ \nA.2 (a) \nj) Sizing table – 2 psig: __________ \nA.4 (a) \nk) Longest measured run – Low Pressure: \n_________ \n9ft/6ft \nl) Longest measured run – 2 psig: \n__________ \n50 ft \n  (continued)\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n10 \nm) Code zone – Low Pressure: __________ \n10 ft  \nn) Code zone – 2 psig: __________ \n50 ft \no) Pipe A – Pipe load: __________ \n30 MBtu/h \np) Pipe A – Pipe Size: __________ \nNPS 1/2 \nq) Pipe B – Pipe load: __________ \n100 MBtu/h \nr) Pipe B – Pipe Size: __________ \nNPS 1/2 \ns) Pipe C – Pipe load: __________ \n30 MBtu/h \nt) Pipe C – Pipe Size: __________ \n3/8” OC copper tube \nu) Pipe D – Pipe load: __________ \n130 MBtu/h \nv) Pipe D – Pipe Size: __________ \n  \n1/2” OD copper tube",
+          "content_truncated": false
+        },
+        {
+          "filename": "Gas Trade Training Unit 8-Final Exam.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 8 - Intro to Piping and Tubing Systems\\Exams",
+          "char_count": 29705,
+          "content": "Gas Trade Training Unit 8: Introduction to Piping and Tubing Systems\nFinal Examination\nName: _________________________ Date: _____________\nInstructions: Choose the best answer for each question. Mark your answer clearly on the answer sheet.\n1. What is the primary purpose of a gas technician/fitter understanding piping and tubing systems?\na) To install electrical components\nb) To select and use different types of piping, tubing, valves, and connectors for gas distribution systems\nc) To repair heating systems only\nd) To maintain water systems\n2. What does the abbreviation CSST stand for?\na) Canadian Standard Steel Tubing\nb) Corrugated Stainless Steel Tubing\nc) Continuous Steel Supply Tubing\nd) Corrugated Standard Steel Type\n3. What does NPT stand for in gas piping terminology?\na) National Pipe Thread\nb) National Pipe Taper\nc) Normal Pressure Test\nd) New Pipe Technology\n4. What does NPS represent?\na) National Pipe Standard\nb) Normal Pressure System\nc) Nominal Pipe Size\nd) New Piping Specification\n5. Steel gas piping must conform to which ASTM specifications?\na) A53 or A106\nb) B149 or B150\nc) C200 or C300\nd) D400 or D500\n6. Gas technicians/fitters most commonly use which type of pipe for gas systems?\na) White pipe\nb) Black pipe\nc) Galvanized pipe\nd) Copper pipe\n7. In the Nominal Pipe Size (NPS) system, what remains constant as wall thickness increases?\na) Inside diameter (ID)\nb) Outside diameter (OD)\nc) Both ID and OD\nd) Neither ID nor OD\n8. Gas piping utilizes which type of thread?\na) Straight thread\nb) Tapered thread (NPT)\nc) Left-hand thread\nd) Metric thread\n9. What is the difference between Schedule 40 and Schedule 80 steel pipe?\na) Schedule 40 is heavier\nb) Schedule 80 is extra heavy with thicker walls\nc) They have different outside diameters\nd) Schedule 40 is for gas, Schedule 80 is for water\n10. Which copper tubing specifications are approved for gas systems?\na) ASTM B88 only\nb) ASTM B637 for G tube and ASTM B88 for K and L tube\nc) ASTM B200 only\nd) Any copper tubing specification\n11. Which type of copper tubing CANNOT be used in gas systems?\na) Type G\nb) Type K\nc) Type L\nd) Type M\n12. Soft drawn copper tubing is:\na) Supplied in straight lengths only\nb) Most commonly used for gas systems and supplied in coils\nc) Not approved for gas use\nd) Only used for water systems\n13. What are the two methods used to join copper tubing?\na) Soldering and welding\nb) Brazing with phosphorous-free material and joining with 45° brass flare connectors\nc) Gluing and clamping\nd) Threading and compression\n14. When brazing copper tubing, what temperature must the material exceed?\na) 800°F (427°C)\nb) 900°F (482°C)\nc) 1000°F (525°C)\nd) 1200°F (649°C)\n15. CSST consists of:\na) Rigid steel pipe only\nb) A continuous, flexible, stainless steel pipe with an exterior PVC covering\nc) Copper tubing with plastic coating\nd) Galvanized steel with rubber covering\n16. What is the maximum pressure rating for flexible stainless-steel tubing systems?\na) 2 psig\nb) 3 psig\nc) 5 psig\nd) 10 psig\n17. CSST can be purchased in lengths up to:\na) 100 ft (30 m)\nb) 200 ft (60 m)\nc) 250 ft (70 m)\nd) 300 ft (90 m)\n18. What diameter range is available for CSST?\na) 1/4 in to 2 in\nb) 3/8 in to 1 in\nc) 1/2 in to 1.5 in\nd) 3/8 in to 2 in\n19. Aluminum tubing is used for:\na) Main gas lines\nb) Pilot tubing, venting of regulators, and regulator vent tubes\nc) Underground installations\nd) High-pressure applications\n20. Polyethylene pipe is used for:\na) Indoor installations only\nb) Underground gas piping installations\nc) High-temperature applications\nd) Above-ground exterior installations\n21. Polyethylene pipe must conform to which standard?\na) CSA B149.1\nb) CSA B137.4\nc) ASTM A53\nd) ASTM B88\n22. What does the first number in a polyethylene pipe code designation represent?\na) The wall thickness\nb) The density of the pipe\nc) The pressure rating\nd) The manufacturing date\n23. Underground gas piping installations require a minimum depth of:\na) 18 in (450 mm)\nb) 20 in (500 mm)\nc) 24 in (600 mm) under commercial driveways, 15 in (400 mm) other locations\nd) 30 in (750 mm)\n24. All copper tubing joints in underground installations must be:\na) Soldered\nb) Brazed\nc) Threaded\nd) Compression fitted\n25. When installing piping on commercial rooftops, provisions must be made for:\na) Snow load only\nb) Wind resistance only\nc) Linear expansion and contraction\nd) All of the above\n26. The minimum pipe size for indoor applications is:\na) 1/4 in diameter\nb) 3/8 in diameter\nc) 1/2 in diameter\nd) 3/4 in diameter\n27. Concealed gas piping must:\na) Be tested before concealment\nb) Be larger than NPS 1/2\nc) Have unions or swing joints\nd) All of the above\n28. Concealed gas piping less than NPS 1/2:\na) Is permitted\nb) Is not permitted\nc) Requires special approval\nd) Must be CSST only\n29. Which fittings are prohibited in gas systems?\na) Tees and elbows\nb) Running threads, street elbows, close nipples, and fittings with right-hand and left-hand threads\nc) Unions and couplings\nd) Reducers and bushings\n30. Manual gas shut-off valves fall into which three categories?\na) Ball, gate, and globe\nb) Plug, ball, and eccentric\nc) Check, relief, and control\nd) Manual, automatic, and electronic\n31. Plug-type valves operate with:\na) A full turn of the handle\nb) A quarter turn of a handle\nc) Multiple turns of a handle\nd) A lever mechanism\n32. Ball-type valves have:\na) A Teflon seat and brass ball\nb) A Teflon seat and stainless-steel sealing ball\nc) A rubber seat and steel ball\nd) A metal seat and ceramic ball\n33. What is the maximum interval that propane tubing can be run inside a residential occupancy without identification?\na) 3 ft\nb) 6 ft\nc) 12 ft\nd) 24 ft\n34. Pressure testing of gas piping systems must be performed:\na) Only after installation of appliances\nb) Before installation of appliances and after installation of appliances\nc) Only before installation of appliances\nd) Only when required by inspection\n35. For systems with working pressure up to and including 2 psig, pressure gauge calibration increments must not be greater than:\na) 0.5 kPa (1 ounce of pressure)\nb) 1 kPa (2 ounces of pressure)\nc) 1.5 kPa (3 ounces of pressure)\nd) 2 kPa (4 ounces of pressure)\n36. The minimum diameter for pressure gauges used in testing is:\na) 2 in (50 mm)\nb) 3 in (75 mm)\nc) 4 in (100 mm)\nd) 5 in (125 mm)\n37. Before pressure testing, you should visually inspect piping for:\na) Proper sizing only\nb) Cuts, abrasion, and defects that may cause leaking or system failure\nc) Color coding only\nd) Valve positions only\n38. To perform a leak test, you should use:\na) Electronic leak detectors only\nb) Gas sniffers only\nc) Soap and water solution applied to joints and fittings\nd) Visual inspection only\n39. What inert gases may be used for pressure testing gas piping systems?\na) Oxygen and hydrogen\nb) Nitrogen and carbon dioxide\nc) Argon and helium\nd) Methane and propane\n40. After installing appliances, the system test should maintain gas pressure for a minimum of:\na) 5 minutes\nb) 10 minutes\nc) 15 minutes\nd) 20 minutes\n41. Information that must be included on a pressure test tag includes:\na) Contractor's name and date of test only\nb) Test pressure and duration only\nc) Address of test, contractor's name, test pressure, test duration, pipe size, and \"DO NOT REMOVE\"\nd) Inspector's signature only\n42. Purging should begin at:\na) The appliance closest to the source of supply\nb) The appliance farthest from the source of supply\nc) Any convenient location\nd) The largest appliance\n43. For piping 4 inches in diameter or greater, the system must first be purged with:\na) Natural gas\nb) Propane\nc) Nitrogen or carbon dioxide\nd) Compressed air\n44. What is the approximate explosive range of natural gas in air?\na) 2% to 10%\nb) 4% to 15%\nc) 6% to 20%\nd) 8% to 25%\n45. What is the approximate explosive range of propane in air?\na) 1% to 8%\nb) 2% to 10%\nc) 4% to 15%\nd) 6% to 20%\n46. The specific gravity of natural gas is approximately:\na) 0.60\nb) 0.80\nc) 1.00\nd) 1.20\n47. The specific gravity of propane is approximately:\na) 0.60\nb) 1.00\nc) 1.50\nd) 2.00\n48. Because propane is heavier than air, it will:\na) Rise and disperse quickly\nb) Collect in lower areas of confined spaces\nc) Mix evenly with air\nd) Dissipate immediately\n49. What is the maximum input of a propane appliance that may be purged at the pilot outlet?\na) 200,000 BTU/h\nb) 300,000 BTU/h\nc) 400,000 BTU/h\nd) 500,000 BTU/h\n50. The four elements required for corrosion to occur are:\na) Water, oxygen, metal, and heat\nb) An anode, a cathode, an electrolyte, and a conductive path\nc) Acid, base, metal, and current\nd) Moisture, salt, metal, and pressure\n51. In the corrosion process, electrical current flows from:\na) Cathode to anode\nb) Anode to cathode\nc) Positive to negative\nd) High to low potential\n52. Which is a better electrolyte?\na) Dry sandy soil\nb) Moist loamy soil\nc) Rocky soil\nd) Clay soil\n53. Resistivity is measured in:\na) Volts per meter\nb) Amperes per meter\nc) Ohm/cm\nd) Watts per square meter\n54. Soils below what resistivity level are considered especially corrosive?\na) 5,000 ohms/cm\nb) 10,000 ohms/cm\nc) 15,000 ohms/cm\nd) 20,000 ohms/cm\n55. Underground copper tubing installations require the use of:\na) Type K only\nb) Type L or G copper with approved protective coating\nc) Type M only\nd) Any type of copper\n56. Above-ground copper pipe and tubing exposed to corrosive elements must have:\na) No special protection\nb) An approved protective coating or corrosion-resistant wrapping\nc) Regular cleaning only\nd) Annual inspection only\n57. Steel and iron pipe used above-ground must have:\na) No special treatment\nb) An approved protective coating or corrosion-resistant wrapping when exposed to corrosive elements\nc) Regular painting only\nd) Galvanized coating only\n58. Protective coatings for underground piping insulate the pipe from:\na) Physical damage\nb) Temperature changes\nc) The soil (electrolyte)\nd) Water pressure\n59. The main coatings used for underground piping are:\na) Paint and primer\nb) Yard applied coal tar and extru",
+          "content_truncated": true
+        },
+        {
+          "filename": "Home Piping Assignment.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 8 - Intro to Piping and Tubing Systems\\Lab Practicals",
+          "char_count": 2986,
+          "content": "Home Piping Assignment\nLearning Outcome:\nUpon completion of this shop project, you will further understand the sizing requirements for gas piping and tubing installation.\nInstructions:\nTake this project home and look at the piping and appliances that are currently installed in your living space. You will be verifying the pipe sizes used in the current system and checking them against what is listed in the codebook. If you are unable to verify any equipment due to non-access, use a family/friends house, or make something up if need be.\nWhat type of gas is available at your living space? ______________________________\nList all the gas appliances and their Btu ratings that you have installed in your living space:\n________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nWhat is the total Btu load of all the different appliances? ____________________\nWhat current gas lines are installed and attached to each appliance? List the size and materials used from the service meter back to every appliance. (6 marks)\n______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nWhat is the length of the longest measured run? ____________________\nWhat code zone would be used? ____________________\nWhat code table(s) are you using? ______________________________\nSize out the gas lines using the code zone and total BTU: (4 marks)\n______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nDo the pipe sizes match up? Is everything sized out correctly?\n__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nWhat Btu load is still available through the main gas line with the rest of the appliances installed? ______________________________\nBelow, draw an isometric sketch of the gas piping system. It should be from the service meter out to each of the appliances. It should be drawn neatly, with the appliances, pipes sizes, and materials all labelled or listed in a Legend. (12 marks)",
+          "content_truncated": false
+        },
+        {
+          "filename": "Piping Material Identification.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 8 - Intro to Piping and Tubing Systems\\Lab Practicals",
+          "char_count": 821,
+          "content": "Piping Material Identification      NAME_______________________\nProject 1\n_________________________________\n_________________________________\n_________________________________\n_________________________________\n_________________________________\n_________________________________\n_________________________________\n_________________________________\n_________________________________\n_________________________________\n_________________________________\n_________________________________\n_________________________________\n_________________________________\n_________________________________\n_________________________________\n_________________________________\n_________________________________\n_________________________________\n_________________________________\n_________________________________\n_________________________________",
+          "content_truncated": false
+        },
+        {
+          "filename": "Piping Practical #2 - Half-Inch.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 8 - Intro to Piping and Tubing Systems\\Lab Practicals",
+          "char_count": 487,
+          "content": "10”\n½” black tees\n6”\n½” black                        ½” MPT x ½” FS adapter\nelbows\t½” MPT x ½” MF\nadapters\t½” type G gas copper\n4” plumb copper\n½” Flare Nuts\n5 ½”\nOther 3 pieces are ½” black gas pipe\nMaterials needed for above project:\n2 feet of ½” Black Gas Pipe\n2- ½” black gas pipe elbows\n2- ½” black gas pipe tees\n2- ½” forged brass flare nuts\n2- ½” MPT x ½” MF brass adapters\n30” of type G gas copper\n4” – ½” plumbing copper\n1- ½” plumbing copper cap\n1- ½” MPT x FS plumbing adapter",
+          "content_truncated": false
+        },
+        {
+          "filename": "Piping Practical #2 - Three-Quarter.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 8 - Intro to Piping and Tubing Systems\\Lab Practicals",
+          "char_count": 607,
+          "content": "All measurements are center-to-center\nAll black iron pipe is ¾”\nMaterials needed for project:\n2 - 3/4” black gas pipe 90’s\n2 - 3/4” black gas pipe tee’s\n2 - ½” forged brass flare nuts\n2 - ¾” MPT x ½” MF brass adapters\n20” - ½” type G gas copper\n1 - ¾” x ½” bushing\n3” - ½” plumbing copper\n1 - ½” MPT x FS plumbing adapter\n1 - ½” plumbing copper cap\nOR:\n2 - 3/4” black gas pipe 90’s\n2 - 3/4” black gas pipe tee’s\n2 - ½” forged brass flare nuts\n2 - ½” MPT x ½” MF brass adapters\n20” - ½” type G gas copper\n3 - ¾” x ½” bushing\n3” - ½” plumbing copper\n1 - ½” MPT x FS plumbing adapter\n1 - ½” plumbing copper cap",
+          "content_truncated": false
+        },
+        {
+          "filename": "Piping Practical.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 8 - Intro to Piping and Tubing Systems\\Lab Practicals",
+          "char_count": 177,
+          "content": "19”\n5”\t 5”                                       ?”\t\t\t      3”\n12”\n3”\t           ?”\t7”\n½” Type G Gas Copper\nAll measurements are Center to Center\nDiagram Not to Scale\nDiagram #2",
+          "content_truncated": false
+        }
+      ],
+      "total_documents": 20,
+      "total_chars": 389108,
+      "edition": "7th Edition",
+      "is_primary": false
+    }
+  }
+}

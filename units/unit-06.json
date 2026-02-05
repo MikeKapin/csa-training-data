@@ -1,0 +1,544 @@
+{
+  "unit_name": "Unit 6 - Technical Manuals, Specifications, Drawings and Graphs",
+  "unit_number": 6,
+  "editions": {
+    "8th_2025": {
+      "unit_name": "Unit 6 - Technical Manuals, Specifications, Drawings and Graphs",
+      "edition": "8th Edition",
+      "publication_date": "June 2025",
+      "is_primary": true,
+      "category": "G3",
+      "total_chapters": 5,
+      "total_pages": 51,
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "chapter_name": "Reference materials",
+          "pages": "6-12",
+          "topics": [
+            "Types of reference materials",
+            "Code books and manuals (CSA B149.1, B149.2, B149.3)",
+            "Acts, regulations, and directives",
+            "Provincial acts and regulations",
+            "Safety directives/bulletins",
+            "Manufacturer specifications",
+            "Manufacturer service bulletins",
+            "Using the internet for updates"
+          ],
+          "content": "Chapter 1 - Reference materials\n\nOverview\nA gas technician/fitter installs, services, and maintains gas equipment and piping systems on a daily basis, and the systems and types of equipment they work on are constantly changing. Therefore, it is important to have access to current reference materials. Moreover, gas-fired equipment must be installed and serviced according to codes, regulations, and manufacturer specifications.\n\nTerminology\n- Manufacturer service bulletins: Instructions from a manufacturer with guidelines for servicing and maintaining appliances or equipment, or updates on equipment problems and provisions for solutions\n- Manufacturer specifications: Specifications and certified installation instructions from a manufacturer for its appliances and equipment\n\nTypes of reference materials\nA gas technician/fitter needs to reference code books, installation manuals, government acts, regulations, bulletins, and directives, as well as manufacturer manuals, specifications, and service bulletins.\n\nCode books and manuals\n\nCSA B149.1, Natural gas and propane installation code\nCSA B149.1 has ten main clauses, as identified in the table of contents. You can find a topic either by searching the table of contents by clause title, or by using the key word index at the back of the Code. Searching the index is the preferred method as it shows cross references on the topic in various clauses of the Code.\n\nCSA B149.2, Propane storage and handling code\nCSA B149.2 has nine main clauses, as identified in table of contents. Similarly, you can search either the table of contents or the index.\n\nCSA B149.3, Code for the field approval of fuel-burning appliances and equipment\nCSA B149.3 contains requirements for the field approval and assembly of non-certified or upgraded gas appliances, equipment, fuel-related components, and accessories located downstream of an appliance's manual shut-off valve.\n\nThis Code consists of 20 clauses and Annexes A to K (all informative), which are listed in the table of contents. Annex B contains symbols and diagrams.\n\nActs, regulations, and directives\n\nProvincial acts\nAn act is a piece of government legislation that defines or assigns responsibilities and enables the writing of regulations. A gas technician/fitter should be familiar with the sections of the applicable act(s) pertaining to their responsibilities.\n\nImportant: The title of the act(s) that deal with the installation of gas equipment, the certification of gas technicians/fitters, or both, varies from province to province.\n\nProvincial regulations\nA regulation is a piece of government legislation made under the authority of an act. A regulation is more specific than an act. For example, there are usually separate regulations for certification or apprenticeship, gas installations, and propane storage.\n\nSafety directives/bulletins\nThe provincial authority having jurisdiction (AHJ) may periodically issue directives and bulletins pertaining to product approval or installation practices. The AHJ is responsible for the adoption of national installation codes, often with changes.\n\nManufacturer specifications\nManufacturers publish specifications and certified installation instructions for their appliances and equipment. It is crucial to read manufacturer publications before installing an appliance and ensure that the specifications and instructions pertain to the appliance being installed.\n\nCompliance with the manufacturer's certified instructions is a legal requirement. CSA B149.1 states that \"[a]n appliance, accessory, component, equipment, or any other item shall be installed in accordance with the manufacturer's certified instructions and this Code\".\n\nTypically, the following information is in gas appliance manufacturer publications:\n• Size of area needed for installation and service\n• Physical dimensions of the equipment\n• Model and part numbers\n• Gas input rate and pressure requirements, and combustion parameters\n• Venting material and configuration requirements\n• Air supply requirements\n• Electrical diagrams and rating\n• Operating sequence\n• Maintenance requirements\n• Troubleshooting tips\n\nManufacturer service bulletins\nManufacturer service bulletins give the service technician guidelines for servicing and maintaining an appliance or equipment. Manufacturers also publish updates on equipment problems and provisions for solutions when necessary.\n\nThe internet is a powerful tool for staying up-to-date on the latest information available concerning a specific appliance or component. A gas technician/fitter should regularly check the manufacturer website for any new information or service bulletins regarding the appliance or component being installed or serviced.\n\nImportant: Carefully read all materials available from the manufacturer.",
+          "assignment_questions": [
+            {
+              "question": "Which organization publishes the CSA B149 series of code books?",
+              "options": [
+                "TSSA",
+                "CGA",
+                "CSA Group"
+              ],
+              "correct_answer": "c",
+              "explanation": "CSA Group publishes the CSA B149 series of installation codes"
+            },
+            {
+              "question": "In which of the following Codes would you find the valve train requirements for a one-of-a-kind appliance requiring field approval?",
+              "options": [
+                "CSA B139, Installation code for oil-burning equipment",
+                "CSA B149.1, Natural gas and propane installation code",
+                "CSA B149.2, Propane storage and handling code",
+                "CSA B149.3, Code for the field approval of fuel-burning appliances and equipment"
+              ],
+              "correct_answer": "d",
+              "explanation": "CSA B149.3 covers field approval and valve train requirements"
+            },
+            {
+              "question": "When installing a gas-fired appliance, where would you find the height and space requirements for the appliance?",
+              "options": [
+                "In the appliance certification standard",
+                "In the provincial regulations",
+                "In the manufacturer specifications"
+              ],
+              "correct_answer": "c",
+              "explanation": "Manufacturer specifications contain installation space requirements"
+            },
+            {
+              "question": "Where would a service technician find information on the service problems for a particular appliance?",
+              "options": [
+                "In the manufacturer service bulletins",
+                "At the Consumer Product Safety Commission",
+                "At CSA Group"
+              ],
+              "correct_answer": "a",
+              "explanation": "Manufacturer service bulletins provide service problem information"
+            },
+            {
+              "question": "Where can you find legal orders regarding product approvals or installation practices?",
+              "options": [
+                "In the provincial act/regulation",
+                "In the directives and bulletins from the provincial authority",
+                "In the manufacturer service bulletins"
+              ],
+              "correct_answer": "b",
+              "explanation": "Provincial AHJ issues directives and bulletins for product approvals"
+            },
+            {
+              "question": "Where can you find a valve train diagram for field approval?",
+              "options": [
+                "In CSA B149.1, Natural gas and propane installation code",
+                "In CSA B149.2, Propane storage and handling code",
+                "In CSA B149.3, Code for the field approval of fuel-burning appliances and equipment"
+              ],
+              "correct_answer": "c",
+              "explanation": "CSA B149.3 contains valve train diagrams for field approval"
+            },
+            {
+              "question": "Where can you find guidelines for the service and maintenance of a specific appliance model?",
+              "options": [
+                "In CSA B149.1, Natural gas and propane installation code",
+                "In the directives and bulletins from the provincial authority",
+                "In the manufacturer service bulletins"
+              ],
+              "correct_answer": "c",
+              "explanation": "Manufacturer service bulletins provide service and maintenance guidelines"
+            },
+            {
+              "question": "Where can you find requirements for propane tank clearances?",
+              "options": [
+                "In the provincial act/regulation",
+                "In CSA B149.2, Propane storage and handling code",
+                "In the manufacturer service bulletins"
+              ],
+              "correct_answer": "b",
+              "explanation": "CSA B149.2 covers propane tank clearance requirements"
+            },
+            {
+              "question": "Where can you find the requirements for pipe sizing?",
+              "options": [
+                "In CSA B149.1, Natural gas and propane installation code",
+                "In the manufacturer service bulletins",
+                "In CSA B149.3, Code for the field approval of fuel-burning appliances and equipment"
+              ],
+              "correct_answer": "a",
+              "explanation": "CSA B149.1 contains pipe sizing requirements"
+            },
+            {
+              "question": "Where can you find the qualification requirements for a gas technician/fitter?",
+              "options": [
+                "In the directives and bulletins from the provincial authority",
+                "In CSA B149.1, Natural gas and propane installation code",
+                "In the provincial act/regulation"
+              ],
+              "correct_answer": "c",
+              "explanation": "Provincial acts and regulations specify qualification requirements"
+            }
+          ]
+        },
+        {
+          "chapter_number": 2,
+          "chapter_name": "Manufacturer technical manuals and specifications",
+          "pages": "14-21",
+          "topics": [
+            "Manufacturer certified installation and service manuals",
+            "Model numbers",
+            "Tools and hardware",
+            "Wiring and piping",
+            "Gas orifice schedules",
+            "Wiring diagram keys",
+            "Replacement parts",
+            "Troubleshooting procedures (7 steps)",
+            "Troubleshooting guides",
+            "Obtaining service assistance"
+          ],
+          "content": "Chapter 2 - Manufacturer technical manuals and specifications\n\nOverview\nA gas technician/fitter requires manufacturer technical manuals and specifications for installation, parts replacement, and troubleshooting procedures.\n\nTerminology\n- Manufacturer certified installation and service manual: A document from a manufacturer with all the necessary information for the installation and basic maintenance of an appliance\n- Troubleshooting procedure: A series of specific steps to locate the source of a problem to make a product or process operational again\n\nManufacturer's installation data\nManufacturers provide certified installation and service manuals with their appliances. Although the literature varies between companies and products, these manuals include all the necessary information for the installation and basic maintenance of an appliance.\n\nGas appliance manufacturer installation instructions typically include a list of tools and measuring instruments needed to complete the installation, as well as instructions on how to uncrate, locate, install, test, and commission the appliance.\n\nModel number\nManufacturers often publish one set of instructions for various models of the same series of appliances.\n\nTools and hardware\nManufacturers often indicate the tools and hardware required for the installation and may indicate when hardware is supplied.\n\nWiring and piping\nMost manuals have wiring and piping diagrams that often come with schedules (gas orifice schedules) and keys (wiring diagram keys describing components).\n\nReplacement parts\nManuals will sometimes specify details on replacement parts (e.g., wire types, specifications).\n\nTroubleshooting problems\nThe troubleshooting section provides general information about troubleshooting problems. Its purpose is to help develop a consistent, analytical approach to troubleshooting.\n\nTroubleshooting procedure (7 steps):\n\nStep 1 — Know the system\nStudy the manufacturer technical manuals, and know how the system works. Keep up with the latest service bulletins.\n\nStep 2 — Ask questions and look for symptoms\nAsk all possible questions to anyone who might know what happened. Examine the equipment and look for symptoms (signs of abnormal operation).\n\nStep 3 — Evaluate your information\nUse the supplied manufacturer manuals, charts, and service suggestions, together with your experience, to evaluate any information concerning the problem.\n\nStep 4 — Make a trial run\nCycle the burner system and observe. Take note of any new information gathered.\n\nStep 5 — Re-evaluate\nGo over your list of possible causes and decide which are most likely and easiest to verify. Remember that more than one factor may be contributing.\n\nStep 6 — Test your conclusions\nPerform a second test run to verify if your evaluation is correct. More than one re-evaluation test might be necessary.\n\nStep 7 — Correct the condition(s)\nAdjust or replace the faulty part(s). Do a final run-through to confirm you have solved the problem. When ordering replacement parts, provide the model number.\n\nManufacturer troubleshooting guides\nManufacturers provide troubleshooting guides that list:\n- Nature of trouble\n- Possible cause\n- Service required\n\nHow to obtain service assistance\nWhen contacting the manufacturer, have the following information:\n1) Model and serial number (from name plate)\n2) Address where equipment is located\n3) Name and address of installer and service agency\n4) Date of original installation and service work dates\n5) Details of the problem\n6) List of people contacted regarding the issue",
+          "assignment_questions": [
+            {
+              "question": "Indicate whether the given statement is true or false. Manufacturers often publish one set of instructions for different models in the same series of appliances.",
+              "options": [
+                "True",
+                "False"
+              ],
+              "correct_answer": "a",
+              "explanation": "Manufacturers commonly publish one manual for multiple models in a series"
+            },
+            {
+              "question": "Which of the following are often included in the manufacturer installation manual?",
+              "options": [
+                "Wiring diagrams and architectural designs",
+                "Piping diagrams and floor plans",
+                "Piping and wiring diagrams"
+              ],
+              "correct_answer": "c",
+              "explanation": "Installation manuals include piping and wiring diagrams"
+            },
+            {
+              "question": "Match the scenarios (1–7) with the resources (a–g) that you could reference to respond to the scenario.",
+              "options": [
+                "Wiring schematic, Operator manual, Parts assembly chart",
+                "Installation instructions, Piping schematic, Common problem troubleshooting guide"
+              ],
+              "correct_answer": "a",
+              "explanation": "Different scenarios require different reference materials"
+            },
+            {
+              "question": "Which of the following may be a possible reason for the pilot not staying lit when the red button is released?",
+              "options": [
+                "Loose thermocouple",
+                "High limit is open",
+                "Thermostat not calling for heat"
+              ],
+              "correct_answer": "a",
+              "explanation": "A loose thermocouple connection prevents pilot from staying lit"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. When a loose thermocouple is the reason the pilot is not staying lit, the service requirement is to _______.",
+              "options": [
+                "Increase the pilot size",
+                "Change the gas valve",
+                "Replace the thermocouple"
+              ],
+              "correct_answer": "c",
+              "explanation": "Replace thermocouple when it is the cause of pilot failure"
+            },
+            {
+              "question": "Which of the following may be the cause of a yellow flame and a sooting problem?",
+              "options": [
+                "Scale on top of the burner",
+                "Gas pressure too high",
+                "Gas pressure too low"
+              ],
+              "correct_answer": "a",
+              "explanation": "Scale on burner restricts airflow causing yellow flame and soot"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. When the scale on top of a burner causes a yellow flame and sooting, the service requirement is to _______.",
+              "options": [
+                "Replace the appliance",
+                "Shut off the heater and remove the scale",
+                "Replace the burner"
+              ],
+              "correct_answer": "b",
+              "explanation": "Shut off heater and remove scale to restore proper combustion"
+            }
+          ]
+        },
+        {
+          "chapter_number": 3,
+          "chapter_name": "Technical drawings and diagrams",
+          "pages": "32-42",
+          "topics": [
+            "Orthographic projections",
+            "Schematic diagrams",
+            "Wiring diagrams",
+            "Lines and symbols",
+            "Object lines, hidden lines, centrelines",
+            "Extension lines, dimension lines",
+            "Section lines, break lines",
+            "Piping symbols and lines",
+            "Specifications",
+            "Scale (actual, reduced, enlarged)",
+            "Revision block",
+            "Materials block (bill of materials)"
+          ],
+          "content": "Chapter 3 - Technical drawings and diagrams\n\nOverview\nTechnical drawings and diagrams communicate information about equipment, systems, and installations. Understanding how to read these is essential for gas technicians/fitters.\n\nTypes of technical drawings\n\nOrthographic projections\nOrthographic projections provide separate two-dimensional views of an object. The three most commonly projected views are: top, front, and left side (or right side).\n\nSchematic diagrams\nSchematics show only the connections, functions, and flow within a system, not the actual size, shape, or location of components.\n\nWiring diagrams\nWiring diagrams show how and where wires are connected, and how they run between devices. They are extremely useful for initial wiring and troubleshooting. Solid lines represent factory wiring; broken/dotted lines represent field wiring.\n\nLines and symbols\nDifferent lines convey different meanings on technical drawings:\n\nObject line: Thick lines tracing the visible outline of an object\n\nHidden line: Thin, equally spaced, broken lines showing surfaces and features that are hidden\n\nCentreline: Thin, broken lines with long and short lines spaced alternately, indicating exact centre of object\n\nExtension line: Thin lines extending object lines out to convenient space for dimensioning\n\nDimension line: Thin lines terminating with arrowheads, giving measured dimensions\n\nSection lines: Hatch marks identifying a sectional view\n\nBreak lines: Help shorten the view of long uniform sections\n\nPiping symbols and lines\nSymbols are shorthand signs used on drawings. Common fitting symbols include: elbows, reducing couplings, plugs, caps, crosses, wyes, tees.\n\nPiping line symbols distinguish various types of pipes: cold water, hot water, hot water return, acid waste, compressed air, fire line, gas line, vacuum.\n\nSupplements to mechanical drawings\n\nSpecifications\nA specifications book (written description of work to be performed) supplements the set of technical drawings. The specification is an integral part of a contract document and is generally considered the most important document after the written agreement.\n\nWhen there is disagreement between a specification and a drawing, the specification is considered correct.\n\nScale\nScale allows description of large or small machines on standard size paper. First number refers to dimensions used to draw the object; second number refers to object's actual size.\n\nScale types:\n- Actual scale (1:1): Drawing shows actual size\n- Reduced scale (1:10): One unit on print represents ten units of actual object\n- Enlarged scale (10:1): Ten units on print represents one unit of actual object\n\nRevision block\nLocated in lower left-hand or upper right-hand corner. Lists all revisions made to the drawing after initial drafting.\n\nMaterials block (bill of materials)\nUsually located just above title block. Lists all parts with part/stock numbers, quantities, sizes, and materials.",
+          "assignment_questions": [
+            {
+              "question": "Which of the following drawings uses separate (but related) two-dimensional views of an object?",
+              "options": [
+                "Ladder diagram",
+                "Orthographic projection",
+                "Blueprint",
+                "Schematic"
+              ],
+              "correct_answer": "b",
+              "explanation": "Orthographic projections use separate 2D views of an object"
+            },
+            {
+              "question": "Which of the following are the three most often projected orthographic views of an object?",
+              "options": [
+                "Bottom, rear, front",
+                "Top, front, left side",
+                "Rear, top, bottom",
+                "Top, front, right side"
+              ],
+              "correct_answer": "b",
+              "explanation": "Most common orthographic views are top, front, and left side"
+            },
+            {
+              "question": "Which of the following diagrams shows only the connections, functions, and flow within a system (not the actual size, shape, or location of components)?",
+              "options": [
+                "Schematic diagram",
+                "Ladder diagram"
+              ],
+              "correct_answer": "a",
+              "explanation": "Schematics show connections and flow, not physical attributes"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. On a technical drawing, the hidden lines of an object are _______.",
+              "options": [
+                "shown as a different colour",
+                "shown as thin, equally spaced, broken lines",
+                "shown as a different thickness"
+              ],
+              "correct_answer": "b",
+              "explanation": "Hidden lines are thin, equally spaced, broken lines"
+            },
+            {
+              "question": "Which of the following written documents accompanies the blueprints of a large construction project?",
+              "options": [
+                "Specifications",
+                "Permits",
+                "Contractor lists"
+              ],
+              "correct_answer": "a",
+              "explanation": "Specifications book supplements the technical drawings"
+            },
+            {
+              "question": "If a scale on a drawing is 1:100, how much larger is the actual object?",
+              "options": [
+                "Ten times larger",
+                "100 times larger",
+                "1000 times larger"
+              ],
+              "correct_answer": "b",
+              "explanation": "1:100 scale means actual object is 100 times larger than drawing"
+            },
+            {
+              "question": "What type of drawing is the figure showing piping layout?",
+              "options": [
+                "Orthographic projection, plan view",
+                "Ladder diagram",
+                "Schematic"
+              ],
+              "correct_answer": "a",
+              "explanation": "Piping layouts are typically shown in orthographic plan view"
+            },
+            {
+              "question": "What is the scale on the figure?",
+              "options": [
+                "1/3 in = 1 ft 0 in",
+                "1/8 in = 1 ft 0 in",
+                "1:8",
+                "1:3"
+              ],
+              "correct_answer": "b",
+              "explanation": "Scale determines the relationship between drawing and actual size"
+            },
+            {
+              "question": "Complete matching sentences about drawing types with correct terms.",
+              "options": [
+                "Schematic, Lines and symbols, Isometric",
+                "Orthographic, Pictorial, Schedule"
+              ],
+              "correct_answer": "a",
+              "explanation": "Different drawing types serve different purposes"
+            },
+            {
+              "question": "Complete matching sentences about scales and specifications with correct terms.",
+              "options": [
+                "One-half, Written description, Initial",
+                "Specification, Bill of materials, One unit"
+              ],
+              "correct_answer": "b",
+              "explanation": "Understanding specifications and materials lists is essential"
+            }
+          ]
+        },
+        {
+          "chapter_number": 4,
+          "chapter_name": "Graphs and charts",
+          "pages": "44-50",
+          "topics": [
+            "Types of graphs and charts",
+            "Bar graphs (bar charts/column charts)",
+            "Pie charts (sector charts)",
+            "X-Y graphs (rectangular coordinate line graphs)",
+            "Flow charts",
+            "Applications of graphs and charts",
+            "Advantages and disadvantages of each type",
+            "Locating data on graphs",
+            "Reading X-Y graphs"
+          ],
+          "content": "Chapter 4 - Graphs and charts\n\nOverview\nGraphs and charts are used to represent facts, statistics, or the relationship between physical properties. A visual or graphical description is often easier to understand than a numerical or verbal description.\n\nTerminology\n- Chart: A visual or graphical representation of data\n- Graph: Same as chart\n\nTypes of graphs and charts\nA graph or chart is a line or diagram that shows how one quantity depends on, changes, or relates to another.\n\nApplications\nGraphs and charts are used in three general ways:\n• For graphical presentation of information\n• For graphical analysis\n• For computation or determination of values\n\nFour common types:\n1) Bar graph (bar chart or column chart)\n2) Pie chart (sector chart)\n3) X-Y graph (rectangular coordinate line graph)\n4) Flow chart\n\nBar graph\nBar graphs visually represent numerical values through bars of different lengths or heights. Bars may be vertical or horizontal, begin at a baseline, and show the relationship between two or more related variables.\n\nParticularly suitable for:\n• Presenting information to non-technical audience\n• Representing small numbers of plotted values\n• Making simple comparison of two values along two axes\n• Representing data for a total period\n\nUnsuitable for:\n• Comparing several series of data\n• Plotting large numbers of values\n\nPie chart\nPie charts show individual parts as sectors in a circular area, communicating the relationship of these sectors to the total.\n\nCommonly used to:\n• Display data as percentages\n• Present general overall view of information\n• Show relationship between small number of values\n• Emphasize amount of data rather than trend\n\nX-Y graph\nX-Y graphs show values of two related variables plotted as points on a coordinate grid. Points are successively connected to form continuous line or curve.\n\nUsed to:\n• Compare large numbers of values in compact space\n• Compare trends of several curves on one graph\n• Calculate values that fall between plotted points\n\nReading X-Y graphs:\nValues of two variables are plotted with reference to two axes perpendicular to one another, meeting at common origin or zero point.\n\nUnsuitable for:\n• Representing small numbers of plotted values\n• Showing changes in absolute amounts\n• Showing extreme or irregular data movements\n\nFlow chart\nFlow chart is schematic representation of a process, showing information in:\n• Pictorial form\n• Schematic symbols\n• Labelled blocks\n• Combination of all three\n\nLocating data on graphs\nTo determine values from graphs:\n1) Determine value on x-axis\n2) Locate point on line coinciding with x-axis value (trace vertically)\n3) Trace horizontal line to y-axis\n4) Read corresponding value on y-axis",
+          "assignment_questions": [
+            {
+              "question": "Which of the following is not, in general, a purpose of a graph or chart?",
+              "options": [
+                "Determining the location of equipment",
+                "The graphical presentation of information",
+                "Graphical analysis",
+                "The computation or determination of values"
+              ],
+              "correct_answer": "a",
+              "explanation": "Graphs/charts are not used to determine equipment location"
+            },
+            {
+              "question": "Which of the following charts show individual parts as sectors in a circular area, thereby communicating the relationship of these sectors to the total?",
+              "options": [
+                "Flow chart",
+                "Eye chart",
+                "Pie chart"
+              ],
+              "correct_answer": "c",
+              "explanation": "Pie charts show parts as sectors in a circle"
+            },
+            {
+              "question": "Which of the following charts is generally a schematic representation of a process?",
+              "options": [
+                "Flow chart",
+                "Eye chart",
+                "Pie chart"
+              ],
+              "correct_answer": "a",
+              "explanation": "Flow charts schematically represent processes"
+            },
+            {
+              "question": "Which of the following graphs begins at a baseline (either horizontally or vertically), and shows the relationship between two or more related variables?",
+              "options": [
+                "Linear graph",
+                "Bar graph",
+                "Vector graph"
+              ],
+              "correct_answer": "b",
+              "explanation": "Bar graphs begin at baseline and show variable relationships"
+            },
+            {
+              "question": "Complete matching sentences about chart/graph types with correct terms.",
+              "options": [
+                "Bar, Pie, Bar, X-Y",
+                "Pie, Bar, X-Y, Bar"
+              ],
+              "correct_answer": "a",
+              "explanation": "Each chart type has specific characteristics and uses"
+            }
+          ]
+        },
+        {
+          "chapter_number": 5,
+          "chapter_name": "Units of measurement and conversion factors",
+          "pages": "52-57",
+          "topics": [
+            "Imperial units",
+            "SI (International System of Units)",
+            "Prefixes (giga, mega, kilo, deci, centi, milli, micro, nano, pico)",
+            "Units for length, area, volume, flow rate",
+            "Calorific value units",
+            "Pressure units",
+            "Mass, temperature, heat, power units",
+            "Conversion factors",
+            "Common conversions for gas technicians"
+          ],
+          "content": "Chapter 5 - Units of measurement and conversion factors\n\nOverview\nA gas technician/fitter needs to understand both the traditional and SI (metric) units of measurement, as both are common in technical manuals, specifications, drawings, and graphs.\n\nTerminology\n- Imperial units: A system of measurement derived from an earlier English system of measurement units\n- International System of Units (SI): A rationalized, coherent, and simplified metric-based system of measurement\n\nUnits of measurement\nThe countries participating in the General Conference of Weights and Measures (CGPM), ISO, and IEC developed and approved the International System of Units (SI). Canada is a member of all these organizations.\n\nDespite this, many measurements used in the gas industry continue to be in imperial units.\n\nPrefixes indicating order of magnitude:\n- G (giga): 1,000,000,000 = 10⁹\n- M (mega): 1,000,000 = 10⁶\n- k (kilo): 1000 = 10³\n- d (deci): 0.1 = 10⁻¹\n- c (centi): 0.01 = 10⁻²\n- m (milli): 0.001 = 10⁻³\n- µ (micro): 0.000001 = 10⁻⁶\n- n (nano): 0.000000001 = 10⁻⁹\n- p (pico): 0.000000000001 = 10⁻¹²\n\nNote: In imperial measurements, \"M\" sometimes represents 1000 (not 1,000,000). Example: MBtu/h means one thousand Btu/h.\n\nImperial and SI units commonly used in gas industry:\n\nLength: Inches (in), Feet (ft), Miles (mi) | Centimetres (cm), Metres (m), Kilometres (km)\n\nArea: Square inches (in²), Square feet (ft²) | Square centimetres (cm²), Square metres (m²)\n\nVolume of liquid: Gallon (gal) | Litre (L)\n\nVolume of gas: Cubic feet (ft³) | Cubic metres (m³)\n\nFlow rate of gas: Cubic feet per hour (ft³/h) | Cubic metres per hour (m³/h)\n\nCalorific value: British thermal units per cubic foot (Btu/ft³) | Megajoules per cubic metre (MJ/m³)\n\nPressure: Pounds per square inch (psig), Inches water column (in w.c.) | Kilopascal (kPa)\n\nMass: Ounces (oz), Pounds (lb) | Grams (g), Kilograms (kg)\n\nTemperature: Degrees Fahrenheit (°F) | Degrees Celsius (°C)\n\nHeat (energy): British thermal units (Btu) | Joules (J)\n\nHeat rate (power): Horsepower (HP), British thermal units per hour (Btu/h) | Watts (W), Kilowatts (kW)\n\nConversion factors\nUsed to calculate value of measurement as different unit. Common conversion factors:\n\n- Btu/ft³ × 0.03723 = MJ/m³\n- Btu/h × 0.00029295 = kW\n- °F: (°F − 32) × 5/9 = °C\n- ft × 0.3048 = m\n- ft³ × 0.028317 = m³\n- ft³/h × 0.028328 = m³/h\n- gal × 4.546 = L\n- US gal × 3.785 = L\n- HP × 745.699 = W\n- in × 25.4 = mm\n- in² × 645.16 = mm²\n- in w.c. × 249 = P\n- in w.c. × 0.249 = kPa\n- lb × 453.6 = g\n- MJ/h × 0.2778 = kW\n- oz × 28.35 = g\n- psig × 6.894757 = kPa",
+          "assignment_questions": [
+            {
+              "question": "Use the appropriate conversion factor to calculate the value then complete the following equation with the correct option. 400 000 Btu/h = _______ kW",
+              "options": [
+                "117",
+                "171",
+                "711",
+                "717"
+              ],
+              "correct_answer": "a",
+              "explanation": "400,000 × 0.00029295 = 117.18 kW"
+            },
+            {
+              "question": "Use the appropriate conversion factor to calculate the value then complete the following equation with the correct option. 50 ft³ = _______ m³",
+              "options": [
+                "1.24",
+                "1.42",
+                "12.4",
+                "14.2"
+              ],
+              "correct_answer": "b",
+              "explanation": "50 × 0.028317 = 1.41585 m³"
+            },
+            {
+              "question": "Use the appropriate conversion factor to calculate the value then complete the following equation with the correct option. 1000 Btu/ft³ = _______ MJ/m³",
+              "options": [
+                "0.0372",
+                "3.723",
+                "37.23",
+                "372.34"
+              ],
+              "correct_answer": "c",
+              "explanation": "1000 × 0.03723 = 37.23 MJ/m³"
+            },
+            {
+              "question": "Use the appropriate conversion factor to calculate the value then complete the following equation with the correct option. 3.5 in w.c. = _______ kPa",
+              "options": [
+                "0.74",
+                "0.78",
+                "0.87",
+                "0.99"
+              ],
+              "correct_answer": "c",
+              "explanation": "3.5 × 0.249 = 0.8715 kPa"
+            },
+            {
+              "question": "Use the appropriate conversion factor to calculate the value then complete the following equation with the correct option. 14 psig = _______ kPa",
+              "options": [
+                "9.65",
+                "95.6",
+                "96.5",
+                "965"
+              ],
+              "correct_answer": "c",
+              "explanation": "14 × 6.894757 = 96.53 kPa"
+            },
+            {
+              "question": "Use the appropriate conversion factor to calculate the value then complete the following equation with the correct option. 100 °F = _______ °C",
+              "options": [
+                "3.78",
+                "37.8",
+                "38.7",
+                "73.8"
+              ],
+              "correct_answer": "b",
+              "explanation": "(100 − 32) × 5/9 = 37.78 °C"
+            },
+            {
+              "question": "Use the appropriate conversion factor to calculate the value then complete the following equation with the correct option. 20 000 Btu/lb = _______ MJ/L of propane",
+              "options": [
+                "2.37",
+                "23.7",
+                "27.3",
+                "237"
+              ],
+              "correct_answer": "b",
+              "explanation": "Conversion for propane energy content"
+            },
+            {
+              "question": "Use the appropriate conversion factor to calculate the value then complete the following equation with the correct option. 20 US gal = _______ L",
+              "options": [
+                "7.57",
+                "7.75",
+                "75.7",
+                "77.5"
+              ],
+              "correct_answer": "c",
+              "explanation": "20 × 3.785 = 75.7 L"
+            },
+            {
+              "question": "Use the appropriate conversion factor to calculate the value then complete the following equation with the correct option. 1.74 kPa = _______ in w.c.",
+              "options": [
+                "6",
+                "7",
+                "8",
+                "9"
+              ],
+              "correct_answer": "b",
+              "explanation": "1.74 / 0.249 = 6.99 ≈ 7 in w.c."
+            },
+            {
+              "question": "Use the appropriate conversion factor to calculate the value then complete the following equation with the correct option. −40 °C = _______ °F",
+              "options": [
+                "−40",
+                "−4",
+                "4",
+                "40"
+              ],
+              "correct_answer": "a",
+              "explanation": "−40 °C = −40 °F (the only temperature where C and F are equal)"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

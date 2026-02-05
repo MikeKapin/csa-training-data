@@ -1,0 +1,19 @@
+# Development files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules (if any build tools added)
+node_modules/
+package-lock.json
+
+# Backup files
+*.bak
+*.backup

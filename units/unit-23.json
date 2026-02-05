@@ -1,0 +1,711 @@
+{
+  "unit_name": "Unit 23 - Forced-air add-on devices",
+  "unit_number": 23,
+  "category": "G2",
+  "editions": {
+    "8th_2025": {
+      "unit_name": "Unit 23 - Forced-air add-on devices",
+      "edition": "8th Edition",
+      "publication_date": "June 2025",
+      "is_primary": true,
+      "category": "G2",
+      "total_chapters": 3,
+      "total_pages": 40,
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "chapter_name": "Air filtration systems",
+          "pages": "26-36",
+          "topics": [
+            "Cleaning electronic air cleaner (EAC) cells",
+            "Carefully slide cells out (may have sharp edges)",
+            "Wash cells in utility sink or automatic dishwasher",
+            "Take precautions to avoid damaging ionizing wires",
+            "Use detergent, follow manufacturer instructions",
+            "Check cells for dirt or residue after washing",
+            "Clean pre-filter before reassembling (wash with detergent or vacuum)",
+            "Do not wash pre-filter in dishwasher",
+            "Do not soak pre-filter with cells (lint can catch in cells)",
+            "Check ionizing wires before reassembling, replace if broken",
+            "Activate drying unit if available before turning system on",
+            "Turn power back on at main disconnect",
+            "Leave EAC turned off 2-3 h until completely dry to avoid problems",
+            "Some EACs will not operate until completely dry",
+            "Others may operate when wet but could experience arcing if damp",
+            "Check LED may light when wet",
+            "Dishwasher method for cleaning cells",
+            "Check dishwasher manual (some manufacturers advise against washing electronic cells)",
+            "Place cells on bottom rack with airflow arrows pointing up",
+            "Ensure good water circulation, no other items in dishwasher",
+            "Use regular dishwashing detergent",
+            "Run complete wash cycle, do NOT allow dry cycle",
+            "Dry cycle can bake on remaining contaminants and reduce efficiency",
+            "Allow cells to cool completely in dishwasher",
+            "If removed while warm, wear protective gloves to avoid burns",
+            "Hot water may accumulate in tubes supporting collector plates",
+            "Tip cells to drain accumulated water from tubes",
+            "Gently wipe ionizer wires and contact board with small damp cloth",
+            "If dirt remains in dishwasher, run empty wash cycle",
+            "Soaking method for cleaning cells",
+            "Use container or utility sink large enough to fully immerse cells",
+            "Fill with very hot water",
+            "Dissolve 3/4 cup regular automatic dishwashing detergent per cell",
+            "If detergent doesn't dissolve or forms scum, use softened water or another brand",
+            "Lower cell(s) into container, soak 15-20 min",
+            "Move cells up and down in solution, remove from container",
+            "Rinse thoroughly with fine water spray",
+            "Soak again in clean hot water 5-15 min to remove remaining detergent",
+            "Stand cells upright, allow to drain and dry",
+            "Do not soak cells in bathtub (sharp edges may scratch finish)",
+            "Checking and replacing ionization wires",
+            "Fine tungsten wires in charging section are brittle, prone to breaking or damage",
+            "Inspect cell from upstream side for broken or out-of-position wires",
+            "Broken wires cause visible arcing or sparking (indicates need for replacement)",
+            "Replacement wires pre-cut to correct length with eyelets on both ends",
+            "Replacing broken wires procedure",
+            "Remove broken wire completely, ensure all parts removed",
+            "Take care not to damage spring connector",
+            "Hook eyelet of replacement wire onto spring connector at one end",
+            "Hold opposite eyelet with needle nose pliers, stretch wire along cell length",
+            "Depress opposite spring connector, hook eyelet securely",
+            "Always turn off power supply before performing maintenance",
+            "Maintenance and service (by trained gas technician/fitter)",
+            "Inspect solid-state components and ionizing wires before heating and cooling seasons",
+            "Always consult manufacturer instructions",
+            "Checking components (requires voltmeter or multimeter)",
+            "Ensure power from main disconnect in \"on\" position",
+            "Check sail switch operation (or electrical blower interlock) by energizing furnace blower",
+            "If EAC does not operate, sail switch may be faulty",
+            "Confirm voltage indicator light is on (if not on but unit operates, light is faulty)",
+            "Press test button on EAC access door",
+            "Test button shorts hot side of collector section to ground, produces loud snapping sounds",
+            "Test button also discharges cells",
+            "Remove access door",
+            "Check voltage to power pack with voltmeter set to ac (should read 120 V ac)",
+            "If power pack not working, can replace solid-state power supply within power supply box",
+            "EACs operate at high voltage to charge particles (follow manufacturer instructions to avoid hazards)",
+            "Troubleshooting visible arcing, sparks, and strong ozone odor",
+            "Visible arcing or sparking: use ohmmeter to check cell for short circuits",
+            "Ensure power turned off and cells fully discharged",
+            "Measure resistance between frame/ionizer and frame/collector contacts (should read infinite)",
+            "Cell sparking continuously in one place: reposition plates per manufacturer instructions",
+            "Ozone odor complaint: verify air cleaner turns off when furnace blower inactive, ensure sufficient airflow",
+            "UV air purifiers (ultraviolet light rays invisible to most humans)",
+            "UV lights create specific wavelength range within electromagnetic spectrum",
+            "UVC (ultraviolet C) range is germicidal, used for air sterilization",
+            "UVC lamps destroy microorganisms (germs, viruses, bacteria, fungi including mould)",
+            "VUV (vacuum UV) lights reduce gaseous contaminants and odors (volatile organic compounds)",
+            "UVA (ultraviolet A) with catalyst reduces odors and chemicals",
+            "Electromagnetic spectrum: radio waves, microwaves, infrared, visible, UV, X-rays, gamma rays, cosmic rays",
+            "UV wavelengths: 100 nm (vacuum UV ozone producing), 200 nm (short wave UVC germicidal), 280 nm, 315 nm (middle wave UVB), 400 nm (long wave UVA)",
+            "UVC light as harmful to eyes as looking directly at sun",
+            "Skin exposure can lead to burns",
+            "Blue light from UVC bulbs can result in significant eye damage",
+            "UV light degrades plastic components and wire insulation (ensure not exposed)",
+            "Germicidal UV lamp (basic UVC lamp device)",
+            "Fits into various locations within supply or return air duct",
+            "Often installed near cooling coil to reduce mould and bacteria in coil fins, drain pans, surrounding surfaces",
+            "Continuous operation of air handler motor and UVC lamp ensures maximum exposure of airborne contaminants",
+            "Advantages: destroys microorganisms (germs, viruses, bacteria, fungi including mould), helps prevent illnesses/diseases, does not produce ozone",
+            "Disadvantages: no effect on particulates including most allergens, no effect on chemical fumes/gases/cigarette smoke, degrades plastic/nylon/rubber parts",
+            "UV air treatment systems (UV lamps integrated with purify/filter systems)",
+            "Often combined with HEPA or charcoal filters",
+            "Function as standalone units, partial bypass arrangements, or insert units",
+            "Do not replace inline air filter (remains essential for protecting fan)",
+            "Different UV lights for different air treatment types",
+            "Do not assume all UV systems have germicidal capabilities",
+            "Some produce both UVC and VUV light",
+            "VUV light unit produces small amount of ozone (may be noticeable)",
+            "HEPA/UV air purifier system configurations (direct mount, partial bypass)"
+          ],
+          "content": "Chapter 1 covers air filtration systems, focusing on electronic air cleaners (EACs) and UV air purifiers. The customer can clean EAC cells independently, but a gas technician/fitter should ensure the customer fully understands the cleaning procedures.\n\nTo clean cells, carefully slide them out of the cabinet (they may have sharp edges). Wash the cells by either soaking them in a utility sink or placing them in an automatic dishwasher. Take precautions to avoid damaging the ionizing wires. Use detergent for cleaning, following manufacturer instructions. After washing, check the cells for dirt or residue and repeat washing if necessary. Before reassembling the EAC, clean the pre-filter by washing with detergent or vacuuming it. Do not wash the pre-filter in the dishwasher. Do not soak the pre-filter at the same time as the cells, as lint from the pre-filter can become caught in the cells. Before reassembling, check the ionizing wires and replace any that are broken. If the EAC has a drying unit, activate it before turning the system back on. Turn the power back on at the main disconnect.\n\nSome EACs will not operate until they are completely dry. Others may operate when wet but could experience arcing if the cells and pre-filters are damp. If the unit has a check LED, it may light when wet. To avoid problems, leave the EAC turned off for 2 to 3 h to allow complete drying.\n\nFor the dishwasher method, before using a dishwasher to clean the cells, check the dishwasher's manual as some manufacturers advise against washing electronic cells. If suitable, place the cells on the bottom rack with the airflow arrows pointing up, ensuring good water circulation. Do not place other items in the dishwasher with the cells. Use regular dishwashing detergent. Run the cells through a complete wash cycle but do not allow the dishwasher to run the dry cycle. The dry cycle can bake on any remaining contaminants and reduce an air cleaner's efficiency. Allow the cells to cool completely in the dishwasher. If removed while still warm, wear protective gloves to avoid burns. Be cautious, as hot water may accumulate in the tubes supporting the collector plates. Tip the cells to drain any accumulated water from the tubes. Gently wipe the ionizer wires and the contact board at the end of the cell with a small damp cloth. If dirt or residue remains in the dishwasher, run an empty wash cycle.\n\nFor the soaking method, use a container or utility sink large enough to fully immerse one or both cells. Fill the container with very hot water. Dissolve 3/4 cup of regular automatic dishwashing detergent per cell in the hot water. If the detergent does not dissolve easily or forms a scum, use softened water or try another brand. Once the detergent is fully dissolved, lower the cell(s) into the container and soak each cell for 15 to 20 min. Move the cells up and down a few times in the solution then remove the cells from the container. Rinse the cells thoroughly with a fine water spray. Soak them again in clean, hot water for 5 to 15 min to remove any remaining detergent. Stand the cells upright and allow them to drain and dry. Do not soak the cells in a bathtub, as their sharp edges may scratch the finish on the tub.\n\nThe fine tungsten wires in the charging section of the electronic cell are brittle and prone to breaking or damage. Show the customer how to inspect the cell from the upstream side to ensure no wires are broken or out of position. Broken wires can cause visible arcing or sparking, which indicates the need for replacement. Replacement wires are pre-cut to the correct length and have eyelets on both ends for easy installation. To replace broken wires, remove the broken wire ensuring all parts are fully removed, taking care not to damage the spring connector. Hook the eyelet of the replacement ionization wire onto the spring connector at one end of the cell. Hold the opposite eyelet with needle nose pliers and stretch the wire along the length of the cell. Depress the opposite spring connector and hook the eyelet onto it securely. Always ensure the power supply is turned off before performing maintenance on an EAC.\n\nWhile customers can clean cells and replace ionizing wires, all other maintenance and service must be performed by a trained gas technician/fitter. Before the beginning of the heating and cooling seasons, inspect the solid-state components and ionizing wires of the EAC. Always consult manufacturer instructions. Checking components requires a voltmeter or multimeter. Ensure the power from the main disconnect to the EAC is in the \"on\" position. To check the operation of the sail switch (or electrical blower interlock), energize the furnace blower. If the EAC does not operate, the sail switch may be faulty. Check to confirm that the voltage indicator light is on. If the light is not on but the unit operates, it is the light that is faulty. Press the test button on the EAC access door. Pushing the button shorts the hot side of the collector section to ground, producing one or more loud snapping sounds which indicates that the EAC is working properly. The test button also discharges the cells. Remove the access door. With the voltmeter or multimeter set to ac, check the voltage to the power pack. It should read 120 V ac. If the power pack is not working, you can replace the solid-state power supply within the power supply box. To charge particles, EACs operate at high voltage. Follow manufacturer instructions carefully when servicing them to avoid hazards.\n\nFor troubleshooting, investigate visible arcing or sparks and any strong ozone odour. If there is visible arcing or sparking, use an ohmmeter to check the cell for short circuits. Ensure the power to the EAC is turned off and cells are fully discharged. Measure the resistance between the frame of the cell and ionizer as well as between the frame of the cell and collector contacts. In both cases, the resistance should read as infinite. If a cell is sparking continuously in one place, reposition the plates per manufacturer's instructions. If the customer complains of an ozone odour, verify the air cleaner turns off when the furnace blower is inactive and ensure sufficient airflow is passing through the unit.\n\nUV light rays lie in the spectrum of light that is invisible to most humans. UV lights are designed to create a specific wavelength range within the electromagnetic spectrum of UV radiation. The common UV lamps used in air purification systems are: UVC (ultraviolet C) range is germicidal and commonly used for air sterilization, UVC lamps effectively destroy microorganisms that pass by the bulb including germs, viruses, bacteria, and fungi such as mould; VUV (vacuum UV) lights can help reduce gaseous contaminants and odours such as volatile organic compounds; UVA (ultraviolet A) combined with a catalyst reduces odours and chemicals.\n\nThe electromagnetic spectrum includes radio waves, microwaves, infrared light, visible light, ultraviolet light, X-rays, gamma rays, and cosmic rays. UV wavelengths range from 100 nm (vacuum UV ozone producing) to 400 nm (long wave UVA), with UVC (short wave germicidal) at 200-280 nm and UVB (middle wave) at 280-315 nm.\n\nUVC light is as harmful to the eyes as looking directly at the sun. Skin exposure can lead to burns and exposure to the blue light given off by UVC light bulbs can result in significant eye damage. UV light degrades plastic components and wire insulation, so ensure these materials are not exposed to UV light.\n\nThe basic UVC lamp device (germicidal UV lamp) is designed to fit into various locations within the supply or return air duct but is often installed near the cooling coil to reduce mould and bacteria in the coil fins, drain pans, and surrounding surfaces. Continuous operation of both the air handler motor and the UVC germicidal lamp ensures maximum exposure of airborne contaminants to UVC light. Advantages include: can destroy microorganisms such as germs, viruses, bacteria, and fungi including mould; helps prevent illnesses and diseases; does not produce ozone. Disadvantages include: no effect on particulates including most allergens; no effect on chemical fumes, gases, or cigarette smoke; degrades plastic, nylon, and rubber parts.\n\nUV lamps are integrated into systems that purify and filter air and are often combined with HEPA or charcoal filters. These systems can function as standalone units, partial bypass arrangements, or insert units. However, they do not replace the inline air filter which remains essential in protecting the fan. Different UV lights may be used depending on the type of air treatment being performed. Do not assume that all UV systems have germicidal capabilities. Some UV lights are designed to produce both UVC and VUV light. A VUV light unit produces a small amount of ozone which may be noticeable.",
+          "assignment_questions": [
+            {
+              "question": "Which side of an electrostatic filter would load up first?",
+              "options": [
+                "Upstream side",
+                "Either side",
+                "Downstream side",
+                "Varies from furnace to furnace"
+              ],
+              "correct_answer": "Upstream side",
+              "explanation": "The upstream side of an electrostatic filter would load up first as it is the first surface to encounter airborne particles."
+            },
+            {
+              "question": "A/An _______ type of air filter is usually the least expensive.",
+              "options": [
+                "Media",
+                "Electronic",
+                "Electrostatic",
+                "UV purifier"
+              ],
+              "correct_answer": "Media",
+              "explanation": "Media type air filters are usually the least expensive compared to electronic, electrostatic, or UV purifier systems."
+            },
+            {
+              "question": "When installing an activated carbon filter with an EAC, where should it be located?",
+              "options": [
+                "Upstream of the EAC",
+                "In the bypass air duct",
+                "Downstream of the EAC",
+                "In the ventilation air intake"
+              ],
+              "correct_answer": "Downstream of the EAC",
+              "explanation": "An activated carbon filter should be located downstream of the EAC to filter odors and chemical fumes after particles have been removed by the EAC."
+            },
+            {
+              "question": "To reduce smoke odours, a/an _______ type of air filter is recommended.",
+              "options": [
+                "Media",
+                "UV air purifier",
+                "Electrostatic filter",
+                "Activated carbon filter"
+              ],
+              "correct_answer": "Activated carbon filter",
+              "explanation": "An activated carbon filter is recommended to reduce smoke odours as it is designed to absorb gases, odors, and chemical fumes."
+            },
+            {
+              "question": "If there are arrows on a filter frame, which way must they face?",
+              "options": [
+                "Up",
+                "Down",
+                "With the flow",
+                "Against the flow"
+              ],
+              "correct_answer": "With the flow",
+              "explanation": "Arrows on a filter frame must face with the flow direction to ensure proper filtration and prevent damage to the filter media."
+            },
+            {
+              "question": "Because electrostatic filters are a form of slab filter, they are installed in the same position (and manner) as slab filters.",
+              "options": [
+                "True",
+                "False"
+              ],
+              "correct_answer": "True",
+              "explanation": "True. Electrostatic filters are a form of slab filter and are installed in the same position and manner as standard slab filters."
+            },
+            {
+              "question": "Before opening the blower door on a forced-air furnace, you should always disconnect the power supply.",
+              "options": [
+                "True",
+                "False"
+              ],
+              "correct_answer": "True",
+              "explanation": "True. Always disconnect the power supply before opening the blower door on a forced-air furnace for safety reasons."
+            },
+            {
+              "question": "During the heating season, furnace filters should be inspected _______.",
+              "options": [
+                "Daily",
+                "Weekly",
+                "Monthly",
+                "Seasonally"
+              ],
+              "correct_answer": "Monthly",
+              "explanation": "During the heating season, furnace filters should be inspected monthly to ensure proper airflow and system efficiency."
+            },
+            {
+              "question": "Filters should be replaced _______.",
+              "options": [
+                "Monthly",
+                "Annually",
+                "At least twice a year",
+                "At least every two years"
+              ],
+              "correct_answer": "At least twice a year",
+              "explanation": "Filters should be replaced at least twice a year, typically at the beginning of the heating and cooling seasons, or more frequently if needed."
+            },
+            {
+              "question": "On an existing system without any modifications, what is the most common cause of inadequate heating or cooling performance?",
+              "options": [
+                "Underfiring",
+                "Dirty filters",
+                "Venting problem",
+                "Malfunctioning thermostat"
+              ],
+              "correct_answer": "Dirty filters",
+              "explanation": "Dirty filters are the most common cause of inadequate heating or cooling performance on an existing system without modifications, as they restrict airflow."
+            },
+            {
+              "question": "What damage can a dirty filter do in a system that includes add-on air conditioning?",
+              "options": [
+                "Refrigerant floodback",
+                "Compressor damage",
+                "Decreased cooling performance",
+                "Any of the above"
+              ],
+              "correct_answer": "Any of the above",
+              "explanation": "A dirty filter can cause refrigerant floodback, compressor damage, and decreased cooling performance in a system with add-on air conditioning."
+            },
+            {
+              "question": "The pre-filter of an EAC serves the same purpose as the filter in the furnace blower compartment; therefore, that filter should be removed when an EAC is installed.",
+              "options": [
+                "True",
+                "False"
+              ],
+              "correct_answer": "False",
+              "explanation": "False. The pre-filter of an EAC does not replace the furnace blower compartment filter. Both filters serve different purposes and should remain in place."
+            },
+            {
+              "question": "What can happen if ionizer wires are broken?",
+              "options": [
+                "The sail switch may remain open",
+                "The airflow may be restricted",
+                "Arcing and sparking may become visible",
+                "The voltage indicator light may turn on"
+              ],
+              "correct_answer": "Arcing and sparking may become visible",
+              "explanation": "If ionizer wires are broken, arcing and sparking may become visible, indicating the need for wire replacement."
+            },
+            {
+              "question": "After washing the cells of an EAC, leave the EAC turned off for 2 to 3 h (until the cells and pre-filter are completely dry) to avoid problems.",
+              "options": [
+                "True",
+                "False"
+              ],
+              "correct_answer": "True",
+              "explanation": "True. After washing EAC cells, leave the unit turned off for 2 to 3 h until completely dry to avoid arcing and operational problems."
+            },
+            {
+              "question": "When the cells are washed in a dishwasher, why should the drying cycle not be run?",
+              "options": [
+                "Because the cells will melt",
+                "Because the cell coating will be damaged",
+                "Because heat will damage the cells' magnetic properties",
+                "Because any remaining contaminants will be baked onto cells"
+              ],
+              "correct_answer": "Because any remaining contaminants will be baked onto cells",
+              "explanation": "The drying cycle should not be run because any remaining contaminants will be baked onto the cells, reducing the air cleaner's efficiency."
+            },
+            {
+              "question": "To ensure customers have the best air quality, it is recommended to always install a filter with the highest MERV rating.",
+              "options": [
+                "True",
+                "False"
+              ],
+              "correct_answer": "False",
+              "explanation": "False. Installing the highest MERV rating filter is not always recommended as it can restrict airflow. The filter should be matched to the system's capabilities and the customer's needs."
+            },
+            {
+              "question": "A HEPA filter is best installed as a standalone system or a partial bypass system.",
+              "options": [
+                "True",
+                "False"
+              ],
+              "correct_answer": "True",
+              "explanation": "True. A HEPA filter is best installed as a standalone system or a partial bypass system due to its high resistance to airflow."
+            },
+            {
+              "question": "_______ type lights are most commonly used for germicidal air treatment.",
+              "options": [
+                "UVA",
+                "UVB",
+                "UVC",
+                "VUV"
+              ],
+              "correct_answer": "UVC",
+              "explanation": "UVC (ultraviolet C) type lights are most commonly used for germicidal air treatment as they are effective at destroying microorganisms."
+            },
+            {
+              "question": "When installing a UV air treatment bypass system or a HEPA bypass system, you must remove the furnace inline blower compartment filter.",
+              "options": [
+                "True",
+                "False"
+              ],
+              "correct_answer": "False",
+              "explanation": "False. The furnace inline blower compartment filter must not be removed when installing UV or HEPA bypass systems, as it remains essential for protecting the fan."
+            }
+          ]
+        },
+        {
+          "chapter_number": 2,
+          "chapter_name": "Humidifiers",
+          "pages": "49-59",
+          "topics": [
+            "Water supply and hard water problems",
+            "Hard water accumulates precipitated solids (nozzles, tubes, evaporative elements clog)",
+            "Mineral solids enter air stream, leave white dust on furniture and floors",
+            "Solutions: soften water (adds sodium which also precipitates, flush reservoir periodically)",
+            "Add chemicals to humidifier pan to prevent scaling (consult manufacturer first)",
+            "Connect to water supply with full-size tee fitting and approved valve",
+            "Copper water tubing: saddle valve may come with package (not recommended)",
+            "Saddle valve prone to failure, can cause enormous property damage",
+            "Ontario Building Code: saddle valve \"shall not be installed\"",
+            "Furnace-humidifier electrical connection requirements",
+            "Atomizing humidifiers must operate only when furnace blower operating",
+            "Without air movement, water droplets settle on duct surfaces (moisture accumulation)",
+            "Standing moisture creates breeding ground for mildew (compromises indoor air quality)",
+            "Moisture can cause corrosion",
+            "Electrical interlock required (sail switch in return air duct)",
+            "Sail switch: when blower energized, air movement causes fin to move, closes electrical contacts",
+            "Evaporative (wetted element) humidifiers can operate independently, no interlock required",
+            "Power bypass humidifiers include transformer",
+            "Humidifier must not connect to furnace transformer (could overload)",
+            "Humidifier transformer should not be wired into thermostat circuit",
+            "If wired to thermostat circuit, thermostat receives different current draw when humidistat calls",
+            "Direct drive motor: wiring must prevent humidifier transformer from overvoltage (motor idle windings)",
+            "Follow all manufacturer wiring diagrams",
+            "Sheet metal modifications for humidifier installation",
+            "Install in or under duct, in plenum, or in bypass duct",
+            "Follow manufacturer instructions for opening sizes and sealing",
+            "Drain for leftover water",
+            "Ideally all water would evaporate, but usually leftover water",
+            "Common solution: drain tube (requires access to drainpipe)",
+            "Some designs retain and recycle water until evaporates",
+            "Drainless design pros: conservation of water",
+            "Drainless design cons: increased need for cleaning/maintenance, potential mould growth if water sits",
+            "Operation and service (check before heating season)",
+            "Water remaining for extended period (e.g., summer) creates breeding environment for fungi, bacteria, algae, viruses",
+            "If reservoir not cleaned before blower turned on, microorganisms distributed throughout house",
+            "Results in reduced indoor air quality and increased indoor air pollution",
+            "Common operation requirements: mechanical operation, humidistat function, water level",
+            "Correct water level: if too high, water overflows into ducts (corrosion and mildew)",
+            "Water level must be set to manufacturer specifications",
+            "Float valve assembly must work and be adjusted properly",
+            "Working humidistat: check with independent measurement (sling psychrometer)",
+            "Clean overflow/drain line and reservoir pan",
+            "Hose may need removal for cleaning, ensure drain not blocked",
+            "Clean reservoir pan at beginning and end of heating season (more frequently if slimy)",
+            "Ensure customer understands cleaning per manufacturer instructions",
+            "Service guidelines (always check manufacturer manual)",
+            "Wetted-element humidifiers: drum or paddle must turn for correct operation",
+            "Clean or replace media at start of each season",
+            "Keep humidifier pad clean for proper water absorption and evaporation",
+            "If cleanable, wash with detergent",
+            "Lightly scrape mineral (scale) deposits with putty knife if needed",
+            "Replace pad if no longer conforms to drum after cleaning",
+            "Atomizing humidifiers: confirm nozzle sprays freely and drum rotates",
+            "Steam humidifiers: verify steam generation, check for nozzle blockages",
+            "Check steam hose for low spots, ensure slopes continuously upward from humidifier to dispersion tube",
+            "If dispersion tube below humidifier, inspect drip tee drain and trap",
+            "Examine canister for loose electrical connections",
+            "Wetted-element spray humidifiers: inspect spray nozzles for dirt or mineral deposits",
+            "Spray nozzle inspection procedure: turn off humidistat, clean/replace media, turn on water supply, open damper, turn on blower, set humidistat to call, solenoid valve should open, check nozzle spray (replace if uneven or irregular), return filter to normal position",
+            "Drum-type humidifiers: clutch assembly must be inspected and cleaned regularly",
+            "Clean mineral deposits from clutch assembly (use detergent, scrape scale with putty knife)",
+            "Clean drain pan, clean orifice between water source and float valve",
+            "Turn on blower, set humidistat to call, confirm motor rotates properly, adjust water level screw",
+            "Instructions to customer for seasonal maintenance",
+            "Fall: clean media pad, clean reservoir with vinegar and water, open bypass duct damper (if bypass type), check/adjust float level, set humidistat to desired RH ~40%",
+            "Winter: check windows for condensation (indicates excess humidity, adjust as necessary), periodically check water level",
+            "Summer: drain humidifier reservoir, close bypass duct damper (if applicable)",
+            "Troubleshooting lack of humidity",
+            "Check relative humidity with sling psychrometer",
+            "Troubleshoot humidistat, water supply, electrical system",
+            "In extreme weather, few humidifiers can provide desired humidity level",
+            "Testing relative humidity with sling psychrometer",
+            "Two thermometers (wet bulb and dry bulb) mounted on base with handle",
+            "Rotate rapidly in air, air flows over thermometers",
+            "Moisture evaporates from wet bulb",
+            "Once temperatures stabilize, take readings from both",
+            "Compare readings with tables to find relative humidity",
+            "Modern electronic devices measure RH without sling action (more convenient)",
+            "Operate based on temperature of condensation, changes in electrical resistance, changes in electrical capacitance",
+            "Digital psychrometer provides quick and accurate RH measurements",
+            "Troubleshooting the humidifier",
+            "Humidistat: set to higher level to verify activation, if not calling for correct RH may be incorrectly calibrated (recalibrate or replace)",
+            "If outdoor temperature reading not accurate: ensure sensor securely connected, check location and mounting, measure resistance and compare to manufacturer temperature-resistance table",
+            "Water supply: ensure supply line not plugged, float valve adjusted properly",
+            "If float damaged, replace immediately",
+            "If overflows and level/float correct, seat on entire float assembly may need replacement",
+            "Wetted element: ensure medium not clogged, dirty, or saturated with minerals (clean if possible, replace if cannot be restored)",
+            "Replace damaged elements to prevent liquid water entering ducts",
+            "Atomizing: verify drum turning properly and spray nozzle not blocked",
+            "Electrical connections: check circuit breakers, humidistat, low-voltage controls",
+            "If motor: check if burned out or malfunctioning",
+            "Mineral deposits may cause unit to switch off (thermal fault overload protector opens)",
+            "Other potential problems not stopping operation but should be addressed",
+            "Excessive dust: white due to mineral buildup, clean or replace media",
+            "Moisture in ducts: atomizing humidifier operating when blower not on, ensure synchronized with blower only when furnace operating, verify will not operate in \"fan only\" mode (heat required to evaporate droplets)",
+            "Water overflow: inspect float valve for proper adjustment, clean/replace/adjust valve, check drainage/overflow line"
+          ],
+          "content": "Chapter 2 covers humidifiers. Hard water can create various problems in humidifiers. Nozzles, tubes, and evaporative elements may accumulate precipitated solids and become clogged. Mineral solids that enter the air stream can, after distribution, leave a layer of white dust on furniture and floors throughout the home.\n\nSolutions to avoid hard water problems include: soften the humidifier's water (usually involves adding sodium to the water, however since sodium itself precipitates out in humidifier reservoirs over time, ensure that the reservoir is periodically flushed out); add chemicals to the humidifier pan that prevent scaling (mineral precipitation), however consult the manufacturer's literature before adding any chemicals; connect to the water supply by installing a full-size tee fitting and approved valve on the water line.\n\nFor a copper water tubing system, a saddle valve may come with the installation package from the humidifier manufacturer. Though considered \"easy to install\", this type of connection is not recommended as the saddle valve is prone to failure and can cause enormous property damage. In Ontario, the Ontario Building Code states that a saddle valve \"shall not be installed\".\n\nAtomizing humidifiers installed in a duct or plenum must operate only when the furnace blower is operating. These humidifiers introduce droplets of water into the ducts, which can lead to problems. Without air movement, water droplets can settle on duct surfaces and cause moisture accumulation. Standing moisture creates a breeding ground for mildew, which compromises indoor air quality. Moisture can cause corrosion. An electrical interlock is required to ensure that an atomizing humidifier works only when the blower is operating. This is accomplished by installing a sail switch in the return air duct. When the blower is energized, air movement causes a fin on the sail switch to move, closing a set of electrical contacts to the atomizing humidifier and energizing it.\n\nIn contrast, evaporative (wetted element) humidifiers can operate independently of the furnace, so no interlock is required. Power bypass humidifiers include a transformer. A humidifier must not be connected to the transformer (if there is one) on the furnace because this could overload the furnace transformer. A humidifier transformer should not be wired into the thermostat circuit. If it was, the thermostat would receive a different current draw if the humidistat calls for moisture. If a humidifier transformer is installed on a furnace with a direct drive motor, the wiring and control system must prevent the humidifier transformer from overvoltage created by the motor's idle windings. Follow all manufacturer's wiring diagrams.\n\nMake modifications to the sheet metal when a humidifier is installed in or under a duct, in a plenum, or in a bypass duct. Follow manufacturer's instructions regarding the size of the openings required and proper sealing of openings for the specific humidifier.\n\nIdeally all the water flowing into a humidifying unit would evaporate; in reality however, there is usually leftover water. The common solution for leftover water is to provide a drain tube, but this means that the humidifier must have access to a drainpipe. In some designs, the water is retained and recycled until it all evaporates. The pros of this approach include the drainless design and conservation of water; the cons include the increased need for cleaning and maintenance and the potential for mould growth if the water is allowed to sit.\n\nPrior to the start of the heating season, the operation of the humidifier should be checked at the same time as the forced-air furnace is inspected. It is particularly important to make sure that the humidifier is clean before the heating season starts. If water remains in a humidifier for an extended period (e.g., over the summer), it creates a breeding environment for fungi, bacteria, algae, and viruses. If the reservoir is not cleaned before the furnace blower is turned on, these microorganisms may be distributed throughout the house, resulting in reduced indoor air quality and increased indoor air pollution.\n\nCommon operational requirements include correct water level (if too high, water can overflow into ducts causing corrosion and mildew, must be set to manufacturer's specifications), float valve assembly operating (must be working and adjusted properly to maintain correct water level), working humidistat (check operation with independent measurement such as sling psychrometer), and clean overflow/drain line and reservoir pan (hose may need removal for cleaning, ensure drain not blocked, clean reservoir pan at beginning and end of heating season or more frequently if slimy, ensure customer understands cleaning per manufacturer instructions).\n\nService guidelines vary by type. Wetted-element humidifiers: if mounted on drum or paddle, must turn for correct operation, clean or replace media at start of each season, keep pad clean for proper water absorption and evaporation, wash with detergent if cleanable, lightly scrape mineral deposits with putty knife if needed, replace pad if no longer conforms to drum after cleaning. Atomizing humidifiers: confirm nozzle sprays freely and drum rotates. Steam humidifiers: verify steam generation, check for nozzle blockages, check steam hose for low spots and ensure slopes continuously upward from humidifier to dispersion tube, if dispersion tube below humidifier inspect drip tee drain and trap, examine canister for loose electrical connections. Wetted-element spray humidifiers: inspect spray nozzles for dirt or mineral deposits. Drum-type humidifiers: clutch assembly must be inspected and cleaned regularly, clean mineral deposits from clutch assembly, clean drain pan, clean orifice between water source and float valve, turn on blower, set humidistat to call, confirm motor rotates properly, adjust water level screw.\n\nCustomer seasonal maintenance instructions: Fall: clean media pad before heating season begins (if applicable), clean reservoir with vinegar and water (if applicable), open bypass duct damper (if bypass type), check and adjust float level as needed, set humidistat to desired relative humidity approximately 40%. Winter: check windows for condensation indicating excess humidity and adjust as necessary, periodically check water level. Summer: drain humidifier reservoir, close bypass duct damper (if applicable).\n\nWhen a customer reports lack of humidity, check the relative humidity in the conditioned space using a sling psychrometer and troubleshoot the humidifier, especially the humidistat, water supply, and electrical system. In extreme weather conditions, few humidifiers can provide the desired humidity level.\n\nA sling psychrometer is used to measure air temperature using two thermometers (wet bulb and dry bulb) mounted on a base with a handle that allows it to rotate rapidly in the air. As the psychrometer moves, air flows over the thermometers. Moisture evaporates from the wet bulb. Once temperatures stabilize on the two thermometers, readings are taken from both and compared with tables to find the relative humidity. Modern electronic devices can measure relative humidity without requiring a sling action, making them more convenient. These devices operate based on temperature of condensation, changes in electrical resistance, and changes in electrical capacitance. A digital psychrometer provides quick and accurate relative humidity measurements.\n\nTroubleshooting the humidifier includes checking the humidistat (set to higher level to verify activation, if functioning but not calling for correct RH may be incorrectly calibrated, recalibrate or replace, if outdoor temperature reading not accurate ensure sensor securely connected, check location and mounting, measure resistance and compare to manufacturer table), water supply (ensure supply line not plugged and float valve adjusted properly, if float damaged replace immediately, if overflows and level/float correct the seat on entire float assembly may need replacement, for wetted element ensure medium not clogged/dirty/saturated with minerals, clean if possible or replace, replace damaged elements to prevent liquid water entering ducts, for atomizing verify drum turning and spray nozzle not blocked), and electrical connections (check circuit breakers, humidistat, low-voltage controls, if motor check if burned out or malfunctioning, mineral deposits may cause thermal fault overload protector to open shutting unit off, clean or replace component).\n\nOther potential problems that should be addressed include excessive dust (white due to mineral buildup, clean or replace media), moisture in ducts (atomizing humidifier operating when blower not on, ensure synchronized to operate only when blower on and furnace operating, verify will not operate in \"fan only\" mode as heat required to evaporate droplets), and water overflow (inspect float valve for proper adjustment, clean/replace/adjust valve, check drainage/overflow line for blockages).",
+          "assignment_questions": [
+            {
+              "question": "What is the (approximate) ideal level of relative humidity for optimum comfort in a residence?",
+              "options": [
+                "10%",
+                "20%",
+                "40%",
+                "60%"
+              ],
+              "correct_answer": "40%",
+              "explanation": "The ideal level of relative humidity for optimum comfort in a residence is approximately 40%."
+            },
+            {
+              "question": "Which type of humidifier has a water reservoir that the wetted element is drawn through?",
+              "options": [
+                "Drum humidifier",
+                "Steam humidifier",
+                "Atomizing humidifier",
+                "Evaporator pad humidifier"
+              ],
+              "correct_answer": "Drum humidifier",
+              "explanation": "A drum humidifier has a water reservoir that the wetted element (mounted on a drum) is drawn through as the drum rotates."
+            },
+            {
+              "question": "Atomizing humidifiers introduce droplets of water into the air.",
+              "options": [
+                "True",
+                "False"
+              ],
+              "correct_answer": "True",
+              "explanation": "True. Atomizing humidifiers introduce droplets of water into the air through a spray nozzle."
+            },
+            {
+              "question": "Why should atomizing humidifiers operate only when the furnace blower is operating?",
+              "options": [
+                "Because water can collect in the ducts",
+                "Because humidity levels in the building can get too high",
+                "Because the outdoor air temperature cannot be sensed",
+                "Because the furnace heat exchanger has cooled to low"
+              ],
+              "correct_answer": "Because water can collect in the ducts",
+              "explanation": "Atomizing humidifiers should operate only when the furnace blower is operating because without air movement, water droplets can settle on duct surfaces causing moisture accumulation, mildew, and corrosion."
+            },
+            {
+              "question": "How must the steam supply hose or pipe be installed on a self-contained steam humidifier?",
+              "options": [
+                "Perfectly level",
+                "Looped to create a running trap",
+                "Pitched down from dispersion tube to humidifier",
+                "Pitched down from humidifier to dispersion tube"
+              ],
+              "correct_answer": "Pitched down from humidifier to dispersion tube",
+              "explanation": "The steam supply hose or pipe must be pitched down from humidifier to dispersion tube (sloping continuously upward from humidifier to dispersion tube) to ensure proper steam flow and prevent condensate accumulation."
+            },
+            {
+              "question": "The humidistat is normally mounted on the supply air duct.",
+              "options": [
+                "True",
+                "False"
+              ],
+              "correct_answer": "False",
+              "explanation": "False. The humidistat is normally mounted on the return air duct or in the living space to sense the actual humidity level in the home."
+            },
+            {
+              "question": "Why do digital humidistats on automatic mode adjust the building humidity based on outside air temperature?",
+              "options": [
+                "Because colder days require lower indoor relative humidity for optimal comfort",
+                "Because warmer days require lower indoor relative humidity for optimal comfort",
+                "Because colder days require lower indoor relative humidity to avoid interior condensation",
+                "Because warmer days require lower indoor relative humidity to avoid interior condensation"
+              ],
+              "correct_answer": "Because colder days require lower indoor relative humidity to avoid interior condensation",
+              "explanation": "Digital humidistats on automatic mode adjust building humidity based on outside air temperature because colder days require lower indoor relative humidity to avoid interior condensation on windows and other cold surfaces."
+            },
+            {
+              "question": "A _______ device controls the operation of a humidifier.",
+              "options": [
+                "Fan switch",
+                "Humidistat",
+                "Thermostat",
+                "Solenoid valve"
+              ],
+              "correct_answer": "Humidistat",
+              "explanation": "A humidistat device controls the operation of a humidifier by sensing humidity levels and turning the humidifier on or off to maintain desired relative humidity."
+            },
+            {
+              "question": "If a humidifier is used in a system with an EAC, where should the humidifier be mounted?",
+              "options": [
+                "Upstream of the EAC",
+                "Downstream of the EAC",
+                "They cannot be combined",
+                "Any location is satisfactory"
+              ],
+              "correct_answer": "Downstream of the EAC",
+              "explanation": "If a humidifier is used in a system with an EAC, the humidifier should be mounted downstream of the EAC to prevent moisture from affecting the EAC's operation."
+            },
+            {
+              "question": "If not cleaned, the water-holding reservoir of a drum humidifier may allow the breeding of bacteria that can be dispersed throughout a house.",
+              "options": [
+                "True",
+                "False"
+              ],
+              "correct_answer": "True",
+              "explanation": "True. If not cleaned, the water-holding reservoir can breed fungi, bacteria, algae, and viruses that can be distributed throughout the house when the blower operates, resulting in reduced indoor air quality."
+            }
+          ]
+        },
+        {
+          "chapter_number": 3,
+          "chapter_name": "Cooling coils",
+          "pages": "61-66",
+          "topics": [
+            "Refrigeration and AC mechanics install and service cooling coils (not gas technicians/fitters)",
+            "Gas technician/fitter must inspect and clean cooling coils as part of regular furnace servicing",
+            "Normal air temperature rise or drop (difference between supply and return air temperatures)",
+            "Checking and cleaning cooling coils",
+            "Cooling coil (A-coil) can be added to forced-air furnace for central air conditioning",
+            "AC technicians handle installation and servicing, gas technicians clean coil during maintenance",
+            "Dirty coil (like dirty filter) can restrict airflow",
+            "System consists of cooling coil (evaporator) and condenser",
+            "Cooling coil (A-coil) mounted in supply plenum or cabinet between plenum and duct",
+            "Condenser usually located outside building",
+            "System operation: two lines circulate refrigerant between A-coil and condenser",
+            "Compressor moves refrigerant around loop",
+            "Furnace forces air through A-coil, coil absorbs heat, liquid refrigerant evaporates to vapor",
+            "Vapor moves to condenser coil, heat released outdoors, vapor returns to liquid state",
+            "Liquid refrigerant returns to cooling coil",
+            "Refrigerant vapor compression cycle: low pressure side (evaporator, expansion device, liquid/vapor mix, saturated/subcooled liquid), high pressure side (compressor, condenser, superheated vapor, saturated/subcooled vapor)",
+            "Cooling coil units available for upflow, downflow, and horizontal furnaces",
+            "Coil housed in cabinet",
+            "Possible locations of cooling coil cabinet (downflow furnace: cooling coil in supply, upflow furnace: cooling coil in supply above or return below)",
+            "Specific liquid used as coolant varies by unit",
+            "Measuring temperature change across coil or heat exchanger",
+            "Punch or drill holes in supply and return air plenums (about 3 ft from furnace when possible)",
+            "Insert thermometer into airflow through each hole",
+            "Electronic multimeters have temperature probe accessory or pocket digital thermometer",
+            "Operate equipment with fan running about 5 min to establish normal air temperature rise or drop",
+            "Temperature drop across coil: subtract supply-side temp from return-side temp",
+            "Temperature rise across heat exchanger: subtract return-side temp from supply-side temp",
+            "Diagnosing temperature change",
+            "Temperature drop across cooling coil about 11 °C (20 °F) at typical condition of 24 °C (75 °F) and 50% RH",
+            "If measured temp drop too low, inspect and clean cooling coil unit, check and adjust blower",
+            "Refer to manufacturer manual for correct temperature drop and air volume",
+            "Clean unit and retest temp drop before adjusting blower speed",
+            "If needed, adjust blower speed to obtain correct pressure drop and air volume",
+            "If blower not operating correctly, refer customer to refrigeration and AC mechanic",
+            "Importance of coil cleanliness",
+            "Surfaces of cooling coil must be clean for system performance and efficiency",
+            "Dirty coil problems: will not deliver full cooling capacity during cooling season, airflow to building reduced, during heating season both temperature rise and stack temperature may increase",
+            "Coil must be visually inspected for cleanliness as part of regular furnace maintenance",
+            "If coil in cabinet, access door typically included",
+            "If mounted in plenum, may be necessary to cut inspection port (be careful not to damage coil)",
+            "Cleaning the cooling coil",
+            "Gas technician/fitter responsible for cleaning exterior of coil and fins through which air is forced",
+            "Cleaning procedures may differ by unit, always consult manufacturer instructions",
+            "Typical cleaning procedure",
+            "Check fins for accumulated dirt or dust",
+            "If clogged or dirty, clean with vacuum cleaner, compressed air or nitrogen, or brush or fin comb",
+            "Handle tools carefully to avoid damaging coil",
+            "Inspect tubing and connections for signs of oil leaks (look for oil spots)",
+            "If leaks found, refer repair to AC technician",
+            "Clean outer surfaces of lines with vacuum or brush, wash with low-pressure water and mild detergent if necessary",
+            "Check and clean condensate drain system",
+            "Remove accumulated dust or dirt from drip tray",
+            "Probe drain hole with screwdriver to ensure not clogged",
+            "Pour small amount of water into drip tray and confirm proper drainage",
+            "Blow out clogged drains with compressed air or nitrogen"
+          ],
+          "content": "Chapter 3 covers cooling coils. Refrigeration and air conditioning mechanics (not gas technicians/fitters) are responsible for the installation and major servicing of cooling coils used with gas-fired forced-air furnaces. However, a gas technician/fitter must inspect and clean the cooling coils as part of regular furnace servicing.\n\nNormal air temperature rise or drop is the difference between supply and return air temperatures. A cooling coil (sometimes called an \"A-coil\" because of its shape) can be added to a forced-air furnace, which enables it to function as a central air conditioner. While air conditioning technicians handle the installation and servicing of air conditioning units, gas technicians/fitters are responsible for cleaning the cooling coil as part of regular furnace maintenance. A dirty coil (like a dirty furnace filter) can restrict airflow.\n\nThis type of air conditioning system consists of a cooling coil (evaporator) and a condenser. The cooling coil may be mounted in the supply plenum or housed in a cabinet located between the supply plenum and the duct. The condenser is usually located outside the building.\n\nThis type of air conditioning system works as follows. Two lines circulate refrigerant between the A-coil and condenser coil. The compressor moves the refrigerant around the loop. As the furnace forces air through the A-coil, the coil absorbs heat from the air, causing the liquid refrigerant to evaporate into vapour. The vapour moves to the condenser coil, where heat is released outdoors, causing the refrigerant vapour to return to its liquid state. The liquid refrigerant then returns to the cooling coil.\n\nThe refrigerant vapor compression cycle includes a low pressure side (evaporator, expansion device with liquid/vapor mix, saturated/subcooled liquid) and a high pressure side (compressor, condenser with superheated vapor, saturated/subcooled vapor). Cooling coil units are available for upflow, downflow, and horizontal furnaces. The coil is housed in a cabinet. Possible locations of the cooling coil cabinet vary by furnace type.\n\nTo measure either the temperature drop across a cooling coil or the temperature rise across the heat exchanger, punch or drill holes in the supply and return air plenums, aiming to position the holes about 3 ft from the furnace when possible. Insert a thermometer into the airflow through each hole. Most good-quality electronic multimeters have a temperature probe accessory or a pocket digital thermometer that can be used. Operate the equipment with the fan running for about 5 min to establish the normal air temperature rise or drop (which is the difference between supply air temperature and return air temperature). To calculate temperature drop across the coil, subtract the supply-side temperature from the return-side temperature. To calculate temperature rise across the heat exchanger, subtract the return-side temperature from the supply-side temperature.\n\nTo diagnose temperature change, note that the temperature drop across the cooling coil is about 11 °C (20 °F) when it is operating at typical condition of 24 °C (75 °F) and 50% relative humidity. If the measured temperature drop is too low, inspect the cooling coil unit and clean it if necessary. Check the blower and adjust it as required. Refer to the manufacturer's manual for the correct temperature drop and air volume. Clean the unit and retest the temperature drop before adjusting the blower speed. If needed, adjust the blower speed to obtain the correct pressure drop and air volume. If the blower is not operating correctly, you will need to refer the customer to a refrigeration and air conditioning mechanic to troubleshoot the cooling system.\n\nThe surfaces of the cooling coil must be clean to maintain system performance and efficiency. A dirty coil can cause several problems including: during the cooling season, the coil will not deliver its full cooling capacity; the airflow to the building will be reduced; during the heating season, both the temperature rise across the furnace and the stack temperature may increase. The coil must be visually inspected for cleanliness as part of regular furnace maintenance. If the coil is located in a cabinet, an access door is typically included in the case coil cabinet. If mounted in the plenum, it may be necessary to cut an inspection port (if so, be careful not to damage the coil).\n\nThe cooling coil requires cleaning when it is dirty. A gas technician/fitter is responsible for cleaning the exterior of the coil and the fins through which air is forced over the coil. Cleaning procedures may differ by unit. Always consult manufacturer instructions for specifics.\n\nA typical cleaning procedure includes: check the fins for accumulated dirt or dust, if the fins are clogged or dirty clean them using a vacuum cleaner, compressed air or nitrogen, or a brush or a fin comb (handle tools carefully to avoid damaging the coil); inspect the tubing and connections for signs of oil leaks (look for oil spots, if you find leaks refer the necessary repair to an air conditioning technician); clean the outer surfaces of lines using a vacuum cleaner or brush to remove dirt, wash the outer surfaces with low-pressure water and mild detergent if necessary; check and clean the condensate drain system; remove any accumulated dust or dirt from the drip tray, probe the drain hole with a screwdriver to ensure it is not clogged, pour a small amount of water into the drip tray and confirm proper drainage, blow out clogged drains with compressed air or nitrogen.",
+          "assignment_questions": [
+            {
+              "question": "Refrigerant circulates between the \"A\" coil and the condenser coil. Which of the following occurs in the A-coil?",
+              "options": [
+                "Liquid refrigerant absorbs heat and changes into vapour",
+                "Vaporous refrigerant absorbs heat and changes into liquid",
+                "Heat is removed, causing the vaporous refrigerant to return to liquid",
+                "Heat is removed, causing the liquid refrigerant to change to vapour"
+              ],
+              "correct_answer": "Liquid refrigerant absorbs heat and changes into vapour",
+              "explanation": "In the A-coil (evaporator), as the furnace forces air through the coil, the coil absorbs heat from the air, causing the liquid refrigerant to evaporate into vapour."
+            },
+            {
+              "question": "Refrigerant circulates between the \"A\" coil and the condenser coil. Which of the following occurs outside of the condenser coil?",
+              "options": [
+                "Liquid refrigerant absorbs heat and changes into vapour",
+                "Vaporous refrigerant absorbs heat and changes into liquid",
+                "Heat is removed, causing the vaporous refrigerant to return to liquid",
+                "Heat is removed, causing the liquid refrigerant to change to vapour"
+              ],
+              "correct_answer": "Heat is removed, causing the vaporous refrigerant to return to liquid",
+              "explanation": "At the condenser coil (located outside), heat is released outdoors, causing the refrigerant vapour to return to its liquid state."
+            },
+            {
+              "question": "How would a dirty cooling coil affect the temperature change of a forced-air furnace during the cooling season?",
+              "options": [
+                "The temperature drop would increase",
+                "The temperature drop would decrease",
+                "The temperature rise would increase",
+                "The temperature rise would decrease"
+              ],
+              "correct_answer": "The temperature drop would decrease",
+              "explanation": "A dirty cooling coil restricts airflow and reduces heat transfer, causing the temperature drop across the coil to decrease during the cooling season. The coil will not deliver its full cooling capacity."
+            },
+            {
+              "question": "If the static pressure across a coil is beyond the manufacturer's suggested limits, what should you do first?",
+              "options": [
+                "Clean the unit",
+                "Clock the appliance",
+                "Adjust the blower speed",
+                "Measure the temperature change"
+              ],
+              "correct_answer": "Clean the unit",
+              "explanation": "If the static pressure is beyond manufacturer's suggested limits, you should first clean the unit (including the coil and filter) and retest before adjusting the blower speed."
+            },
+            {
+              "question": "A dirty cooling coil can restrict airflow. What would be the effect of restricted airflow on the temperature change of a forced-air furnace during the heating season?",
+              "options": [
+                "The temperature drop would increase",
+                "The temperature drop would decrease",
+                "The temperature rise would increase",
+                "The temperature rise would decrease"
+              ],
+              "correct_answer": "The temperature rise would increase",
+              "explanation": "A dirty cooling coil restricts airflow. During the heating season, restricted airflow causes the temperature rise across the furnace to increase (as well as the stack temperature) because less air is moving across the heat exchanger."
+            }
+          ]
+        }
+      ]
+    },
+    "7th": {
+      "unit_name": "Unit 23 - Forced Air Add-On Devices",
+      "category": "G2",
+      "documents": [
+        {
+          "filename": "CSA Unit 23 - Forced Air Add-Ons - Final.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 23 - Forced Air Add-On Devices",
+          "char_count": 113805,
+          "content": "CSA Unit 23 - Forced Air Add-On \nDevices\nChapter 1                                         Air \nFilters and Cleaners for Forced-\nAir Furnaces\nA forced-air furnace cannot operate without air filtration. The gas technician/fitter \nmust be familiar with the various types of filters available, be able to install them \ncorrectly, and instruct customers on their maintenance to ensure safe, efficient \noperation of the gas furnace.\nIt is important for the gas technician/fitter to understand the advantages and \ndisadvantages of media and electrostatic filters and electronic air cleaners, so they \ncan help customers choose the air filtration system best suited to their needs.\nMK by Mike Kapin\nCreated\nCopywrite 2025\nLearning Objectives\nDescribe Air Cleaning \nEquipment\nDescribe three types of air \ncleaning equipment (media \nfilters, electrostatic filters, and \nelectronic air cleaners) that can \nbe used with forced-air furnaces\nUnderstand Media Filters\nDescribe the function, \ninstallation, and maintenance of \nmedia filters\nUnderstand Electrostatic \nFilters\nDescribe the function, \ninstallation, and maintenance of \nelectrostatic filters\nUnderstand Electronic Air Cleaners\nDescribe the function, installation, and maintenance \nof electronic air cleaners\nUnderstand UV Air Purifiers\nDescribe the function and installation of ultraviolet air \npurifiers\nKey Terminology\nTerm\nAbbreviation (Symbol)\nDefinition\nElectronic air cleaner\nEAC\nAir cleaner that uses electrostatic charge to remove \nand collect particulate contaminants from the \ncirculated air system\nElectrostatic precipitator\nESP\nAnother name for the electronic air cleaner (EAC) \nthat uses induced electrostatic charge\nHigh-efficiency particulate air (arrestance) filter\nHEPA\nType of air filter\nMedia filter\nFilter that physically removes particles from the air \nstream\nMinimum efficiency reporting value\nMERV\nNumerical value given to furnace filters to identify \nfiltering ability\nRed Seal Alignment\nThis chapter aligns with several Red Seal blocks and tasks related to gas technician training, including:\nOccupational Common Skills\n•\nTask 1: Performs safety-related \nfunctions\n•\nTask 2: Maintains and uses tools \nand equipment\n•\nTask 3: Plans and prepares for \ninstallation, service and \nmaintenance\nSystems Supply Venting and \nAir\n•\nTask 7: Installs venting\n•\nTask 8: Installs air supply system\n•\nTask 9: Installs draft control \nsystems\nServicing Gas-fired Systems\n•\nTask 18: Maintains gas-fired \nsystems\n•\nTask 19: Repairs gas-fired systems\n•\nTask 20: Decommissions gas-fired \nsystems\nTypes of Air Filtration Systems\nMedia Filters\nSometimes called mechanical filters, they are the simplest form \nof air filtration. They are made from such media as fibreglass \nand positioned in the air stream.\nAir is forced through the filter and particles removed. The filter \nmedia can be reusable or disposable.\nMedia filters of high, low, and medium efficiency are available.\nElectrostatic Air Filters\nThese are media filters made from a material that generates a \nstatic charge in response to air flow.\nThe static charge attracts and holds more particles than media \nfilters to the medium.\nElectronic Air Cleaners (EAC)\nThey use an electrostatic charge to remove and collect \nparticulate contaminants from the circulated air system.\nAn EAC uses an external power source to generate the charge \nthat attracts particles to charged plates, rather than a media \nfilter, to collect them.\nUV Air Purifier\nUse UV light to reduce biological contaminants, chemical, and \nodours. UV is not a filtration method, but can be incorporated \ninto filtration systems.\nUnderstanding MERV Ratings\nWhat is MERV?\nThe minimum efficiency reporting value (MERV) is a numerical value given to furnace filters to identify the filtering ability.\nThe MERV rating system is now an international industry standard that helps determine a furnace filter's ability to capture and hold dirt \nand dust in specific size ranges.\nRating Scale\nMERV ratings range from 1–20. The higher the MERV rating, the greater the filtering capability. Measurements are in microns.\nApplications\nHigh-efficiency particulate air (HEPA), MERV 17–20, or high-efficiency particulate arrestance filters, which remove a very high \npercentage of airborne contaminants, are often specified for various commercial, industrial, and institutional applications.\nResidential Use\nA MERV rating between eight and 11 is adequate for most homes. To be safe, it is best to check if the furnace manufacturer has a \nmaximum MERV rating for the model of furnace being used.\nPressure Drop Considerations\nWhat is Pressure Drop?\nThe pressure drop that the filter \ncauses should undergo assessment \nfor suitability with fan units prior to \nuse to ensure maintenance of duct \nstatic pressures.\nAs filters become more efficient \n(higher MERV ratings), they typically \ncreate more resistance to airflow, \nwhich can affect system performance.\nImpact on System\nToo much pressure drop can cause:\n•\nReduced airflow through the \nsystem\n•\nDecreased heating and cooling \nefficiency\n•\nIncreased energy consumption\n•\nPotential damage to the furnace \ncomponents\nFinding Balance\nThe ideal filter provides adequate \nfiltration while maintaining proper \nairflow through the system.\nAlways consult manufacturer \nspecifications for maximum allowable \npressure drop in the system.\nSources of Indoor Air Particles\nHousehold Dust\nDust on floors or other \nsurfaces that is disturbed by \nactivity in the house\nCombustion Sources\nDust generated by smoking, \nburning candles, cooking, \ndoing laundry, etc.\nBiological Sources\nHair and skin flakes from \nhumans or pets\nOutdoor Sources\nParticles from the outside air \nthat come into the home \nwith infiltrating air\nHealth Impacts of Airborne Particles\nVisible Particles\nParticles of dust that accumulate on a television screen, shelves, and furniture are visible to the eyes\nRespirable Particles\nSome particles are so small that they are inhaled and then exhaled without \nbeing trapped in the lungs\nHarmful Particles\nThe particles most dangerous to humans are those that \nenter the lungs and lodge there\nAlthough an occupant would probably like to keep visible dust out of a home, the main health risk comes from unseen/unsafe \nparticles which include tobacco smoke, spores, bacteria, and viruses.\nChoosing the Right Air Filtration System\nAir Quality Requirements\nConsider the degree of air cleanliness required for the \nspecific application\nDust Conditions\nEvaluate the amount and type of dust in the air to be \nfiltered\nAirflow Resistance\nConsider the operating resistance to air flow (pressure \ndrop)\nSpace Constraints\nAssess the space available for filtration equipment\nCost Factors\nEvaluate initial costs, ongoing maintenance costs, and \noperating costs\nSystem Lifespan\nConsider the predicted life and efficiency of the \nsystem\nRelative Costs of Air Filter Types\nFilter\nMaintenance and \ncapital costs, per \nyear, over 15 years \n($)\nAmount of clean \nair produced \n(litres/second)\nCost of clean air \nper year \n($/liters/second)\n25 mm pleated\n48\n17\n3.36\n25 mm premium\n100\n97\n1.13\nCharged media\n43\n44\n1.25\n100 mm pleated\n100\n60\n1.71\nHEPA bypass\n240\n175\n2.03\nESP\n67\n298\n0.26\nSource: Canada Mortgage and Housing Corporation (CMHC)\nTypes of Media Filters\nHammock Filters\nLocated on a frame or \nhammock that \nsurrounds the fan in \nthe forced-air furnace\nIf a forced-air furnace \nis intended to be used \nwith a hammock filter, \nthe filter holder will be \nfactory installed\nSlab Filters\nConsist of layers of \nfilter material, usually \nfibreglass, held in place \nby a cardboard frame\nThe fibres are treated \nwith oil or a similar \nadhesive\nMost slab filters are \ndesigned for one-time \nuse and must be \ndiscarded when they \nare dirty\nPleated Filters\nRepresent the most \npopular type of filter \nchoice available today\nCome in a variety of \nsizes and thicknesses\nPaper pleating \nincreases the filter \nsurface and improves \nperformance\nHammock Filter\nDescription\nHammock filters are located on a frame \nor hammock that surrounds the fan in the \nforced-air furnace.\nThe filter material is typically disposable \nand requires periodic replacement.\nInstallation\nIf a forced-air furnace is intended to be \nused with a hammock filter, the filter \nholder will be factory installed.\nThe filter material is secured to the frame \nwith screws or clips that can be loosened \nfor replacement.\nMaintenance\nRegular inspection and replacement of \nthe filter material is necessary.\nOne side of the media is usually coated \nwith oil to enhance particle collection. \nThis coated side should be opposite the \nblower.\nSlab and Pleated Filters\nFilter Rack Installation\nLocate the Installation Position\nIdentify the location of the racks. The side of the furnace cabinet will \nlikely have embossed angles indicating the location.\nCut the Return Opening\nCut the return opening using the angles as guides.\nMount the Filter Rack\nMount the filter rack over the opening.\nComplete Ductwork\nProceed with the ductwork installation.\nHolding the filter in position requires the installation of a filter rack. The \nfilter rack is usually located between the furnace casing and the return-\nair plenum.\nImpact of Filters on Air Flow\nResistance to Air Flow\nAll media filters, whether mechanical or electrostatic, add resistance to air flow.\nThickness Considerations\nThe thickness of the filter and the specifications for the furnace must match. Adding extra filters to the filter chamber to \nimprove indoor air quality can seriously impede furnace operation.\nPrimary Purpose\nThe main purpose of the furnace inline filter is to protect the blower fan and heat exchanger from the dust, hair, and other \nparticles the return duct pulls in.\nOperational Issues\nAs a filter fills with particles, the air volume flowing through the filter decreases. Restrictions in air flow can cause problems in \nheating cycles, causing the furnace to switch off on the high limit control and seriously limit the furnace's ability to heat the \nhouse.\nPartial Bypass Air HE",
+          "content_truncated": true
+        },
+        {
+          "filename": "CSA Unit 23 - Forced Air Add-Ons - Final.pptx",
+          "file_type": "powerpoint",
+          "relative_path": "CSA Units\\Unit 23 - Forced Air Add-On Devices",
+          "char_count": 115731,
+          "content": "CSA Unit 23 - Forced Air Add-On Devices\nChapter 1                                         Air Filters and Cleaners for Forced-Air Furnaces\nA forced-air furnace cannot operate without air filtration. The gas technician/fitter must be familiar with the various types of filters available, be able to install them correctly, and instruct customers on their maintenance to ensure safe, efficient operation of the gas furnace.\nIt is important for the gas technician/fitter to understand the advantages and disadvantages of media and electrostatic filters and electronic air cleaners, so they can help customers choose the air filtration system best suited to their needs.\nMK\nby Mike Kapin\nCreated\nCopywrite 2025\nLearning Objectives\nDescribe Air Cleaning Equipment\nDescribe three types of air cleaning equipment (media filters, electrostatic filters, and electronic air cleaners) that can be used with forced-air furnaces\nUnderstand Media Filters\nDescribe the function, installation, and maintenance of media filters\nUnderstand Electrostatic Filters\nDescribe the function, installation, and maintenance of electrostatic filters\nUnderstand Electronic Air Cleaners\nDescribe the function, installation, and maintenance of electronic air cleaners\nUnderstand UV Air Purifiers\nDescribe the function and installation of ultraviolet air purifiers\nKey Terminology\nTerm\nAbbreviation (Symbol)\nDefinition\nElectronic air cleaner\nEAC\nAir cleaner that uses electrostatic charge to remove and collect particulate contaminants from the circulated air system\nElectrostatic precipitator\nESP\nAnother name for the electronic air cleaner (EAC) that uses induced electrostatic charge\nHigh-efficiency particulate air (arrestance) filter\nHEPA\nType of air filter\nMedia filter\nFilter that physically removes particles from the air stream\nMinimum efficiency reporting value\nMERV\nNumerical value given to furnace filters to identify filtering ability\nRed Seal Alignment\nThis chapter aligns with several Red Seal blocks and tasks related to gas technician training, including:\nOccupational Common Skills\nTask 1: Performs safety-related functions\nTask 2: Maintains and uses tools and equipment\nTask 3: Plans and prepares for installation, service and maintenance\nSystems Supply Venting and Air\nTask 7: Installs venting\nTask 8: Installs air supply system\nTask 9: Installs draft control systems\nServicing Gas-fired Systems\nTask 18: Maintains gas-fired systems\nTask 19: Repairs gas-fired systems\nTask 20: Decommissions gas-fired systems\nTypes of Air Filtration Systems\nMedia Filters\nSometimes called mechanical filters, they are the simplest form of air filtration. They are made from such media as fibreglass and positioned in the air stream.\nAir is forced through the filter and particles removed. The filter media can be reusable or disposable.\nMedia filters of high, low, and medium efficiency are available.\nElectrostatic Air Filters\nThese are media filters made from a material that generates a static charge in response to air flow.\nThe static charge attracts and holds more particles than media filters to the medium.\nElectronic Air Cleaners (EAC)\nThey use an electrostatic charge to remove and collect particulate contaminants from the circulated air system.\nAn EAC uses an external power source to generate the charge that attracts particles to charged plates, rather than a media filter, to collect them.\nUV Air Purifier\nUse UV light to reduce biological contaminants, chemical, and odours. UV is not a filtration method, but can be incorporated into filtration systems.\nUnderstanding MERV Ratings\nWhat is MERV?\nThe minimum efficiency reporting value (MERV) is a numerical value given to furnace filters to identify the filtering ability.\nThe MERV rating system is now an international industry standard that helps determine a furnace filter's ability to capture and hold dirt and dust in specific size ranges.\nRating Scale\nMERV ratings range from 1–20. The higher the MERV rating, the greater the filtering capability. Measurements are in microns.\nApplications\nHigh-efficiency particulate air (HEPA), MERV 17–20, or high-efficiency particulate arrestance filters, which remove a very high percentage of airborne contaminants, are often specified for various commercial, industrial, and institutional applications.\nResidential Use\nA MERV rating between eight and 11 is adequate for most homes. To be safe, it is best to check if the furnace manufacturer has a maximum MERV rating for the model of furnace being used.\nPressure Drop Considerations\nWhat is Pressure Drop?\nThe pressure drop that the filter causes should undergo assessment for suitability with fan units prior to use to ensure maintenance of duct static pressures.\nAs filters become more efficient (higher MERV ratings), they typically create more resistance to airflow, which can affect system performance.\nImpact on System\nToo much pressure drop can cause:\nReduced airflow through the system\nDecreased heating and cooling efficiency\nIncreased energy consumption\nPotential damage to the furnace components\nFinding Balance\nThe ideal filter provides adequate filtration while maintaining proper airflow through the system.\nAlways consult manufacturer specifications for maximum allowable pressure drop in the system.\nSources of Indoor Air Particles\nHousehold Dust\nDust on floors or other surfaces that is disturbed by activity in the house\nCombustion Sources\nDust generated by smoking, burning candles, cooking, doing laundry, etc.\nBiological Sources\nHair and skin flakes from humans or pets\nOutdoor Sources\nParticles from the outside air that come into the home with infiltrating air\nHealth Impacts of Airborne Particles\nVisible Particles\nParticles of dust that accumulate on a television screen, shelves, and furniture are visible to the eyes\nRespirable Particles\nSome particles are so small that they are inhaled and then exhaled without being trapped in the lungs\nHarmful Particles\nThe particles most dangerous to humans are those that enter the lungs and lodge there\nAlthough an occupant would probably like to keep visible dust out of a home, the main health risk comes from unseen/unsafe particles which include tobacco smoke, spores, bacteria, and viruses.\nChoosing the Right Air Filtration System\nAir Quality Requirements\nConsider the degree of air cleanliness required for the specific application\nDust Conditions\nEvaluate the amount and type of dust in the air to be filtered\nAirflow Resistance\nConsider the operating resistance to air flow (pressure drop)\nSpace Constraints\nAssess the space available for filtration equipment\nCost Factors\nEvaluate initial costs, ongoing maintenance costs, and operating costs\nSystem Lifespan\nConsider the predicted life and efficiency of the system\nRelative Costs of Air Filter Types\nFilter\nMaintenance and capital costs, per year, over 15 years ($)\nAmount of clean air produced (litres/second)\nCost of clean air per year ($/liters/second)\n25 mm pleated\n48\n17\n3.36\n25 mm premium\n100\n97\n1.13\nCharged media\n43\n44\n1.25\n100 mm pleated\n100\n60\n1.71\nHEPA bypass\n240\n175\n2.03\nESP\n67\n298\n0.26\nSource: Canada Mortgage and Housing Corporation (CMHC)\nTypes of Media Filters\nHammock Filters\nLocated on a frame or hammock that surrounds the fan in the forced-air furnace\nIf a forced-air furnace is intended to be used with a hammock filter, the filter holder will be factory installed\nSlab Filters\nConsist of layers of filter material, usually fibreglass, held in place by a cardboard frame\nThe fibres are treated with oil or a similar adhesive\nMost slab filters are designed for one-time use and must be discarded when they are dirty\nPleated Filters\nRepresent the most popular type of filter choice available today\nCome in a variety of sizes and thicknesses\nPaper pleating increases the filter surface and improves performance\nHammock Filter\nDescription\nHammock filters are located on a frame or hammock that surrounds the fan in the forced-air furnace.\nThe filter material is typically disposable and requires periodic replacement.\nInstallation\nIf a forced-air furnace is intended to be used with a hammock filter, the filter holder will be factory installed.\nThe filter material is secured to the frame with screws or clips that can be loosened for replacement.\nMaintenance\nRegular inspection and replacement of the filter material is necessary.\nOne side of the media is usually coated with oil to enhance particle collection. This coated side should be opposite the blower.\nSlab and Pleated Filters\nSlab Filters\nConsist of layers of filter material, usually fibreglass, held in place by a cardboard frame.\nThe fibres are treated with oil or a similar adhesive. Filters for residential use are usually about one inch thick.\nMost slab filters are designed for one-time use and must be discarded when they are dirty.\nPleated Filters\nRepresent the most popular type of filter choice available today. They come in a variety of sizes and thicknesses.\nPaper pleating increases the filter surface and improves performance.\nA 5 inch depth pleated media filter can replace an electronic air filter and reside in the same cabinet, or a custom air filter rack can be installed to accommodate the size.\nFilter Rack Installation\nLocate the Installation Position\nIdentify the location of the racks. The side of the furnace cabinet will likely have embossed angles indicating the location.\nCut the Return Opening\nCut the return opening using the angles as guides.\nMount the Filter Rack\nMount the filter rack over the opening.\nComplete Ductwork\nProceed with the ductwork installation.\nHolding the filter in position requires the installation of a filter rack. The filter rack is usually located between the furnace casing and the return-air plenum.\nImpact of Filters on Air Flow\nResistance to Air Flow\nAll media filters, whether mechanical or electrostatic, add resistance to air flow.\nThickness Considerations\nThe thickness of the filter and the specifications for the furnace must match. Adding extra filters to the filter chamber to improve indo",
+          "content_truncated": true
+        },
+        {
+          "filename": "CSA Unit 23 - Question Bank.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 23 - Forced Air Add-On Devices",
+          "char_count": 19275,
+          "content": "CSA Unit 23 - Forced Air Add-On Devices Test\n100 Multiple Choice Questions with Answer Key\nChapter 1: Air Filters and Cleaners\nWhat is the minimum efficiency reporting value (MERV) rating system used for? A) Measuring airflow velocity B) Identifying filtering ability of furnace filters C) Calculating energy consumption D) Determining duct sizing\nWhat MERV rating range is adequate for most homes? A) 1-4 B) 5-7 C) 8-11 D) 17-20\nWhich type of filter physically removes particles from the air stream? A) Electronic air cleaner B) Electrostatic precipitator C) Media filter D) UV air purifier\nWhat does HEPA stand for? A) High-efficiency particulate air B) High-energy particle arrestor C) High-efficiency pressure accumulator D) High-energy pneumatic apparatus\nWhat voltage range do electronic air cleaners typically operate at for the ionization section? A) 120V AC B) 240V AC C) 3000-3500V DC D) 7500-8500V DC\nWhich component of an electronic air cleaner captures larger particles before they enter the electrostatic field? A) Collector plates B) Pre-filter C) Ionizing wires D) Power pack\nWhat is the typical temperature drop across a properly functioning cooling coil at 24°C and 50% humidity? A) 5°C (9°F) B) 11°C (20°F) C) 15°C (27°F) D) 20°C (36°F)\nHow often should filters be inspected during heating season? A) Weekly B) Monthly C) Quarterly D) Annually\nWhat happens when filters become more efficient (higher MERV ratings)? A) They create less resistance to airflow B) They create more resistance to airflow C) Airflow resistance remains constant D) They only work in summer\nWhich particles are most dangerous to human health? A) Visible particles B) Respirable particles that are exhaled C) Particles that enter and lodge in the lungs D) Large outdoor particles\nWhat type of filter generates a static charge in response to air flow? A) Media filter B) Electrostatic air filter C) Electronic air cleaner D) HEPA filter\nWhere should hammock filters be positioned in relation to the blower? A) On the supply side B) On the return side C) Both sides equally D) It doesn't matter\nWhat is the main purpose of the furnace inline filter? A) Improve indoor air quality B) Protect blower fan and heat exchanger C) Reduce energy consumption D) Control humidity levels\nWhat can cause floodback in air conditioning systems? A) Too much airflow B) Dirty filters reducing airflow C) Low refrigerant levels D) High outdoor temperatures\nWhich side of a hammock filter media should be coated with oil? A) The side facing the blower B) The side opposite the blower C) Both sides equally D) Neither side\nWhat is the correct procedure for cleaning disposable filters? A) Vacuum them monthly B) Wash with detergent C) Replace them, don't clean D) Use compressed air\nHow should electrostatic filters be cleaned when lightly soiled? A) Replace immediately B) Vacuum upstream side first, then downstream C) Wash with hot water only D) Use chemical solvents\nWhat is the voltage range for the collector plates in an electronic air cleaner? A) 120V AC B) 240V AC C) 3000-3500V DC D) 7500-8500V DC\nWhat should you do before cleaning electronic air cleaner cells? A) Increase the voltage B) Turn off power and discharge cells C) Remove only the pre-filter D) Check the humidity level\nWhich cleaning method is NOT recommended for EAC cells? A) Dishwasher without dry cycle B) Soaking in hot water with detergent C) Bathtub cleaning D) Car wash cleaning\nChapter 2: Humidifiers\nWhat does relative humidity (RH%) measure? A) The total amount of water in the air B) The percentage of water vapor in air compared to saturation at the same temperature C) The temperature of water vapor D) The speed of air movement\nWhat is the recommended relative humidity range for most building occupants? A) 10-20% B) 20-30% C) 30-50% D) 60-80%\nAt what outside temperature should maximum indoor RH be 40%? A) -7°C B) -12°C C) -18°C D) -24°C\nWhat is the basic control for a humidifier? A) Thermostat B) Humidistat C) Pressure switch D) Flow meter\nWhich type of humidifier contains a 24V AC motor and foam-covered wheel? A) Spray humidifier B) Steam humidifier C) Drum humidifier D) Evaporator-pad humidifier\nWhat connects the evaporator-pad humidifier between plenums? A) Water line only B) Electrical connection only C) Bypass duct D) Drain line only\nWhich humidifier type should NOT be used with hard water? A) Drum humidifiers B) Steam humidifiers C) Atomizing humidifiers D) Evaporator-pad humidifiers\nHow do self-contained steam humidifiers generate steam? A) Gas burner heating B) Hot water circulation C) Two electrodes causing water to boil D) Solar energy collection\nWhere should the humidistat be mounted to avoid incorrect readings? A) Near windows and doors B) In bathrooms and kitchens C) In return air duct or controlled area D) Outside the building\nWhat happens if an atomizing humidifier operates when the furnace blower is not running? A) It works more efficiently B) It uses less water C) Water drops accumulate causing moisture problems D) Nothing, it operates normally\nWhy must the steam humidifier dispersion tube be mounted higher than the humidifier? A) Better steam distribution B) To allow condensate to drain back C) Easier maintenance access D) Building code requirement\nWhat device can provide independent measure of relative humidity? A) Thermometer B) Barometer C) Sling psychrometer D) Voltmeter\nWhat should be done with the bypass duct damper in summer? A) Leave it open B) Close it C) Adjust it to 50% open D) Remove it completely\nIf a humidistat is functioning but relative humidity doesn't match the setting, what might be the problem? A) Low water pressure B) Incorrect calibration C) Blocked drain D) Dirty filter media\nWhat causes white dust throughout a home when using a humidifier? A) Dirty air filters B) Mineral deposits from hard water C) Excessive humidity D) Poor ventilation\nHow often should drum-type humidifier media be cleaned or replaced? A) Monthly during operation B) At the beginning of every season C) Only when it breaks D) Every two years\nWhat is the recommended minimum mounting height for a humidifier above the furnace body? A) 1 inch (25 mm) B) 2 inches (51 mm) C) 3 inches (78 mm) D) 6 inches (152 mm)\nWhich electrical connection method should be avoided for humidifiers? A) Separate transformer B) Direct connection to thermostat circuit C) Independent circuit breaker D) Ground fault protection\nWhat safety device ensures atomizing humidifiers only operate when the blower runs? A) Pressure switch B) Temperature sensor C) Sail switch D) Timer relay\nWhat is the maximum recommended relative humidity at -18°C outside temperature? A) 20% B) 25% C) 30% D) 35%\nChapter 3: Cooling Coils\nWho typically performs the installation and major servicing of cooling coils? A) Gas technicians/fitters B) Refrigeration and air conditioning mechanics C) Plumbers D) Electricians\nWhat is another name for the cooling coil due to its shape? A) U coil B) S coil C) A coil D) L coil\nWhat is the normal air temperature drop across a cooling coil at typical conditions? A) 5°C (9°F) B) 8°C (14°F) C) 11°C (20°F) D) 15°C (27°F)\nWhere should temperature measurement holes be placed in plenums? A) One foot from the furnace B) Two feet from the furnace C) Three feet from the furnace D) Four feet from the furnace\nHow long should equipment operate before taking temperature measurements? A) 2 minutes B) 5 minutes C) 10 minutes D) 15 minutes\nWhat indicates a refrigerant leak in the cooling coil system? A) Ice formation B) Spots of oil C) Excessive noise D) Low air temperature\nWhat should be used to clear a clogged condensate drain? A) Chemical drain cleaner B) Hot water only C) Compressed air or nitrogen D) Wire brush\nHow do you calculate the temperature drop across a cooling coil? A) Add supply and return temperatures B) Subtract supply temperature from return temperature C) Multiply supply by return temperature D) Divide return by supply temperature\nWhat problems occur during heating season if cooling coils are dirty? A) Lower stack temperature B) Increased temperature rise and stack temperature C) No effect on heating D) Improved heating efficiency\nWhat tool should be used carefully when cleaning cooling coil fins? A) Pressure washer B) Steel brush C) Fin comb D) Sandpaper\nMixed Review Questions\nWhat does ESP stand for in air cleaning terminology? A) Electronic static precipitator B) Electrostatic precipitator C) Energy saving processor D) Environmental safety protocol\nWhich filter type is most popular today? A) Hammock filters B) Slab filters C) Pleated filters D) Electronic filters\nWhat is the primary disadvantage of HEPA filters for inline furnace use? A) Too expensive B) Too restrictive, could stall HVAC fan C) Not effective enough D) Require frequent replacement\nHow often should UV lamps typically be replaced? A) Every 3 months B) Every 6 months C) Every 9-12 months D) Every 2 years\nWhat type of UV light is germicidal? A) UVA B) UVB C) UVC D) UVD\nWhich humidifier component controls water level automatically? A) Solenoid valve B) Float valve C) Pressure regulator D) Flow meter\nWhat causes crackling sounds in an electronic air cleaner? A) Normal operation B) Dirty cells or arcing C) Low voltage D) High humidity\nWhere should electronic air cleaners be installed relative to humidifiers? A) Downstream from humidifier B) Upstream from humidifier C) Side by side D) In separate ducts\nWhat is the recommended cleaning frequency for EAC cells? A) Every week B) Every 1-6 months C) Once per year D) Only when they break\nWhich method should NOT be used to connect water supply to a humidifier? A) Full-size tee fitting B) Approved valve C) Saddle valve D) Compression fitting\nWhat is the main health concern with visible dust particles? A) They are the most dangerous B) They indicate presence of harmful invisible particles C) They cause immediate illness D) They damage HVAC equipment\nHow should ionizing wires be handled in electronic air cleaners? A) With bare ",
+          "content_truncated": true
+        },
+        {
+          "filename": "HRV.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 23 - Forced Air Add-On Devices\\Lab Practicals",
+          "char_count": 4273,
+          "content": "MECH – 1086    Lab Project #3\nHRV Heat Recovery Ventilator – Add-on   Installation\nObjective:   Understand installation method and correct operation of Add – on.  Understand wiring requirements, maintenance requirements and tools required for installation.\nWrite detailed installation instructions:________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nList Tools and Materials required for installation:___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nComplete a wiring diagram for the complete installation.         Instructor Sign off _____________\nWhat does a HRV do?  ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nWhat is the recommended Relative Humidity (RH) Level for a residence?_________________________\nWhere is the HRV to be installed?  On the supply or return air side of the furnace?  Explain your answer:________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nWhat power source does the HRV use?   240V   /  120V  /    24V\nWhat is the maintenance frequency of this Add-on?_______________________________\nWhat maintenance is required for this add-on? ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nInstructor Sign off___________________________\nInstall the Add-on as per installation instructions supplied by the manufacturer.  Be sure to adhere to all safety rules of the lab and ensure that power is off when making electrical connections.  DO NOT PROCEED to the installation without instructor signoff on question 8.   Automatic failure if you do.\nWhat is the current draw on add-on when operating?________________\nRecord the control wiring current draw.__________________\nAssume the instructor is the customer.  Instruct the customer of the proper use and care for this add-on.\nInstructor Sign off_________________________",
+          "content_truncated": false
+        },
+        {
+          "filename": "Humidifier.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 23 - Forced Air Add-On Devices\\Lab Practicals",
+          "char_count": 3913,
+          "content": "MECH – 1086    Lab Project #2\nHumidifier – Add-on   Installation\nObjective:   Understand installation method and correct operation of Add – on.  Understand wiring requirements, maintenance requirements and tools required for installation.\nWrite detailed installation instructions:________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nList Tools and Materials required for installation:___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nComplete a wiring diagram for the complete installation.         Instructor Sign off _____________\nWhat does a Humidifier do?  ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nWhat is the recommended Relative Humidity (RH) Level for a residence?_________________________\nWhere is the Humidifier to be installed?  On the supply or return air side of the furnace?___________________\nWhat power source does the Humidifier use?   240V   /  120V  /    24V\nWhat is the maintenance frequency of this Add-on?_______________________________\nWhat maintenance is required for this add-on? ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nInstructor Sign off___________________________\nInstall the Add-on as per installation instructions supplied by the manufacturer.  Be sure to adhere to all safety rules of the lab and ensure that power is off when making electrical connections.  DO NOT PROCEED to the installation without instructor signoff on question 8.   Automatic failure if you do.\nWhat is the current draw on add-on when operating?________________\nRecord the control wiring current draw.__________________\nAssume the instructor is the customer.  Instruct the customer of the proper use and care for this add-on.\nInstructor Sign off_________________________",
+          "content_truncated": false
+        },
+        {
+          "filename": "UV Light.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 23 - Forced Air Add-On Devices\\Lab Practicals",
+          "char_count": 3756,
+          "content": "MECH – 1086    Lab Project #1\nUV Light – Add-on   Installation\nObjective:   Understand installation method and correct operation of Add – on.  Understand wiring requirements, maintenance requirements and tools required for installation.\nWrite detailed installation instructions:________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nList Tools and Materials required for installation:___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nComplete a wiring diagram for the complete installation.         Instructor Sign off _____________\nWhat does a UV Light do?  ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nWhere is the UV light to be installed?  On the supply or return air side of the furnace?___________________\nWhat power source does the UV light use?   240V   /  120V  /    24V\nWhat is the maintenance frequency of this Add-on?_______________________________\nWhat maintenance is required for this add-on? ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nInstructor Sign off___________________________\nInstall the Add-on as per installation instructions supplied by the manufacturer.  Be sure to adhere to all safety rules of the lab and ensure that power is off when making electrical connections.  DO NOT PROCEED to the installation without instructor signoff on question 8.   Automatic failure if you do.\nWhat is the current draw on add-on when operating?________________\nRecord the control wiring current draw.__________________\nAssume the instructor is the customer.  Instruct the customer of the proper use and care for this add-on.\nInstructor Sign off_________________________",
+          "content_truncated": false
+        }
+      ],
+      "total_documents": 6,
+      "total_chars": 260753,
+      "edition": "7th Edition",
+      "is_primary": false
+    }
+  }
+}

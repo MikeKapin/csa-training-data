@@ -1,0 +1,1134 @@
+{
+  "unit_name": "Unit 20 - Hydronic heating systems",
+  "unit_number": 20,
+  "category": "G2",
+  "editions": {
+    "8th_2025": {
+      "unit_name": "Unit 20 - Hydronic heating systems",
+      "edition": "8th Edition",
+      "publication_date": "June 2025",
+      "is_primary": true,
+      "category": "G2",
+      "total_chapters": 5,
+      "total_pages": 161,
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "chapter_name": "Boiler components and draft control devices",
+          "pages": "23-32",
+          "topics": [
+            "Wet-base boiler sections (fire brick and refractory)",
+            "Fire brick and refractory are heat-resistant cement-like materials",
+            "Retain heat in chamber and protect metal enclosing combustion chamber",
+            "Materials form \"dry\" sections of combustion chambers",
+            "Flue-gas passages (carry heat from combustion process to water-filled portion)",
+            "Some boilers have vertical flue passages, others horizontal",
+            "Greater number of flue passes = greater heat transfer to boiler water",
+            "Some boiler flue passes include spiral-shaped baffles or turbulators",
+            "Turbulators increase heat transfer by inducing turbulence and slowing exhaust gas passage",
+            "Vertical passages (hot flue gas rises from combustion chamber)",
+            "Transfers heat to water-filled tubes or boiler sections as passes around them once before exiting flue",
+            "Common style for atmospheric or natural-draft-style boilers",
+            "Flue passes allow buoyancy venting of hot products of combustion",
+            "Horizontal passages (hot flue gas directed through horizontal openings between water-filled sections or tubes)",
+            "Increases travel time for flue gases allowing more efficient heat transfer",
+            "Some boilers: flue gas must make several passes in each direction before exiting flue",
+            "Vertical fire-tube and horizontal fire-tube boilers",
+            "Draft-control devices (achieve efficiency by controlling amount and force of draft)",
+            "Too strong draft: draws in too much combustion air, reduces time for heat transfer",
+            "Too weak draft: smothers flame, reduces combustion efficiency",
+            "Draft-control devices essential component in venting system",
+            "Types: draft hoods (or draft diverters), barometric dampers (or draft regulators)",
+            "Draft hood (some domestic gas boilers atmospheric type, require neutral overfire draft)",
+            "Draft hood ensures neutral pressure maintained over fire",
+            "By allowing dilution air into venting system, draft hood lowers temperature of flue gases",
+            "Prevents hot gases from inducing negative pressure",
+            "When no draft, backdraft, or blockage beyond draft hood, flue gases exit draft hood (spillage)",
+            "Hood or diverter built into gas appliance or part of vent connector",
+            "Should never be altered or modified",
+            "Barometric dampers (used on appliances operating with controlled negative overfire draft)",
+            "Used when venting system provides negative draw on combustion chamber to remove flue gases",
+            "Double-acting barometric damper can open both inward and outward",
+            "Opens inward to regulate dilution air, opens outward to relieve down-draft and spillage",
+            "Dilution air: when vent draw increases, atmospheric pressure pushes against gate allowing extra dilution air to reduce draft draw",
+            "Downdraft: if pressure increases inside venting system, gate swings out to relieve downdraft",
+            "Spillage: in event of blockage, gate swings out to allow spillage",
+            "Vent and flue dampers (control flow of flue gases, prevent escape of heat through venting system)",
+            "Three common types: automatic vent dampers, thermally actuated vent dampers, flue dampers",
+            "Automatic vent dampers (electrically activated, prevent heat from escaping when boiler not being fired)",
+            "Installed in boiler venting system downstream of draft-control device",
+            "Consists of tubular casing, damper blade, and electric motor-driven actuator",
+            "Damper blade normally in closed position blocking vent",
+            "Vent damper actuator has proving switch interlocked with thermostat controlling boiler burner",
+            "On call for heat vent damper opens automatically to ensure passage of flue gases",
+            "Burner does not operate until vent fully open, remains open until burner shuts down",
+            "Automatic vent dampers located downstream of draft hood relief openings",
+            "Thermally actuated vent dampers (operate in response to temperature of flue gases)",
+            "When flue-gas temperature rises damper blades (bimetal leaf) open to allow passage",
+            "After burner shuts down and temperature decreases damper blades close",
+            "Blades have small slots allowing minimum airflow through vent for safe startup",
+            "Thermally actuated vent dampers located downstream of draft-hood relief openings",
+            "Flue dampers (movable plate to regulate flow or draft through boiler flue)",
+            "Can be manually adjusted or automatically open and close",
+            "Automatic flue dampers must be interlocked or provided with means to ensure fail in fully open position",
+            "Flue dampers located upstream of any draft-hood relief openings",
+            "Pressurizing system prevents water from boiling into steam when operating above atmospheric boiling temperature",
+            "Aquastat considered part of hydronic control system",
+            "Backflow preventer protects potable water connections from cross-contamination",
+            "Advantages of hydronic heating: quiet operation, increased comfort, less air stratification",
+            "Fast reaction time not advantage of hydronic heating",
+            "Input of 400 MBtu/h or greater requires LWCO for hot water boiler",
+            "Tapered push-nipples connect multiple cast-iron boiler sections into boiler block assembly",
+            "Copper fin tube boilers can be used to directly heat domestic water",
+            "If flue gas combustion products cooled below dew point, condensation is result",
+            "Steel water-tube boilers commonly used for production of hot water or steam",
+            "Steel water tube boilers require constant water circulation during firing to prevent thermal stress damage",
+            "Condensing boilers typically made from stainless steel",
+            "For atmospheric boilers, spillage explains result if no draft, backdraft, or blockage beyond draft hood",
+            "Automatic vent damper actuator has proving switch to control boiler burner"
+          ],
+          "content": "Chapter 1 covers boiler components and draft control devices for hydronic heating systems. Wet-base boiler sections show fire brick and refractory which are heat-resistant cement-like materials used to retain heat in chamber and protect metal enclosing combustion chamber. These materials form \"dry\" sections of combustion chambers.\n\nFlue-gas passages from heat exchanger carry heat from combustion process to water-filled portion of boiler. Some boilers have vertical flue passages while others horizontal. Generally speaking, greater number of flue passes results in greater heat transfer to boiler water. Some boiler flue passes may include spiral-shaped baffles or \"turbulators\" that act to increase heat transfer by inducing turbulence and slowing passage of exhaust gases.\n\nVertical passages: in boiler with vertical passages, hot flue gas rises from combustion chamber transferring heat to water-filled tubes or boiler sections as passes around them once before exiting flue. This is common style for atmospheric or natural-draft-style boilers where flue passes allow buoyancy venting of hot products of combustion.\n\nHorizontal passages: in boiler with horizontal passages, hot flue gas directed through horizontal openings between water-filled sections or tubes in boiler, increasing travel time for flue gases and allowing more efficient heat transfer. In some boilers flue gas must make several passes in each direction before exiting flue.\n\nDraft-control devices: achieving efficiency in combustion requires controlling amount and force of draft. Boilers use various methods to control rate of draft. Consequences of different drafts: too strong draft draws in too much combustion air reducing time for heat transfer; too weak draft smothers flame and reduces combustion efficiency. Draft-control devices essential component in venting system. Different types depend on type of burner and boiler: draft hoods (or draft diverters) and barometric dampers (or draft regulators).\n\nDraft hood: some domestic gas boilers are atmospheric type and require neutral overfire draft in combustion chamber. In this context draft hood ensures neutral pressure maintained over fire. By allowing dilution air into venting system, draft hood lowers temperature of flue gases which also prevents hot gases from inducing negative pressure. When there is no draft, backdraft, or blockage beyond draft hood, flue gases exit draft hood instead of entering appliance (known as \"spillage\"). Hood or diverter either built into gas appliance or part of vent connector; should never be altered or modified.\n\nBarometric dampers: used on appliances operating with controlled negative overfire draft in combustion chamber. This type of draft control used when venting system provides negative draw on combustion chamber to remove flue gases. Double-acting barometric damper can open both inward and outward: opening inward to regulate dilution air, opening outward to relieve down-draft and spillage.\n\nDilution air: when vent draw increases, atmospheric pressure on outside of damper pushes against gate allowing in extra dilution air to reduce draft draw. Downdraft: if pressure increases inside venting system, gate swings out to relieve downdraft. Spillage: in event of blockage in venting system, gate swings out to allow spillage.\n\nVent and flue dampers: dampers control flow of flue gases and may be useful for preventing escape of heat through venting system. Three common types: automatic vent dampers, thermally actuated vent dampers, flue dampers.\n\nAutomatic vent dampers: electrically activated automatic vent dampers prevent heat from escaping through boiler's venting system when boiler not being fired. Damper installed in boiler venting system downstream of draft-control device and consists of tubular casing, damper blade, and electric motor-driven actuator. Damper blade normally in closed position blocking vent. Vent damper actuator has proving switch interlocked with thermostat controlling boiler burner. When call for heat vent damper opens automatically to ensure passage of flue gases. Burner does not operate until vent fully open and vent remains open until burner shuts down. Automatic vent dampers located downstream of draft hood relief openings.\n\nThermally actuated vent dampers: operate in response to temperature of flue gases. When flue-gas temperature rises damper blades (bimetal leaf) open to allow passage of flue gases out of venting system. After burner shut down and temperature of flue decreases damper blades close. Blades come with small slots allowing minimum airflow through vent to permit safe startup. Thermally actuated vent dampers located downstream of draft-hood relief openings.\n\nFlue dampers: movable plate designed to regulate amount of flow or draft that can pass through boiler's flue. Flue dampers can either be manually adjusted or automatically open and close. Automatic flue dampers must either be interlocked (to automatically close off supply of gas to appliance) or provided with means to ensure damper fails in fully open position in event of motor failure. Flue dampers located upstream of any draft-hood relief openings.\n\nKey concepts: pressurizing system prevents water in hydronic heating system from boiling into steam when system operating above atmospheric boiling temperature. Aquastat considered part of hydronic control system. Backflow preventer installed to protect potable water connections to boiler from cross-contamination with toxic substances or non-potable boiler water. Advantages of hydronic heating system include quiet operation, increased comfort, less air stratification (not fast reaction time). Input of 400 MBtu/h or greater requires LWCO for hot water boiler. Tapered push-nipples used to connect multiple cast-iron boiler sections into boiler block assembly. Copper fin tube boilers can be used to directly heat domestic water. If flue gas combustion products cooled below dew point, condensation is result. Steel water-tube boilers commonly used for production of hot water or steam. To prevent thermal stress damage, steel water tube type boiler requires constant water circulation during firing. Condensing boilers typically made from stainless steel. For atmospheric boilers, spillage explains result if no draft, backdraft, or blockage in venting system beyond draft hood. Automatic vent damper actuator has proving switch to control boiler's burner.",
+          "assignment_questions": [
+            {
+              "question": "Complete the following sentence with the correct option. _______ prevents the water in a hydronic heating system from boiling into steam when the system is operating above atmospheric boiling temperature.",
+              "options": [
+                "a) Using natural convection",
+                "b) Adding make-up water",
+                "c) Pressurizing the system",
+                "d) Maintaining constant circulation"
+              ],
+              "correct_answer": "c) Pressurizing the system"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. A/An _______ is considered part of a hydronic control system.",
+              "options": [
+                "a) Boiler",
+                "b) Circulator",
+                "c) Radiator",
+                "d) Aquastat"
+              ],
+              "correct_answer": "d) Aquastat"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. A/An _______ is installed to protect potable water connections to a boiler from cross-contamination with toxic substances or non-potable boiler water.",
+              "options": [
+                "a) Backflow preventer",
+                "b) Relief valve",
+                "c) Aquastat",
+                "d) Low water cut-off"
+              ],
+              "correct_answer": "a) Backflow preventer"
+            },
+            {
+              "question": "Which of the following is not an advantage of a hydronic heating system?",
+              "options": [
+                "a) Fast reaction time",
+                "b) Quiet operation",
+                "c) Increased comfort",
+                "d) Less air stratification"
+              ],
+              "correct_answer": "a) Fast reaction time"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. A/An _______ input requires a LWCO for a hot water boiler.",
+              "options": [
+                "a) 500 MBtu/h",
+                "b) 300 MBtu/h",
+                "c) 120 MBtu/h",
+                "d) 75 MBtu/h"
+              ],
+              "correct_answer": "a) 500 MBtu/h"
+            },
+            {
+              "question": "Which of the following is used to connect multiple cast-iron boiler sections into a boiler block assembly?",
+              "options": [
+                "a) Soldered couplings",
+                "b) Threaded unions",
+                "c) Tapered push-nipples",
+                "d) Raised face flanges"
+              ],
+              "correct_answer": "c) Tapered push-nipples"
+            },
+            {
+              "question": "Which type of boiler can be used to directly heat domestic water?",
+              "options": [
+                "a) Steel water tube",
+                "b) Copper fin tube",
+                "c) Cast-iron sectional",
+                "d) Steel fire tube"
+              ],
+              "correct_answer": "b) Copper fin tube"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. If flue gas combustion products are cooled below their dew point, _______ is the result.",
+              "options": [
+                "a) Cavitation",
+                "b) Condensation",
+                "c) Stratification",
+                "d) Concentration"
+              ],
+              "correct_answer": "b) Condensation"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. Steel water-tube boilers are commonly used for the production of hot water or steam.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "a) True"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. To prevent thermal stress damage, a _______ type of boiler requires constant water circulation during firing.",
+              "options": [
+                "a) Steel fire tube",
+                "b) Cast-iron sectional",
+                "c) Copper fin tube",
+                "d) Steel water tube"
+              ],
+              "correct_answer": "d) Steel water tube"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. Condensing boilers are typically made from _______.",
+              "options": [
+                "a) Cast-iron",
+                "b) Stainless steel",
+                "c) Copper",
+                "d) Carbon steel"
+              ],
+              "correct_answer": "b) Stainless steel"
+            },
+            {
+              "question": "For atmospheric boilers, which of the following terms explains the result if there is no draft, backdraft, or blockage in the venting system beyond the draft hood?",
+              "options": [
+                "a) Leakage",
+                "b) Spillage",
+                "c) Discharge",
+                "d) Emission"
+              ],
+              "correct_answer": "b) Spillage"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. An automatic vent damper actuator has a _______ to control the boiler's burner.",
+              "options": [
+                "a) Proving switch",
+                "b) Igniter",
+                "c) Transformer",
+                "d) Circulator"
+              ],
+              "correct_answer": "a) Proving switch"
+            }
+          ]
+        },
+        {
+          "chapter_number": 2,
+          "chapter_name": "Distribution and control systems",
+          "pages": "34-42",
+          "topics": [
+            "Hydronic distribution systems classified by piping layout and heat distribution units",
+            "Types: single-series circuit, one-pipe systems, two-pipe systems, radiant-floor heating",
+            "Single series circuit (series loop system, simplest hydronic distribution system)",
+            "Appropriate for applications where all rooms experience similar heating load changes",
+            "Controlled by single room or area thermostat",
+            "Series loop: heat-distributing units connected so all water passes through each component",
+            "Single pipe (main) conveys hot water from boiler to heating units",
+            "Main directly connects each heating unit in series",
+            "Large system may have two or more separate series circuits",
+            "Critical that water flow sufficient to prevent cooling at end of loop",
+            "Advantage: requires less pipe and fittings than parallel (two-pipe) system",
+            "Heat input regulated based on temperature at location of one thermostat",
+            "Can lead to overheating or underheating of rooms when thermostat not representative",
+            "Important to size each heating unit for load of room(s) it services",
+            "Adjust to water temperature at each unit's location in circuit",
+            "Single-circuit systems may consist of combination of heating units (panel radiators and fan-coil units)",
+            "Series circuits with high-flow resistance heating units may experience problems",
+            "Fan coil with high-flow resistance can excessively reduce flow rate through rest of system",
+            "Zone control in single-series circuit limited to adjusting control devices on individual heating units",
+            "Closing dampers on finned-tube baseboard enclosure reduces heat output by about 40%",
+            "Fan-coil unit can reduce blower speed to limit heat output",
+            "Regular manual adjustments to individual units response to changing heat load conditions",
+            "One-pipe Monoflo® system (one continuous pipe running from boiler supply outlet back to boiler return inlet)",
+            "Two smaller pipes (supply and return branches) connect each heating unit to main pipe",
+            "One-pipe diverter tee fittings installed in main where branches connect",
+            "Special fittings (Monoflo® tees) divert portion of main water flow into heating unit supply pipes",
+            "Depending on location of heat transfer unit, either one or two Monoflo® tees used",
+            "Multiple-circuit one-pipe Monoflo® system has two or more circuits",
+            "Advantages of one pipe: fewer piping requirements, valves and diverter tees can control flow to each heating unit",
+            "Disadvantages: not suitable for high head-loss heat transfer units, total heat load typically limited to 50 000 to 60 000 Btu/h per circuit",
+            "Diverter tee applications (divert some water from main piping through heating unit on branch circuit)",
+            "Internal orifice in diverter tee",
+            "Use of two diverter tees: greater pressure difference created across branch circuit induces higher flow rate",
+            "Single diverter-tee installations adequate for low-resistance heating units (short runs of finned-tube baseboard or panel radiator)",
+            "Pair of diverter tees may be required for fan coils or other units with higher-flow resistances",
+            "In dual diverter-tee installation, at least 1 ft of pipe between tees",
+            "Allows partial dissipation of flow turbulence created by first tee before entering second tee",
+            "Control valve helps control flow rate through heating unit branch circuit",
+            "May be manually adjusted globe or angle valve installed adjacent to unit or built into it",
+            "Manual control valves may require regular adjustments to maintain constant room temperature",
+            "Non-electric thermostatic radiator valve useful for automatic control",
+            "Two-pipe systems (one main pipe to convey hot water from boiler to heating units)",
+            "Second pipe to return cooled water from heating units back to boiler",
+            "Advantage: simple individual control of each heating unit",
+            "Two types: direct return and reverse return",
+            "Direct return (water from heating units returns to boiler via shortest practical path, \"first-fed, first-return\")",
+            "Length of circuit and resistance to flow through units close to boiler significantly less than units farther away",
+            "Can cause uneven system flow rates, use of system-balancing valves to create additional friction in shorter circuits is must",
+            "Reverse return (heating units connected to return main in reverse order connected to supply main)",
+            "Ensures circuit length and flow resistance through each heating unit approximately equal",
+            "Helps reduce system-balancing problems",
+            "Heating unit closest to heat source on supply main is farthest from heat source on return main",
+            "Farthest heating unit from heat source on supply main is closest on return (\"first-fed, last-return\")",
+            "Overcomes most flow-balancing problems associated with parallel direct-return systems",
+            "Particularly when all heating units have similar flow resistances",
+            "Two-pipe system requires different sizes of pipe in certain parts",
+            "Supply main piping progressively smaller farther away from heat source",
+            "Return main piping progressively larger closer to heat source",
+            "Optimum arrangement: route supply and return mains around perimeter of zone being heated",
+            "Reverse-return hydronic system not \"self-balancing\", every system requires flow balancing",
+            "Primary/Secondary systems (primary loop delivers heated water to one or more secondary circuits)",
+            "Secondary circuits typically connected to primary loop using pairs of closely spaced tees",
+            "Little pressure drop exists between pair of closely spaced tees",
+            "Flow along primary loop has little tendency to induce flow within secondary circuit",
+            "Virtually no pressure differential between tees",
+            "Flow less likely to develop in secondary circuit even though passed through tees in primary circuit",
+            "Closely spaced tees provide \"hydraulic separation\" between primary circuit and each secondary circuit",
+            "Provides stable on/off flow control in multiple independently controlled circuits each having own circulator",
+            "Flow in secondary circuit only occurs when its own \"secondary circulator\" turned on",
+            "Secondary circulator draws heated water from primary loop, sends through secondary circuit, returns cooler flow downstream",
+            "Commonly closely spaced tees arranged in series one set after another along primary loop",
+            "Parallel primary loop configuration also possible but requires more complex piping arrangement",
+            "If heat source has low flow resistance, usually piped as part of primary loop",
+            "If heat source has higher flow resistance, usually provided with own circulator and connected using closely spaced tees",
+            "Radiant heating (radiant panels)",
+            "Warm water circulates through tubing embedded in or secured to flooring material",
+            "Most heat transferred to flooring from warm water radiates upwards into room",
+            "Small portion of heat lost through bottom and edges of floor",
+            "Radiant systems may be attached to underside of wood subflooring",
+            "Embedded in thin layer of gypcrete topping poured over subfloor",
+            "Radiant tubing can also be installed in walls and ceilings",
+            "Common method: tubing embedded in concrete structural slab",
+            "Various layout patterns acceptable depending on floor material and room heat loss",
+            "Patterns: single wall serpentine, double wall serpentine, counter flow spiral",
+            "When slab placed directly on grade, underside and edges of slab must be well insulated",
+            "Hydronic system tubing typically attached to metal bars or wire mesh installed in slab for reinforcement",
+            "Most common tubing: cross-linked polyethylene (PEX) with oxygen barrier",
+            "Or cross-linked polyethylene/aluminum/cross-linked polyethylene (PEX/AL/PEX)",
+            "Various other piping materials tried in past but most had issues with oxygen diffusion leading to system failures",
+            "Backflow: reversal of normal direction of flow",
+            "Free air: air away from shielding structures, vegetation, or other obstructions that may interfere with accurate temperature sensing",
+            "Gallons per minute (gpm): measure of how many gallons of liquid flow each minute (flow rate)",
+            "Zoning: division of hydronic heating system into two or more independently controlled distribution circuits"
+          ],
+          "content": "Chapter 2 covers hydronic distribution systems and control systems. Many different distribution systems used in hydronic heating. This Chapter describes piping systems and controls utilized for distribution systems and includes examples of control strategies. Gas technician/fitter must also have clear understanding of system filling and purging methods and air elimination devices since gas fitters/technicians start up boiler-heated hydronic systems.\n\nHydronic water-heating distribution systems classified according to design of piping layout and type of heat distribution units employed. Many different types including single-series circuit, one-pipe systems, two-pipe systems, and radiant-floor heating.\n\nSingle series circuit (series loop system): simplest hydronic distribution system is series loop. This type of system (often controlled by single room or area thermostat) appropriate for applications where all rooms experience similar heating load changes in response to changes in outdoor conditions. In series system heat-distributing units connected so all water flowing through each circuit passes through each component in circuit. Single pipe (or main) helps convey hot water from boiler to heating units. Main directly connects each heating unit in series to one another. Large system may be composed of two or more separate series circuits, with each circuit running from boiler outlet to boiler return.\n\nCritical that water flow sufficient to prevent cooling at end of loop. One advantage of series system is requires less pipe and fittings than parallel (two-pipe) system. Heat input to building with single-series circuit regulated based on temperature at location of one thermostat (which can lead to overheating or underheating of rooms when thermostat does not accurately represent temperature across different rooms). For this reason important to size each heating unit in this type of system for load of room(s) it services and adjust to water temperature at each unit's location in circuit.\n\nSingle-circuit systems may also consist of combination of heating units such as panel radiators and fan-coil units. Series circuits with one or more heating units having high-flow resistance characteristics may experience problems. For example, heating unit such as fan coil with high-flow resistance can excessively reduce flow rate through rest of system limiting system's total heat output. Zone control in single-series circuit limited to adjusting control devices on individual heating units. For example, closing dampers on enclosure of finned-tube baseboard unit reduces its heat output by about 40%. Use of fan-coil unit can reduce speed of blower to limit heat output. Act of regular manual adjustments to individual units is response to changing heat load conditions.\n\nOne-pipe Monoflo® system: has one continuous pipe or main running from boiler supply outlet(s) back to boiler return inlet(s). Two smaller pipes (supply and return branches) connect each heating unit to main pipe. One-pipe diverter tee fittings installed in main where branches connect to it. These special fittings (often called Monoflo® tees) divert portion of main water flow into heating unit supply pipes. Depending on location of heat transfer unit in relation to main, there is either one or two Monoflo® tees used. After passing through heating unit, water flows out unit's return pipe and diverted back into main. System with two or more circuits called multiple-circuit one-pipe Monoflo® system.\n\nAdvantages of one pipe: fewer piping requirements, valves and diverter tees can control flow to each heating unit. Disadvantages: one-pipe system not suitable for high head-loss heat transfer units, total heat load typically limited to 50 000 to 60 000 Btu/h per circuit.\n\nDiverter tee applications: diverter tees divert some water from main piping through heating unit on branch circuit. Installation of diverter tees can be individual or in pairs. With use of two diverter tees, greater pressure difference created across branch circuit induces higher flow rate in branch. Single diverter-tee installations often adequate for low-resistance heating units such as short runs of finned-tube baseboard or panel radiator. Pair of diverter tees may be required for fan coils or other units with higher-flow resistances. In dual diverter-tee installation, should be at least 1 ft of pipe between tees. This piping arrangement allows partial dissipation of any flow turbulence created by first tee before entering second tee.\n\nControl valve helps control flow rate through heating unit branch circuit. Control valve may be manually adjusted globe or angle valve installed adjacent to unit or built into it. Manual control valves of this type may require regular adjustments to maintain constant room temperature during changing heat load conditions. Non-electric thermostatic radiator valve can be useful for automatic control.\n\nTwo-pipe systems: has one main pipe to convey hot water from boiler to heating units and second pipe to return cooled water from heating units back to boiler. Advantage of two-pipe system is simple individual control of each heating unit. Two types: direct return and reverse return.\n\nDirect return: in direct-return two-pipe hydronic system water from heating units returns to boiler via shortest practical path (known as \"first-fed, first-return\"). Length of circuit and resistance to flow through units close to boiler significantly less than for units farther away which can cause uneven system flow rates. For this reason use of system-balancing valves to create additional friction in shorter circuits is must.\n\nReverse return: in reverse-return two-pipe hydronic system, heating units connected to return main in reverse order they are connected to supply main. This arrangement ensures circuit length and flow resistance through each heating unit approximately equal which helps reduce system-balancing problems. Heating unit closest to heat source (on supply main) is farthest from heat source on return main. Conversely farthest heating unit from heat source on supply main is also closest on return (known as \"first-fed, last-return\"). This arrangement overcomes most flow-balancing problems associated with parallel direct-return systems particularly when all heating units have similar flow resistances.\n\nTwo-pipe system requires different sizes of pipe in certain parts of system. For example, size of supply main piping progressively smaller farther away from heat source, while return main piping progressively larger closer to heat source. Optimum arrangement for parallel reverse-return system is to route supply and return mains around perimeter of zone being heated. If reverse-return hydronic system designed and sized correctly, much easier to balance than direct-return system. However these systems not \"self-balancing\". Every system requires flow balancing to ensure each circuit within distribution system achieving its design flow rates.\n\nPrimary/Secondary systems: usually consists of primary loop that delivers heated water to one or more secondary circuits. Secondary circuits typically connected to primary loop using pairs of closely spaced tees. Little pressure drop exists between pair of closely spaced tees which means flow along primary loop has little tendency to induce flow within secondary circuit. Since virtually no pressure differential between tees, flow less likely to develop in secondary circuit even though passed through tees in primary circuit. Closely spaced tees provide \"hydraulic separation\" between primary circuit and each secondary circuits which provides stable on/off flow control in multiple independently controlled circuits each having own circulator. Flow in secondary circuit only occurs when its own \"secondary circulator\" turned on. Secondary circulator draws heated water from primary loop, sends through secondary circuit, and returns cooler flow downstream of heat emitters back to primary loop.\n\nCommonly closely spaced tees arranged in series one set after another along primary loop. Parallel primary loop configuration also possible but requires more complex piping arrangement. If heat source has low flow resistance usually piped as part of primary loop. However if heat source has higher flow resistance usually provided with own circulator and connected to primary loop using set of closely spaced tees.\n\nRadiant heating (radiant panels): warm water circulates through tubing embedded in or secured to flooring material. Most heat transferred to flooring from warm water radiates upwards into room. Small portion of heat lost through bottom and edges of floor. Radiant systems may be attached to underside of wood subflooring or embedded in thin layer of gypcrete topping poured over subfloor. Radiant tubing can also be installed in walls and ceilings.\n\nAnother common method: tubing embedded in concrete structural slab. Use of various layout patterns acceptable depending on floor material used and heat loss of room (patterns include single wall serpentine, double wall serpentine, counter flow spiral). When slab placed directly on grade, underside and edges of slab must be well insulated. Hydronic system tubing typically attached to metal bars or wire mesh installed in slab for reinforcement. Most common tubing for hydronic in-floor heating systems is cross-linked polyethylene (PEX) with oxygen barrier or cross-linked polyethylene/aluminum/cross-linked polyethylene (PEX/AL/PEX). Gas technicians/fitters have tried various other piping materials in past but most had issues with oxygen diffusion leading to system failures.\n\nTerminology: Backflow is reversal of normal direction of flow. Free air is air away from shielding structures, vegetation, or other obstructions that may interfere with accurate temperature sensing. Gallons per minute (gpm) is measure of how many gallons of liquid flow each minute (also known as flow rate). Zoning is division of hydronic heating system into two or more independently controlled distribution circuits.",
+          "assignment_questions": []
+        },
+        {
+          "chapter_number": 3,
+          "chapter_name": "Circulators and pump operation",
+          "pages": "108-118",
+          "topics": [
+            "Point of no pressure change (point at which expansion tank attached to system piping)",
+            "At point of no pressure change system remains at system static pressure",
+            "Prevents additional air and water from being drawn into system",
+            "Circulator can effectively do job of developing pressure to move water through system",
+            "Effect of circulator location on system pressure",
+            "Best place to install primary circulating pump in hydronic system",
+            "Immediately upstream of expansion tank keeps system at static pressure",
+            "Prevents pressure drops that could draw air into system",
+            "Rotating piece of centrifugal pump called impeller",
+            "Effect of increasing rpm of centrifugal pump: more pressure and more flow",
+            "Area of lowest pressure within centrifugal circulator is impeller eye",
+            "Head is pressure difference pump can produce between inlet and outlet ports",
+            "Head measured in feet of head water column (ft. hd. w.c.)",
+            "Flow rate calculation: US gpm = System heat loss (Btu/h) ÷ [Temperature drop (°F) × 500]",
+            "For 40 000 Btu/h with 30 °F temperature drop: 40 000 ÷ (30 × 500) = 2.67 US gpm",
+            "Installing two centrifugal pumps in series doubles pressure",
+            "Installing two centrifugal pumps in parallel doubles flow",
+            "When shut-off valve closed downstream of centrifugal circulator, current draw decreases",
+            "Pump mounting and piping connections",
+            "Most circulators for residential and small commercial designed to be mounted with pump shaft in horizontal position",
+            "Eliminates thrust loads on pump bearings caused by weight of rotor and impeller",
+            "Must orient pump in correct direction of fluid flow (arrow on volute indicates direction)",
+            "Can install pump with arrow pointing up, down, or horizontally as long as pump shaft horizontal",
+            "System piping cannot be relied upon to support circulator unless circulator light and piping well supported",
+            "Vibration-absorbing mounts and couplings recommended",
+            "When replacing pump coupler, check pump shaft to make sure not out of alignment",
+            "Misalignment of pump shaft can cause premature coupler failure",
+            "Pump-bearing assemblies contain oil reservoirs, must not install in way that allows oil to drain from bearing assembly",
+            "Header mounting (some multi-zone installations require mounting circulators on common header assembly)",
+            "Header usually made of steel or iron pipe strong enough to support weight of circulators",
+            "Bending effect of assembly puts stress on connection to boiler",
+            "Should support or suspend end of header assembly farthest from boiler",
+            "Piping connections (most circulators designed to be connected to piping with bolted flanges)",
+            "Flange-mounting makes removal of circulators from system easier for servicing",
+            "One side of flanged joint part of volute of pump, other side threaded onto piping",
+            "O-ring or gasket compressed between flange faces forms watertight seal",
+            "Isolation flange allows unbolting and removal of circulator with no loss of fluid",
+            "Has built-in ball valve that can open or close with screwdriver",
+            "Another mounting method: standard flanges and gate valve or ball valve in piping on each side of pump",
+            "Some small circulators connected to piping by tail piece (half-union) threading directly onto pump volute",
+            "Other small circulators soldered directly to copper tubing system distribution lines",
+            "Pump head (height to which pump can lift and maintain column of water)",
+            "Pressure difference pump can produce between inlet and discharge ports",
+            "Indication of mechanical energy imparted by pump to fluid being pumped",
+            "Energy imparted to fluid results in increased flow rate (kinetic energy) or increased pressure (potential energy)",
+            "In hydronic systems flow rate and flow velocity of fluids entering pump always equal to those leaving pump",
+            "Mechanical energy (via pump head) produces increase in fluid pressure between inlet and discharge ports",
+            "Increase inversely proportional to flow rate through pump and density of fluid",
+            "As flow rate increases, pressure difference across pump decreases",
+            "Pump head expressed in units of feet of head: Head = ft•lb/lb = energy/lb = ft",
+            "Basic principles: design water temperature drop, system flow rate, system pressure loss (resistance)",
+            "Pump curves, increasing flow and pressure, pump motor current draw, thermal balancing",
+            "Design water temperature drop: difference between water temperature at point where leaves boiler and point where returns",
+            "Recommended temperature drop depends on type of terminal unit and manufacturer rating",
+            "Series loop system baseboard or commercial fin-tube boiler units: up to 50 °F (28 °C)",
+            "Two-pipe systems cast-iron radiators: up to 30 °F (17 °C)",
+            "Convectors: 10 to 30 °F (6 to 17 °C) depending on manufacturer ratings",
+            "Unit heaters: up to 50 °F (28 °C) on condition minimum flow rates maintained",
+            "System flow rate calculation Method 1: Flow rate (US gpm) = System heat loss (Btu/h) ÷ [Temperature drop (°F) × 500]",
+            "Example: building heat loss 35 000 Btu/h, design temperature drop 20 °F: 35 000 ÷ (20 × 500) = 3.5 gpm",
+            "System pressure loss (resistance): total pressure loss or system resistance is sum of resistances of all flow-restricting components",
+            "Resistance losses of components and piping listed in manufacturer specifications and trade reference manuals",
+            "Increasing flow and pressure: can install circulators in pairs",
+            "Two pumps of same size installed in series doubles system pressure",
+            "Two pumps of same size installed in parallel doubles system flow rate",
+            "Pump curves: published by manufacturers are basic pump selection tool",
+            "Works in combination with system resistance curve to determine which circulator best matches system head and flow requirements",
+            "Procedure: determine desired flow rate based on heat required, determine head loss at required flow rate using system resistance curve",
+            "Plot operating point representing desired flow rate and head loss at that rate on same axes as pump curve",
+            "Circulator should have between 10 and 20% extra head capacity above calculated head loss at desired flow rate",
+            "Extra margin necessary to ensure system requirements still met if installation requires more piping than original design",
+            "Pump curve should intersect system curve in or near area of highest pump efficiency",
+            "Pump's highest efficiency region usually close to knee of its curve",
+            "Current draw on circulator motor: larger piping in system increases current draw on motor",
+            "Shutting off valve on system supply (specifically pump discharge side) decreases current draw on motor",
+            "Thermal balancer: many low-mass boilers require minimum circulation to prevent kettling (boiling) in heat exchanger",
+            "When aquastat shuts burner and pump off after lengthy firing period, may be considerable residual heat buildup",
+            "With no circulation to dissipate it, residual heat may be sufficient to cause high-limit aquastat to open",
+            "Thermal balancer (or pump delay) is snap-action single-pole double-throw relay",
+            "Prevents residual boiler heat from tripping high-limit aquastat by delaying circulator shut-off for 60 to 90 sec after burner shut-off",
+            "Allows extended period of heat transfer in exchanger, recovering residual boiler heat for heating purposes",
+            "Balances temperature in system with that of boiler",
+            "Important to ensure voltage and current ratings compatible with pump and other system components",
+            "Must be approved for type of application intended",
+            "Newer control systems have integrated electronic system including all functions on same control board",
+            "Balancer operation: during normal operation and call for heat (aquastat switch closed), pump energized by current through NC (normally closed) contacts",
+            "Gas valve and resistor also energized",
+            "Resistor heats up and after 60 to 90 sec causes NO (normally open) contacts to close and NC contacts to open",
+            "When aquastat switch opens, both resistor and valve de-energized",
+            "Current continues to flow through NO contacts until resistor cools (60 to 90 sec), causing NO contacts to open and NC contacts to close"
+          ],
+          "content": "Chapter 3 covers circulators and pump operation in hydronic heating systems. Point of no pressure change refers to point at which expansion tank attached to system piping. At this point system remains at system static pressure which prevents additional air and water from being drawn into system. Circulator can then effectively do its job of developing pressure to move water through system.\n\nEffect of circulator location on system pressure: best place to install primary circulating pump in hydronic system is immediately upstream of expansion tank. This keeps system at static pressure and prevents pressure drops that could draw air into system. At point of no pressure change, when pump off system at 12 psi (84 kPa), when pump on pressure stays same there. Different configurations show pressure changes: upstream installation can cause pressure to drop to 6 psi (42 kPa) in some areas, downstream installation can increase pressure to 18 psi (126 kPa) in some areas.\n\nRotating piece of centrifugal pump called impeller. Effect of increasing rpm of centrifugal pump is more pressure and more flow. Area of lowest pressure within centrifugal circulator is impeller eye. Head is pressure difference pump can produce between its inlet and outlet ports. Head measured in feet of head water column (ft. hd. w.c.).\n\nFlow rate calculations: US gpm = System heat loss (Btu/h) ÷ [Temperature drop (°F) × 500]. For example, to supply 40 000 Btu/h with design temperature drop of 30 °F: 40 000 ÷ (30 × 500) = 2.67 US gpm. Installing two centrifugal pumps in series doubles pressure. Installing two centrifugal pumps in parallel doubles flow. When shut-off valve closed downstream of centrifugal circulator, current draw decreases.\n\nPump mounting and piping connections: most circulators for residential and small commercial systems designed to be mounted with pump shaft in horizontal position. This configuration eliminates thrust loads on pump bearings caused by weight of rotor and impeller. Must orient pump in correct direction of fluid flow (arrow on volute indicates direction of flow). Can install pump with arrow pointing up, down, or horizontally as long as pump shaft horizontal.\n\nSystem piping cannot be relied upon to support circulator unless circulator light and piping well supported. Vibration-absorbing mounts and couplings recommended for installations where circulator can transmit vibrations to building through piping. When replacing pump coupler, check pump shaft to make sure not out of alignment. Misalignment of pump shaft can cause premature coupler failure. Also pump-bearing assemblies contain oil reservoirs and must not install them in any way that allows oil to drain from bearing assembly.\n\nHeader mounting: some multi-zone installations require mounting of circulators on common header assembly. Header usually made of steel or iron pipe strong enough to support weight of circulators. However bending effect of assembly puts great deal of stress on its connection to boiler. For this reason should support or suspend end of header assembly farthest from boiler.\n\nPiping connections: most circulators designed to be connected to piping with bolted flanges. Flange-mounting makes removal of circulators from system easier for servicing. One side of flanged joint is part of volute of pump and other side threaded onto piping. O-ring or gasket compressed between flange faces forms watertight seal. Isolation flange allows unbolting and removal of circulator from system with no loss of fluid other than what left in pump volute. This flange design has built-in ball valve that can open or close with screwdriver. When ball valves closed can remove circulator. Another mounting method allowing isolation of circulator is use of standard flanges and gate valve or ball valve in piping on each side of pump. Some small circulators connected to piping by means of tail piece (half-union) which threads directly onto pump volute. Other small circulators soldered directly to copper tubing system distribution lines.\n\nPump head: can define pump head as height to which pump can lift and maintain column of water, pressure difference pump can produce between its inlet and discharge ports, and indication of mechanical energy imparted by pump to fluid being pumped. Energy imparted to fluid results in increased flow rate (via kinetic energy) or increased pressure (via potential energy). In hydronic systems flow rate and flow velocity of fluids entering pump always equal to those leaving pump. In this case mechanical energy (via pump head) produces increase in fluid pressure between inlet and discharge ports of pump. Increase inversely proportional to flow rate through pump and density of fluid: as flow rate increases pressure difference across pump decreases. Pump head expressed in units of feet of head derived from equation: Head = ft•lb/lb = energy/lb = ft. Since ft•lb measure of energy, pump head can be described as mechanical energy added per lb of fluid.\n\nBasic principles to consider when selecting and installing circulators: design water temperature drop, system flow rate, system pressure loss (resistance), pump curves, increasing flow and pressure, pump motor current draw, thermal balancing.\n\nDesign water temperature drop: difference between water temperature at point where leaves boiler and point where returns. Recommended temperature drop depends on type of terminal unit used and manufacturer rating. Series loop system baseboard or commercial fin-tube boiler units up to 50 °F (28 °C). Two-pipe systems cast-iron radiators up to 30 °F (17 °C), convectors 10 to 30 °F (6 to 17 °C) depending on manufacturer ratings, unit heaters up to 50 °F (28 °C) on condition minimum flow rates maintained.\n\nSystem flow rate calculation Method 1: to size pump using performance curve, first calculate system flow rate using formula. Imperial: Flow rate (US gpm) = System heat loss (Btu/h) ÷ [Temperature drop (°F) × 500]. Metric: Flow rate (L/s) = System heat loss (kW) ÷ [Temperature drop (°C) × 4.2]. Example: building with heat loss 35 000 Btu/h, design temperature drop 20 °F. Accordingly pump must be capable of flow rate 3.5 gpm: 35 000 ÷ (20 × 500) = 3.5 gpm.\n\nSystem pressure loss (resistance): total pressure loss or system resistance is sum of resistances of all flow-restricting components of system. Resistance losses of components and piping listed in manufacturer specifications and trade reference manuals.\n\nIncreasing flow and pressure: can install circulators in pairs to increase flow rate and pressure in hydronic system. Two pumps of same size installed in series double system pressure. Two pumps of same size installed in parallel double system flow rate.\n\nPump curves: pump curves published by manufacturers are basic pump selection tool. Works in combination with system resistance curve to determine which circulator best matches system head and flow requirements. Procedure: determine desired flow rate based on heat required by system's heating units (system heat loss), determine head loss of system at required flow rate using system resistance curve (use system circuit or loop with highest resistance based on manufacturer data), plot point (operating point) representing desired flow rate and head loss at that rate on same set of axes as pump curve, circulator should have between 10 and 20% extra head capacity above calculated head loss at desired flow rate (extra margin necessary to ensure system requirements still met if installation requires more piping and other flow-restricting components than original design specified), pump curve should intersect system curve in or near area of highest pump efficiency (pump's highest efficiency region usually close to knee of its curve).\n\nExample shows how performance curves of two pumps compared to establish suitability. If system has head loss of 10.65 and requires flow rate of 3.5 gpm, operating point plotted on pump performance curve. When comparing performance curves of Pump 1 and Pump 2, can see Pump 2 is only suitable pump for application.\n\nCurrent draw on circulator motor: two conditions affect current draw on pump motor. Larger piping in system increases current draw on motor. Shutting off valve on system supply (specifically pump discharge side) decreases current draw on motor.\n\nThermal balancer: many low-mass boilers require minimum circulation to prevent kettling (boiling) in heat exchanger. In many installations aquastat helps control burner and circulation pump operation. When aquastat shuts burner and pump off after lengthy firing period, may be considerable residual heat buildup in boiler. With no circulation in system to dissipate it, residual heat may be sufficient to cause high-limit aquastat to open. Thermal balancer (or pump delay) is snap-action single-pole double-throw relay which operates as follows. Thermal balancer prevents residual boiler heat from tripping high-limit aquastat by delaying circulator shut-off for 60 to 90 sec after burner shut-off. This margin of time allows extended period of heat transfer in exchanger, recovering residual boiler heat for heating purposes and balancing temperature in system with that of boiler.\n\nWhen selecting thermal balancer important to ensure voltage and current ratings compatible with pump and other system components and it is approved for type of application intended. Newer control systems have integrated electronic system including all functions on same control board.\n\nBalancer operation: during normal operation and call for heat (aquastat switch closed), pump energized by current passing through NC (normally closed) contacts. Gas valve and resistor also energized. Resistor heats up and after 60 to 90 sec causes NO (normally open) contacts to close and NC contacts to open. When aquastat switch opens both resistor and valve de-energized. Current continues to flow through NO contacts until such time as resistor cools (60 to 90 sec) causing NO contacts to open and NC contacts to close.",
+          "assignment_questions": [
+            {
+              "question": "Complete the following sentence with the correct option. The term \"_______\" refers to the point at which the expansion tank is attached to the system piping.",
+              "options": [
+                "a) Point of no point",
+                "b) Point of view",
+                "c) Point of no pressure change",
+                "d) Point of no return"
+              ],
+              "correct_answer": "c) Point of no pressure change"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. The best place to install a primary circulating pump in a hydronic system is immediately upstream of the expansion tank.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "a) True"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. The rotating piece of a centrifugal pump is called a/an _______.",
+              "options": [
+                "a) Impeller",
+                "b) Propeller",
+                "c) Volute",
+                "d) Rotor"
+              ],
+              "correct_answer": "a) Impeller"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. The effect of increasing the rpm of a centrifugal pump is _______.",
+              "options": [
+                "a) More pressure and more flow",
+                "b) Less flow",
+                "c) More flow",
+                "d) More pressure"
+              ],
+              "correct_answer": "a) More pressure and more flow"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. The area of lowest pressure within a centrifugal circulator is the _______.",
+              "options": [
+                "a) Impeller eye",
+                "b) Volute",
+                "c) Outlet port",
+                "d) Pump body"
+              ],
+              "correct_answer": "a) Impeller eye"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. _______ is the pressure difference a pump can produce between its inlet and outlet ports.",
+              "options": [
+                "a) Flow rate",
+                "b) Velocity",
+                "c) Head",
+                "d) Drift"
+              ],
+              "correct_answer": "c) Head"
+            },
+            {
+              "question": "How many US gpm would be required to supply 40 000 Btu/h, if the design temperature drop for a system was 30 °F (−1 °C)?",
+              "options": [
+                "a) 3.75 US gpm",
+                "b) 2.67 US gpm",
+                "c) 5 US gpm",
+                "d) 4 US gpm"
+              ],
+              "correct_answer": "b) 2.67 US gpm"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. If you install two centrifugal pumps in series, the effect would be _______.",
+              "options": [
+                "a) 50% more pressure",
+                "b) Half the flow",
+                "c) Double the flow",
+                "d) Double the pressure"
+              ],
+              "correct_answer": "d) Double the pressure"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. When a shut-off valve is closed downstream of a centrifugal circulator, the effect is _______.",
+              "options": [
+                "a) Current draw decreases",
+                "b) Current draw increases",
+                "c) Voltage increases",
+                "d) Voltage decreases"
+              ],
+              "correct_answer": "a) Current draw decreases"
+            }
+          ]
+        },
+        {
+          "chapter_number": 4,
+          "chapter_name": "Control systems and troubleshooting",
+          "pages": "131-141",
+          "topics": [
+            "Wiring diagram and ladder diagram for typical residential hydronic heating system",
+            "L1 and N (120 V AC supply)",
+            "Boiler high limit, boiler operating limit (aquastats), boiler gas valve",
+            "Room thermostat, zone valve (typical) with end-switch and motor",
+            "System pump, SPST relay",
+            "Primary relay/transformer, circuit breaker, service switch",
+            "Wiring diagrams and sequence of operations",
+            "Wiring and ladder diagrams useful for identifying operating sequence of hydronic system components and controls",
+            "Drawings supplied by equipment manufacturers work as installation guides for field wiring external system controls",
+            "May be used to analyze and troubleshoot service problems",
+            "Sequence of operations for control system",
+            "Circuit breaker in electrical distribution panel protects 120 V supply line",
+            "Service switch connected to 120 V circuit to turn electrical power to system on and off",
+            "Circulation pump wired across 120 V supply, turned on and off by action of SPST relay (primary relay)",
+            "Action of zone valves controls primary relay",
+            "With circuit breaker and service switch closed, 120 V supply energizes 24 V ac transformer",
+            "On demand for heat from particular zone, room or zone thermostat closes and 24 V supplied from Terminal R to open zone valve",
+            "Some zone valves contain end switch (switch activated by opening of zone valve)",
+            "When zone valve opens its end switch closes and 24 V from Terminal R supplied to Terminal G to actuate primary relay",
+            "Closes circuit that energizes pump circuit and burners",
+            "If aquastat and any other burner interlocks closed, automatic burner gas valve energized",
+            "Gas valve opens and gas flows into burner where ignited to heat water in boiler",
+            "Analyzing and identifying control malfunctions",
+            "Gas technician/fitter should be familiar with potential issues causing malfunctioning of hydronic systems",
+            "Circulator problems, boiler problems, mechanical problems",
+            "Circulator problems specific to hydronic systems: system resistance and flow rate, heat output and temperature difference",
+            "System resistance and flow rate: as resistance increases in system, pressure increases and flow rate decreases",
+            "Excessive resistance caused by scaling or other restrictions causes pump to work harder to maintain flow",
+            "Too much resistance reduces flow rate to point where system efficiency affected",
+            "Flow rate can also be too slow if pump motor does not have sufficient horsepower and rpm",
+            "To maintain proper flow rate required to select pump with adequate horsepower and rpm",
+            "Heat output and temperature difference: boiler heat output and temperature difference between supply and return water affect pump performance",
+            "Circulating pump must be able to maintain flow rate sufficient to meet heat output and temperature differential of appliance and system",
+            "Pump capacity calculation: One Btu required to raise temperature of 1 lb water by 1 °F, one US gallon water weighs 8.33 lb",
+            "Calculating boiler output rate: Imperial Boiler output (Btu/h) ÷ I = 8.33 lb (ΔT) 60 minutes ÷ I = 500 (ΔT)",
+            "Example: number of Btu/h required to maintain 20 °F temperature differential: Boiler output (Btu/h) ÷ I = 500 × 20 ÷ I = 10 000 (Btu/h)",
+            "Calculating flow rate: Imperial Flow rate (US gpm) ÷ I = Boiler output (Btu/h) ÷ (500)ΔT",
+            "Example: system with 250 000 Btu/h output and system temperature differential 20 °F requires pump that can maintain flow rate 25 US gpm",
+            "250 000 ÷ (500 × 20) = 25 US gpm",
+            "Boiler problems: carbonizing, condensation, corrosion, liming, underfiring and overfiring",
+            "Carbonizing: flame impingement (too long burner flame or excessive water flow in fin-tube boilers) primarily causes carbonizing or sooting",
+            "Yellow tipping of burner flames can result from incorrect primary air adjustment",
+            "Scale or lint can block burner ports",
+            "Incorrect burner port loading (or input) can lead to uneven combustion",
+            "Condensation: condensation in combustion chamber usually occurs because of low flue-gas temperatures",
+            "Possible causes: undersized or underfired boiler, excessive water flow, use of night setback thermostat, large-volume radiation equipment",
+            "Condensing-type boiler specially designed to take advantage of condensing gases and should not be confused with non-condensing applications",
+            "Corrosion: internal corrosion may result from low flue-gas temperatures or air in system causing oxidation (rusting)",
+            "Air can enter system through boiler make-up water or through leaks in system",
+            "To reduce air infiltration equip system with adequate air-venting devices and check for leaks regularly",
+            "Corrosive chemicals in combustion air (solvents, paint thinners, bleaches, chlorine, or fluorine vapours) can cause external corrosion",
+            "Chlorine and fluorine present in chemicals and processes such as printing ink, paint stripping solutions, refrigerants, permanent wave solutions",
+            "Liming: liming and scaling covered in detail in Water heaters and combination systems unit",
+            "Underfiring and overfiring: important for efficient system operation to maintain proper boiler firing rate",
+            "Boiler firing rate specified on rating plate",
+            "Underfiring not necessarily problem if boiler and venting system designed to allow lesser input",
+            "Means boiler not operating at full level of efficiency and flue-gas temperatures may be low",
+            "Overfiring boiler can result in incomplete combustion and excessively high flue-gas (or stack) temperatures",
+            "When boiler overfiring check input by clocking gas meter",
+            "If input incorrect check manifold pressure and adjust or change burner orifice size",
+            "Mechanical problems: insufficient heat in one or more rooms or zones or throughout building, noise in system",
+            "Insufficient heat output generally result of insufficient or no flow in system and incorrect temperature settings",
+            "Can be cause of number of faults: faulty or misadjusted manual isolation, zone, check, mixing, or balancing valves",
+            "Lack of pressure (insufficient head pressure), air or air locks in system, undersized or scaled piping, incorrect temperature settings on mixing valves",
+            "Table 4-1 shows mechanical system problems and possible causes",
+            "Problems include insufficient heat throughout building during cold weather (limit set below system design temperature, airflow restricted to radiation equipment)",
+            "Boiler fires but cycles on/off on limit control (radiation equipment inadequately sized, pumping or flow restriction problem)",
+            "No heat in upper floor (air in system due to problem with water feed regulator)",
+            "One cold radiator manual air bleed (air locked, needs purging)",
+            "Gurgling sound in pipes manual air bleed (air bubbles, shut down pump and bleed all radiators, repeat regularly)",
+            "Circulator making loud rattling noise (check for broken pump coupler or pump cavitation)",
+            "Flow switch keeps boiler burner from firing but activates when shaken (pump size incorrect, line restriction, incorrect installation of flow switch)",
+            "Noise in system: can result from several conditions",
+            "Air in system (producing gurgling noises)",
+            "Zone valves installed backwards (cause water hammer when slam shut)",
+            "Undersized pumps or pumps operating at excessive rpm (increased flow velocity creates noise)",
+            "Poorly secured piping supports (cause noisy vibrations)",
+            "Inadequate expansion and contraction clearances between piping and building structure (noise when piping rubs against structure)",
+            "Pump cavitation can be major source of noise",
+            "Pump cavitation: formation of bubbles in liquid through pressure variation, heating, or vibration",
+            "Characterized by gurgling or popping sounds, vibration, and erratic flow",
+            "Can reduce or eliminate pump cavitation by: keeping system static pressure as high as possible",
+            "Keeping system fluid temperature as low as possible",
+            "Positioning expansion tank as near to inlet of pump as possible",
+            "Installing pump at as low point in system as possible (increases static pressure at pump inlet)",
+            "Installing pipe leading to pump inlet as straight run at least ten pipe diameters in length",
+            "Equipping system with adequate air removal devices",
+            "Placing high-head or multiple pump installations (ensure greater pressure differentials produced do not cause cavitation)",
+            "Typical system design pressure for residential hydronic boiler: 12 to 15 psig (83 to 103 kPa)",
+            "If boiler system pressure higher than normal, first check expansion tank",
+            "Technician can increase static pressure setting in hydronic system by turning PRV adjustment clockwise",
+            "Can tell if differential pressure bypass valve working correctly if pressure at discharge side of pump does not increase when zone valves close",
+            "If boiler burner does not fire, first check aquastats",
+            "Overfiring burner likely cause of incomplete combustion and high flue-stack temperatures",
+            "Noise common problem caused by air in system",
+            "Certified tester qualified to test backflow preventer",
+            "If pressure in hydronic system increases immediately after burner comes on, expansion tank is waterlogged",
+            "If zone valve end switch fails to close, burner does not fire",
+            "Customer complains no heat on top floor, most likely cause is air lock in system",
+            "To avoid pump cavitation should observe: install straight piping upstream, keep fluid temperature as low as possible, keep static pressure as high as possible"
+          ],
+          "content": "Chapter 4 covers control systems and troubleshooting for hydronic heating systems. Wiring diagram and ladder diagram for typical residential hydronic heating system shows L1 and N (120 V AC supply), boiler high limit, boiler operating limit (aquastats), boiler gas valve, room thermostat, zone valve (typical) with end-switch and motor, system pump, SPST relay, primary relay/transformer, circuit breaker, and service switch. 24 V transformer, 24 V AC secondary, and 120 volt AC supply circuits shown.\n\nWiring diagrams and sequence of operations: wiring and ladder diagrams useful for identifying operating sequence of hydronic system components and controls. These drawings supplied by equipment manufacturers work as installation guides for field wiring external system controls. May also be used to analyze and troubleshoot service problems.\n\nSequence of operations: circuit breaker in electrical distribution panel of building protects 120 V supply line. Can use service switch connected to 120 V circuit to turn electrical power to system on and off. Circulation pump wired across 120 V supply and turned on and off by action of SPST relay (primary relay). Action of zone valves controls primary relay.\n\nSequence of operations for control system follows: with circuit breaker and service switch closed, 120 V supply energizes 24 V ac transformer. On demand for heat from particular zone, room or zone thermostat closes and 24 V supplied from Terminal R to open zone valve. Some zone valves contain end switch (switch activated by opening of zone valve). When zone valve opens its end switch closes and 24 V from Terminal R supplied to Terminal G to actuate primary relay. This closes circuit that energizes pump circuit and burners. If aquastat and any other burner interlocks closed, automatic burner gas valve energized. Gas valve opens and gas flows into burner where it is ignited to heat water in boiler.\n\nAnalyzing and identifying control malfunctions: gas technician/fitter should be familiar with following potential issues causing malfunctioning of hydronic systems: circulator problems, boiler problems, mechanical problems.\n\nCirculator problems specific to hydronic systems include system resistance and flow rate, and heat output and temperature difference. System resistance and flow rate: as resistance increases in system, pressure increases and flow rate decreases. Excessive resistance in system caused by scaling or other restrictions causes pump to work harder to maintain flow. Too much resistance in system reduces flow rate to point where system efficiency affected. Flow rate can also be too slow if pump motor does not have sufficient horsepower and rpm to maintain effective flow rate. To maintain proper flow rate required to select pump with adequate horsepower and rpm.\n\nHeat output and temperature difference: boiler heat output and temperature difference between supply and return water affect pump performance. Circulating pump must be able to maintain flow rate sufficient to meet heat output and temperature differential of appliance and system. Calculate pump capacity: one Btu required to raise temperature of 1 lb of water by 1 °F, one US gallon water weighs 8.33 lb.\n\nCalculating boiler output rate: Imperial formula Boiler output (Btu/h) ÷ I = 8.33 lb (ΔT) 60 minutes ÷ I = 500 (ΔT). Metric formula Boiler output (kW) ÷ I = 0.263 (ΔT) ÷ I = 500 (ΔT). Example: number of Btu/h required to maintain 20 °F temperature differential calculated as Boiler output (Btu/h) ÷ I = 500 × 20 ÷ I = 10 000 (Btu/h).\n\nCalculating flow rate: Imperial formula Flow rate (US gpm) ÷ I = Boiler output (Btu/h) ÷ (500)ΔT. Metric formula Flow rate (L/s) ÷ I = Boiler output (kW) ÷ (4.19)ΔT. Example: system with 250 000 Btu/h output and system temperature differential 20 °F requires pump that can maintain flow rate 25 US gpm: 250 000 ÷ (500 × 20) = 25 US gpm.\n\nBoiler problems: following conditions can result from boiler system malfunctions: carbonizing, condensation, corrosion, liming, underfiring and overfiring.\n\nCarbonizing: flame impingement (resulting from too long burner flame or excessive water flow in fin-tube boilers) primarily causes carbonizing or sooting on heat-source surfaces. Also keep in mind: yellow tipping of burner flames can result from incorrect primary air adjustment, scale or lint can block burner's ports, incorrect burner port loading (or input) can lead to uneven combustion.\n\nCondensation: condensation in combustion chamber of boiler usually occurs because of low flue-gas temperatures. Possible causes of low flue-gas temperatures: undersized or underfired boiler, excessive water flow, use of night setback thermostat, large-volume radiation equipment. Condensing-type boiler specially designed to take advantage of condensing gases and should not be confused with non-condensing applications.\n\nCorrosion: internal corrosion may result from low flue-gas temperatures or air in system causing oxidation (rusting). Air can enter system in one of two ways: through boiler make-up water or through leaks in system. To reduce air infiltration equip system with adequate air-venting devices and check for leaks regularly. Corrosive chemicals in combustion air such as solvents, paint thinners, bleaches, chlorine, or fluorine vapours can cause external corrosion. Chlorine and fluorine present in chemicals and processes such as printing ink, paint stripping solutions, refrigerants, permanent wave solutions.\n\nLiming: liming and scaling covered in detail in Water heaters and combination systems unit.\n\nUnderfiring and overfiring: important for efficient system operation to maintain proper boiler firing rate. Boiler firing rate specified on rating plate. Underfiring not necessarily problem if boiler and venting system designed to allow for lesser input. However this means boiler not operating at full level of efficiency and flue-gas temperatures may be low. Overfiring boiler can result in problems such as incomplete combustion and excessively high flue-gas (or stack) temperatures. When boiler overfiring check input by clocking gas meter. If input incorrect check manifold pressure and adjust it or change burner orifice size.\n\nMechanical problems: mechanical malfunctions can cause problems such as insufficient heat in one or more rooms or zones or throughout building and noise in system. Insufficient heat output generally result of insufficient or no flow in system and incorrect temperature settings. These can in turn be cause of number of faults including faulty or misadjusted manual isolation, zone, check, mixing, or balancing valves, lack of pressure (insufficient head pressure), air or air locks in system, undersized or scaled piping, and incorrect temperature settings on mixing valves.\n\nTable 4-1 shows mechanical system problems and possible causes. Problems include insufficient heat throughout building during periods of cold weather (limit set below system design temperature, airflow restricted to radiation equipment), boiler fires but cycles on/off on limit control (radiation equipment inadequately sized, pumping or flow restriction problem), no heat in upper floor of building (air in system due to problem with water feed regulator), one cold radiator manual air bleed (air locked, needs to be purged), gurgling sound in pipes manual air bleed (air bubbles, requirement to shut down pump and bleed all radiators, advise customer to repeat process regularly), circulator making loud rattling noise (requirement to check for broken pump coupler or pump cavitation), flow switch keeps boiler burner from firing but activates when shaken (pump size incorrect, line restriction, incorrect installation of flow switch in relation to pipe size and fittings, incorrect installation of flow switch sensing paddles).\n\nNoise in system: noise can result from several conditions such as air in system (producing gurgling noises), zone valves installed backwards (cause water hammer when slam shut), undersized pumps or pumps operating at excessive rpm (causing increased flow velocity which creates noise in system), poorly secured piping supports (can cause noisy vibrations), inadequate expansion and contraction clearances between piping and building structure (may result in noise when piping rubs against structure), and pump cavitation can be major source of noise.\n\nPump cavitation: formation of bubbles in liquid through pressure variation, heating, or vibration. Pump cavitation characterized by gurgling or popping sounds, vibration, and erratic flow. Can reduce or eliminate pump cavitation in hydronic system by keeping system static pressure as high as possible, keeping system fluid temperature as low as possible, positioning expansion tank as near to inlet of pump as possible, installing pump at as low point in system as possible (to increase static pressure at pump inlet), installing pipe leading to pump inlet as straight run at least ten pipe diameters in length, equipping system with adequate air removal devices, and placing high-head or multiple pump installations (to ensure greater pressure differentials produced do not cause cavitation).\n\nAssignment questions cover: typical system design pressure for residential hydronic boiler is 12 to 15 psig (83 to 103 kPa), if boiler system pressure higher than normal first check expansion tank, technician can increase static pressure setting by turning PRV adjustment clockwise, can tell if differential pressure bypass valve working correctly if pressure at discharge side of pump does not increase when zone valves close, if boiler burner does not fire first check aquastats, overfiring burner likely cause of incomplete combustion and high flue-stack temperatures, noise common problem caused by air in system, certified tester qualified to test backflow preventer, if pressure in hydronic system increases immediately after burner comes on expansion tank is waterlogged, if zone valve end switch fails to close burner does not fire, customer complains no heat on top floor most likely cause air lock in system, to avoid pump cavitation should observe install straight piping upstream, keep fluid temperature as low as possible, keep static pressure as high as possible (all of above).",
+          "assignment_questions": [
+            {
+              "question": "Complete the following sentence with the correct option. The typical system design pressure for a residential hydronic boiler is _______.",
+              "options": [
+                "a) 50 to 60 psig (345 to 414 kPa)",
+                "b) 20 to 28 psig (138 to 193 kPa)",
+                "c) 12 to 15 psig (83 to 103 kPa)",
+                "d) 32 to 45 psig (221 to 310 kPa)"
+              ],
+              "correct_answer": "c) 12 to 15 psig (83 to 103 kPa)"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. If a boiler's system pressure is higher than normal, you should first check the _______.",
+              "options": [
+                "a) Expansion tank",
+                "b) Relief valve",
+                "c) LWCO",
+                "d) PRV"
+              ],
+              "correct_answer": "a) Expansion tank"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. A technician can increase the static pressure setting in a hydronic system by _______.",
+              "options": [
+                "a) Turning the PRV adjustment clockwise",
+                "b) Turning the PRV adjustment counterclockwise",
+                "c) Opening the relief valve",
+                "d) Opening the boiler drain"
+              ],
+              "correct_answer": "a) Turning the PRV adjustment clockwise"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. You can tell if a differential pressure bypass valve is working correctly if the pressure at the discharge side of the pump does not increase when zone valves close.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "a) True"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. If a boiler's burner does not fire, you should first check the _______.",
+              "options": [
+                "a) Aquastats",
+                "b) Water supply",
+                "c) Venting system",
+                "d) Air vents"
+              ],
+              "correct_answer": "a) Aquastats"
+            },
+            {
+              "question": "Which of the following is a likely cause of incomplete combustion and high flue-stack temperatures?",
+              "options": [
+                "a) Air in the system",
+                "b) Low water condition",
+                "c) Overfiring the burner",
+                "d) High water pressure"
+              ],
+              "correct_answer": "c) Overfiring the burner"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. _______ is a common problem caused by air in the system.",
+              "options": [
+                "a) Noise",
+                "b) High velocities",
+                "c) Condensation",
+                "d) High flue temperatures"
+              ],
+              "correct_answer": "a) Noise"
+            },
+            {
+              "question": "Which of the following people are qualified to test a backflow preventer?",
+              "options": [
+                "a) Certified tester",
+                "b) Gas technician",
+                "c) Homeowner",
+                "d) Plumber"
+              ],
+              "correct_answer": "a) Certified tester"
+            },
+            {
+              "question": "If the pressure in a hydronic system increases immediately after the burner comes on, which of the following is the cause?",
+              "options": [
+                "a) The expansion tank is waterlogged",
+                "b) The relief valve is faulty",
+                "c) PRV is faulty",
+                "d) Gas pressure is too low"
+              ],
+              "correct_answer": "a) The expansion tank is waterlogged"
+            },
+            {
+              "question": "Which of the following happens if a zone valve's end switch fails to close?",
+              "options": [
+                "a) The thermostat opens",
+                "b) The pump does not shut off",
+                "c) The burner does not fire",
+                "d) The PRV opens"
+              ],
+              "correct_answer": "c) The burner does not fire"
+            },
+            {
+              "question": "A customer complains that there is no heat on the top floor of a building served by a hydronic heating system. In this scenario, what is the most likely cause?",
+              "options": [
+                "a) The zone valve is stuck open",
+                "b) There is an air lock in the system",
+                "c) A pump is oversized",
+                "d) The static pressure is too high"
+              ],
+              "correct_answer": "b) There is an air lock in the system"
+            },
+            {
+              "question": "Which of the following should be observed to avoid pump cavitation?",
+              "options": [
+                "a) Install straight piping upstream",
+                "b) Keep the fluid temperature as low as possible",
+                "c) Keep the static pressure as high as possible",
+                "d) All of the above"
+              ],
+              "correct_answer": "d) All of the above"
+            }
+          ]
+        },
+        {
+          "chapter_number": 5,
+          "chapter_name": "Pool heating systems",
+          "pages": "145-161",
+          "topics": [
+            "Pool heating and circulation system components",
+            "Piping runs (Figure 5-1 shows piping runs and components)",
+            "Water circulates continuously through system in directions arrows indicate",
+            "Water does not flow in all pipes at same time",
+            "Heater bypass valve (manual bypass valve between heater inlet and outlet pipes)",
+            "Ensures proper flow through heater",
+            "Manual bypass required on systems with flow rate more than 125 US gpm (8 L/s)",
+            "On some systems with flow rates less than 125 US gpm manual bypass not required",
+            "Automatic bypass valve built into some pool heaters",
+            "Function: reduce condensation by allowing water to bypass fin-tube coil when pump rates high",
+            "Operation depends on spring-loaded valve seat opening when pressure reaches critical point",
+            "Causes cold water to bypass heater coil keeping coil warmer",
+            "Pressure switch (or heater actuator) turns heater off and on",
+            "Only switches heater on when filter pump running to ensure adequate flow through heater",
+            "Pressure switch senses water flow in circulation piping when pump starts up then activates heater",
+            "Normally component within pool heater, typically set to 2 psig (14 kPa)",
+            "Prevents damage to fin tube resulting from low or no water flow through heater",
+            "If heater operated without proper circulation, water in heat exchanger would quickly boil off resulting in damage",
+            "Can adjust setting of pressure switch to compensate for different water levels in pool",
+            "Testing pool heater pressure switch procedure: raise temperature control to maximum, confirm burner lights",
+            "Turn gas valve to pilot position, turn off power to pump (or restrict water flow), turn gas valve to on position",
+            "Confirm main burner does not light, restore power to pump or restore water flow",
+            "Observe main burner lights, return temperature control to original setting",
+            "Filter pump (draws water from pool through drain and skimmer)",
+            "Water passes through filter and into pool heater",
+            "At chlorinator necessary chemicals added to heated water and water flows back into pool",
+            "Filter pump provides all pressure required to maintain water flow through recirculation system",
+            "Pump works by centrifugal action",
+            "Valves (installed in pool piping system perform variety of functions)",
+            "Some filter pumps have built-in check valve in front of strainer",
+            "If pump located above water level of pool, check valve prevents water from draining from suction pipe when strainer opened",
+            "When pump does not have check valve install gate valve in suction line to prevent draining",
+            "Install gate valve in pool return piping to prevent draining of strainer due to siphoning through filter",
+            "Proper placing of valves ensures system remains full of water and does not require repriming after maintenance",
+            "Filter (water flows downwards through filter bed where dirt and debris collect in sand filter)",
+            "As dirt accumulates in filter bed, water flow gradually restricted",
+            "Eventually cleaning filter bed requires backwashing (or flushing)",
+            "Backwashing basically reversal of flow path through filter bed to wash accumulated debris out of system",
+            "Skimmer (mounted in wall of pool at water level, connected directly to filter pump suction piping between drain and pump)",
+            "Vacuum created by skimmer suction action pulls in water from pool surface layer",
+            "Removes floating dust, debris, leaves, and any oil film accumulated on surface",
+            "Prevents accumulation of deposits on bottom and walls of pool",
+            "Strainers (screens preventing large pieces of debris from damaging pump and creating blockages)",
+            "Installed at skimmer and filter pump inlets",
+            "Drain and hydro-relief valve (drain valve located on filter pump suction piping connected to drain at bottom of pool)",
+            "Opened to drain pool for maintenance purposes",
+            "For in-ground pools drain incorporating hydro-relief valve for admitting water to empty pool recommended",
+            "If groundwater pressure below pool, hydro relief valve opens allowing groundwater to enter pool",
+            "Operating and safety controls (in addition to pressure switch acting as safety device)",
+            "Thermostat (aquastat): most pool heaters have mechanical aquastat mounted on heater unit",
+            "Can adjust aquastat (usually maximum setting 100 °F/38 °C) to desired water temperature",
+            "Aquastat cycles heater on and off as required to maintain desired water temperature",
+            "Can leave aquastat at desired setting and use on-off switch to shut heater off when not required",
+            "High-limit aquastat: all pool heaters must have high-limit aquastat to limit water temperature to 140 °F (60 °C) to prevent scalding",
+            "Usually installed in heat exchanger outlet header",
+            "If outlet water temperature exceeds 140 °F aquastat switches heater off",
+            "Pilot safety: two types of pilot safety devices used (self-energizing millivolt and electronic ignition)",
+            "Millivolt system: thermopile or pilot generator produces electrical current operating gas valve",
+            "Type of pilot system also functions as safety device",
+            "If pilot flame extinguished thermopile cools off opening electrical circuit to de-energize gas valve and shut down gas flow",
+            "Relight pilot burner manually before operating heater",
+            "Electronic ignition: automatically lights heater burner pilot upon receiving demand for heat from thermostat",
+            "Main gas valve does not open until pilot flame proven",
+            "When desired temperature reached ignition system automatically shuts off gas flow extinguishing burner and pilot flames",
+            "System sizing (calculations to determine proper size of components)",
+            "Pool heater sizing, gas pipe sizing, vent sizing, pump sizing, filter sizing",
+            "Pool heater sizing: sized according to surface area of pool and difference between desired pool temperature and average local air temperature",
+            "Surface area used instead of water volume (pools with same surface area have approximately same volume)",
+            "Surface area also takes heating effect of direct sunlight into account",
+            "1 Btu amount of heat required to raise temperature of 1 lb water by 1 °F",
+            "Raising 1 imp gal (10 lb) water by 1 °F requires 10 Btu",
+            "With volume of pool and temperature rise of heater can determine size of heater required",
+            "Simple procedure: calculate area of pool surface in ft², identify temperature desired for water",
+            "Determine average temperature for coldest month of pool use",
+            "Subtract coldest month average temperature from desired pool temperature to get required temperature rise",
+            "Formula: Heater output (Btu/h) ÷ I = Pool area (ft²) × Temperature rise (°F) × 12",
+            "Metric: Heater output (kW) ÷ I = Pool area (m²) × Temperature rise (°C) × 0.07",
+            "Formula based on temperature rise 1 to 1.25 °F per hour (0.55 to 0.7 °C per hour) and average wind speed 3.5 mph (5.8 kph)",
+            "Factors affecting pool heating load: exposure to sun and wind, relative humidity, cooler nighttime temperatures",
+            "Pools in areas with higher-than-average wind speeds, low humidity, and cool nights require larger heaters",
+            "Example based on pool with average depth 5.5 ft (1.66 m): 40 ft × 20 ft = 800 ft², 800 × 15 °F rise × 12 = 144 MBtu/h",
+            "Gas pipe sizing: conforms with normal pipe sizing procedures",
+            "Vent sizing: materials and other installation requirements specified in pool heater manufacturer instructions",
+            "In all cases venting must conform to all applicable codes",
+            "Pump sizing: covered in detail in Chapter 2, includes filter type, filter flow rate, and pool water turnover time",
+            "Follow manufacturer requirements for pool pumping systems",
+            "Filter sizing: based on filter type and flow rate, and pool water turnover time",
+            "Filter type and flow rate: filters classified according to filter media",
+            "Flow rate differs for each type of filter media, measured in US gpm per ft² of filter area",
+            "Diatomaceous earth 1 to 2 US gpm (0.065 to 0.126 L/s)",
+            "Rapid sand 3 to 5 US gpm (0.189 to 0.315 L/s)",
+            "High-rate sand 15 to 20 US gpm (0.945 to 1.26 L/s)",
+            "Fabric cartridge 0.5 to 1 US gpm (0.031 to 0.063 L/s)",
+            "Turnover time: length of time in hours required to circulate all water in pool once through filter",
+            "Determining filter size: Filter rate = pool capacity (in US gal) ÷ (turnover time × 60)",
+            "Filter area = filter rate ÷ flow rate",
+            "From manufacturer catalogue select size and number of filters required to match filter area",
+            "Cleaning and winterizing (regular cleaning of heat exchanger tubes and preparation of pool equipment for winter)",
+            "Cleaning heat exchanger tubes: inside surfaces vulnerable to scale accumulation",
+            "Soot from incomplete combustion and corrosion products can accumulate on exterior surfaces",
+            "Exterior of tubes: in most cases remove soot and corrosion using wire brush",
+            "May also use high-velocity water spray if heat exchanger removed from heater",
+            "Using water to clean while in place may damage combustion chamber and heater insulation",
+            "Interior of tubes: clean in two ways (acid cleaning or reaming)",
+            "Must always follow proper WHMIS and other recommended procedures and use necessary PPE",
+            "Acid cleaning (use extreme caution): remove heat exchanger tube assembly from heater per manufacturer instructions",
+            "Immerse tube assembly in solution of three parts water to one part muriatic acid",
+            "Observe action of acid solution on tube assembly, when tubes appear clean remove from acid solution",
+            "Thoroughly rinse assembly with soda-ash solution then with clean water",
+            "Let assembly dry thoroughly then apply heat-resistant rust-inhibiting paint per manufacturer instructions",
+            "Reassemble heat exchanger and heater",
+            "Dispose of acid and soda-ash solutions per WHMIS and applicable environmental regulations",
+            "Reaming: remove heat exchanger tube assembly from heater per manufacturer instructions",
+            "Thoroughly dry heat exchanger (makes tubes easier to ream out)",
+            "Measure inside diameter of tubes and select carbide-tipped reamer of same diameter",
+            "Ream inside of tubes, frequently remove reamer to clear powdered scale and debris and prevent binding",
+            "After reaming completed blow or rinse tubes clean, reassemble heat exchanger and heater",
+            "Winterizing: when pool not used during winter months must be winterized",
+            "Generally includes draining all water from pool heater, circulation equipment, and piping system",
+            "Removing or weatherproofing electrical and mechanical equipment that can be damaged by exposure to winter conditions",
+            "Closing off pool and equipment openings to prevent accumulation of debris and provide protection from rain and snow",
+            "Draining system: open all drain valves, remove all drain plugs, allow as much water as possible to drain by gravity",
+            "Any water left in system can be blown out via compressed air or inert gases",
+            "Important to ensure no water left in heat exchanger of pool heater",
+            "Even during short periods of freezing temperatures stagnant water in exchanger tubes can form ice which expands and splits tubes",
+            "If water remains in pool equipment and piping during below-freezing conditions, freezes and expands splitting pipes and damaging equipment",
+            "Caution when igniting burner of pool heater for first time in season",
+            "Pool heaters more dangerous than other types of boilers (spiders or other creatures may crawl into burner throats and pilot heads)",
+            "Difficult with pool heater to hear burner gas flowing or click of millivolt valve over sound of nearby pump",
+            "Troubleshooting burner and ignition system (Table 5-1 outlines common problems, causes, and solutions)",
+            "Delayed ignition (corroded burner due to system fluid leakage, accumulated debris, materials blocking airflow, inadequate gas flow to pilot or misalignment)",
+            "Heater not operating (no gas flow, main gas valve turned off, pilot extinguished, no electrical power, pool water temperature higher than thermostat setting)",
+            "Pump not operating or lost prime, dirty filter",
+            "Pilot not lighting or remaining lit (no gas at pilot burner, weak pilot generator, draft extinguishes pilot, condensation extinguishes pilot, soot accumulation)",
+            "Slow heater output (air in system, filter pump too small, heater too small, limit control set too low, low pressure in system)",
+            "Heater not shutting off (defective gas valve, short circuit)",
+            "Heater short cycles (high-limit switch set too low, low water flow due to heat exchanger scaling or manual bypass valve open too far)",
+            "Air leak in suction line, incorrect pressure switch setting, weak pilot generator, gas pressure too high or too low",
+            "Hot spot in heater, insufficient combustion air",
+            "Noise in system (air in system, filter pump too large, inadequate piping support, low water pressure or flow, pump coupler broken, faulty pump impeller or bearing)",
+            "Excessive soot accumulation (too little or too much gas, poor draft conditions, condensation on heat exchanger, heater not properly levelled)",
+            "Insufficient combustion air, debris on heat exchanger or blocking flue vent, draft hood of incorrect length, incorrect burner assembly, leaking heat exchanger",
+            "Purpose of lint trap (or strainer) in pool system: protects pump",
+            "To remove accumulated debris in sand filter must backwash",
+            "Normal differential setting for pool heater pressure switch: 2 psig (14 kPa)",
+            "Function of pool heater pressure switch: protects boiler from damage",
+            "Maximum setting for pool boiler operating aquastat: 100 °F (38 °C)",
+            "Maximum setting for pool boiler high-limit aquastat: 140 °F (60 °C)",
+            "Muriatic acid used to chemically clean inside surfaces of pool boiler heat exchanger tubes",
+            "Recommended flow rate for high-rate sand used for pool filter: 15 to 20 US gpm",
+            "When flow rate through pool system greater than 125 US gpm, manual bypass required between heater inlet and outlet pipes",
+            "Chlorine should be added to pool circulating system downstream of heater"
+          ],
+          "content": "Chapter 5 covers pool heating systems including components, sizing, cleaning, and troubleshooting. Pool heating and circulation system components shown in Figure 5-1 include backwashing valve, filter, heater, manual bypass valve if present, clean water to pool inlets, pool, skimmer, from pool drain, from skimmer, balancing valves, lint trap, pump, check valve, and pressure switch.\n\nPiping runs: water circulates continuously through system in directions arrows indicate (however water does not flow in all pipes at same time).\n\nHeater bypass valve: manual bypass valve shown between heater's inlet and outlet pipes. Bypass valve ensures proper flow through heater. Manual bypass required on systems with flow rate more than 125 US gpm (8 L/s). On some systems with flow rates less than 125 US gpm manual bypass not required. Automatic bypass valve built into some pool heaters. Function of bypass valve is to reduce condensation by allowing water to bypass fin-tube coil when pump rates high. Operation depends on spring-loaded valve seat opening when pressure behind valve reaches critical point. This causes cold water to bypass heater coil keeping coil warmer.\n\nPressure switch (or heater actuator): turns heater off and on. Pressure switch only switches heater on when filter pump running to ensure adequate flow through heater. Pressure switch senses water flow in circulation piping when pump starts up then activates heater, normally component within pool heater and typically set to 2 psig (14 kPa), prevents damage to fin tube resulting from low or no water flow through heater (if heater operated without proper circulation, water in heat exchanger would quickly boil off resulting in damage to unit). Can adjust setting of pressure switch to compensate for different water levels in pool.\n\nTesting pool heater pressure switch procedure: raise temperature control to maximum setting, confirm burner lights, turn gas valve to pilot position, turn off power to pump (or restrict water flow), turn gas valve to on position, confirm main burner does not light, restore power to pump or restore water flow, observe main burner lights, return temperature control to original setting.\n\nFilter pump: in basic pool recirculation system filter pump draws water from pool through drain and skimmer, water then passes through filter and into pool heater, at chlorinator necessary chemicals added to heated water and water flows back into pool. Filter pump provides all pressure required to maintain water flow through recirculation system. Pump works by centrifugal action.\n\nValves: installed in pool piping system perform variety of functions. Some filter pumps have built-in check valve in front of strainer. If pump located above water level of pool, check valve prevents water from draining from suction pipe when strainer opened. When pump does not have check valve install gate valve in suction line to prevent draining. Install gate valve in pool return piping to prevent draining of strainer due to siphoning through filter. Proper placing of valves in pool piping system ensures system remains full of water and does not require repriming after maintenance.\n\nFilter: water flows downwards through filter bed where dirt and debris collect in sand filter. As dirt accumulates in filter bed, water flow through it gradually restricted. Eventually cleaning filter bed requires backwashing (or flushing). Backwashing basically reversal of flow path through filter bed to wash accumulated debris out of system.\n\nSkimmer: mounted in wall of pool at water level and connected directly to filter pump suction piping between drain and pump. Vacuum created by skimmer's suction action pulls in water from pool's surface layer removing floating dust, debris, leaves, and any oil film accumulated on surface. This prevents accumulation of deposits on bottom and walls of pool.\n\nStrainers: screens preventing large pieces of debris from damaging pump and creating blockages in system. Installed at skimmer and filter pump inlets.\n\nDrain and hydro-relief valve: drain valve located on filter pump suction piping connected to drain at bottom of pool. Opened to drain pool for maintenance purposes. For in-ground pools drain incorporating hydro-relief valve for admitting water to empty pool recommended. This because if groundwater pressure below pool, hydro relief valve opens allowing groundwater to enter pool (rather than pushing against bottom of pool).\n\nOperating and safety controls: in addition to pressure switch acting as safety device, pool heater system has following operating and safety controls.\n\nThermostat (aquastat): most pool heaters have mechanical aquastat mounted on heater unit. Can adjust aquastat (usually maximum setting 100 °F/38 °C) to desired water temperature. Aquastat cycles heater on and off as required to maintain desired water temperature in pool. Can leave aquastat at desired setting and use on-off switch to shut heater off when not required.\n\nHigh-limit aquastat: all pool heaters must have high-limit aquastat to limit water temperature to 140 °F (60 °C) to prevent scalding. Usually installed in heat exchanger outlet header. If outlet water temperature exceeds 140 °F aquastat switches heater off.\n\nPilot safety: two types of pilot safety devices used in pool heating systems (self-energizing millivolt and electronic ignition). Millivolt system: thermopile or pilot generator produces electrical current operating gas valve. Type of pilot system also functions as safety device. If pilot flame extinguished thermopile cools off opening electrical circuit to de-energize gas valve and shut down gas flow to pilot and heater burner. If this occurs relight pilot burner manually before operating heater. Electronic ignition: automatically lights heater burner pilot upon receiving demand for heat from thermostat. Main gas valve does not open until pilot flame proven. When desired temperature reached ignition system automatically shuts off gas flow extinguishing burner and pilot flames.\n\nSystem sizing: requires calculations to determine proper size of components (pool heater, gas pipe, vent, pump, filter).\n\nPool heater sizing: sized according to surface area of pool and difference between desired pool temperature and average local air temperature. Surface area used instead of water volume (pools with same surface area have approximately same volume and surface area also takes heating effect of direct sunlight into account). Remember 1 Btu is amount of heat required to raise temperature of 1 lb water by 1 °F. Therefore raising 1 imp gal (10 lb) water by 1 °F requires 10 Btu. With volume of pool and temperature rise of heater can determine size of heater required.\n\nSimple procedure for sizing pool heater: calculate area of pool surface in ft², identify temperature desired for water in pool, determine average temperature for coldest month of pool use (information available from local weather service office), subtract coldest month average temperature from desired pool temperature to get required temperature rise, use formula: Heater output (Btu/h) ÷ I = Pool area (ft²) × Temperature rise (°F) × 12 or Heater output (kW) ÷ I = Pool area (m²) × Temperature rise (°C) × 0.07. Formula based on temperature rise 1 to 1.25 °F per hour (0.55 to 0.7 °C per hour) and average wind speed 3.5 mph (5.8 kph) at pool surface. Factors such as exposure to sun and wind, relative humidity, cooler nighttime temperatures affect pool's heating load. Pools located in areas with higher-than-average wind speeds, low humidity, and cool nights require larger heaters. Example based on pool with average depth 5.5 ft (1.66 m): 40 ft × 20 ft = 800 ft², 800 × 15 °F temperature rise × 12 = 144 MBtu/h.\n\nGas pipe sizing: conforms with normal pipe sizing procedures. Vent sizing: materials and other installation requirements specified in pool heater manufacturer instructions. In all cases venting must conform to all applicable codes. Pump sizing: covered in detail in Chapter 2, includes filter type, filter flow rate, and pool water turnover time. Follow manufacturer requirements for pool pumping systems.\n\nFilter sizing: based on filter type and flow rate, and pool water turnover time. Filter type and flow rate: filters classified according to filter media. Flow rate differs for each type measured in US gpm per ft² of filter area. Diatomaceous earth 1 to 2 US gpm (0.065 to 0.126 L/s), rapid sand 3 to 5 US gpm (0.189 to 0.315 L/s), high-rate sand 15 to 20 US gpm (0.945 to 1.26 L/s), fabric cartridge 0.5 to 1 US gpm (0.031 to 0.063 L/s). Turnover time: length of time in hours required to circulate all water in pool once through filter. Determining filter size: Filter rate = pool capacity (in US gal) ÷ (turnover time × 60), Filter area = filter rate ÷ flow rate, from manufacturer catalogue select size and number of filters required to match filter area.\n\nCleaning and winterizing: regular cleaning of heat exchanger tubes and preparation of pool equipment for winter important for pool heater maintenance and service. Cleaning heat exchanger tubes: inside surfaces vulnerable to scale accumulation. Soot from incomplete combustion and corrosion products can accumulate on exterior surfaces.\n\nExterior of tubes: in most cases remove soot and corrosion on exterior surfaces using wire brush. May also use high-velocity water spray if heat exchanger removed from heater. Using water to clean heat exchanger while in place may damage combustion chamber and heater insulation.\n\nInterior of tubes: clean in two ways (acid cleaning or reaming). Technicians/fitters must always follow proper WHMIS and other recommended procedures and use necessary PPE.\n\nAcid cleaning (use extreme caution): remove heat exchanger tube assembly from heater per manufacturer instructions, immerse tube assembly in solution of three parts water to one part muriatic acid, observe action of acid solution on tube assembly (when tubes appear clean remove assembly from acid solution), thoroughly rinse assembly with soda-ash solution then with clean water, let assembly dry thoroughly then apply heat-resistant rust-inhibiting paint per manufacturer instructions, reassemble heat exchanger and heater, dispose of acid and soda-ash solutions per WHMIS and applicable environmental regulations.\n\nReaming: remove heat exchanger tube assembly from heater per manufacturer instructions, thoroughly dry heat exchanger (makes tubes easier to ream out), measure inside diameter of tubes and select carbide-tipped reamer of same diameter, ream inside of tubes (frequently remove reamer to clear powdered scale and debris and prevent binding), after reaming completed blow or rinse tubes clean, reassemble heat exchanger and heater.\n\nWinterizing: in situations when pool not used during winter months must be winterized. Generally includes draining all water from pool heater, circulation equipment, and piping system, removing or weatherproofing electrical and mechanical equipment that can be damaged by exposure to winter conditions, and closing off pool and equipment openings to prevent accumulation of debris and provide protection from rain and snow.\n\nDraining system: open all drain valves, remove all drain plugs, allow as much water as possible to drain from system by way of gravity, any water left in system can be blown out via compressed air or inert gases. Important to ensure no water left in heat exchanger of pool heater. Even during short periods of freezing temperatures stagnant water in exchanger tubes can form ice which expands and splits tubes. If water remains in pool equipment and piping during below-freezing conditions, freezes and expands splitting pipes and damaging equipment.\n\nCaution: take care when igniting burner of pool heater for first time in season. Pool heaters more dangerous than other types of boilers because spiders or other creatures may crawl into burner throats and pilot heads. Also difficult with pool heater to hear burner gas flowing or click of millivolt valve over sound of nearby pump.\n\nTroubleshooting burner and ignition system: Table 5-1 outlines common pool heater burner and ignition problems, causes, and solutions. Problems include delayed ignition (corroded burner, accumulated debris, materials blocking airflow, inadequate gas flow to pilot or misalignment), heater not operating (no gas flow, main gas valve off, pilot extinguished, no electrical power, pool water temperature higher than thermostat setting, pump not operating or lost prime, dirty filter), pilot not lighting or remaining lit (no gas at pilot burner, weak pilot generator, draft extinguishes pilot, condensation extinguishes pilot, soot accumulation), slow heater output (air in system, filter pump too small, heater too small, limit control set too low, low pressure in system), heater not shutting off (defective gas valve, short circuit), heater short cycles (high-limit switch set too low, low water flow due to heat exchanger scaling or manual bypass valve open too far, air leak in suction line, incorrect pressure switch setting, weak pilot generator, gas pressure too high or too low, hot spot in heater, insufficient combustion air), noise in system (air in system, filter pump too large, inadequate piping support, low water pressure or flow, pump coupler broken, faulty pump impeller or bearing), excessive soot accumulation (too little or too much gas, poor draft conditions, condensation on heat exchanger, heater not properly levelled, insufficient combustion air, debris on heat exchanger or blocking flue vent, draft hood of incorrect length, incorrect burner assembly, leaking heat exchanger).\n\nAssignment questions cover: purpose of lint trap (or strainer) in pool system protects pump, to remove accumulated debris in sand filter must backwash, normal differential setting for pool heater pressure switch 2 psig (14 kPa), function of pool heater pressure switch protects boiler from damage, maximum setting for pool boiler operating aquastat 100 °F (38 °C), maximum setting for pool boiler high-limit aquastat 140 °F (60 °C), muriatic acid used to chemically clean inside surfaces of pool boiler heat exchanger tubes, recommended flow rate for high-rate sand 15 to 20 US gpm, when flow rate through pool system greater than 125 US gpm manual bypass required between heater inlet and outlet pipes, chlorine should be added to pool circulating system downstream of heater.",
+          "assignment_questions": [
+            {
+              "question": "What is the purpose of the lint trap (or strainer) in a pool system?",
+              "options": [
+                "a) It prevents reverse flow into the pool",
+                "b) It equalizes flow in the system",
+                "c) It protects the pump",
+                "d) It heats the pool water"
+              ],
+              "correct_answer": "c) It protects the pump"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. To remove accumulated debris in a sand filter, you must _______.",
+              "options": [
+                "a) Replace the filter",
+                "b) Change the sand",
+                "c) Backwash"
+              ],
+              "correct_answer": "c) Backwash"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. _______ is the normal differential setting for a pool heater's pressure switch.",
+              "options": [
+                "a) 2 psig (14 kPa)",
+                "b) 14 psig (97 kPa)",
+                "c) 0.5 psig (3.4 kPa)",
+                "d) 10 psig (69 kPa)"
+              ],
+              "correct_answer": "a) 2 psig (14 kPa)"
+            },
+            {
+              "question": "What is the function of a pool heater's pressure switch?",
+              "options": [
+                "a) It protects the boiler from damage",
+                "b) It helps keep the water clean",
+                "c) It senses the water level in the pool",
+                "d) It turns on the make-up water system"
+              ],
+              "correct_answer": "a) It protects the boiler from damage"
+            },
+            {
+              "question": "Which of the following is the maximum setting for a pool boiler's operating aquastat?",
+              "options": [
+                "a) 100 °F (38 °C)",
+                "b) 140 °F (60 °C)",
+                "c) 160 °F (71 °C)",
+                "d) 180 °F (82 °C)"
+              ],
+              "correct_answer": "a) 100 °F (38 °C)"
+            },
+            {
+              "question": "Which of the following is the maximum setting for a pool boiler's high-limit aquastat?",
+              "options": [
+                "a) 100 °F (38 °C)",
+                "b) 140 °F (60 °C)",
+                "c) 160 °F (71 °C)",
+                "d) 180 °F (82 °C)"
+              ],
+              "correct_answer": "b) 140 °F (60 °C)"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. _______ is used to chemically clean the inside surfaces of a pool boiler's heat exchanger tubes.",
+              "options": [
+                "a) Soap and water",
+                "b) Muriatic acid",
+                "c) White vinegar",
+                "d) Soda-ash"
+              ],
+              "correct_answer": "b) Muriatic acid"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. _______ is the recommended flow rate for the \"high-rate sand\" used for a pool filter.",
+              "options": [
+                "a) 0.5 to 1 US gpm",
+                "b) 1 to 2 US gpm",
+                "c) 3 to 5 US gpm",
+                "d) 15 to 20 US gpm"
+              ],
+              "correct_answer": "d) 15 to 20 US gpm"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. When the flow rate through a pool system is greater than 125 US gpm, _______ is required between the heater's inlet and outlet pipes.",
+              "options": [
+                "a) Manual bypass",
+                "b) Automatic compensator",
+                "c) Backup heater",
+                "d) Check valve"
+              ],
+              "correct_answer": "a) Manual bypass"
+            },
+            {
+              "question": "At which location should chlorine be added to a pool's circulating system?",
+              "options": [
+                "a) Upstream of the pump",
+                "b) Downstream of the skimmer",
+                "c) Downstream of the heater",
+                "d) Upstream of the filter"
+              ],
+              "correct_answer": "c) Downstream of the heater"
+            }
+          ]
+        }
+      ]
+    },
+    "7th": {
+      "unit_name": "Unit 20 - Hydronic Heating Systems",
+      "category": "G2",
+      "documents": [
+        {
+          "filename": "CSA Unit 20 -Hydronic-Heating-Systems - Final.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 20 - Hydronic Heating Systems",
+          "char_count": 193656,
+          "content": "CSA Unit 20 - Hydronic \nHeating Systems\nChapter 1                                         \nBoilers: Understanding \nHydronic Heating Systems\nA gas-fired boiler transfers the heat produced from the combustion of \nthe gas to the water contained in the boiler. It is important that the gas \ntechnician/fitter know the proper procedures for mounting and installing \ngas-fired boilers and their components as a major subsystem of hydronic \nspace heating systems.\nMK by Mike Kapin\nCreated\nCopywrite 2025\nHydronic Heating System Overview\nPurpose\nA gas-fired boiler transfers the heat \nproduced from the combustion of the \ngas to the water contained in the \nboiler. This heated water is then \ndistributed throughout a building to \nprovide space heating.\nObjectives\n•\nDescribe hydronic heating systems\n•\nDescribe hydronic heating system \nboilers\n•\nDescribe boiler components\nKey Terminology\nTerm\nDefinition\nHydronic space heating system\nUses water to transfer thermal \nenergy from the source to its \npoint(s) of use\nSpillage\nWhen there is no draft, a \nbackdraft, or a blockage \nbeyond the draft hood, the flue \ngases exit the draft-hood \ninstead of enter the appliance\nIntroduction to Hydronic \nHeating\nHeat Transfer\nA space heating system \nmoves thermal energy \n(heat) from a heat source to \nthe space(s) to be heated.\nHydronics\nHydronics involves the \nheating and cooling of \nspaces using liquids as the \nheat transfer medium.\nTemperature Range\nHydronic systems use water only in its liquid state, over a practical \ntemperature range of 50 to 250°F (10 to 121 °C).\nEvolution of Hydronic Systems\nEarly Systems\nEarly hydronic systems relied on the natural convection created \nby hot rising water and cool descending water streams for \ndistribution and circulation in the system piping.\nModern Systems\nThrough the use of technology, modern hydronic heating \nsystems are able to distribute heat exactly where and when it is \nrequired to maintain desired temperature levels.\nFuture Developments\nContinued advancements in efficiency, control systems, and \nintegration with renewable energy sources.\nScope of Gas Technician's Work\nProvincial Regulations\nGas technicians/fitters are limited \nin the scope of work that they may \nperform in areas covered by other \ntrades. This may vary from province \nto province since the gas \ntechnician's/fitter's responsibilities \nand limitations are governed by \nprovincial regulations.\nOntario Example\nOntario regulations state that a gas \ntechnician/fitter must not perform \nany work beyond the gas side of a \nhydronic system unless the gas \ntechnician/fitter also holds a \ncertificate of qualification issued \nunder the Trades Qualification and \nApprenticeship Act as a plumber or \nsteamfitter.\nPermitted Work\n\"Disconnect and reconnect water \npiping in order to exchange, service \nor install an approved appliance and \ncarry out the replacement of water \npipe necessary to complete the \nreconnection or controls, control \nsystems, components and \naccessories that are essential to the \noperation of the appliance.\"\nHydronic Subsystems\nHeat Source\nUsually a boiler or hot water heater\nDistribution System\nPiping, valves, and circulators\nHeat Emitters\nBaseboard convector unit, wall-mounted radiators, or radiant floors\nControl System\nThermostats, aquastats, controllers, switches, relays\nAdvantages of Hydronic Heating \nSystems\nEnergy Efficiency\nMany studies have consistently shown lower heating energy use than equivalent \nstructures with forced air heating and similar ducted heating systems.\nClean, Quiet Operation\nWhen a hydronic system operates properly, it is silent in comparison to the noise of \nairflow through ducts and outlets.\nIncreased Comfort Levels\nOne big advantage of heating through radiation is that surfaces in rooms tend to be \nwarmer. This reduces the effect of radiant heat loss from the body and increases \ncomfort.\nZoning Capability\nA hydronic system can have as many areas of control (called zones). A forced air system \ntypically has one thermostat location.\nMore Advantages of \nHydronic Heating\nDesign Flexibility\nHydronic heating offers \nalmost unlimited \npossibilities to \naccommodate space \nheating, domestic water \nheating, snow melting, and \npool heating.\nLess Air Stratification\nStratification is the \ntendency of warm air to rise \nand accumulate at the \nceiling while cold air falls \nand gathers at the floor. \nHydronic systems reduce \nthis effect.\nFewer Contaminants\nHydronic systems do not circulate as much dust and pollen \nthrough the air as do forced air systems.\nDisadvantages of Hydronic \nHeating Systems\nInstallation Cost\nA forced air system is on average \nless costly to install than a \nhydronic system.\nReaction Time\nA forced air system is quicker to \nrespond to temperature \ndemands in a room due to its \nlower thermal mass than a \nhydronic system using \nconvectors or radiant panels.\nHeat Emitter Intrusion\nAside from radiant floor, wall, and ceiling panels, the heat transfer units \nused in hydronic heating might interfere with the aesthetics of a room. \nFreestanding radiators and convectors can affect the placement of \nfurniture and drapes among other things.\nHydronic Heating System Boilers\nPurpose\nIn a hydronic space heating system, \nthe purpose of a boiler is to heat the \nwater. A gas-fired boiler transfers the \nheat produced from the combustion \nof the water contained in the boiler.\nOperation\nThe hot water circulates through the \nhydronic system piping to space \nheating units where it gives up its heat \nto the building before returning to the \nboiler to be reheated.\nInstallation Requirements\nCode Compliance\nSection 7 of CSA B149.1 \nincludes installation \nrequirements for propane-\nfired and natural gas-fired \nboilers.\nProvincial Regulations\nBoilers must also conform \nto the requirements of the \napplicable provincial Boiler \nand Pressure Vessel \nRegulations.\nPermits\nEnsure that when \napplicable, permits have \nbeen applied for before \nstarting any work.\nManufacturer \nInstructions\nReview and implement \nmanufacturer's installation \ninstructions in all boiler \ninstallations.\nMounting Bases and Clearances\nFirm and Level Base\nMounting of a boiler must be on a firm and \nlevel base. The floor or supporting surface \nmust be non-combustible, except where \nthe boiler is certified for installation on a \ncombustible surface.\nCombustible Surface Installation\nA boiler that does not yet have a \ncertification for installation on a \ncombustible floor may only be installed on \ncombustible surfaces if one of the following \nconditions is met:\n•\nA base designed by the boiler \nmanufacturer is used; or\n•\nThe boiler (up to 400 MBtu/h /120 kW) \nis mounted on a platform that extends 6 \ninches (150 mm) beyond the edge of \nthe boiler and is made of two rows of 4 \ninch (100 cm) block laid sideways and \ncovered with a piece of sheet metal with \na minimum thickness of 0.0195 inch \n(0.56 mm).\nClearances\nMaintaining clearances between the boiler \nand combustible materials is a must, as \nspecified in applicable Codes and the \nmanufacturer's installation instructions.\nPiping Specifications\nSizing\nSizing of near boiler piping and supply and return piping \nmust be in accordance with approved trade practices\nCode Compliance\nAll piping must comply with applicable Codes\nManufacturer Instructions\nFollow equipment manufacturer's instructions for proper \ninstallation\nCross-Contamination, \nOverpressure, and Low Water \nHazards\nBackflow Prevention\nHydronic system boilers \nrequire installation of valves \nto prevent backflow (cross-\ncontamination) between \npotable water and non-\npotable boiler water.\nOverpressure \nProtection\nSafety relief valves are \nrequired to protect against \ndangerous pressure buildup \nin the system.\nLow Water Protection\nLow water cut-off devices prevent the boiler from operating when \nwater levels are insufficient, which could cause damage or unsafe \nconditions.\nBackflow Prevention\nAir Gap Device \n(AG)\nPhysical separation \nbetween potable \nwater supply and non-\npotable water\nDual Check with \nAtmospheric Port \n(DCAP)\nPrevents backflow \nwith atmospheric \nventing capability\nDouble Check \nValve Assembly \n(DCVA)\nTwo independent \ncheck valves in series\nReduced \nPressure \nPrinciple (RP)\nProvides maximum \nprotection against \nbackflow\nA qualified individual must install, test, and maintain the backflow prevention device. This will typically be a Red Seal Plumber or \nSteamfitter/Pipefitter with additional backflow certification subject to approval by the authority having jurisdiction.\nOverpressure Protection\nSafety Relief Valve Requirements\n•\nComply with all applicable Code requirements, including \ntemperature and pressure ratings\n•\nBe certified as the proper type and capacity for the application\n•\nBe equipped with a try-lever for testing\nInstallation Requirements\n•\nBe installed in the proper location on the boiler as per \nmanufacturer's instructions\n•\nBe protected from the effects of lime or scale buildup\n•\nBe piped according to local Code requirements\nLow Water Safety Control\nPurpose\nA low water level in a boiler can result \nin damage to the boiler and/or an \nunsafe condition, especially if the \nboiler is fired when it is dry or nearly \ndry.\nCode Requirements\nIt is a Code requirement that all steam \nboilers have at least one automatic \nlow water cut-off (LWCO). In \naddition, hot water boilers with inputs \nover 400 MBtu/h (120 kW), or \nsystems of any input with circulation \npiping entirely below the boiler, must \ncome with a low-water fuel cut-off.\nOperation\nIf the boiler's water drops below a pre-\nset safe level, the cut-off \nautomatically acts to shut off the gas \nsupply to the burner.\nBoiler Types\nCast-Iron Sectional\nMultiple cast-iron sections \nconnected together\nSteel Fire-Tube\nHot gases flow through tubes \nsurrounded by water\nSteel Water-Tube\nWater flows through tubes \nsurrounded by hot gases\nCopper Fin-Tube\nCopper tubes with fins for increased \nheat transfer\nEvolution of Boiler Design\nTraditional Boilers\nIn the past, boilers and their associated components",
+          "content_truncated": true
+        },
+        {
+          "filename": "CSA Unit 20 -Hydronic-Heating-Systems - Final.pptx",
+          "file_type": "powerpoint",
+          "relative_path": "CSA Units\\Unit 20 - Hydronic Heating Systems",
+          "char_count": 197545,
+          "content": "CSA Unit 20 - Hydronic Heating Systems\nChapter 1                                         Boilers: Understanding Hydronic Heating Systems\nA gas-fired boiler transfers the heat produced from the combustion of the gas to the water contained in the boiler. It is important that the gas technician/fitter know the proper procedures for mounting and installing gas-fired boilers and their components as a major subsystem of hydronic space heating systems.\nMK\nby Mike Kapin\nCreated\nCopywrite 2025\nHydronic Heating System Overview\nPurpose\nA gas-fired boiler transfers the heat produced from the combustion of the gas to the water contained in the boiler. This heated water is then distributed throughout a building to provide space heating.\nObjectives\nDescribe hydronic heating systems\nDescribe hydronic heating system boilers\nDescribe boiler components\nKey Terminology\nTerm\nDefinition\nHydronic space heating system\nUses water to transfer thermal energy from the source to its point(s) of use\nSpillage\nWhen there is no draft, a backdraft, or a blockage beyond the draft hood, the flue gases exit the draft-hood instead of enter the appliance\nIntroduction to Hydronic Heating\nHeat Transfer\nA space heating system moves thermal energy (heat) from a heat source to the space(s) to be heated.\nHydronics\nHydronics involves the heating and cooling of spaces using liquids as the heat transfer medium.\nTemperature Range\nHydronic systems use water only in its liquid state, over a practical temperature range of 50 to 250°F (10 to 121 °C).\nEvolution of Hydronic Systems\nEarly Systems\nEarly hydronic systems relied on the natural convection created by hot rising water and cool descending water streams for distribution and circulation in the system piping.\nModern Systems\nThrough the use of technology, modern hydronic heating systems are able to distribute heat exactly where and when it is required to maintain desired temperature levels.\nFuture Developments\nContinued advancements in efficiency, control systems, and integration with renewable energy sources.\nScope of Gas Technician's Work\nProvincial Regulations\nGas technicians/fitters are limited in the scope of work that they may perform in areas covered by other trades. This may vary from province to province since the gas technician's/fitter's responsibilities and limitations are governed by provincial regulations.\nOntario Example\nOntario regulations state that a gas technician/fitter must not perform any work beyond the gas side of a hydronic system unless the gas technician/fitter also holds a certificate of qualification issued under the Trades Qualification and Apprenticeship Act as a plumber or steamfitter.\nPermitted Work\n\"Disconnect and reconnect water piping in order to exchange, service or install an approved appliance and carry out the replacement of water pipe necessary to complete the reconnection or controls, control systems, components and accessories that are essential to the operation of the appliance.\"\nHydronic Subsystems\nHeat Source\nUsually a boiler or hot water heater\nDistribution System\nPiping, valves, and circulators\nHeat Emitters\nBaseboard convector unit, wall-mounted radiators, or radiant floors\nControl System\nThermostats, aquastats, controllers, switches, relays\nAdvantages of Hydronic Heating Systems\nEnergy Efficiency\nMany studies have consistently shown lower heating energy use than equivalent structures with forced air heating and similar ducted heating systems.\nClean, Quiet Operation\nWhen a hydronic system operates properly, it is silent in comparison to the noise of airflow through ducts and outlets.\nIncreased Comfort Levels\nOne big advantage of heating through radiation is that surfaces in rooms tend to be warmer. This reduces the effect of radiant heat loss from the body and increases comfort.\nZoning Capability\nA hydronic system can have as many areas of control (called zones). A forced air system typically has one thermostat location.\nMore Advantages of Hydronic Heating\nDesign Flexibility\nHydronic heating offers almost unlimited possibilities to accommodate space heating, domestic water heating, snow melting, and pool heating.\nLess Air Stratification\nStratification is the tendency of warm air to rise and accumulate at the ceiling while cold air falls and gathers at the floor. Hydronic systems reduce this effect.\nFewer Contaminants\nHydronic systems do not circulate as much dust and pollen through the air as do forced air systems.\nDisadvantages of Hydronic Heating Systems\nInstallation Cost\nA forced air system is on average less costly to install than a hydronic system.\nReaction Time\nA forced air system is quicker to respond to temperature demands in a room due to its lower thermal mass than a hydronic system using convectors or radiant panels.\nHeat Emitter Intrusion\nAside from radiant floor, wall, and ceiling panels, the heat transfer units used in hydronic heating might interfere with the aesthetics of a room. Freestanding radiators and convectors can affect the placement of furniture and drapes among other things.\nHydronic Heating System Boilers\nPurpose\nIn a hydronic space heating system, the purpose of a boiler is to heat the water. A gas-fired boiler transfers the heat produced from the combustion of the water contained in the boiler.\nOperation\nThe hot water circulates through the hydronic system piping to space heating units where it gives up its heat to the building before returning to the boiler to be reheated.\nInstallation Requirements\nCode Compliance\nSection 7 of CSA B149.1 includes installation requirements for propane-fired and natural gas-fired boilers.\nProvincial Regulations\nBoilers must also conform to the requirements of the applicable provincial Boiler and Pressure Vessel Regulations.\nPermits\nEnsure that when applicable, permits have been applied for before starting any work.\nManufacturer Instructions\nReview and implement manufacturer's installation instructions in all boiler installations.\nMounting Bases and Clearances\nFirm and Level Base\nMounting of a boiler must be on a firm and level base. The floor or supporting surface must be non-combustible, except where the boiler is certified for installation on a combustible surface.\nCombustible Surface Installation\nA boiler that does not yet have a certification for installation on a combustible floor may only be installed on combustible surfaces if one of the following conditions is met:\nA base designed by the boiler manufacturer is used; or\nThe boiler (up to 400 MBtu/h /120 kW) is mounted on a platform that extends 6 inches (150 mm) beyond the edge of the boiler and is made of two rows of 4 inch (100 cm) block laid sideways and covered with a piece of sheet metal with a minimum thickness of 0.0195 inch (0.56 mm).\nClearances\nMaintaining clearances between the boiler and combustible materials is a must, as specified in applicable Codes and the manufacturer's installation instructions.\nPiping Specifications\nSizing\nSizing of near boiler piping and supply and return piping must be in accordance with approved trade practices\nCode Compliance\nAll piping must comply with applicable Codes\nManufacturer Instructions\nFollow equipment manufacturer's instructions for proper installation\nCross-Contamination, Overpressure, and Low Water Hazards\nBackflow Prevention\nHydronic system boilers require installation of valves to prevent backflow (cross-contamination) between potable water and non-potable boiler water.\nOverpressure Protection\nSafety relief valves are required to protect against dangerous pressure buildup in the system.\nLow Water Protection\nLow water cut-off devices prevent the boiler from operating when water levels are insufficient, which could cause damage or unsafe conditions.\nBackflow Prevention\nAir Gap Device (AG)\nPhysical separation between potable water supply and non-potable water\nDual Check with Atmospheric Port (DCAP)\nPrevents backflow with atmospheric venting capability\nDouble Check Valve Assembly (DCVA)\nTwo independent check valves in series\nReduced Pressure Principle (RP)\nProvides maximum protection against backflow\nA qualified individual must install, test, and maintain the backflow prevention device. This will typically be a Red Seal Plumber or Steamfitter/Pipefitter with additional backflow certification subject to approval by the authority having jurisdiction.\nOverpressure Protection\nSafety Relief Valve Requirements\nComply with all applicable Code requirements, including temperature and pressure ratings\nBe certified as the proper type and capacity for the application\nBe equipped with a try-lever for testing\nInstallation Requirements\nBe installed in the proper location on the boiler as per manufacturer's instructions\nBe protected from the effects of lime or scale buildup\nBe piped according to local Code requirements\nLow Water Safety Control\nPurpose\nA low water level in a boiler can result in damage to the boiler and/or an unsafe condition, especially if the boiler is fired when it is dry or nearly dry.\nCode Requirements\nIt is a Code requirement that all steam boilers have at least one automatic low water cut-off (LWCO). In addition, hot water boilers with inputs over 400 MBtu/h (120 kW), or systems of any input with circulation piping entirely below the boiler, must come with a low-water fuel cut-off.\nOperation\nIf the boiler's water drops below a pre-set safe level, the cut-off automatically acts to shut off the gas supply to the burner.\nBoiler Types\nCast-Iron Sectional\nMultiple cast-iron sections connected together\nSteel Fire-Tube\nHot gases flow through tubes surrounded by water\nSteel Water-Tube\nWater flows through tubes surrounded by hot gases\nCopper Fin-Tube\nCopper tubes with fins for increased heat transfer\nEvolution of Boiler Design\nTraditional Boilers\nIn the past, boilers and their associated components were obtained piece-by-piece and were assembled and tested at the job site. Originally, these were cast-iron sectional boilers that were often massive in size and very heavy once assembled.\nPackaged B",
+          "content_truncated": true
+        },
+        {
+          "filename": "CSA Unit 20 Hydronic Heating Systems - Question Bank.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 20 - Hydronic Heating Systems",
+          "char_count": 26060,
+          "content": "CSA Unit 20 Hydronic Heating Systems - Multiple Choice Test\nQuestions 1-30: Basic Hydronic Systems and Boiler Types\nWhat is a hydronic space heating system? A) Uses air to transfer thermal energy from source to point of use B) Uses water to transfer thermal energy from source to point of use C) Uses steam only for heat transfer D) Uses refrigerant for heat transfer\nWhat temperature range do hydronic systems typically operate within? A) 32 to 150°F (0 to 66°C) B) 50 to 250°F (10 to 121°C) C) 100 to 300°F (38 to 149°C) D) 150 to 400°F (66 to 204°C)\nWhat is spillage in a hydronic heating system? A) Water leaking from pipes B) When flue gases exit the draft-hood instead of entering the appliance C) Steam escaping from radiators D) Heat loss through insulation\nWhich type of boiler has multiple cast-iron sections connected together? A) Steel fire-tube boiler B) Steel water-tube boiler C) Cast-iron sectional boiler D) Copper fin-tube boiler\nIn a steel fire-tube boiler, where do the hot flue gases flow? A) Around the outside of tubes containing water B) Through tubes surrounded by water C) Through a separate combustion chamber D) Directly into the water\nWhat is the major difference between fire-tube and water-tube boilers? A) The fuel type used B) The direction of heat transfer C) The operating pressure D) The efficiency rating\nAt what return water temperature will a non-condensing boiler start to have condensation issues? A) Below 100°F (38°C) B) Below 120°F (49°C) C) Below 140°F (60°C) D) Below 160°F (71°C)\nWhat is the typical efficiency of modern condensing boilers? A) Over 70% B) Over 80% C) Over 90% D) Over 95%\nWhat is a turndown ratio in modulating condensing boilers? A) The ratio of maximum to minimum input pressure B) The ratio of maximum to minimum heat output rate C) The ratio of supply to return temperature D) The ratio of water flow to gas flow\nWhat does a \"pulse\" mean in pulse combustion boilers? A) The cycling of the circulator pump B) One cycle of ignition and combustion in a specially designed chamber C) The opening and closing of zone valves D) The modulation of gas pressure\nAccording to ASME classification, what defines a low-pressure boiler? A) Operates at temperatures not exceeding 250°F and pressures not exceeding 160 psig B) Operates at temperatures not exceeding 200°F and pressures not exceeding 100 psig C) Operates at temperatures not exceeding 300°F and pressures not exceeding 200 psig D) Operates at temperatures not exceeding 180°F and pressures not exceeding 120 psig\nWhat is the traditional operating temperature for residential hot water boilers? A) 120°F (49°C) B) 160°F (71°C) C) 180°F (82°C) D) 200°F (93°C)\nModern radiant floor systems are typically designed for what supply water temperature? A) 180°F (82°C) B) 160°F (71°C) C) 140°F (60°C) D) 120°F (49°C)\nWhat is the main purpose of fire brick and refractory materials in a boiler? A) To increase heat output B) To protect metal and retain heat in the combustion chamber C) To improve water circulation D) To reduce gas consumption\nWhat do turbulators do in flue gas passages? A) Reduce gas pressure B) Increase heat transfer by inducing turbulence C) Prevent condensation D) Reduce noise\nWhat causes spillage in a draft hood? A) Excessive gas pressure B) No draft, backdraft, or blockage beyond the draft hood C) High water temperature D) Low water pressure\nWhat type of draft control maintains neutral pressure over the fire in atmospheric boilers? A) Barometric damper B) Draft hood (draft diverter) C) Automatic vent damper D) Flue damper\nWhere should automatic vent dampers be located? A) Upstream of draft hood relief openings B) Downstream of draft hood relief openings C) Inside the combustion chamber D) At the boiler outlet\nWhat happens to thermally actuated vent dampers when flue gas temperature rises? A) They close completely B) They open to allow passage of flue gases C) They remain in the same position D) They modulate based on pressure\nWhere are flue dampers located in relation to draft hood relief openings? A) Downstream B) Upstream C) Inside the same housing D) Location doesn't matter\nWhat is the primary advantage of hydronic heating over forced air systems? A) Lower installation cost B) Faster response time C) Energy efficiency and quiet operation D) Easier maintenance\nWhat is stratification in heating systems? A) Different temperatures in different rooms B) The tendency of warm air to rise and cold air to fall C) Uneven heat distribution in radiators D) Temperature differences between day and night\nWhat is a major disadvantage of hydronic heating systems? A) High energy consumption B) Noisy operation C) Higher installation cost than forced air D) Poor temperature control\nWhat determines the heat output of a cast-iron sectional boiler? A) The size of the combustion chamber B) The number of sections C) The gas pressure D) The water temperature\nWhy are steel fire-tube boilers limited to closed-loop systems? A) To prevent overheating B) To prevent corrosion from air exposure C) To maintain proper pressure D) To improve efficiency\nWhat requires constant water circulation during firing in copper fin-tube boilers? A) To prevent overheating B) To prevent thermal stress damage C) To maintain efficiency D) To prevent corrosion\nWhat is the typical heat loss in a non-condensing gas-fired boiler? A) 5% of original energy content B) 10% of original energy content C) 15% of original energy content D) 20% of original energy content\nWhy do condensing boilers require forced venting? A) To meet code requirements B) Because flue gases have lost heat and natural buoyancy C) To improve efficiency D) To prevent condensation\nWhat materials are condensing boilers typically constructed from? A) Cast iron and steel B) Copper and brass C) Stainless steel and titanium alloys D) Aluminum and plastic\nWhat input range is available for condensing boilers? A) 25,000 to 500,000 Btu/h B) 50,000 to over 1,000,000 Btu/h C) 75,000 to 750,000 Btu/h D) 100,000 to 2,000,000 Btu/h\nQuestions 31-60: Distribution Systems and Controls\nWhat is the simplest hydronic distribution system? A) One-pipe system B) Two-pipe system C) Series loop system D) Primary/secondary system\nWhat are diverter tees used for in one-pipe systems? A) To change pipe direction B) To divert water flow into heating units C) To isolate zones D) To regulate temperature\nWhat is the typical heat load limit for a one-pipe Monoflo system per circuit? A) 25,000-30,000 Btu/h B) 40,000-45,000 Btu/h C) 50,000-60,000 Btu/h D) 75,000-80,000 Btu/h\nIn a direct-return two-pipe system, how does water return to the boiler? A) Through the longest practical path B) Through the shortest practical path C) Through a separate return system D) Through the same pipe as supply\nWhat is the main advantage of a reverse-return system? A) Lower installation cost B) Faster heat-up time C) Self-balancing flow characteristics D) Easier maintenance\nWhat does \"first-fed, last-return\" describe? A) Direct-return system configuration B) Reverse-return system configuration C) Series loop system operation D) Primary/secondary system design\nWhat is hydraulic separation in primary/secondary systems? A) Physical separation of pipes B) Different water temperatures C) Independent operation of different loops D) Pressure isolation between loops\nWhat tubing material is most commonly used for radiant floor heating? A) Copper tubing B) PVC piping C) Cross-linked polyethylene (PEX) with oxygen barrier D) Steel tubing\nWhy is oxygen barrier important in radiant floor tubing? A) To prevent freezing B) To prevent system failures from oxygen diffusion C) To improve heat transfer D) To reduce installation time\nWhat is required when a heating system needs water at higher temperatures than domestic purposes? A) A pressure reducing valve B) A thermostatic mixing valve C) A check valve D) A backflow preventer\nWhat defines an open hydronic system according to CSA B214? A) A system with external venting B) A system open to atmosphere at any point C) A system without expansion tanks D) A system with manual fill valves\nWhat allows the use of ferrous components in closed systems? A) Higher water pressure B) Chemical additives C) Elimination of air and oxygen content D) Lower operating temperatures\nWhat causes thermal expansion in hydronic systems? A) Pressure changes B) Volume changes from heating liquid C) Flow rate variations D) Temperature cycling\nWhere were open expansion tanks traditionally located? A) In the basement B) Next to the boiler C) At the highest point in the system D) In the mechanical room\nWhat is the main problem with open expansion tanks? A) High installation cost B) Limited capacity C) High corrosion rates due to oxygen access D) Difficult maintenance\nWhat separates system fluid from air in bladder/diaphragm expansion tanks? A) A metal barrier B) A concrete wall C) An elastomer membrane D) A filter system\nWhat should diaphragm expansion tanks be pre-charged to? A) Atmospheric pressure B) System design pressure (typically 12-18 psig) C) Maximum system pressure D) Half of system pressure\nWhy is air removal important in hydronic systems? A) To prevent noise and reduce heat transfer B) To increase system pressure C) To improve pump efficiency D) To prevent freezing\nWhat is gravity purging? A) Using gravity to fill the system B) Expelling air by opening high point vents while filling C) Draining the system by gravity D) Natural circulation without pumps\nWhat makes forced-water purging more effective than gravity purging? A) Higher water pressure B) Water flowing at sufficient velocity entrains air bubbles C) Larger pipe sizes D) Better circulation pumps\nWhat type of automatic air vent uses a cellulose fiber disc? A) Float-type vent B) Washer-type (hygroscopic) vent C) Thermostatic vent D) Pressure-operated vent\nWhere should air purgers be installed? A) At the highest point in the system B) At the lowest point in the system C) Close to the boiler on the supply m",
+          "content_truncated": true
+        },
+        {
+          "filename": "Assignments_GT2_20_01_Boilers_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 20 - Hydronic Heating Systems\\Assignments",
+          "char_count": 2637,
+          "content": "Gas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 20 – Chapter 01: Boilers \n \n1. What prevents the water in a hydronic heating system from boiling into steam when the \nsystem is operating above the atmospheric boiling temperature?  \na) Natural convection \nb) Make-up water is added \nc) Pressurization of the system \nd) Constant circulation \n \n2. Which of the following would be considered part of a hydronic control system? \na) Boiler \nb) Circulator \nc) Radiator \nd) Aquastat \n \n3. What is installed to protect potable water connections to a boiler (make up water \nconnections) from cross-contamination with non-potable boiler water or toxic substances? \na) Backflow preventer \nb) Relief valve \nc) Aquastat \nd) Low water cut off \n \n4. What is not an advantage of a hydronic heating system? \na) Fast reaction time \nb) Quiet operation \nc) Increased comfort \nd) Less air stratification\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n5. What input would require a low water cut off for a hot water boiler? \na) 500 MBtu/h \nb) 300 MBtu/h  \nc) 120 MBtu/h  \nd) 75 MBtu/h \n \n6. What is used to connect multiple cast-iron boiler sections together into a boiler block \nassembly? \na) Soldered couplings \nb) Threaded unions \nc) Tapered push-nipples \nd) Raised face flanges \n \n7. Which type of boiler could be used to directly heat domestic water? \na) Steel water-tube \nb) Copper fin-tube \nc) Cast-iron sectional \nd) Steel fire-tube \n \n8. What is the result if flue gas combustion products are cooled below their dew point? \na) Cavitation \nb) Condensation \nc) Stratification \nd) Concentration \n \n9. Steel water tube boilers are commonly used for the production of hot water or steam. \na) True \nb) False \n \n10. To prevent thermal stress damage, this type of boiler requires constant water circulation \nduring firing.  \na) Steel fire-tube \nb) Cast-iron sectional\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n3 \nc) Copper fin-tube \nd) Steel water-tube  \n \n11. Condensing boiler are typically made from what material? \na) Cast-iron \nb) Stainless steel \nc) Copper  \nd) Carbon steel \n \n12. For atmospheric boilers, what is the term used to explain the result if there is no draft, a \nbackdraft, or a blockage in the venting system beyond the draft hood? \na) Leakage \nb) Spillage  \nc) Discharge \nd) Emission  \n \n13. What does an automatic vent damper actuator have to control the boiler’s burner? \na) Proving switch \nb) Igniter  \nc) Transformer \nd) Circulator",
+          "content_truncated": false
+        },
+        {
+          "filename": "Assignments_GT2_20_02_Distr_control_syst_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 20 - Hydronic Heating Systems\\Assignments",
+          "char_count": 2917,
+          "content": "Gas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 20 – Chapter 02: Distribution and \ncontrol systems \n \n1. What is the simplest type of hydronic distribution system?  \na) Reverse-return \nb) Direct-return \nc) Series loop \nd) Monoflo \n \n2. Which two-pipe heating system is easiest to balance? \na) Reverse-return \nb) Direct-return \nc) Series loop \nd) Monoflo  \n \n3. Which hydronic distribution system uses diverter tees to help direct main water flow \nthrough the heating unit? \na) Reverse-return \nb) Direct-return \nc) Series loop \nd) Monoflo \n \n4. Which hydronic distribution system is known as “first-fed, first-return”? \na) Reverse-return \nb) Direct-return \nc) Series loop \nd) Monoflo\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n5. What device within a closed hydronic system accommodates for the volumetric change of \nthe system fluid under normal operating conditions? \na) Expansion tank \nb) Relief valve \nc) Air separator \nd) High limit aquastat \n \n6. Which device within a hydronic heating system is required to release water during an \nunsafe condition caused by excessive pressures? \na) Expansion tank \nb) Relief valve \nc) Air separator \nd) High limit aquastat \n \n7. Which type of valve is best suited for throttling flow? \na) Gate valve \nb) Globe valve \nc) Check valve \nd) Relief valve \n \n8. A thermostatic radiator valve can be operated by mechanical or electric drive head. \na) True \nb) False \n \n9. What side of a structure should an outdoor air temperature sensor be placed? \na) North \nb) South \nc) East \nd) West\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n3 \n10. What is the purpose of a balancing valve? \na) Increase flow \nb) Isolate flow \nc) Equalize flow \nd) Stop reverse flow  \n \n11. What is installed in a system to ensure continuous flow in the system, no matter how many \nzone valves are open or closed? \na) Four-way mixing point \nb) Differential pressure bypass \nc) Outdoor air sensor \nd) Flo check valves \n \n12. This device is normally wired in series with an operating aquastat so that either one can \nshut off the burner. \na) Bypass limit \nb) High limit  \nc) Low limit \nd) No limit \n \n13. What can be used to sense problems in the flow of combustion products (like flue \nblockages)? \na) Rollout switch \nb) Flow switch \nc) Low water switch \nd) Proving switch \n \n14. What valve is used to prevent reverse flow in a piping system? \na) Gate valve \nb) Globe valve \nc) Check valve \nd) Relief valve\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n4 \n15. What can be used to provide “hydraulic separation” in a primary/secondary hydronic \ndistribution system? \na) Monoflo tees \nb) Closely-spaced tees \nc) Diversion tees \nd) Oversized tees",
+          "content_truncated": false
+        },
+        {
+          "filename": "Assignments_GT2_20_03_Circulators_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 20 - Hydronic Heating Systems\\Assignments",
+          "char_count": 1692,
+          "content": "Gas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 20 – Chapter 03: Circulators \n \n1. What is the name for the point where the expansion tank is attached to the system piping? \na) Point of no point \nb) Point of view \nc) Point of no pressure change \nd) Point of no return \n \n2. Immediately upstream of the expansion tank is the best place to install a primary \ncirculating pump in a hydronic system. \na) True \nb) False \n \n3. What is the rotating piece of a centrifugal pump called? \na) Impeller \nb) Propeller \nc) Volute \nd) Rotor \n \n4. What is the effect when increasing the RPM of a centrifugal pump? \na) More pressure and more flow \nb) Less flow \nc) More flow \nd) More pressure \n \n5. Where is the area of lowest pressure within a centrifugal circulator? \na) Impeller eye \nb) Volute \nc) Outlet port \nd) Pump body\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n6. “The pressure difference a pump can produce between its inlet and outlet ports” is a \ndefinition of which of the following? \na) Flow rate \nb) Velocity \nc) Head \nd) Drift \n \n7. How many USGPM would be required to supply 40,000 Btuh, if the design temperature \ndrop for the system is 30°F? \na) 3.75 USGPM  \nb) 2.67 USGPM \nc) 5 USGPM  \nd) 4 USGPM \n \n8. What is the effect of installing two centrifugal pumps in series?  \na) 50% more pressure \nb) Half the flow \nc) Double the flow \nd) Double the pressure \n \n9. What is the effect when a shut off valve is closed downstream of a centrifugal circulator? \na) Current draw decreases \nb) Current draw increases \nc) Voltage increases  \nd) Voltage decreases",
+          "content_truncated": false
+        },
+        {
+          "filename": "Assignments_GT2_20_04_Hydronic_control_syst_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 20 - Hydronic Heating Systems\\Assignments",
+          "char_count": 2500,
+          "content": "Gas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 20 – Chapter 04: Hydronic control \nsystem servicing and maintenance \n \n1. What is the typical system design pressure for a residential hydronic boiler? \na) 50 – 60 psig \nb) 20 – 28 psig \nc) 12 – 15 psig \nd) 32 – 45 psig  \n \n2. What should be checked first if the boiler’s system pressure is higher than normal?  \na) Expansion tank \nb) Relief valve \nc) LWCO \nd) PRV \n \n3. How can a technician increase a hydronic system’s static pressure setting? \na) Turn the PRV adjustment clockwise \nb) Turn the PRV adjustment counter-clockwise  \nc) Open the relief valve \nd) Open the boiler drain  \n \n4. You tell if a differential pressure bypass valve is working correctly if the pressure at the \ndischarge side of the pump does not increase when zone valves close. \na) True \nb) False \n \n5. If a boiler’s burner will not fire, which of the following should be checked first? \na) Aquastats \nb) Water supply \nc) Venting system \nd) Air vents\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n6. What is the likely cause of incomplete combustion and high flue stack temperatures? \na) Air in the system \nb) Low water condition \nc) Over-firing the burner \nd) High water pressure \n \n7. Air in the system can create what common problem?  \na) Noise \nb) High velocities \nc) Condensation \nd) High flue temperatures \n \n8. Who can test a backflow preventer? \na) Certified tester \nb) Gas technician \nc) Homeowner \nd) Plumber \n \n9. If the pressure in a hydronic system increases immediately after the burner comes on, what \nis the cause? \na) Expansion tank is water-logged \nb) Relief valve is faulty \nc) PRV is faulty \nd) Gas pressure is too low \n \n10. What happens if a zone valve’s end switch fails to close? \na) Thermostat will open \nb) Pump will not shut off \nc) Burner will not fire \nd) PRV will open\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n3 \n11. A customer complains that there is no heat in the top floor of a hydronic heating system. \nWhat is the most likely cause? \na) Zone valve is stuck open \nb) Air lock in system \nc) Pump is oversized \nd) Static pressure too high \n \n12. What should be observed to avoid pump cavitation? \na) Install straight piping upstream \nb) Keep fluid temperature low as possible \nc) Keep static pressure high as possible \nd) All of the above",
+          "content_truncated": false
+        },
+        {
+          "filename": "Assignments_GT2_20_05_Pool_heat_syst_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 20 - Hydronic Heating Systems\\Assignments",
+          "char_count": 1929,
+          "content": "Gas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 20 – Chapter 05: Pool heating systems \n \n1. What is the purpose of the lint trap/strainer in a pool system? \na) Prevents reverse flow into the pool \nb) Equalize flow in the system \nc) To protect the pump \nd) Heats the pool water \n \n2. What must be done to remove accumulated debris in a sand filter? \na) Nothing is done \nb) The filter must be replaced \nc) Change the sand \nd) Backwashing \n \n3. What is the normal differential setting for a pool heater’s pressure switch? \na) 2 psig \nb) 14 psig \nc) 0.5 psig \nd) 10 psig \n \n4. What is the function of a pool heater’s pressure switch? \na) Protects the boiler from damage \nb) Helps to keep the water clean \nc) Senses the water level in the pool \nd) Turns on the make-up water system \n \n5. What is the maximum setting for a pool boiler’s operating aquastat? \na) 100°F \nb) 140°F  \nc) 160°F  \nd) 180°F\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n6. What is the maximum setting for a pool boiler’s high limit aquastat? \na) 100°F \nb) 140°F  \nc) 160°F  \nd) 180°F \n \n7. What is used when attempting to chemically clean the inside surfaces of a pool boiler’s heat \nexchanger tubes? \na) Soap and water \nb) Muriatic acid \nc) White vinegar \nd) Soda-ash \n \n8. What is the recommended flow rate for “high-rate sand” that is used for a pool filter? \na) 0.5 -1 USGPM \nb) 1 -2 USGPM \nc) 3 -5 USGPM \nd) 15 - 20 USGPM \n \n9. When the flow rate through a pool system is greater than 125 USGPM, what is required \nbetween the heater’s inlet and outlet pipes? \na) Manual bypass \nb) Automatic compensator \nc) Backup heater \nd) Check valve \n \n10. Where shall chlorine be added to the pool’s circulating system? \na) Upstream of the pump \nb) Downstream of the skimmer \nc) Downstream of the heater \nd) Upstream of the filter",
+          "content_truncated": false
+        },
+        {
+          "filename": "Assignments_GT2_20_01_Boilers_INST.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 20 - Hydronic Heating Systems\\Assignments\\Answer Keys 2021",
+          "char_count": 2637,
+          "content": "Gas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 20 – Chapter 01: Boilers \n \n1. What prevents the water in a hydronic heating system from boiling into steam when the \nsystem is operating above the atmospheric boiling temperature?  \na) Natural convection \nb) Make-up water is added \nc) Pressurization of the system \nd) Constant circulation \n \n2. Which of the following would be considered part of a hydronic control system? \na) Boiler \nb) Circulator \nc) Radiator \nd) Aquastat \n \n3. What is installed to protect potable water connections to a boiler (make up water \nconnections) from cross-contamination with non-potable boiler water or toxic substances? \na) Backflow preventer \nb) Relief valve \nc) Aquastat \nd) Low water cut off \n \n4. What is not an advantage of a hydronic heating system? \na) Fast reaction time \nb) Quiet operation \nc) Increased comfort \nd) Less air stratification\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n5. What input would require a low water cut off for a hot water boiler? \na) 500 MBtu/h \nb) 300 MBtu/h  \nc) 120 MBtu/h  \nd) 75 MBtu/h \n \n6. What is used to connect multiple cast-iron boiler sections together into a boiler block \nassembly? \na) Soldered couplings \nb) Threaded unions \nc) Tapered push-nipples \nd) Raised face flanges \n \n7. Which type of boiler could be used to directly heat domestic water? \na) Steel water-tube \nb) Copper fin-tube \nc) Cast-iron sectional \nd) Steel fire-tube \n \n8. What is the result if flue gas combustion products are cooled below their dew point? \na) Cavitation \nb) Condensation \nc) Stratification \nd) Concentration \n \n9. Steel water tube boilers are commonly used for the production of hot water or steam. \na) True \nb) False \n \n10. To prevent thermal stress damage, this type of boiler requires constant water circulation \nduring firing.  \na) Steel fire-tube \nb) Cast-iron sectional\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n3 \nc) Copper fin-tube \nd) Steel water-tube  \n \n11. Condensing boiler are typically made from what material? \na) Cast-iron \nb) Stainless steel \nc) Copper  \nd) Carbon steel \n \n12. For atmospheric boilers, what is the term used to explain the result if there is no draft, a \nbackdraft, or a blockage in the venting system beyond the draft hood? \na) Leakage \nb) Spillage  \nc) Discharge \nd) Emission  \n \n13. What does an automatic vent damper actuator have to control the boiler’s burner? \na) Proving switch \nb) Igniter  \nc) Transformer \nd) Circulator",
+          "content_truncated": false
+        },
+        {
+          "filename": "Assignments_GT2_20_02_Distr_control_syst_INST.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 20 - Hydronic Heating Systems\\Assignments\\Answer Keys 2021",
+          "char_count": 2917,
+          "content": "Gas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 20 – Chapter 02: Distribution and \ncontrol systems \n \n1. What is the simplest type of hydronic distribution system?  \na) Reverse-return \nb) Direct-return \nc) Series loop \nd) Monoflo \n \n2. Which two-pipe heating system is easiest to balance? \na) Reverse-return \nb) Direct-return \nc) Series loop \nd) Monoflo  \n \n3. Which hydronic distribution system uses diverter tees to help direct main water flow \nthrough the heating unit? \na) Reverse-return \nb) Direct-return \nc) Series loop \nd) Monoflo \n \n4. Which hydronic distribution system is known as “first-fed, first-return”? \na) Reverse-return \nb) Direct-return \nc) Series loop \nd) Monoflo\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n5. What device within a closed hydronic system accommodates for the volumetric change of \nthe system fluid under normal operating conditions? \na) Expansion tank \nb) Relief valve \nc) Air separator \nd) High limit aquastat \n \n6. Which device within a hydronic heating system is required to release water during an \nunsafe condition caused by excessive pressures? \na) Expansion tank \nb) Relief valve \nc) Air separator \nd) High limit aquastat \n \n7. Which type of valve is best suited for throttling flow? \na) Gate valve \nb) Globe valve \nc) Check valve \nd) Relief valve \n \n8. A thermostatic radiator valve can be operated by mechanical or electric drive head. \na) True \nb) False \n \n9. What side of a structure should an outdoor air temperature sensor be placed? \na) North \nb) South \nc) East \nd) West\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n3 \n10. What is the purpose of a balancing valve? \na) Increase flow \nb) Isolate flow \nc) Equalize flow \nd) Stop reverse flow  \n \n11. What is installed in a system to ensure continuous flow in the system, no matter how many \nzone valves are open or closed? \na) Four-way mixing point \nb) Differential pressure bypass \nc) Outdoor air sensor \nd) Flo check valves \n \n12. This device is normally wired in series with an operating aquastat so that either one can \nshut off the burner. \na) Bypass limit \nb) High limit  \nc) Low limit \nd) No limit \n \n13. What can be used to sense problems in the flow of combustion products (like flue \nblockages)? \na) Rollout switch \nb) Flow switch \nc) Low water switch \nd) Proving switch \n \n14. What valve is used to prevent reverse flow in a piping system? \na) Gate valve \nb) Globe valve \nc) Check valve \nd) Relief valve\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n4 \n15. What can be used to provide “hydraulic separation” in a primary/secondary hydronic \ndistribution system? \na) Monoflo tees \nb) Closely-spaced tees \nc) Diversion tees \nd) Oversized tees",
+          "content_truncated": false
+        },
+        {
+          "filename": "Assignments_GT2_20_03_Circulators_INST.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 20 - Hydronic Heating Systems\\Assignments\\Answer Keys 2021",
+          "char_count": 1692,
+          "content": "Gas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 20 – Chapter 03: Circulators \n \n1. What is the name for the point where the expansion tank is attached to the system piping? \na) Point of no point \nb) Point of view \nc) Point of no pressure change \nd) Point of no return \n \n2. Immediately upstream of the expansion tank is the best place to install a primary \ncirculating pump in a hydronic system. \na) True \nb) False \n \n3. What is the rotating piece of a centrifugal pump called? \na) Impeller \nb) Propeller \nc) Volute \nd) Rotor \n \n4. What is the effect when increasing the RPM of a centrifugal pump? \na) More pressure and more flow \nb) Less flow \nc) More flow \nd) More pressure \n \n5. Where is the area of lowest pressure within a centrifugal circulator? \na) Impeller eye \nb) Volute \nc) Outlet port \nd) Pump body\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n6. “The pressure difference a pump can produce between its inlet and outlet ports” is a \ndefinition of which of the following? \na) Flow rate \nb) Velocity \nc) Head \nd) Drift \n \n7. How many USGPM would be required to supply 40,000 Btuh, if the design temperature \ndrop for the system is 30°F? \na) 3.75 USGPM  \nb) 2.67 USGPM \nc) 5 USGPM  \nd) 4 USGPM \n \n8. What is the effect of installing two centrifugal pumps in series?  \na) 50% more pressure \nb) Half the flow \nc) Double the flow \nd) Double the pressure \n \n9. What is the effect when a shut off valve is closed downstream of a centrifugal circulator? \na) Current draw decreases \nb) Current draw increases \nc) Voltage increases  \nd) Voltage decreases",
+          "content_truncated": false
+        },
+        {
+          "filename": "Assignments_GT2_20_04_Hydronic_control_syst_INST.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 20 - Hydronic Heating Systems\\Assignments\\Answer Keys 2021",
+          "char_count": 2500,
+          "content": "Gas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 20 – Chapter 04: Hydronic control \nsystem servicing and maintenance \n \n1. What is the typical system design pressure for a residential hydronic boiler? \na) 50 – 60 psig \nb) 20 – 28 psig \nc) 12 – 15 psig \nd) 32 – 45 psig  \n \n2. What should be checked first if the boiler’s system pressure is higher than normal?  \na) Expansion tank \nb) Relief valve \nc) LWCO \nd) PRV \n \n3. How can a technician increase a hydronic system’s static pressure setting? \na) Turn the PRV adjustment clockwise \nb) Turn the PRV adjustment counter-clockwise  \nc) Open the relief valve \nd) Open the boiler drain  \n \n4. You tell if a differential pressure bypass valve is working correctly if the pressure at the \ndischarge side of the pump does not increase when zone valves close. \na) True \nb) False \n \n5. If a boiler’s burner will not fire, which of the following should be checked first? \na) Aquastats \nb) Water supply \nc) Venting system \nd) Air vents\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n6. What is the likely cause of incomplete combustion and high flue stack temperatures? \na) Air in the system \nb) Low water condition \nc) Over-firing the burner \nd) High water pressure \n \n7. Air in the system can create what common problem?  \na) Noise \nb) High velocities \nc) Condensation \nd) High flue temperatures \n \n8. Who can test a backflow preventer? \na) Certified tester \nb) Gas technician \nc) Homeowner \nd) Plumber \n \n9. If the pressure in a hydronic system increases immediately after the burner comes on, what \nis the cause? \na) Expansion tank is water-logged \nb) Relief valve is faulty \nc) PRV is faulty \nd) Gas pressure is too low \n \n10. What happens if a zone valve’s end switch fails to close? \na) Thermostat will open \nb) Pump will not shut off \nc) Burner will not fire \nd) PRV will open\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n3 \n11. A customer complains that there is no heat in the top floor of a hydronic heating system. \nWhat is the most likely cause? \na) Zone valve is stuck open \nb) Air lock in system \nc) Pump is oversized \nd) Static pressure too high \n \n12. What should be observed to avoid pump cavitation? \na) Install straight piping upstream \nb) Keep fluid temperature low as possible \nc) Keep static pressure high as possible \nd) All of the above",
+          "content_truncated": false
+        },
+        {
+          "filename": "Assignments_GT2_20_05_Pool_heat_syst_INST.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 20 - Hydronic Heating Systems\\Assignments\\Answer Keys 2021",
+          "char_count": 1929,
+          "content": "Gas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 20 – Chapter 05: Pool heating systems \n \n1. What is the purpose of the lint trap/strainer in a pool system? \na) Prevents reverse flow into the pool \nb) Equalize flow in the system \nc) To protect the pump \nd) Heats the pool water \n \n2. What must be done to remove accumulated debris in a sand filter? \na) Nothing is done \nb) The filter must be replaced \nc) Change the sand \nd) Backwashing \n \n3. What is the normal differential setting for a pool heater’s pressure switch? \na) 2 psig \nb) 14 psig \nc) 0.5 psig \nd) 10 psig \n \n4. What is the function of a pool heater’s pressure switch? \na) Protects the boiler from damage \nb) Helps to keep the water clean \nc) Senses the water level in the pool \nd) Turns on the make-up water system \n \n5. What is the maximum setting for a pool boiler’s operating aquastat? \na) 100°F \nb) 140°F  \nc) 160°F  \nd) 180°F\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n6. What is the maximum setting for a pool boiler’s high limit aquastat? \na) 100°F \nb) 140°F  \nc) 160°F  \nd) 180°F \n \n7. What is used when attempting to chemically clean the inside surfaces of a pool boiler’s heat \nexchanger tubes? \na) Soap and water \nb) Muriatic acid \nc) White vinegar \nd) Soda-ash \n \n8. What is the recommended flow rate for “high-rate sand” that is used for a pool filter? \na) 0.5 -1 USGPM \nb) 1 -2 USGPM \nc) 3 -5 USGPM \nd) 15 - 20 USGPM \n \n9. When the flow rate through a pool system is greater than 125 USGPM, what is required \nbetween the heater’s inlet and outlet pipes? \na) Manual bypass \nb) Automatic compensator \nc) Backup heater \nd) Check valve \n \n10. Where shall chlorine be added to the pool’s circulating system? \na) Upstream of the pump \nb) Downstream of the skimmer \nc) Downstream of the heater \nd) Upstream of the filter",
+          "content_truncated": false
+        },
+        {
+          "filename": "Review Exam for Module 20 Answers.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 20 - Hydronic Heating Systems\\Exams",
+          "char_count": 4979,
+          "content": "Gas Technician 2\nReview Exam for Module 20\nHydronic Heating Systems\nInstructor Copy\nExam #_____________________\nDo not remove exam from the classroom\nWhat is the purpose of a pressure relief valve on a boiler, pool heater or boiler?\nTo prevent damage to these systems in the event of over pressurization\nTo prevent damage to these systems in the event of over temperature\nTo bypass the appliance if return water is too cold\nTo bypass the appliance if return water is too cold\nName the device that reduces the city main water pressure to a safe working pressure?\nCirculating pump\nTemperature and pressure relief valve\nPressure reducing valve\nPressuretrol\nName the device that response to changes in water temperature?\nPressuretrol\nAquastat\nThermistor\nThermostat\nName the device that response to changes in boiler pressure?\nPressuretrol\nAquastat\nThermistor\nThermostat\nIn order to set an external bypass valve on a pool heater, you must determine the temperature rise across the appliance.\nTrue\nFalse\nWhat is the purpose of a backflow preventer?\nTo ensure non-potable water from the boiler system enters into the drinking water supply\nTo ensure condensate return water only flows one direction into the boiler\nTo prevent non-potable boiler water from the boiler system from entering into the drinking water supply\nNone of the above\nAutomatic chlorinators on pool heaters must be installed so that the chlorine is injected…\nEither upstream or downstream of the pool heater\nUpstream of the pool heater\nPrior to the filter\nDownstream of the pool heater\nWhen is a low water cut off required on a steam boiler?\nNever\nOver 400,000 Btu/h\nOver 100,000 Btu/h\nAlways\nWhere would a backflow preventer be installed on a boiler system?\nIn the hot water supply line\nIn the condensate return line\nIn the city water makeup water line\nIn the drain line\nWhich of the following would be an expected setting for a relief valve on a low pressure hot water boiler system?\n150 psig\n50 psig\n30 psig\n15 psig\nWater that returns to a boiler in a steam system is known as which of the following?\nSteam\nReturn water\nCondensate\nSupply water\nWhen pool heaters are initiated at the start of the season, which of the following start up procedures should be followed?\nOne hour on - one hour off\nContinuously until shut off by thermostat\nTwo hours on - one hour off\nTwo hours per day continuously for a week\nWhat is the maximum operating pressure for a low pressure boiler?\n15 psig\n5 psig\n50 psig\n150 psig\nOn a pool heater, flue gases may condense if which of the following takes place?\nThe thermostat is turned down too low\nThe filter is not cleaned\nThe thermostat is turned up too high\nThe bypass valve is closed\nA boiler that has carries flue gases inside the boiler tubes with water contained outside the tubes is known as which of the following?\nWater tube boiler\nLow capacity boiler\nTeam boiler\nFire tube boiler\nA boiler that has water inside the boiler tubes with flue gases outside the boiler tubes is known as which of the following?\nLow capacity boiler\nWater tube boiler\nSteam boiler\nFire tube boiler\nWhat is the purpose of an expansion tank?\nTo allow for pressure fluctuations\nTo increase water pressure\nTo increase water temperature\nTo relieve excessive water pressure to drain\nWhat safety control protects a steam boiler if the condensate pump fails to return water to the boiler?\nHigh pressure limit control\nLow pressure limit control\nFlame safeguard control\nLow water cut-off\nCondensate in a heating system is...\nWater heated for use in restaurant equipment\nWater in a hot water boiler return line\nWater from the relief valve in a boiler\nWater in a steam boiler return line\nThe pressure reducing valve on a hot water boiler reduces the city water supply pressure to the required system pressure of.....\n5 to 8 psi\n8 to 12 psi\n12 to 15 psi\n2 to 5 psi\nThe boiler pressure relief valve must have a Btu rating...\nEqual to or less than that of the boiler\nEqual to that of the boiler\nThese valves are not rated\nEqual to or greater than that of the boiler\nIf, on a hot water boiler system you responded to a no heat call and found the boiler water hot and the circulating pump motor operating yet the house was cold, what would be a likely cause?\nThermostat set too high\nBoiler operator control defective\nCirculating pump coupling broken\nHigh limit open\nWhen is a low water cut off required on a hot water boiler?\nIf the input is in excess of 400,000 Btuh\nIf the input is in less than 400,000 Btuh\nIf the input is in less than 400,000 Btuh and the circulating system is below lowest safe permissible water level\nA or C\nNever\nIf water vapour in the combustion products or flue gases are cooled below the dew point,  the water vapour condenses into a liquid state.\nTrue\nFalse\nWhat prevents the water in a hydronic heating system from boiling into steam when the system is operating above the atmospheric boiling temperature?\nLow water cut  off switch\nPressurization of the system\nHigh limit controls\nFlow switch",
+          "content_truncated": false
+        },
+        {
+          "filename": "Review Exam for Module 20.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 20 - Hydronic Heating Systems\\Exams",
+          "char_count": 4963,
+          "content": "Gas Technician 2\nReview Exam for Module 20\nHydronic Heating Systems\nExam #_____________________\nDo not remove exam from the classroom\nWhat is the purpose of a pressure relief valve on a boiler, pool heater or boiler?\nTo prevent damage to these systems in the event of over pressurization\nTo prevent damage to these systems in the event of over temperature\nTo bypass the appliance if return water is too cold\nTo bypass the appliance if return water is too cold\nName the device that reduces the city main water pressure to a safe working pressure?\nCirculating pump\nTemperature and pressure relief valve\nPressure reducing valve\nPressuretrol\nName the device that response to changes in water temperature?\nPressuretrol\nAquastat\nThermistor\nThermostat\nName the device that response to changes in boiler pressure?\nPressuretrol\nAquastat\nThermistor\nThermostat\nIn order to set an external bypass valve on a pool heater, you must determine the temperature rise across the appliance.\nTrue\nFalse\nWhat is the purpose of a backflow preventer?\nTo ensure non-potable water from the boiler system enters into the drinking water supply\nTo ensure condensate return water only flows one direction into the boiler\nTo prevent non-potable boiler water from the boiler system from entering into the drinking water supply\nNone of the above\nAutomatic chlorinators on pool heaters must be installed so that the chlorine is injected…\nEither upstream or downstream of the pool heater\nUpstream of the pool heater\nPrior to the filter\nDownstream of the pool heater\nWhen is a low water cut off required on a steam boiler?\nNever\nOver 400,000 Btu/h\nOver 100,000 Btu/h\nAlways\nWhere would a backflow preventer be installed on a boiler system?\nIn the hot water supply line\nIn the condensate return line\nIn the city water makeup water line\nIn the drain line\nWhich of the following would be an expected setting for a relief valve on a low pressure hot water boiler system?\n150 psig\n50 psig\n30 psig\n15 psig\nWater that returns to a boiler in a steam system is known as which of the following?\nSteam\nReturn water\nCondensate\nSupply water\nWhen pool heaters are initiated at the start of the season, which of the following start up procedures should be followed?\nOne hour on - one hour off\nContinuously until shut off by thermostat\nTwo hours on - one hour off\nTwo hours per day continuously for a week\nWhat is the maximum operating pressure for a low pressure boiler?\n15 psig\n5 psig\n50 psig\n150 psig\nOn a pool heater, flue gases may condense if which of the following takes place?\nThe thermostat is turned down too low\nThe filter is not cleaned\nThe thermostat is turned up too high\nThe bypass valve is closed\nA boiler that has carries flue gases inside the boiler tubes with water contained outside the tubes is known as which of the following?\nWater tube boiler\nLow capacity boiler\nTeam boiler\nFire tube boiler\nA boiler that has water inside the boiler tubes with flue gases outside the boiler tubes is known as which of the following?\nLow capacity boiler\nWater tube boiler\nSteam boiler\nFire tube boiler\nWhat is the purpose of an expansion tank?\nTo allow for pressure fluctuations\nTo increase water pressure\nTo increase water temperature\nTo relieve excessive water pressure to drain\nWhat safety control protects a steam boiler if the condensate pump fails to return water to the boiler?\nHigh pressure limit control\nLow pressure limit control\nFlame safeguard control\nLow water cut-off\nCondensate in a heating system is...\nWater heated for use in restaurant equipment\nWater in a hot water boiler return line\nWater from the relief valve in a boiler\nWater in a steam boiler return line\nThe pressure reducing valve on a hot water boiler reduces the city water supply pressure to the required system pressure of.....\n5 to 8 psi\n8 to 12 psi\n12 to 15 psi\n2 to 5 psi\nThe boiler pressure relief valve must have a Btu rating...\nEqual to or less than that of the boiler\nEqual to that of the boiler\nThese valves are not rated\nEqual to or greater than that of the boiler\nIf, on a hot water boiler system you responded to a no heat call and found the boiler water hot and the circulating pump motor operating yet the house was cold, what would be a likely cause?\nThermostat set too high\nBoiler operator control defective\nCirculating pump coupling broken\nHigh limit open\nWhen is a low water cut off required on a hot water boiler?\nIf the input is in excess of 400,000 Btuh\nIf the input is in less than 400,000 Btuh\nIf the input is in less than 400,000 Btuh and the circulating system is below lowest safe permissible water level\nA or C\nNever\nIf water vapour in the combustion products or flue gases are cooled below the dew point,  the water vapour condenses into a liquid state.\nTrue\nFalse\nWhat prevents the water in a hydronic heating system from boiling into steam when the system is operating above the atmospheric boiling temperature?\nLow water cut  off switch\nPressurization of the system\nHigh limit controls\nFlow switch",
+          "content_truncated": false
+        }
+      ],
+      "total_documents": 15,
+      "total_chars": 450553,
+      "edition": "7th Edition",
+      "is_primary": false
+    }
+  }
+}

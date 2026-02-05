@@ -1,0 +1,931 @@
+{
+  "unit_name": "Unit 10 - Piping and Tubing Systems for Industrial and Commercial Applications",
+  "unit_number": 10,
+  "category": "G2",
+  "editions": {
+    "8th_2025": {
+      "unit_name": "Unit 10 - Piping and Tubing Systems for Industrial and Commercial Applications",
+      "edition": "8th Edition",
+      "publication_date": "June 2025",
+      "is_primary": true,
+      "category": "G2",
+      "total_chapters": 7,
+      "total_pages": 106,
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "chapter_name": "Introduction to piping and tubing systems for industrial and commercial applications",
+          "pages": "18-27",
+          "topics": [
+            "Location of valves",
+            "Readily accessible manual shut-off valves",
+            "Test firing valve",
+            "Lubricated plug valves",
+            "Bonding of metal gas piping and tubing",
+            "Equipotential bonding",
+            "CSST bonding requirements",
+            "Commercial cooking appliances",
+            "CSA B149.1 Clause 4.7.3",
+            "CSA C22.1 bonding and grounding requirements",
+            "NPS (nominal pipe size)",
+            "Schedule 10, 40, 80"
+          ],
+          "content": "Introduction to piping and tubing systems for industrial and commercial applications. Topics include valve locations, bonding requirements, CSST systems, commercial cooking appliances, and piping specifications for NPS and schedules.",
+          "assignment_questions": [
+            {
+              "question": "Which of the following valves is located between the main manual shut-off valve and the automatic valves in a commercial valve train?",
+              "options": [
+                "a) Safety shut-off valve",
+                "b) Test firing valve",
+                "c) Pressure regulating valve",
+                "d) Vent limiting valve"
+              ],
+              "correct_answer": "b) Test firing valve"
+            },
+            {
+              "question": "What is the primary purpose of bonding metal gas piping systems?",
+              "options": [
+                "a) To prevent corrosion",
+                "b) To provide structural support",
+                "c) To prevent dangerous voltage differences",
+                "d) To improve gas flow"
+              ],
+              "correct_answer": "c) To prevent dangerous voltage differences"
+            },
+            {
+              "question": "Which CSA standard specifies bonding requirements for gas piping?",
+              "options": [
+                "a) CSA B149.1 Clause 4.7.3",
+                "b) CSA B149.2",
+                "c) CSA B51",
+                "d) CSA Z662"
+              ],
+              "correct_answer": "a) CSA B149.1 Clause 4.7.3"
+            },
+            {
+              "question": "What type of tubing has specific bonding requirements due to lightning concerns?",
+              "options": [
+                "a) Black iron pipe",
+                "b) Copper tubing",
+                "c) CSST",
+                "d) PVC pipe"
+              ],
+              "correct_answer": "c) CSST"
+            },
+            {
+              "question": "What is the most common pipe schedule for gas piping?",
+              "options": [
+                "a) Schedule 10",
+                "b) Schedule 40",
+                "c) Schedule 80",
+                "d) Schedule 160"
+              ],
+              "correct_answer": "b) Schedule 40"
+            },
+            {
+              "question": "What color is used to identify gas piping in commercial and industrial installations?",
+              "options": [
+                "a) Red",
+                "b) Blue",
+                "c) Yellow",
+                "d) Green"
+              ],
+              "correct_answer": "c) Yellow"
+            },
+            {
+              "question": "What does NPS stand for?",
+              "options": [
+                "a) National Pipe Standard",
+                "b) Nominal Pipe Size",
+                "c) Natural Pipe System",
+                "d) Normal Pressure Standard"
+              ],
+              "correct_answer": "b) Nominal Pipe Size"
+            },
+            {
+              "question": "Which schedule has the thinnest wall thickness?",
+              "options": [
+                "a) Schedule 10",
+                "b) Schedule 40",
+                "c) Schedule 80",
+                "d) All are equal"
+              ],
+              "correct_answer": "a) Schedule 10"
+            },
+            {
+              "question": "What requires periodic maintenance in lubricated plug valves?",
+              "options": [
+                "a) Seat replacement",
+                "b) Lubrication",
+                "c) Spring adjustment",
+                "d) Pressure testing"
+              ],
+              "correct_answer": "b) Lubrication"
+            },
+            {
+              "question": "Which Canadian code provides requirements for bonding and grounding?",
+              "options": [
+                "a) CSA B149.1",
+                "b) CSA C22.1",
+                "c) CSA B51",
+                "d) CSA Z662"
+              ],
+              "correct_answer": "b) CSA C22.1"
+            },
+            {
+              "question": "Where should manual shut-off valves be located?",
+              "options": [
+                "a) Hidden from view",
+                "b) In locked rooms",
+                "c) Readily accessible",
+                "d) Underground only"
+              ],
+              "correct_answer": "c) Readily accessible"
+            }
+          ]
+        },
+        {
+          "chapter_number": 2,
+          "chapter_name": "Welding safety and pipe preparation",
+          "pages": "40-50",
+          "topics": [
+            "Preparation for welding",
+            "Measuring pipe and fittings",
+            "Beveling (37 ½°)",
+            "Root gap (1/16 to 1/8 in)",
+            "Tacking (four tack welds)",
+            "Radiographic testing",
+            "ASME BPVC requirements"
+          ],
+          "content": "Welding safety and pipe preparation covers measuring techniques, pipe preparation, beveling at 37.5 degrees, maintaining proper root gap, tacking procedures, and radiographic testing requirements per ASME BPVC.",
+          "assignment_questions": [
+            {
+              "question": "What is the correct bevel angle for pipe welding preparation?",
+              "options": [
+                "a) 30°",
+                "b) 37 ½°",
+                "c) 45°",
+                "d) 60°"
+              ],
+              "correct_answer": "b) 37 ½°"
+            },
+            {
+              "question": "What is the correct root gap for pipe welding?",
+              "options": [
+                "a) 1/32 to 1/16 in",
+                "b) 1/16 to 1/8 in",
+                "c) 1/8 to 1/4 in",
+                "d) 1/4 to 1/2 in"
+              ],
+              "correct_answer": "b) 1/16 to 1/8 in"
+            },
+            {
+              "question": "How many tack welds are typically used to position a pipe joint?",
+              "options": [
+                "a) Two",
+                "b) Three",
+                "c) Four",
+                "d) Six"
+              ],
+              "correct_answer": "c) Four"
+            },
+            {
+              "question": "What is the purpose of the root gap?",
+              "options": [
+                "a) To prevent overheating",
+                "b) To allow proper weld penetration",
+                "c) To reduce fitting allowance",
+                "d) To speed up welding"
+              ],
+              "correct_answer": "b) To allow proper weld penetration"
+            },
+            {
+              "question": "What does fitting allowance represent?",
+              "options": [
+                "a) The angle of the fitting",
+                "b) The cost of the fitting",
+                "c) The distance pipe enters the fitting",
+                "d) The pressure rating of the fitting"
+              ],
+              "correct_answer": "c) The distance pipe enters the fitting"
+            },
+            {
+              "question": "Which testing method uses X-rays to check weld quality?",
+              "options": [
+                "a) Ultrasonic testing",
+                "b) Magnetic particle testing",
+                "c) Radiographic testing",
+                "d) Dye penetrant testing"
+              ],
+              "correct_answer": "c) Radiographic testing"
+            },
+            {
+              "question": "What code specifies requirements for radiographic testing?",
+              "options": [
+                "a) CSA B149.1",
+                "b) ASME BPVC",
+                "c) CSA C22.1",
+                "d) NFPA 54"
+              ],
+              "correct_answer": "b) ASME BPVC"
+            },
+            {
+              "question": "Where should the first tack weld be placed?",
+              "options": [
+                "a) 3 o'clock",
+                "b) 6 o'clock",
+                "c) 9 o'clock",
+                "d) 12 o'clock"
+              ],
+              "correct_answer": "d) 12 o'clock"
+            },
+            {
+              "question": "What happens if the root gap is too large?",
+              "options": [
+                "a) Better penetration",
+                "b) Faster welding",
+                "c) Wastes filler material and weakens joint",
+                "d) No effect on weld"
+              ],
+              "correct_answer": "c) Wastes filler material and weakens joint"
+            },
+            {
+              "question": "What shape does the bevel create when two pipes are joined?",
+              "options": [
+                "a) U-groove",
+                "b) V-groove",
+                "c) Square groove",
+                "d) J-groove"
+              ],
+              "correct_answer": "b) V-groove"
+            },
+            {
+              "question": "End-to-centre measurements determine distance from pipe end to what?",
+              "options": [
+                "a) Next pipe",
+                "b) Centre of fitting",
+                "c) Wall",
+                "d) Valve"
+              ],
+              "correct_answer": "b) Centre of fitting"
+            },
+            {
+              "question": "What is the primary purpose of beveling pipe ends?",
+              "options": [
+                "a) To make pipes look better",
+                "b) To provide optimal weld penetration and strength",
+                "c) To reduce weight",
+                "d) To speed up installation"
+              ],
+              "correct_answer": "b) To provide optimal weld penetration and strength"
+            },
+            {
+              "question": "Tack welds must be strong enough to hold the joint but small enough to what?",
+              "options": [
+                "a) Be ground off completely",
+                "b) Be easily incorporated into the final weld",
+                "c) Save welding rod",
+                "d) Allow pipe movement"
+              ],
+              "correct_answer": "b) Be easily incorporated into the final weld"
+            },
+            {
+              "question": "Which systems require radiographic testing of welds?",
+              "options": [
+                "a) All systems",
+                "b) Low-pressure systems only",
+                "c) High-pressure systems or critical locations",
+                "d) Residential systems only"
+              ],
+              "correct_answer": "c) High-pressure systems or critical locations"
+            }
+          ]
+        },
+        {
+          "chapter_number": 3,
+          "chapter_name": "Utility and non-utility piping",
+          "pages": "51-58",
+          "topics": [
+            "Underground piping identification",
+            "Call before you dig (one-call services)",
+            "CSST systems",
+            "CSA B149.1 Clause 6.17.1, 6.17.2, 6.17.3",
+            "As-built drawings",
+            "Tracing (\"walk it back\")"
+          ],
+          "content": "Utility and non-utility piping covers underground piping identification, one-call services, CSST systems per CSA B149.1 clauses, as-built drawings, and tracing methods for existing piping systems.",
+          "assignment_questions": [
+            {
+              "question": "How many business days in advance must you call before digging?",
+              "options": [
+                "a) 1 day",
+                "b) 3 days",
+                "c) 5 days",
+                "d) 10 days"
+              ],
+              "correct_answer": "c) 5 days"
+            },
+            {
+              "question": "What does CSST stand for?",
+              "options": [
+                "a) Canadian Standard Steel Tubing",
+                "b) Corrugated Stainless Steel Tubing",
+                "c) Coated Steel Supply Tubing",
+                "d) Commercial Standard Steel Tube"
+              ],
+              "correct_answer": "b) Corrugated Stainless Steel Tubing"
+            },
+            {
+              "question": "Which CSA B149.1 clause covers bonding requirements for CSST?",
+              "options": [
+                "a) 6.17.1",
+                "b) 6.17.2",
+                "c) 6.17.3",
+                "d) 6.17.4"
+              ],
+              "correct_answer": "c) 6.17.3"
+            },
+            {
+              "question": "What must you do when digging within 1 meter of marked utilities?",
+              "options": [
+                "a) Use a backhoe carefully",
+                "b) Hand dig",
+                "c) Use a vacuum excavator",
+                "d) Stop digging"
+              ],
+              "correct_answer": "b) Hand dig"
+            },
+            {
+              "question": "What do as-built drawings show?",
+              "options": [
+                "a) Original design plans",
+                "b) Manufacturer specifications",
+                "c) Actual location of installed systems",
+                "d) Future modifications"
+              ],
+              "correct_answer": "c) Actual location of installed systems"
+            },
+            {
+              "question": "What is the \"walk it back\" method used for?",
+              "options": [
+                "a) Installing new piping",
+                "b) Tracing existing piping from appliance to source",
+                "c) Testing for leaks",
+                "d) Calculating pipe sizes"
+              ],
+              "correct_answer": "b) Tracing existing piping from appliance to source"
+            },
+            {
+              "question": "Why must CSST be bonded?",
+              "options": [
+                "a) To improve gas flow",
+                "b) To prevent corrosion",
+                "c) To prevent lightning damage",
+                "d) To reduce installation cost"
+              ],
+              "correct_answer": "c) To prevent lightning damage"
+            },
+            {
+              "question": "When must as-built drawings be updated?",
+              "options": [
+                "a) After project completion",
+                "b) During installation to reflect changes",
+                "c) Only if requested",
+                "d) Never - they are original plans"
+              ],
+              "correct_answer": "b) During installation to reflect changes"
+            },
+            {
+              "question": "What coordinates the location of underground utilities?",
+              "options": [
+                "a) Building inspector",
+                "b) One-call service",
+                "c) General contractor",
+                "d) Gas company only"
+              ],
+              "correct_answer": "b) One-call service"
+            },
+            {
+              "question": "Which CSA B149.1 clause covers installation requirements for CSST?",
+              "options": [
+                "a) 6.17.1",
+                "b) 6.17.2",
+                "c) 6.17.3",
+                "d) 4.7.3"
+              ],
+              "correct_answer": "a) 6.17.1"
+            }
+          ]
+        },
+        {
+          "chapter_number": 4,
+          "chapter_name": "Manufacturer's installation data and drawings",
+          "pages": "62-72",
+          "topics": [
+            "Pipe fitting drawings",
+            "Piping symbols",
+            "Valve train symbols",
+            "Manual valves",
+            "Automatic valves",
+            "Gate valves",
+            "Globe valves",
+            "Ball valves",
+            "Solenoid valves"
+          ],
+          "content": "Manufacturer's installation data and drawings covers understanding piping symbols, valve symbols, valve types including gate, globe, ball, and solenoid valves, and interpreting installation drawings and P&IDs.",
+          "assignment_questions": [
+            {
+              "question": "Which valve is best for throttling and flow control?",
+              "options": [
+                "a) Gate valve",
+                "b) Ball valve",
+                "c) Globe valve",
+                "d) Plug valve"
+              ],
+              "correct_answer": "c) Globe valve"
+            },
+            {
+              "question": "What type of valve is operated by a quarter-turn?",
+              "options": [
+                "a) Gate valve",
+                "b) Ball valve",
+                "c) Globe valve",
+                "d) Check valve"
+              ],
+              "correct_answer": "b) Ball valve"
+            },
+            {
+              "question": "What does a dashed line represent on piping drawings?",
+              "options": [
+                "a) Gas pipe",
+                "b) Water pipe",
+                "c) Hidden or underground pipe",
+                "d) Vent pipe"
+              ],
+              "correct_answer": "c) Hidden or underground pipe"
+            },
+            {
+              "question": "Which valve type should be used for on/off service, not throttling?",
+              "options": [
+                "a) Globe valve",
+                "b) Gate valve",
+                "c) Solenoid valve",
+                "d) Relief valve"
+              ],
+              "correct_answer": "b) Gate valve"
+            },
+            {
+              "question": "What type of valve is electrically operated?",
+              "options": [
+                "a) Gate valve",
+                "b) Ball valve",
+                "c) Globe valve",
+                "d) Solenoid valve"
+              ],
+              "correct_answer": "d) Solenoid valve"
+            },
+            {
+              "question": "When do manufacturer instructions supersede general installation practices?",
+              "options": [
+                "a) Never",
+                "b) Always",
+                "c) When more stringent",
+                "d) Only for electrical connections"
+              ],
+              "correct_answer": "c) When more stringent"
+            }
+          ]
+        },
+        {
+          "chapter_number": 5,
+          "chapter_name": "Pipe sizing for large piping systems",
+          "pages": "76-86",
+          "topics": [
+            "Procedural steps for pipe sizing",
+            "CZ (calculated zone)",
+            "LER (length of equivalent run)",
+            "Proof of procedure",
+            "Two-stage systems"
+          ],
+          "content": "Pipe sizing for large piping systems covers the six-step procedure, calculated zones (CZ), length of equivalent run (LER), proving procedures, and two-stage system considerations for commercial and industrial applications.",
+          "assignment_questions": [
+            {
+              "question": "The reasons for having separate sizing tables for natural gas and propane fuels are because of the differing properties as gases.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "a) True"
+            },
+            {
+              "question": "Put the procedural steps of pipe sizing in correct order: (1) Sketch system (2) Select table (3) Determine CZ (4) Size sections (5) Prove CZ",
+              "options": [
+                "a) 1-2-3-4-5",
+                "b) 2-1-3-4-5",
+                "c) 1-3-2-4-5",
+                "d) 3-2-1-4-5"
+              ],
+              "correct_answer": "a) 1-2-3-4-5"
+            }
+          ]
+        },
+        {
+          "chapter_number": 6,
+          "chapter_name": "Purging operations on large piping systems",
+          "pages": "88-91",
+          "topics": [
+            "CSA B149.1 purging requirements",
+            "Inert gas purging",
+            "Slug purging",
+            "Pipeline inspection gauges (pigs)",
+            "Purge velocity (200 ft/min)"
+          ],
+          "content": "Purging operations on large piping systems covers CSA B149.1 requirements, inert gas purging methods, slug purging techniques, use of pipeline inspection gauges (pigs), and maintaining proper purge velocity of 200 ft/min.",
+          "assignment_questions": [
+            {
+              "question": "With what would you purge a pipe sized NPS 8 in or over if it has been tested with air?",
+              "options": [
+                "a) An inert gas",
+                "b) A fuel gas",
+                "c) Hydrogen, oxygen, or a mixture of both"
+              ],
+              "correct_answer": "a) An inert gas"
+            },
+            {
+              "question": "What could occur if purging is not carried out correctly?",
+              "options": [
+                "a) The wrong gas could enter the pipe",
+                "b) An accidental explosion from a gas-air mixture could occur inside or outside the pipe",
+                "c) A blockage in the pipe could go undetected"
+              ],
+              "correct_answer": "b) An accidental explosion from a gas-air mixture could occur inside or outside the pipe"
+            },
+            {
+              "question": "It is acceptable to purge a new gas line through the burner system into a combustion chamber.",
+              "options": [
+                "a) True (if the building is vacant)",
+                "b) False"
+              ],
+              "correct_answer": "b) False"
+            },
+            {
+              "question": "Before fuel gas is introduced into a pipe, the air is purged out of a larger diameter piping system with an inert gas so _______.",
+              "options": [
+                "a) There will be no air in the pipe to support combustion",
+                "b) Mercaptan will not be washed out of the gas",
+                "c) The gas will ignite properly"
+              ],
+              "correct_answer": "a) There will be no air in the pipe to support combustion"
+            },
+            {
+              "question": "Instead of completely purging long, large pipes with nitrogen, you can _______.",
+              "options": [
+                "a) Air purge",
+                "b) Slug purge",
+                "c) Fuel-gas-to-fuel-gas purge"
+              ],
+              "correct_answer": "b) Slug purge"
+            },
+            {
+              "question": "What is the normal purge velocity for large pipes?",
+              "options": [
+                "a) 100 ft/min",
+                "b) 150 ft/min",
+                "c) 200 ft/min"
+              ],
+              "correct_answer": "c) 200 ft/min"
+            }
+          ]
+        },
+        {
+          "chapter_number": 7,
+          "chapter_name": "Rigging and hoisting safety",
+          "pages": "107-123",
+          "topics": [
+            "Hooks (inspection checklist)",
+            "Shackles",
+            "Eye bolts and hoist rings",
+            "Turnbuckles",
+            "Spreader beams",
+            "Rope in rigging applications",
+            "Safe working load calculations",
+            "Pre-hoist operations",
+            "Load handling"
+          ],
+          "content": "Rigging and hoisting safety covers equipment inspection checklists for hooks and shackles, eye bolt and hoist ring installation, turnbuckles, spreader beams, rope safe working load calculations (N=20 for manila, N=60 for nylon/polyester), and pre-hoist operations including centre of gravity considerations.",
+          "assignment_questions": [
+            {
+              "question": "What is the purpose of a hook latch or mouse?",
+              "options": [
+                "a) To support the load",
+                "b) To secure the throat opening for added safety",
+                "c) To increase the load capacity"
+              ],
+              "correct_answer": "b) To secure the throat opening for added safety"
+            },
+            {
+              "question": "What is the maximum throat opening increase allowed for hooks before removal from service?",
+              "options": [
+                "a) 5% not to exceed ¼ in",
+                "b) 10% not to exceed ½ in",
+                "c) 15% not to exceed 1 in"
+              ],
+              "correct_answer": "a) 5% not to exceed ¼ in"
+            },
+            {
+              "question": "What is the maximum included angle between two sling legs when using shackles at rated capacity?",
+              "options": [
+                "a) 90°",
+                "b) 120°",
+                "c) 150°"
+              ],
+              "correct_answer": "b) 120°"
+            },
+            {
+              "question": "What percentage reduction in original dimension requires removal of a shackle from service?",
+              "options": [
+                "a) 5%",
+                "b) 7.5%",
+                "c) 10%"
+              ],
+              "correct_answer": "c) 10%"
+            },
+            {
+              "question": "Which type of eye bolt should be used with soft metal workpieces like aluminum?",
+              "options": [
+                "a) Short bolts",
+                "b) Long bolts",
+                "c) Either type"
+              ],
+              "correct_answer": "b) Long bolts"
+            },
+            {
+              "question": "What must be ensured when installing hoist rings?",
+              "options": [
+                "a) Use spacers between bushing and surface",
+                "b) Partial thread engagement is acceptable",
+                "c) Full and flush contact between bushing and mating surface"
+              ],
+              "correct_answer": "c) Full and flush contact between bushing and mating surface"
+            },
+            {
+              "question": "What is the value of N for manila rope in the safe working load calculation?",
+              "options": [
+                "a) N = 20",
+                "b) N = 40",
+                "c) N = 60"
+              ],
+              "correct_answer": "a) N = 20"
+            },
+            {
+              "question": "What is the value of N for nylon and polyester rope in the safe working load calculation?",
+              "options": [
+                "a) N = 20",
+                "b) N = 40",
+                "c) N = 60"
+              ],
+              "correct_answer": "c) N = 60"
+            },
+            {
+              "question": "How much does a knot reduce the working strength of a rope?",
+              "options": [
+                "a) 25%",
+                "b) 50%",
+                "c) 75%"
+              ],
+              "correct_answer": "b) 50%"
+            },
+            {
+              "question": "Where should slings be attached to ensure balance?",
+              "options": [
+                "a) Below the centre of gravity",
+                "b) At the centre of gravity",
+                "c) Above the centre of gravity"
+              ],
+              "correct_answer": "c) Above the centre of gravity"
+            },
+            {
+              "question": "What is required before operating hoisting equipment?",
+              "options": [
+                "a) Only visual inspection",
+                "b) Pre-use inspection and route clearance check",
+                "c) No inspection if equipment was recently used"
+              ],
+              "correct_answer": "b) Pre-use inspection and route clearance check"
+            }
+          ]
+        }
+      ]
+    },
+    "7th": {
+      "unit_name": "Unit 10 - Advanced Piping and Tubing Systems",
+      "category": "G2",
+      "documents": [
+        {
+          "filename": "CSA Unit 10 Advanced Piping Systems - Question Bank.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems",
+          "char_count": 19892,
+          "content": "CSA Unit 10 Advanced Piping Systems - 100 Question Test\nQuestions\nWhat is bonding in gas piping systems? A) Welding pipe sections together B) Permanent joining of metallic parts to form an electrically conductive path C) Testing pipe joints for leaks D) Installing pipe supports\nWhat is the minimum allowable pressure drop for commercial/industrial gas piping systems? A) Lower than residential systems B) Same as residential systems C) Higher than residential systems D) Depends on appliance type only\nAccording to CSA B149.1, what is the minimum depth for underground gas piping in general areas? A) 12 in (300 mm) B) 15 in (400 mm) C) 18 in (450 mm) D) 24 in (610 mm)\nWhat is the minimum depth for underground gas piping under commercial driveways? A) 15 in (400 mm) B) 18 in (450 mm) C) 24 in (610 mm) D) 30 in (760 mm)\nWhat type of test is performed before appliance installation? A) Final leak test B) First pressure test C) Soap test only D) Visual inspection only\nHow long must a final leak test be performed after appliance installation? A) 5 minutes B) 10 minutes C) 15 minutes D) 30 minutes\nWhat is the maximum spacing for 1/2 inch horizontal gas piping supports? A) 4 ft (1.2 m) B) 6 ft (2 m) C) 8 ft (2.5 m) D) 10 ft (3 m)\nWhen is an expansion loop required for rooftop piping? A) When piping exceeds 50 ft in length B) When piping exceeds 75 ft in length C) When piping exceeds 100 ft in length D) When piping exceeds 125 ft in length\nWhat is the maximum interval for gas piping identification when using banding or labels? A) 15 ft (5 m) B) 20 ft (6 m) C) 25 ft (8 m) D) 30 ft (9 m)\nWhere must a readily accessible manual shut-off valve be installed for residential appliances? A) Within 25 ft of the appliance B) Within 40 ft of the appliance C) Within 50 ft of the appliance D) Within 75 ft of the appliance\nWhat is the minimum bonding jumper size for copper conductors? A) No. 8 AWG B) No. 6 AWG C) No. 4 AWG D) No. 2 AWG\nWhat certification is required for commercial cooking appliance connectors? A) ANSI Z21.69/CSA 6.16 or ANSI Z21.101/CSA 8.5 B) CSA 3.11 only C) ANSI Z21.15 only D) Any gas-approved connector\nWhat is the critical point of pure acetylene at 70°F (21°C)? A) 15 psi (103 kPa) B) 20 psi (138 kPa) C) 25 psi (172 kPa) D) 28 psi (193 kPa)\nWhat are the explosive limits for acetylene in air (lower and upper)? A) 2.5% - 81% B) 4% - 75% C) 5% - 85% D) 3% - 90%\nWhat type of welding certification governs gas pipe welding in Canada? A) Red Seal Program B) Provincial Boiler and Pressure Vessels Act C) CSA W59 D) ANSI certification\nWhat is the land or root face in welding preparation? A) The sharp edge of a bevel B) The flat portion of approximately 1/16-1/8 in at the bevel edge C) The entire beveled surface D) The back side of the pipe\nWhat angle should pipe ends be beveled for butt welding? A) 30° B) 37-1/2° C) 45° D) 60°\nWhat is CSST? A) Canadian Steel Safety Testing B) Corrugated Stainless Steel Tubing C) Carbon Steel Support Technology D) Certified System Safety Testing\nWhat is the main advantage of CSST over traditional black iron piping? A) Higher pressure rating B) Better corrosion resistance C) Lightweight and flexible with fewer connections D) Lower material cost\nCan CSST be connected directly to a gas meter? A) Yes, always B) Yes, with proper fittings C) No, direct connection is not permissible D) Only for residential applications\nWhat are the three identification options for gas piping in commercial buildings? A) Red paint, red banding, or red labels B) Yellow paint, yellow banding, or gas labels C) Blue paint, blue banding, or blue labels D) Any bright color, banding, or labels\nWhat is NPS in piping terminology? A) National Pipe Standard B) Nominal Pipe Size C) Natural Pipe Specification D) North American Pipe Size\nWhat does \"as built\" drawings mean? A) Original construction blueprints B) Preliminary design drawings C) Final blueprints showing actual installation with revisions D) Manufacturer specifications\nWhat is a Code zone in gas pipe sizing? A) Geographic area covered by the code B) Horizontal grouping of flow values according to longest measured run C) Safety zone around gas equipment D) Pressure testing area\nWhat is the Length of Equivalent Run (LER)? A) Measured length only B) Equivalent length only C) Measured length plus equivalent length of fittings D) Maximum allowable pipe length\nHow much more heat value does propane carry compared to natural gas? A) 1.5 times B) 2 times C) 2.5 times D) 3 times\nWhat is the first step in the general sizing procedure? A) Select a table B) Sketch the system C) Determine code zone D) Size pipe sections\nFor pressures over 2 psi, what must be proven in the sizing procedure? A) Pipe material is adequate B) System pressure is correct C) Length of equivalent run is smaller than code zone used D) All fittings are properly rated\nWhat is purging in gas piping systems? A) Testing for leaks B) Cleaning the inside of pipes C) Replacing existing fluid with desired fluid D) Installing new piping\nFor piping NPS 4 or larger, what must be used before purging with gas? A) Air only B) Nitrogen only C) Carbon dioxide, nitrogen, or mixture of these D) Any inert gas\nWhat is slug purging? A) Using heavy materials to clean pipes B) Injecting a mass of inert gas as a barrier between air and fuel gas C) Rapid purging technique D) Emergency purging procedure\nWhat is the minimum purge velocity in large piping? A) 100 ft/min B) 150 ft/min C) 200 ft/min D) 250 ft/min\nWhat does SWL stand for in rigging? A) Standard Working Load B) Safe Working Load C) Secure Working Limit D) Safety Weight Limit\nWhat is the sling angle factor used for? A) Calculating pipe angles B) Determining required sling size when angle is less than 90° C) Setting crane boom angles D) Measuring load distribution\nWhat is the minimum sling angle recommended for safety? A) 30° B) 45° C) 60° D) 75°\nHow often should wire rope slings be inspected? A) Weekly B) Monthly C) Daily before use and frequently during use D) Only when damage is suspected\nWhat is a critical lift? A) Any lift over 1000 lbs B) Lifts requiring engineering input due to size, weight, or susceptibility to damage C) Emergency lifts only D) Lifts using multiple cranes\nWhat is the D/d ratio in wire rope slings? A) Diameter of load divided by diameter of sling B) Depth divided by diameter C) Distance divided by diameter D) Diameter divided by depth\nWhat should be done if a load tilts during a test lift? A) Continue lifting slowly B) Lower immediately and reposition rigging C) Add more slings D) Increase crane speed\nWhat is the rule for calculating safe working load for manila rope? A) Convert to 8ths, square numerator, multiply by 10 B) Convert to 8ths, square numerator, multiply by 20 C) Convert to 8ths, square numerator, multiply by 30 D) Convert to 8ths, square numerator, multiply by 40\nWhat is the maximum test pressure for piping with working pressure up to 2 psig? A) 10 psig (70 kPa) B) 15 psig (100 kPa) C) 25 psig (170 kPa) D) 50 psig (340 kPa)\nWhat is the test duration for piping with working pressure over 2 but not over 5 psig and length over 200 ft? A) 15 minutes B) 60 minutes C) 120 minutes D) 180 minutes\nWhich pipe schedule is most commonly used for gas systems? A) Schedule 20 B) Schedule 40 C) Schedule 80 D) Schedule 160\nWhat protection is required for rooftop steel piping? A) One coat of paint B) Two coats of quality rust-proof paint C) Galvanizing only D) No protection needed\nWhy should yellow jacket PVC coatings not be used on rooftop piping? A) They are too expensive B) They break down with UV exposure C) They are not yellow enough D) They attract birds\nWhat is required when paving extends 25 ft or more from a building with underground piping? A) Deeper burial depth B) Stronger pipe material C) Vent pipe inspection point D) Warning signs\nWhat is the minimum width for yellow banding on gas piping? A) 1/2 in (13 mm) B) 3/4 in (19 mm) C) 1 in (25 mm) D) 2 in (50 mm)\nWhat is a test firing valve? A) A valve used only during testing B) A valve that allows testing of safeties without gas entering combustion chamber C) A temporary valve for construction D) A backup safety valve\nWhere is the test firing valve located on commercial valve trains? A) Upstream of all controls B) Downstream of all safety controls, close to burner C) At the gas meter D) At the main shut-off\nWhat type of valve must a test firing valve be? A) Gate valve B) Globe valve C) 1/4 turn valve with handle D) Butterfly valve\nWhat is equipotential bonding? A) Connecting all metal parts to ground B) State where conductive parts are at substantially equal electric potential C) Welding metal parts together D) Electrical testing procedure\nWhat is the Canadian Electrical Code requirement for gas piping bonding? A) Optional for residential B) Required for continuous metal gas piping systems with electric power C) Only required for commercial buildings D) Only required for high-pressure systems\nWhat is the minimum clearance required for commercial cooking appliances? A) 3 inches B) 4 inches C) 6 inches D) 12 inches\nWhat is required when a gas connector is used with commercial cooking equipment on wheels? A) Stronger connector B) Noncombustible restraining device C) Flexible hose only D) Rigid connection\nWhat joining method is primarily used for large underground gas piping? A) Threading B) Welding C) Flanging D) Compression fittings\nWhat governs certification requirements for welding gas piping? A) Local codes only B) Boiler and Pressure Vessels Act C) Federal regulations D) Insurance requirements\nWhat is the ASME BPVC? A) American Society of Mechanical Engineers Boiler and Pressure Vessel Code B) American Standard for Mechanical and Building Pressure Vessels Code C) Association of Safety and Mechanical Engineers Building Code D) American Safety for Mechanical Equipment Building Practices Code\nWhat should not be confused with pressure vessel welding codes? A) CSA W59 Welded steel construction B) ASME stan",
+          "content_truncated": true
+        },
+        {
+          "filename": "CSA Unit 10 Advanced Piping Systems - Question Bank.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems",
+          "char_count": 21013,
+          "content": "CSA Unit 10 Advanced Piping Systems - 100 \nQuestion Test \nQuestions \n1. What is bonding in gas piping systems? A) Welding pipe sections together B) Permanent \njoining of metallic parts to form an electrically conductive path C) Testing pipe joints for \nleaks D) Installing pipe supports \n2. What is the minimum allowable pressure drop for commercial/industrial gas piping \nsystems? A) Lower than residential systems B) Same as residential systems C) Higher \nthan residential systems D) Depends on appliance type only \n3. According to CSA B149.1, what is the minimum depth for underground gas piping in \ngeneral areas? A) 12 in (300 mm) B) 15 in (400 mm) C) 18 in (450 mm) D) 24 in (610 \nmm) \n4. What is the minimum depth for underground gas piping under commercial driveways? A) \n15 in (400 mm) B) 18 in (450 mm) C) 24 in (610 mm) D) 30 in (760 mm) \n5. What type of test is performed before appliance installation? A) Final leak test B) First \npressure test C) Soap test only D) Visual inspection only \n6. How long must a final leak test be performed after appliance installation? A) 5 minutes \nB) 10 minutes C) 15 minutes D) 30 minutes \n7. What is the maximum spacing for 1/2 inch horizontal gas piping supports? A) 4 ft (1.2 m) \nB) 6 ft (2 m) C) 8 ft (2.5 m) D) 10 ft (3 m) \n8. When is an expansion loop required for rooftop piping? A) When piping exceeds 50 ft in \nlength B) When piping exceeds 75 ft in length C) When piping exceeds 100 ft in length \nD) When piping exceeds 125 ft in length \n9. What is the maximum interval for gas piping identification when using banding or labels? \nA) 15 ft (5 m) B) 20 ft (6 m) C) 25 ft (8 m) D) 30 ft (9 m) \n10. Where must a readily accessible manual shut-off valve be installed for residential \nappliances? A) Within 25 ft of the appliance B) Within 40 ft of the appliance C) Within \n50 ft of the appliance D) Within 75 ft of the appliance \n11. What is the minimum bonding jumper size for copper conductors? A) No. 8 AWG B) No. \n6 AWG C) No. 4 AWG D) No. 2 AWG \n12. What certification is required for commercial cooking appliance connectors? A) ANSI \nZ21.69/CSA 6.16 or ANSI Z21.101/CSA 8.5 B) CSA 3.11 only C) ANSI Z21.15 only D) \nAny gas-approved connector \n13. What is the critical point of pure acetylene at 70°F (21°C)? A) 15 psi (103 kPa) B) 20 psi \n(138 kPa) C) 25 psi (172 kPa) D) 28 psi (193 kPa) \n14. What are the explosive limits for acetylene in air (lower and upper)? A) 2.5% - 81% B) \n4% - 75% C) 5% - 85% D) 3% - 90% \n15. What type of welding certification governs gas pipe welding in Canada? A) Red Seal \nProgram B) Provincial Boiler and Pressure Vessels Act C) CSA W59 D) ANSI \ncertification\n16. What is the land or root face in welding preparation? A) The sharp edge of a bevel B) \nThe flat portion of approximately 1/16-1/8 in at the bevel edge C) The entire beveled \nsurface D) The back side of the pipe \n17. What angle should pipe ends be beveled for butt welding? A) 30° B) 37-1/2° C) 45° D) \n60° \n18. What is CSST? A) Canadian Steel Safety Testing B) Corrugated Stainless Steel Tubing \nC) Carbon Steel Support Technology D) Certified System Safety Testing \n19. What is the main advantage of CSST over traditional black iron piping? A) Higher \npressure rating B) Better corrosion resistance C) Lightweight and flexible with fewer \nconnections D) Lower material cost \n20. Can CSST be connected directly to a gas meter? A) Yes, always B) Yes, with proper \nfittings C) No, direct connection is not permissible D) Only for residential applications \n21. What are the three identification options for gas piping in commercial buildings? A) Red \npaint, red banding, or red labels B) Yellow paint, yellow banding, or gas labels C) Blue \npaint, blue banding, or blue labels D) Any bright color, banding, or labels \n22. What is NPS in piping terminology? A) National Pipe Standard B) Nominal Pipe Size C) \nNatural Pipe Specification D) North American Pipe Size \n23. What does \"as built\" drawings mean? A) Original construction blueprints B) Preliminary \ndesign drawings C) Final blueprints showing actual installation with revisions D) \nManufacturer specifications \n24. What is a Code zone in gas pipe sizing? A) Geographic area covered by the code B) \nHorizontal grouping of flow values according to longest measured run C) Safety zone \naround gas equipment D) Pressure testing area \n25. What is the Length of Equivalent Run (LER)? A) Measured length only B) Equivalent \nlength only C) Measured length plus equivalent length of fittings D) Maximum allowable \npipe length \n26. How much more heat value does propane carry compared to natural gas? A) 1.5 times B) \n2 times C) 2.5 times D) 3 times \n27. What is the first step in the general sizing procedure? A) Select a table B) Sketch the \nsystem C) Determine code zone D) Size pipe sections \n28. For pressures over 2 psi, what must be proven in the sizing procedure? A) Pipe material \nis adequate B) System pressure is correct C) Length of equivalent run is smaller than \ncode zone used D) All fittings are properly rated \n29. What is purging in gas piping systems? A) Testing for leaks B) Cleaning the inside of \npipes C) Replacing existing fluid with desired fluid D) Installing new piping \n30. For piping NPS 4 or larger, what must be used before purging with gas? A) Air only B) \nNitrogen only C) Carbon dioxide, nitrogen, or mixture of these D) Any inert gas \n31. What is slug purging? A) Using heavy materials to clean pipes B) Injecting a mass of \ninert gas as a barrier between air and fuel gas C) Rapid purging technique D) Emergency \npurging procedure \n32. What is the minimum purge velocity in large piping? A) 100 ft/min B) 150 ft/min C) 200 \nft/min D) 250 ft/min \n33. What does SWL stand for in rigging? A) Standard Working Load B) Safe Working Load \nC) Secure Working Limit D) Safety Weight Limit\n34. What is the sling angle factor used for? A) Calculating pipe angles B) Determining \nrequired sling size when angle is less than 90° C) Setting crane boom angles D) \nMeasuring load distribution \n35. What is the minimum sling angle recommended for safety? A) 30° B) 45° C) 60° D) 75° \n36. How often should wire rope slings be inspected? A) Weekly B) Monthly C) Daily before \nuse and frequently during use D) Only when damage is suspected \n37. What is a critical lift? A) Any lift over 1000 lbs B) Lifts requiring engineering input due \nto size, weight, or susceptibility to damage C) Emergency lifts only D) Lifts using \nmultiple cranes \n38. What is the D/d ratio in wire rope slings? A) Diameter of load divided by diameter of \nsling B) Depth divided by diameter C) Distance divided by diameter D) Diameter divided \nby depth \n39. What should be done if a load tilts during a test lift? A) Continue lifting slowly B) Lower \nimmediately and reposition rigging C) Add more slings D) Increase crane speed \n40. What is the rule for calculating safe working load for manila rope? A) Convert to 8ths, \nsquare numerator, multiply by 10 B) Convert to 8ths, square numerator, multiply by 20 \nC) Convert to 8ths, square numerator, multiply by 30 D) Convert to 8ths, square \nnumerator, multiply by 40 \n41. What is the maximum test pressure for piping with working pressure up to 2 psig? A) 10 \npsig (70 kPa) B) 15 psig (100 kPa) C) 25 psig (170 kPa) D) 50 psig (340 kPa) \n42. What is the test duration for piping with working pressure over 2 but not over 5 psig and \nlength over 200 ft? A) 15 minutes B) 60 minutes C) 120 minutes D) 180 minutes \n43. Which pipe schedule is most commonly used for gas systems? A) Schedule 20 B) \nSchedule 40 C) Schedule 80 D) Schedule 160 \n44. What protection is required for rooftop steel piping? A) One coat of paint B) Two coats \nof quality rust-proof paint C) Galvanizing only D) No protection needed \n45. Why should yellow jacket PVC coatings not be used on rooftop piping? A) They are too \nexpensive B) They break down with UV exposure C) They are not yellow enough D) \nThey attract birds \n46. What is required when paving extends 25 ft or more from a building with underground \npiping? A) Deeper burial depth B) Stronger pipe material C) Vent pipe inspection point \nD) Warning signs \n47. What is the minimum width for yellow banding on gas piping? A) 1/2 in (13 mm) B) 3/4 \nin (19 mm) C) 1 in (25 mm) D) 2 in (50 mm) \n48. What is a test firing valve? A) A valve used only during testing B) A valve that allows \ntesting of safeties without gas entering combustion chamber C) A temporary valve for \nconstruction D) A backup safety valve \n49. Where is the test firing valve located on commercial valve trains? A) Upstream of all \ncontrols B) Downstream of all safety controls, close to burner C) At the gas meter D) At \nthe main shut-off \n50. What type of valve must a test firing valve be? A) Gate valve B) Globe valve C) 1/4 turn \nvalve with handle D) Butterfly valve \n51. What is equipotential bonding? A) Connecting all metal parts to ground B) State where \nconductive parts are at substantially equal electric potential C) Welding metal parts \ntogether D) Electrical testing procedure\n52. What is the Canadian Electrical Code requirement for gas piping bonding? A) Optional \nfor residential B) Required for continuous metal gas piping systems with electric power \nC) Only required for commercial buildings D) Only required for high-pressure systems \n53. What is the minimum clearance required for commercial cooking appliances? A) 3 inches \nB) 4 inches C) 6 inches D) 12 inches \n54. What is required when a gas connector is used with commercial cooking equipment on \nwheels? A) Stronger connector B) Noncombustible restraining device C) Flexible hose \nonly D) Rigid connection \n55. What joining method is primarily used for large underground gas piping? A) Threading \nB) Welding C) Flanging D) Compression fittings \n56. What governs certification requirements for welding gas piping? A) Local codes only B) \nBoiler and Pressure Vessels Act C) Federal regulations D) Insurance requirements \n57. What is the ASME BPVC? A) American Society of Mechanical E",
+          "content_truncated": true
+        },
+        {
+          "filename": "Unit 10 - Advanced Piping Systems - Final.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems",
+          "char_count": 172383,
+          "content": "CSA Unit 10 – Advanced \nPiping Systems\nChapter 1 \nCode Requirements and \nApproved Joining Methods\nThe installation of gas piping and tubing is a basic part of a gas \ntechnician's/fitter's duties. As a student, you must be aware of the code \nrequirements concerning approved types of piping and tubing, as well as \napplicable joining methods. Pipe sizes, locations, and pressures are all \nfactors that you must consider before installing a piping or tubing \nsystem.\nMK\nby Mike Kapin\nCreated\nCopywrite 2025\nLearning Objectives\nDescribe Code \nRequirements\nUnderstand the Code \nrequirements for industrial \nand commercial \napplications\nDescribe Joining \nMethods\nLearn the joining methods \nthat may be used for gas \npiping and tubing systems\nApply Knowledge\nApply code requirements and joining methods in practical \ninstallation scenarios\nKey Terminology\nTerm\nDefinition\nBonding\nPermanent joining of metallic \nparts to form an electrically \nconductive path that ensures \nelectrical continuity and the \ncapacity to safely conduct any \ncurrent likely to be imposed\nGrounding\nIntentional connection of a \ncurrent-carrying conductor to \nground (earth)\nUnderstanding these terms is essential for ensuring safe gas piping \ninstallations that comply with both gas and electrical codes.\nCommercial vs. Residential Code Requirements\nCommercial/Industrial\n•\nHigher allowable pressures\n•\nMore stringent pressure testing\n•\nSpecific underground piping requirements\n•\nMandatory identification\n•\nMultiple shut-off valve requirements\n•\nSpecial commercial cooking appliance provisions\nResidential\n•\nLower maximum allowable pressures\n•\nSimpler pressure testing procedures\n•\nLess complex underground requirements\n•\nFewer identification requirements\n•\nBasic shut-off valve provisions\n•\nStandard appliance connection methods\nAllowable Pressures\nCSA B149.1 specifies maximum allowable gas pressure for various building types in Clause 5.1 Delivery Pressure. Gas pressures in supply mains (natural gas) and from storage containers (propane) are generally \nhigher than the safe operating pressures of connected appliances. As a result, you must control gas pressures to fall within an appropriate range, depending on the operating characteristics of installed \nappliances.\nPressure Testing Requirements\nVisual Inspection\nDuring installation of piping and tubing and before pressure testing, visually \ninspect piping and tubing for cuts, abrasions and other defects that may cause \nleaking or failure of the system when under pressure.\nFirst Pressure Test\nPerformed before appliance installation. Isolate the piping system, cap all open \nends, insert a pressure gauge, and pressurize with air or inert gas to the specified \ntest pressure.\nLeak Detection\nIf pressure drops, locate leaks using a liquid solution (soap test). Wipe each joint \nwith leak detector solution and look for bubbles forming at the source of the \nleak.\nFinal Leak Test\nPerformed after appliance installation using gas supply at normal static pressure \nfor a minimum of 10 minutes.\nPressure Test Procedure\nIsolate the System\nIsolate the piping system that is to be tested to ensure accurate results.\nCap Open Ends\nCap or plug all open ends to create a sealed system for testing.\nInsert Pressure Gauge\nInsert a pressure gauge calibrated in 1/4 kPa (2 psig) increments or less at one end of the system.\nPressurize the System\nPressurize with air or inert gas (nitrogen or carbon dioxide) to the specified test pressure.\nRemove Pressure Source\nRemove the source of pressure and plug or cap the shut off valve.\nPressure Test Requirements Table\nWorking pressure, psig \n(kPa)\nDiameter of pipe or tubing\nLength of pipe or tubing ft \n(m)\nTest pressure psig (kPa)\nTest duration min\nUp to and including 2 (14)\nAll sizes\nAny length\n15 (100)\n15\nOver 2 (14) but not over 5 \n(35)\nAll sizes\n200 (60) or less\n15 (100)\n60\nOver 2 (14) but not over 5 \n(35)\nAll sizes\nMore than 200 (60)\n50 (340)\n180\nOver 5 (35) but not over 33 \n(230)\nAll sizes\nAny length\n50 (340)\n180\nLeak Detection Methods\nSoap Test\nA common method for detecting leaks in gas piping systems:\n1.\nWipe each joint or fitting in the suspect portion of the system with leak \ndetector solution (soap and water)\n2.\nA leak will cause the solution to form bubbles at the source of the leak\nChecking Shut-off Valve Seepage\nBefore performing the leak test, check the gas meter valve for seepage:\n1.\nWhen the system is at static pressure, release a small amount of pressure by \nquickly removing, then replacing, the manometer tubing\n2.\nThis opens the service regulator and allows repressurization back to the gas \nmeter shut-off valve\n3.\nIf pressure increases slowly to static pressure, the meter valve is seeping gas \nand should be serviced\nUnderground Piping \nRequirements\n15 in\nMinimum Depth\nGeneral minimum depth for \nunderground piping (400 mm)\n24 in\nCommercial Areas\nMinimum depth under commercial \ndriveways or parking lots (610 mm)\n6.15.4\nCode Reference\nCSA B149.1 clause specifying \nunderground piping requirements\nAdditional depth of cover shall be required where the piping is located in areas where \nphysical damage is likely to occur, such as farm operations.\nUnderground Piping Installation\nStandard Installation\nPiping entering a building shall rise above grade before \nentry, unless otherwise permitted by the authority having \njurisdiction.\nThis is the preferred method as it reduces the risk of water \ninfiltration and damage to the building foundation.\nBelow Grade Entry \nExceptions\nWatertight Seal\nYou must provide a \nwatertight seal where the \npiping passes through an \noutside wall below grade\nSleeve or Protection\nPiping or tubing passing \nthrough concrete or \nmasonry walls must have a \nsleeve, coating, or double-\nwrap\nFooting Restrictions\nPiping may not pass under a footing or building wall because \nbuilding settlement can cause crushing or rupture of the pipe\nSupports for Piping\nClause 6.8.3 of CSA B149.1 states that you must install aboveground piping \nwith individual supports of sufficient strength and quality and space it \naccording to Table 6.2.\nPipe Size (NPS)\nMaximum Spacing of Supports ft \n(m)\n1/2 or less - horizontal\n6 (2)\n3/4-1 - horizontal\n8 (2.5)\n1-1/4-2-1/2 - horizontal\n10 (3)\n3-4 - horizontal\n15 (5)\n6 - horizontal\n20 (6)\n8-12 or larger - horizontal\n24 (7)\nRooftop Piping Requirements\nSupport Requirements\nPiping must have support according to the distances outlined in Table 6.2, \nplus support at each change of direction and at each threaded connection\nSupport Materials\nRooftop supports should be treated wood blocks and pipe clamps, with \nprotection for the roof membrane\nCertified Supports\nCertified rooftop pipe supports are also now available on the market\nExpansion Requirements\nWhen a rooftop piping run exceeds 100 ft in length in any one direction, a \npiping offset (expansion loop) is required\nRooftop Piping Expansion Solutions\nExpansion Loops\nWhen a rooftop piping run exceeds 100 ft in length in any \none direction, a piping offset (expansion loop) is required to \nallow for expansion of the piping system as it heats with sun \nexposure.\nThis can be either:\n•\nA site-assembled piping offset (see Annex G of CSA \nB149.1)\n•\nAn engineered expansion joint\nBoth solutions allow expansion of piping to occur without \ndamaging or breaking fittings and causing leaks. See Clause \n6.25 of CSA B149.1.\nRooftop Piping Protection\nCorrosion Protection\nAll piping exposed to atmospheres that could cause corrosion must \nhave either painting or coating for protection.\nSteel piping systems are typically installed on commercial rooftops \nand must have two coats of quality rust proof paint.\nUV Protection\nYellow jacket PVC factory coatings should not be used as they break \ndown and deteriorate with UV exposure and may lead to premature \ncorrosion of the pipe.\nSee Clause 6.16 of CSA B149.1 for specific requirements.\nUnderground Piping Installation \nRequirements\nProper Grading\nTrenches for piping \nmust undergo proper \ngrading to avoid any \nsagging in the pipes \nor tubes\nBackfill Material\nBackfill material must \nbe free of sharp \nobjects, large stones, \nor other material that \nmay damage the \npiping\nTracer Wire\nA tracer wire or the \nequivalent must \naccompany buried \nplastic piping\nVenting \nRequirements\nWhen paving covers \nthe piping or extends \n25 ft (8 m) or more \nfrom the building, a \nvent pipe inspection \npoint must be \ninstalled\nVenting Requirements for Paved Areas\nRequirements\nWhen paving covers the piping or the paving extends 25 ft \n(8 m) or more from the building:\n•\nYou must install a vent pipe inspection point\n•\nYou should provide a sleeve in the pavement to permit \nfree movement of piping\n•\nThis sleeve can also serve as a vent pipe inspection point\nIdentification of Gas Piping\nOption 1: Full Painting\nThe entire piping or tubing system \nshall be painted yellow\nOption 2: Yellow Banding\nThe piping or tubing system shall be \nprovided with yellow banding that \nhas a minimum width of 1 in (25 mm)\nOption 3: Labeling\nThe piping or tubing system shall be \nlabeled or marked \"GAS\" or \n\"PROPANE\", as applicable, utilizing \nyellow labels or markings\nWhen identified using banding or labels, the identification intervals shall not exceed 20 ft (6 m). For supply piping systems \ncarrying pressures 2 psi and over, you must identify and label the supply pressure in addition to the above identification \nprocedures.\nShut-off Valves\nClause 6.18 of the Code describes manual valve requirements for large \npiping installations. A manual shut-off valve shall be certified to CSA 3.11, \nCSA 3.16, or ANSI Z21.15/CSA 9.1, or approved for use with gas, and it \nshall not be subjected to either a temperature or a pressure outside of its \ncertified rating range.\nReadily Accessible\nYou must install a \"readily \naccessible\" manual shut-off \nvalve for each appliance\nProper Location\nIn either the drop or riser as \nclose as possible to the \nvalve train of a commercial \nand industrial-type \nappliance\nDistance Requirements\nWithin 50 ft of the residential appliance ",
+          "content_truncated": true
+        },
+        {
+          "filename": "Unit 10 - Advanced Piping Systems - Final.pptx",
+          "file_type": "powerpoint",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems",
+          "char_count": 170340,
+          "content": "CSA Unit 10 – Advanced Piping Systems\nChapter 1 \nCode Requirements and Approved Joining Methods\nThe installation of gas piping and tubing is a basic part of a gas technician's/fitter's duties. As a student, you must be aware of the code requirements concerning approved types of piping and tubing, as well as applicable joining methods. Pipe sizes, locations, and pressures are all factors that you must consider before installing a piping or tubing system.\nMK\nby Mike Kapin\nCreated\nCopywrite 2025\nLearning Objectives\nDescribe Code Requirements\nUnderstand the Code requirements for industrial and commercial applications\nDescribe Joining Methods\nLearn the joining methods that may be used for gas piping and tubing systems\nApply Knowledge\nApply code requirements and joining methods in practical installation scenarios\nKey Terminology\nTerm\nDefinition\nBonding\nPermanent joining of metallic parts to form an electrically conductive path that ensures electrical continuity and the capacity to safely conduct any current likely to be imposed\nGrounding\nIntentional connection of a current-carrying conductor to ground (earth)\nUnderstanding these terms is essential for ensuring safe gas piping installations that comply with both gas and electrical codes.\nCommercial vs. Residential Code Requirements\nCommercial/Industrial\nHigher allowable pressures\nMore stringent pressure testing\nSpecific underground piping requirements\nMandatory identification\nMultiple shut-off valve requirements\nSpecial commercial cooking appliance provisions\nResidential\nLower maximum allowable pressures\nSimpler pressure testing procedures\nLess complex underground requirements\nFewer identification requirements\nBasic shut-off valve provisions\nStandard appliance connection methods\nAllowable Pressures\nCSA B149.1 specifies maximum allowable gas pressure for various building types in Clause 5.1 Delivery Pressure. Gas pressures in supply mains (natural gas) and from storage containers (propane) are generally higher than the safe operating pressures of connected appliances. As a result, you must control gas pressures to fall within an appropriate range, depending on the operating characteristics of installed appliances.\nPressure Testing Requirements\nVisual Inspection\nDuring installation of piping and tubing and before pressure testing, visually inspect piping and tubing for cuts, abrasions and other defects that may cause leaking or failure of the system when under pressure.\nFirst Pressure Test\nPerformed before appliance installation. Isolate the piping system, cap all open ends, insert a pressure gauge, and pressurize with air or inert gas to the specified test pressure.\nLeak Detection\nIf pressure drops, locate leaks using a liquid solution (soap test). Wipe each joint with leak detector solution and look for bubbles forming at the source of the leak.\nFinal Leak Test\nPerformed after appliance installation using gas supply at normal static pressure for a minimum of 10 minutes.\nPressure Test Procedure\nIsolate the System\nIsolate the piping system that is to be tested to ensure accurate results.\nCap Open Ends\nCap or plug all open ends to create a sealed system for testing.\nInsert Pressure Gauge\nInsert a pressure gauge calibrated in 1/4 kPa (2 psig) increments or less at one end of the system.\nPressurize the System\nPressurize with air or inert gas (nitrogen or carbon dioxide) to the specified test pressure.\nRemove Pressure Source\nRemove the source of pressure and plug or cap the shut off valve.\nPressure Test Requirements Table\nWorking pressure, psig (kPa)\nDiameter of pipe or tubing\nLength of pipe or tubing ft (m)\nTest pressure psig (kPa)\nTest duration min\nUp to and including 2 (14)\nAll sizes\nAny length\n15 (100)\n15\nOver 2 (14) but not over 5 (35)\nAll sizes\n200 (60) or less\n15 (100)\n60\nOver 2 (14) but not over 5 (35)\nAll sizes\nMore than 200 (60)\n50 (340)\n180\nOver 5 (35) but not over 33 (230)\nAll sizes\nAny length\n50 (340)\n180\nLeak Detection Methods\nSoap Test\nA common method for detecting leaks in gas piping systems:\nWipe each joint or fitting in the suspect portion of the system with leak detector solution (soap and water)\nA leak will cause the solution to form bubbles at the source of the leak\nChecking Shut-off Valve Seepage\nBefore performing the leak test, check the gas meter valve for seepage:\nWhen the system is at static pressure, release a small amount of pressure by quickly removing, then replacing, the manometer tubing\nThis opens the service regulator and allows repressurization back to the gas meter shut-off valve\nIf pressure increases slowly to static pressure, the meter valve is seeping gas and should be serviced\nUnderground Piping Requirements\n15 in\nMinimum Depth\nGeneral minimum depth for underground piping (400 mm)\n24 in\nCommercial Areas\nMinimum depth under commercial driveways or parking lots (610 mm)\n6.15.4\nCode Reference\nCSA B149.1 clause specifying underground piping requirements\nAdditional depth of cover shall be required where the piping is located in areas where physical damage is likely to occur, such as farm operations.\nUnderground Piping Installation\nStandard Installation\nPiping entering a building shall rise above grade before entry, unless otherwise permitted by the authority having jurisdiction.\nThis is the preferred method as it reduces the risk of water infiltration and damage to the building foundation.\nBelow Grade Entry Exceptions\nWatertight Seal\nYou must provide a watertight seal where the piping passes through an outside wall below grade\nSleeve or Protection\nPiping or tubing passing through concrete or masonry walls must have a sleeve, coating, or double-wrap\nFooting Restrictions\nPiping may not pass under a footing or building wall because building settlement can cause crushing or rupture of the pipe\nSupports for Piping\nClause 6.8.3 of CSA B149.1 states that you must install aboveground piping with individual supports of sufficient strength and quality and space it according to Table 6.2.\nPipe Size (NPS)\nMaximum Spacing of Supports ft (m)\n1/2 or less - horizontal\n6 (2)\n3/4-1 - horizontal\n8 (2.5)\n1-1/4-2-1/2 - horizontal\n10 (3)\n3-4 - horizontal\n15 (5)\n6 - horizontal\n20 (6)\n8-12 or larger - horizontal\n24 (7)\nRooftop Piping Requirements\nSupport Requirements\nPiping must have support according to the distances outlined in Table 6.2, plus support at each change of direction and at each threaded connection\nSupport Materials\nRooftop supports should be treated wood blocks and pipe clamps, with protection for the roof membrane\nCertified Supports\nCertified rooftop pipe supports are also now available on the market\nExpansion Requirements\nWhen a rooftop piping run exceeds 100 ft in length in any one direction, a piping offset (expansion loop) is required\nRooftop Piping Expansion Solutions\nExpansion Loops\nWhen a rooftop piping run exceeds 100 ft in length in any one direction, a piping offset (expansion loop) is required to allow for expansion of the piping system as it heats with sun exposure.\nThis can be either:\nA site-assembled piping offset (see Annex G of CSA B149.1)\nAn engineered expansion joint\nBoth solutions allow expansion of piping to occur without damaging or breaking fittings and causing leaks. See Clause 6.25 of CSA B149.1.\nRooftop Piping Protection\nCorrosion Protection\nAll piping exposed to atmospheres that could cause corrosion must have either painting or coating for protection.\nSteel piping systems are typically installed on commercial rooftops and must have two coats of quality rust proof paint.\nUV Protection\nYellow jacket PVC factory coatings should not be used as they break down and deteriorate with UV exposure and may lead to premature corrosion of the pipe.\nSee Clause 6.16 of CSA B149.1 for specific requirements.\nUnderground Piping Installation Requirements\nProper Grading\nTrenches for piping must undergo proper grading to avoid any sagging in the pipes or tubes\nBackfill Material\nBackfill material must be free of sharp objects, large stones, or other material that may damage the piping\nTracer Wire\nA tracer wire or the equivalent must accompany buried plastic piping\nVenting Requirements\nWhen paving covers the piping or extends 25 ft (8 m) or more from the building, a vent pipe inspection point must be installed\nVenting Requirements for Paved Areas\nRequirements\nWhen paving covers the piping or the paving extends 25 ft (8 m) or more from the building:\nYou must install a vent pipe inspection point\nYou should provide a sleeve in the pavement to permit free movement of piping\nThis sleeve can also serve as a vent pipe inspection point\nIdentification of Gas Piping\nOption 1: Full Painting\nThe entire piping or tubing system shall be painted yellow\nOption 2: Yellow Banding\nThe piping or tubing system shall be provided with yellow banding that has a minimum width of 1 in (25 mm)\nOption 3: Labeling\nThe piping or tubing system shall be labeled or marked \"GAS\" or \"PROPANE\", as applicable, utilizing yellow labels or markings\nWhen identified using banding or labels, the identification intervals shall not exceed 20 ft (6 m). For supply piping systems carrying pressures 2 psi and over, you must identify and label the supply pressure in addition to the above identification procedures.\nShut-off Valves\nClause 6.18 of the Code describes manual valve requirements for large piping installations. A manual shut-off valve shall be certified to CSA 3.11, CSA 3.16, or ANSI Z21.15/CSA 9.1, or approved for use with gas, and it shall not be subjected to either a temperature or a pressure outside of its certified rating range.\nReadily Accessible\nYou must install a \"readily accessible\" manual shut-off valve for each appliance\nProper Location\nIn either the drop or riser as close as possible to the valve train of a commercial and industrial-type appliance\nDistance Requirements\nWithin 50 ft of the residential appliance it serves\nShut-off Valve Locations\nBetween Buildings\nPiping that extends between buildings must have a shut-off valve at the point of exit from the first building ",
+          "content_truncated": true
+        },
+        {
+          "filename": "Unit 10_01_Qstns_Code_Requirements_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems\\Assignments",
+          "char_count": 2532,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n1 \nUnit 10 – Chapter 01 Code Requirements \nand Approved Joining Methods \n \n1. Indicate true or false: \nA pressure test is performed after the appliance is installed. \na) True \nb) False \n \n2. Complete the following sentence: \nBefore the appliances are connected, the system shall be pressure tested using \n___________________.   \na) Air or inert gas \nb) Air or soap solution \nc) Inert gas or soap solution \n \n3. When would you perform a soap test? \na) After every service call \nb) When a leak is indicated by a drop in pressure \nc) Any time the gas supply is turned on \n \n4. What must be done to piping or tubing passing through concrete? \na) It must be sleeved, coated, or double-wrapped. \nb) It should be welded. \nc) It should be painted yellow. \n \n5. May a sleeve installed in pavement to allow free movement of the pipe also serve as a vent \npipe inspection point? \na) Yes \nb) No\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n2 \n6. What colour is used to identify gas piping or tubing? \na) Red \n \nb) Blue \nc) Yellow  \nd) Green  \n \n7. When identifying piping or tubing with banding or labels marked “gas” or “propane”, what \nis the maximum identification interval permitted? \na) 30 ft  \nb) 20 ft  \nc) 35 ft  \nd) 25 ft  \n \n8. Complete the following sentence: \nA manual shut-off valve shall be of the ________________________, and certified for its intended \npurpose, and it shall not be subjected to either a temperature or a pressure outside of its \ncertified rating range. \na) Butterfly, eccentric, or ball type \nb) Eccentric, plug, or butterfly type \nc) Plug, ball, or eccentric type \n \n9. How must multiple outlets that are installed in a laboratory (school or other) be protected \nfrom leaking gas into the area accidentally? \na) A clearly marked, readily accessible, master shut-off valve. \nb) A solenoid valve interlocked with a gas sensor. \nc) By a sign in the classroom identifying gas is present in the room. \n \n10. What are the requirements for joints in steel piping used in gas systems? \na) Compression fittings. \nb) Threaded, flanged or welded. \nc) Joints properly sealed with paint.\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n3 \n11. Which of the following is not an appropriate gasket material for gas applications? \na) Natural rubber \nb) Neoprene  \nc) Nitrile",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 10_02_Qstns_Welding_Safety_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems\\Assignments",
+          "char_count": 2476,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 10 – Chapter 02 Welding Safety, \nCertification and Procedures \n \n1. Which of the following is not a major welding hazard to workers in the vicinity of welding \noperations?  \na) Physical \nb) Chemical \nc) Environmental \nd) Ergonomic \n \n2. What type of radiation do x-rays, and gamma rays produce?  \na) Ionizing \nb) Non-ionizing \n \n3. List the adverse effects from ultraviolet radiation produced by arc welding. \na) Hearing loss \nb) Burns to eyes and skin from a reflection off bright objects \nc) Burns to eyes and skin from hot metal and sparks \n \n4. After welding is completed in an area where combustible material is present, how long \nshould a “fire watch” be maintained? \na) At least 30 minutes \nb) 4 hours \nc) 24 hours \n \n5. What type of protective glove should be worn when performing welding work?  \na) Knitwrist-type \nb) Slip-on-type \nc) Gauntlet-type \nd) Safety cuff-type\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n6. Indicate True or False: \nPants with cuffs should always be worn while performing welding work. \na) True \nb) False \n \n7. What should you never do while working with oxygen and acetylene? \na) Repair a faulty cylinder \nb) Keep oxy-acetylene equipment away from oil or grease \nc) Use the cylinder in a vertical position \nd) Test for leaks using a soap test \n \n8. Is acetylene a very stable gas that is easily compressed to high pressures? \na) Yes \nb) No \n \n9. What should be done if welding is taking place in a confined area? \na) Ensure adequate ventilation \nb) Wear a mask \nc) Wear gloves \n \n10. Should oxygen and acetylene regulators be oiled regularly? \na) Yes \nb) No \n \n11. How many air changes per hour are required in a welding shop? \na) One \nb) Two \nc) Four \n \n12. With what are oxygen and acetylene cylinders fitted to minimize the possibility of explosion \nin case of fire? \na) Shut off valves \nb) Fusible plugs \nc) Regulators\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n3 \n13. To what angle should pipe be beveled if it is to be welded? \na) Approximately 37 1/2° \nb) Approximately 45° \nc) Approximately 22 1/2° \n \n \n14. When the pipe and fittings are set up for welding, how wide is the root gap? \na) 1/8 inch to 1/4 inch \nb) 3/8 inch to 1/2 inch \nc) 1/16 inch to 1/8 inch",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 10_03_Qstns_Utility_and_Non-Utility_Piping_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems\\Assignments",
+          "char_count": 2128,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 10 – Chapter 03 Utility and Non-Utility \nPiping \n \n1. Complete the following sentence: \nWhen plastic gas piping is used underground, a minimum ___________ copper wire is taped \nalong the piping for tracing purposes using a metal detector or radio signals. \na) 14 gauge \nb) 12 gauge \nc) 16 gauge \nd) 10 gauge \n \n2. Who is responsible for piping downstream of a gas utility meter? \na) Property or building owner \nb) Fuel supplier \nc) Installer \n \n3. Coatings on underground steel pipe are made of what material? \na) Fusion Bonded Epoxy \nb) Polyethylene \nc) Coal Tar Enamel \nd) Asphalt Enamel \n \n4. What colour are the coatings on underground steel pipe? \na) Green or yellow \nb) Blue or green \nc) Yellow or blue \n \n5. Indicate True or False: \nMost non-utility gas piping and tubing operate aboveground. \na) True \nb) False\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n \n6. Which of the following is not one of the three options for identifying gas piping or tubing? \na) The entire piping or tubing system shall be painted yellow \nb) The piping or tubing system shall be provided with yellow banding  \nc) The piping or tubing system shall be labelled or marked “GAS” or “PROPANE \nd) The piping or tubing system shall be provided with red banding \n \n7. Complete the following sentence:  \nFor supply piping systems carrying pressures _____________ and over, you must identify and \nlabel the supply pressure in addition to the identification requirements in clause 6.17.1. \na) 2 psi \nb) 4 psi \nc) 6 psi \nd) 8 psi \n \n8. Indicate True or False: \nThe CSA B149.1 Gas Code does not require the identification of gas piping in a residence \na) True \nb) False \n \n9. What are the final blueprint drawings used to locate and identify piping called? \na) As-built drawings \nb) Ladder drawings \nc) Installation drawings \n \n10. What is the surest way to identify the contents of a sealed pipe? \na) Tap on it \nb) Trace it back to its source \nc) X-ray it",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 10_04_Qstns_Piping_Layout,_Drawings_and_Symbols_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems\\Assignments",
+          "char_count": 1410,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n1 \nUnit 10 – Chapter 04 Piping Layout, \nDrawings and Symbols \n \n1. If there is a discrepancy between the specifications and the drawings, which one is taken to \nbe correct? \na) Specifications \nb) Drawings \n \n2. The manufacturer’s installation and service manual are supplied with every appliance. How \nmuch of it should you read? \na) Just the final startup and commissioning page \nb) Should already know it \nc) All of it \n \n3. Do the installation and service manuals supplied by the manufacturer always specify details \nof replacement parts? \na) Yes \nb) No \n \n4. The two ways that manual valves are joined to the gas piping systems are: \na) Threaded or flanged \nb) Flanged or soldered \nc) Soldered or threaded \n \n5. Which of the following is not a function of an automatic valve?  \na) Control the firing of the burner \nb) Open or energize when the controller calls for the burner to “ignite” \nc) Act as a safety shut-off valve\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n2 \n6. Describe the function of a solenoid valve. \na) Control the burner without anyone being present \nb) Interlocks with a gas sensor to prevent gas leaks \nc) Energize (open) on a call for heat and de-energize (close) when the heat demand is \nsatisfied.",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 10_05_Qstns_Sizing_High-pressure_Piping_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems\\Assignments",
+          "char_count": 3663,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n1 \nUnit 10 – Chapter 05 Sizing High-pressure \nPiping and Tubing \n \n1. Indicate True or False: \nThe reasons for having separate sizing tables for natural gas and propane fuels are because \nof the differing properties as gases. \na) True \nb) False \n \n2. Match the procedural steps of pipe sizing with the order in which they should be performed. \na) Prove the Code zone (if pressure is over 2 psi):  \n1 \nb) Size pipe sections:  \n2 \nc) Sketch the system:  \n3 \nd) Select a table:  \n4 \ne) Determine the Code zone:  \n5\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n2 \n \nFigure 1 \n3. What is the longest measure run for Figure 1? \na) 72 ft \nb) 88 ft \nc) 91 ft \nd) 212 ft\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n3 \n4. What is the LER for Figure 1? \na) 112.59 ft \nb) 117.72 \nc) 120.34 \nd) 124.16 \n \n5. For Figure 1, what is the correct size for pipe A? \na) ½ inch \nb) ¾ inch \nc) 7/8 inch \nd) 1 ¼ inch \n \n6. For Figure 1, what is the correct size for pipe B? \na) ½ inch \nb) ¾ inch \nc) 1 inch \nd) 1 ¼ inch \n \n7. For Figure 1, what is the correct size for pipe C? \na) 1 inch \nb) 1 ¼ inch \nc) 1½ inch  \nd) 2 inch \n \n8. For Figure 1, what is the correct size for pipe D? \na) 1 inch \nb) 1 ¼ inch \nc) 1½ inch  \nd) 2 inch\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n4 \n9. For Figure 1, what is the correct size for pipe E? \na) 1 inch \nb) 1 ¼ inch \nc) 1½ inch  \nd) 2 inch \n \n \nFigure 2 \n \n10. What is the longest measure run for the low-pressure system in Figure 2? \na) 50 ft \nb) 54 ft \nc) 72 ft \nd) 122 ft\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n5 \n11. What is the longest measure run for the high-pressure system in Figure 2? \na) 54 ft \nb) 132 ft \nc) 160 ft \nd) 175 ft \n \n12. What is the LER for Figure 2? \na) 175.01 ft \nb) 176.73 ft \nc) 180.18 ft \nd) 200 ft \n \n13. For Figure 2, what is the correct size for pipe A? \na) ½ inch \nb) ¾ inch \nc) 7/8 inch \nd) 1 ¼ inch \n \n14. For Figure 2, what is the correct size for pipe B? \na) 1 inch \nb) 1 ¼ inch \nc) 1½ inch  \nd) 2 inch \n \n15. For Figure 2, what is the correct size for pipe C? \na) 1 inch \nb) 1 ¼ inch \nc) 1½ inch  \nd) 2 inch\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n6 \n16. For Figure 2, what is the correct size for pipe D? \na) 1 inch \nb) 1 ¼ inch \nc) 1½ inch  \nd) 2 inch \n \n17. For Figure 2, what is the correct size for pipe E? \na) 3/8 inch \nb) ½ inch \nc) 7/8 inch \nd) 1 inch \n \n \n \nFigure 3 \nSchematic diagram of a two-stage propane piping system using copper tubing \n \n18. What is the longest measure run for the low-pressure system in Figure 3? \na) 20 ft \nb) 30ft \nc) 35 ft \nd) 80 ft\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n7 \n19. For Figure 3, what is the correct size for pipe A? \na) ½ inch \nb) ¾ inch \nc) 7/8 inch \nd) 1 ¼ inch \n \n20. For Figure 3, what is the correct size for pipe B? \na) ½ inch \nb) ¾ inch \nc) 7/8 inch \nd) 1 1/8 inch \n \n21. For Figure 3, what is the correct size for pipe C? \na) ½ inch \nb) ¾ inch \nc) 7/8 inch \nd) 1 ¼ inch \n \n22. What is the longest measure run for the high-pressure system in Figure 3? \na) 20 ft \nb) 30ft \nc) 50 ft \nd) 80 ft \n \n23. For Figure 3, what is the correct size for pipe D? \na) 3/8 inch \nb) ½ inch \nc) ¾ inch \nd) 7/8 inch",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 10_06_Qstns_Purging_on_Large_Piping_Systems_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems\\Assignments",
+          "char_count": 1578,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n1 \nUnit 10 – Chapter 06 Purging Operations on \nLarge Piping Systems \n \n1. With what would you purge a pipe sized 4 inches or over, if it has been tested with air? \na) Carbon dioxide or nitrogen or a mixture of both.  \nb) Nitrogen or Radon or a mixture of both. \nc) Radon or carbon dioxide or a mixture of both.  \n \n2. What can occur when purging is not carried out correctly? \na) The wrong gas could enter the pipe. \nb) The accidental explosion of a gas-air mixture outside and inside the pipe. \nc) There could be a blockage in the pipe that goes undetected. \n \n3. Is it acceptable to purge a new gas line through the burner system into a combustion \nchamber? \na) Yes, if the building is vacant \nb) No \n \n4. Why is it important to purge the air out of larger diameter pipes with an inert gas prior to \nthe fuel gas being introduced into the pipe? \na) So there will be no air in the pipe to support combustion. \nb) To prevent the mercaptan from being washed out of the gas when introduced into the \npipe for the first time. \nc) To ensure the gas will ignite properly when turned on for the first time. \n \n5. What is an alternative to completely purging long, large pipes with nitrogen? \na) Air-purging \nb) Slug-purging \nc) Fuel gas to fuel gas purging\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n2 \n6. What is normal purge velocity for large pipes? \na) 100 ft/min \nb) 150 ft/min \nc) 200 ft/min",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 10_07_Qstns_Rigging_and_Hoisting_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems\\Assignments",
+          "char_count": 3035,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n1 \nUnit 10 – Chapter 07 Rigging and Hoisting \n \n1. Where can you find the requirements for safe rigging work practices in Canada? \na) B149.1 Natural gas and propane installation code \nb) TSSA Guidelines \nc) Provincial or Territorial OHS acts and regulations \n \n2. Which of the following describes an asymmetrical load? \na) An object with a high center of gravity due to the object's long shape and/or \ncomposition. \nb) An object with an off-center center of gravity due to the object's irregular shape and/or \ncomposition. \nc) An object with a low center of gravity due to the object's long shape and/or \ncomposition. \n \n3. Which of the following describes a symmetrical load? \na) An object that, because of its uniform shape and composition, has its center of gravity \nlocated exactly in its middle. \nb) An object that, because of its odd shape and composition, has its center of gravity \nlocated off center. \n \n4. Choose the correct volume for the following rectangle/square: \na) Concrete block, 9 feet long x 3 feet wide x 5 feet high \nb) Block weight = 120 cu ft x 150 lbs/cu ft = 18,000 lbs. \nc) Block weight = 130 cu ft x 150 lbs/cu ft = 19,500 lbs. \nd) Block weight = 135 cu ft x 150 lbs/cu ft = 20,250 lbs. \n \n5. While performing Pre-Use Inspection you discover the wire rope sling shows signs of \nlocalized wear, abrasion or scraping. Is the sling safe to use and why? \na) Yes, as long as it appears to be strong enough to support the load - In order to stay on \nschedule with the project. \nb) No, it is not safe to use - Slings must be removed from service when any substandard \nconditions exist.\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n2 \n6. When a wire rope sling is used in a basket hitch, the diameter of the load where the sling \ncontacts the load can reduce sling capacity. What is the ratio used to determine the loss of \nstrength or efficiency and is referred to as? \na) D/d Ratio \nb) R/d Ratio \nc) D/r Ratio \n \n7. Which type of sling can be used safely in explosive atmospheres? \na) Vinyl covered steel cable sling \nb) Fabric sling \nc) Synthetic sling \n \n8. When using a chain for overhead lifting, what alloy grade or grade is recommended? \na) Either grade 80 or 100 is recommended. \nb) Either grade 50 or 100 is recommended \nc) Any chain that is heavy steel. \n \n9. How often should hooks be inspected? \na) Before and after each use \nb) Before and frequently during use \nc) Weekly \nd) Annually \n \n10. What should do if your inspection reveals a small gouge in the hook?  \na) Inform your supervisor and use the hook \nb) Repair the gouge \nc) Nothing, a small gouge won’t affect the hook \nd) Remove from service \n \n11. What are three common shackles used in rigging and hoisting operations? \na) Snap, wide body, and bolt type \nb) Wide body, screw, and snap type \nc) Bolt, screw, and snap type \nd) Screw, wide body, and bolt type",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 10_01_Qstns_Code_Requirements_INS.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems\\Assignments\\Answer Keys",
+          "char_count": 2532,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n1 \nUnit 10 – Chapter 01 Code Requirements \nand Approved Joining Methods \n \n1. Indicate true or false: \nA pressure test is performed after the appliance is installed. \na) True \nb) False \n \n2. Complete the following sentence: \nBefore the appliances are connected, the system shall be pressure tested using \n___________________.   \na) Air or inert gas \nb) Air or soap solution \nc) Inert gas or soap solution \n \n3. When would you perform a soap test? \na) After every service call \nb) When a leak is indicated by a drop in pressure \nc) Any time the gas supply is turned on \n \n4. What must be done to piping or tubing passing through concrete? \na) It must be sleeved, coated, or double-wrapped. \nb) It should be welded. \nc) It should be painted yellow. \n \n5. May a sleeve installed in pavement to allow free movement of the pipe also serve as a vent \npipe inspection point? \na) Yes \nb) No\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n2 \n6. What colour is used to identify gas piping or tubing? \na) Red \n \nb) Blue \nc) Yellow  \nd) Green  \n \n7. When identifying piping or tubing with banding or labels marked “gas” or “propane”, what \nis the maximum identification interval permitted? \na) 30 ft  \nb) 20 ft  \nc) 35 ft  \nd) 25 ft  \n \n8. Complete the following sentence: \nA manual shut-off valve shall be of the ________________________, and certified for its intended \npurpose, and it shall not be subjected to either a temperature or a pressure outside of its \ncertified rating range. \na) Butterfly, eccentric, or ball type \nb) Eccentric, plug, or butterfly type \nc) Plug, ball, or eccentric type \n \n9. How must multiple outlets that are installed in a laboratory (school or other) be protected \nfrom leaking gas into the area accidentally? \na) A clearly marked, readily accessible, master shut-off valve. \nb) A solenoid valve interlocked with a gas sensor. \nc) By a sign in the classroom identifying gas is present in the room. \n \n10. What are the requirements for joints in steel piping used in gas systems? \na) Compression fittings. \nb) Threaded, flanged or welded. \nc) Joints properly sealed with paint.\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n3 \n11. Which of the following is not an appropriate gasket material for gas applications? \na) Natural rubber \nb) Neoprene  \nc) Nitrile",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 10_02_Qstns_Welding_Safety_INS.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems\\Assignments\\Answer Keys",
+          "char_count": 2476,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 10 – Chapter 02 Welding Safety, \nCertification and Procedures \n \n1. Which of the following is not a major welding hazard to workers in the vicinity of welding \noperations?  \na) Physical \nb) Chemical \nc) Environmental \nd) Ergonomic \n \n2. What type of radiation do x-rays, and gamma rays produce?  \na) Ionizing \nb) Non-ionizing \n \n3. List the adverse effects from ultraviolet radiation produced by arc welding. \na) Hearing loss \nb) Burns to eyes and skin from a reflection off bright objects \nc) Burns to eyes and skin from hot metal and sparks \n \n4. After welding is completed in an area where combustible material is present, how long \nshould a “fire watch” be maintained? \na) At least 30 minutes \nb) 4 hours \nc) 24 hours \n \n5. What type of protective glove should be worn when performing welding work?  \na) Knitwrist-type \nb) Slip-on-type \nc) Gauntlet-type \nd) Safety cuff-type\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n6. Indicate True or False: \nPants with cuffs should always be worn while performing welding work. \na) True \nb) False \n \n7. What should you never do while working with oxygen and acetylene? \na) Repair a faulty cylinder \nb) Keep oxy-acetylene equipment away from oil or grease \nc) Use the cylinder in a vertical position \nd) Test for leaks using a soap test \n \n8. Is acetylene a very stable gas that is easily compressed to high pressures? \na) Yes \nb) No \n \n9. What should be done if welding is taking place in a confined area? \na) Ensure adequate ventilation \nb) Wear a mask \nc) Wear gloves \n \n10. Should oxygen and acetylene regulators be oiled regularly? \na) Yes \nb) No \n \n11. How many air changes per hour are required in a welding shop? \na) One \nb) Two \nc) Four \n \n12. With what are oxygen and acetylene cylinders fitted to minimize the possibility of explosion \nin case of fire? \na) Shut off valves \nb) Fusible plugs \nc) Regulators\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n3 \n13. To what angle should pipe be beveled if it is to be welded? \na) Approximately 37 1/2° \nb) Approximately 45° \nc) Approximately 22 1/2° \n \n \n14. When the pipe and fittings are set up for welding, how wide is the root gap? \na) 1/8 inch to 1/4 inch \nb) 3/8 inch to 1/2 inch \nc) 1/16 inch to 1/8 inch",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 10_03_Qstns_Utility_and_Non-Utility_Piping_INS.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems\\Assignments\\Answer Keys",
+          "char_count": 2128,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 10 – Chapter 03 Utility and Non-Utility \nPiping \n \n1. Complete the following sentence: \nWhen plastic gas piping is used underground, a minimum ___________ copper wire is taped \nalong the piping for tracing purposes using a metal detector or radio signals. \na) 14 gauge \nb) 12 gauge \nc) 16 gauge \nd) 10 gauge \n \n2. Who is responsible for piping downstream of a gas utility meter? \na) Property or building owner \nb) Fuel supplier \nc) Installer \n \n3. Coatings on underground steel pipe are made of what material? \na) Fusion Bonded Epoxy \nb) Polyethylene \nc) Coal Tar Enamel \nd) Asphalt Enamel \n \n4. What colour are the coatings on underground steel pipe? \na) Green or yellow \nb) Blue or green \nc) Yellow or blue \n \n5. Indicate True or False: \nMost non-utility gas piping and tubing operate aboveground. \na) True \nb) False\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n \n6. Which of the following is not one of the three options for identifying gas piping or tubing? \na) The entire piping or tubing system shall be painted yellow \nb) The piping or tubing system shall be provided with yellow banding  \nc) The piping or tubing system shall be labelled or marked “GAS” or “PROPANE \nd) The piping or tubing system shall be provided with red banding \n \n7. Complete the following sentence:  \nFor supply piping systems carrying pressures _____________ and over, you must identify and \nlabel the supply pressure in addition to the identification requirements in clause 6.17.1. \na) 2 psi \nb) 4 psi \nc) 6 psi \nd) 8 psi \n \n8. Indicate True or False: \nThe CSA B149.1 Gas Code does not require the identification of gas piping in a residence \na) True \nb) False \n \n9. What are the final blueprint drawings used to locate and identify piping called? \na) As-built drawings \nb) Ladder drawings \nc) Installation drawings \n \n10. What is the surest way to identify the contents of a sealed pipe? \na) Tap on it \nb) Trace it back to its source \nc) X-ray it",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 10_04_Qstns_Piping_Layout,_Drawings_and_Symbols_INS.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems\\Assignments\\Answer Keys",
+          "char_count": 1410,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n1 \nUnit 10 – Chapter 04 Piping Layout, \nDrawings and Symbols \n \n1. If there is a discrepancy between the specifications and the drawings, which one is taken to \nbe correct? \na) Specifications \nb) Drawings \n \n2. The manufacturer’s installation and service manual are supplied with every appliance. How \nmuch of it should you read? \na) Just the final startup and commissioning page \nb) Should already know it \nc) All of it \n \n3. Do the installation and service manuals supplied by the manufacturer always specify details \nof replacement parts? \na) Yes \nb) No \n \n4. The two ways that manual valves are joined to the gas piping systems are: \na) Threaded or flanged \nb) Flanged or soldered \nc) Soldered or threaded \n \n5. Which of the following is not a function of an automatic valve?  \na) Control the firing of the burner \nb) Open or energize when the controller calls for the burner to “ignite” \nc) Act as a safety shut-off valve\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n2 \n6. Describe the function of a solenoid valve. \na) Control the burner without anyone being present \nb) Interlocks with a gas sensor to prevent gas leaks \nc) Energize (open) on a call for heat and de-energize (close) when the heat demand \nis satisfied.",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 10_05_Qstns_Sizing_High-pressure_Piping_INS.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems\\Assignments\\Answer Keys",
+          "char_count": 3666,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n1 \nUnit 10 – Chapter 05 Sizing High-pressure \nPiping and Tubing \n \n1. Indicate True or False: \nThe reasons for having separate sizing tables for natural gas and propane fuels are because \nof the differing properties as gases. \na) True \nb) False \n \n2. Match the procedural steps of pipe sizing with the order in which they should be performed. \na) Prove the Code zone (if pressure is over 2 psi):  \n5 \nb) Size pipe sections:  \n4 \nc) Sketch the system:  \n1 \nd) Select a table:  \n2 \ne) Determine the Code zone:  \n3\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n2 \n \nFigure 1 \n3. What is the longest measure run for Figure 1? \na) 72 ft \nb) 88 ft \nc) 91 ft \nd) 212 ft\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n3 \n4. What is the LER for Figure 1? \na) 112.59 ft \nb) 117.72 \nc) 120.34 \nd) 124.16 \n \n5. For Figure 1, what is the correct size for pipe A? \na) ½ inch \nb) ¾ inch \nc) 7/8 inch  \nd) 1 ¼ inch \n \n6. For Figure 1, what is the correct size for pipe B? \na) ½ inch \nb) ¾ inch \nc) 1 inch \nd) 1 ¼ inch \n \n7. For Figure 1, what is the correct size for pipe C? \na) 1 inch \nb) 1 ¼ inch \nc) 1½ inch  \nd) 2 inch \n \n8. For Figure 1, what is the correct size for pipe D? \na) 1 inch \nb) 1 ¼ inch \nc) 1½ inch  \nd) 2 inch\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n4 \n9. For Figure 1, what is the correct size for pipe E? \na) 1 inch \nb) 1 ¼ inch \nc) 1½ inch  \nd) 2 inch \n \n \nFigure 2 \n \n10. What is the longest measure run for the low-pressure system in Figure 2? \na) 50 ft \nb) 54 ft \nc) 72 ft \nd) 122 ft\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n5 \n11. What is the longest measure run for the high-pressure system in Figure 2? \na) 54 ft \nb) 132 ft \nc) 160 ft \nd) 175 ft \n \n12. What is the LER for Figure 2? \na) 175.01 ft \nb) 176.73 ft \nc) 180.18 ft \nd) 200 ft \n \n13. For Figure 2, what is the correct size for pipe A? \na) ½ inch \nb) ¾ inch \nc) 7/8 inch \nd) 1 ¼ inch \n \n14. For Figure 2, what is the correct size for pipe B? \na) 1 inch \nb) 1 ¼ inch \nc) 1½ inch  \nd) 2 inch \n \n15. For Figure 2, what is the correct size for pipe C? \na) 1 inch \nb) 1 ¼ inch \nc) 1½ inch  \nd) 2 inch\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n6 \n16. For Figure 2, what is the correct size for pipe D? \na) 1 inch \nb) 1 ¼ inch \nc) 1½ inch  \nd) 2 inch \n \n17. For Figure 2, what is the correct size for pipe E? \na) 3/8 inch \nb) ½ inch \nc) 7/8  inch \nd) 1 inch \n \n \n \nFigure 3 \nSchematic diagram of a two-stage propane piping system using copper tubing \n \n18. What is the longest measure run for the low-pressure system in Figure 3? \na) 20 ft \nb) 30ft \nc) 35 ft \nd) 80 ft\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n7 \n19. For Figure 3, what is the correct size for pipe A? \na) ½ inch \nb) ¾ inch \nc) 7/8 inch \nd) 1 ¼ inch \n \n20. For Figure 3, what is the correct size for pipe B? \na) ½ inch \nb) ¾ inch \nc) 7/8 inch \nd) 1 1/8 inch \n \n21. For Figure 3, what is the correct size for pipe C? \na) ½ inch \nb) ¾ inch \nc) 7/8  inch \nd) 1 ¼ inch \n \n22. What is the longest measure run for the high-pressure system in Figure 3? \na) 20 ft \nb) 30ft \nc) 50 ft \nd) 80 ft \n \n23. For Figure 3, what is the correct size for pipe D? \na) 3/8 inch \nb) ½ inch \nc) ¾ inch \nd) 7/8 inch",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 10_06_Qstns_Purging_on_Large_Piping_Systems_INS.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems\\Assignments\\Answer Keys",
+          "char_count": 1578,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n1 \nUnit 10 – Chapter 06 Purging Operations on \nLarge Piping Systems \n \n1. With what would you purge a pipe sized 4 inches or over, if it has been tested with air? \na) Carbon dioxide or nitrogen or a mixture of both.  \nb) Nitrogen or Radon or a mixture of both. \nc) Radon or carbon dioxide or a mixture of both.  \n \n2. What can occur when purging is not carried out correctly? \na) The wrong gas could enter the pipe. \nb) The accidental explosion of a gas-air mixture outside and inside the pipe. \nc) There could be a blockage in the pipe that goes undetected. \n \n3. Is it acceptable to purge a new gas line through the burner system into a combustion \nchamber? \na) Yes, if the building is vacant \nb) No \n \n4. Why is it important to purge the air out of larger diameter pipes with an inert gas prior to \nthe fuel gas being introduced into the pipe? \na) So there will be no air in the pipe to support combustion. \nb) To prevent the mercaptan from being washed out of the gas when introduced into the \npipe for the first time. \nc) To ensure the gas will ignite properly when turned on for the first time. \n \n5. What is an alternative to completely purging long, large pipes with nitrogen? \na) Air-purging \nb) Slug-purging \nc) Fuel gas to fuel gas purging\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n2 \n6. What is normal purge velocity for large pipes? \na) 100 ft/min \nb) 150 ft/min \nc) 200 ft/min",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 10_07_Qstns_Rigging_and_Hoisting_INS.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems\\Assignments\\Answer Keys",
+          "char_count": 3035,
+          "content": "CSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n1 \nUnit 10 – Chapter 07 Rigging and Hoisting \n \n1. Where can you find the requirements for safe rigging work practices in Canada? \na) B149.1 Natural gas and propane installation code \nb) TSSA Guidelines \nc) Provincial or Territorial OHS acts and regulations \n \n2. Which of the following describes an asymmetrical load? \na) An object with a high center of gravity due to the object's long shape and/or \ncomposition. \nb) An object with an off-center center of gravity due to the object's irregular shape \nand/or composition. \nc) An object with a low center of gravity due to the object's long shape and/or \ncomposition. \n \n3. Which of the following describes a symmetrical load? \na) An object that, because of its uniform shape and composition, has its center of \ngravity located exactly in its middle. \nb) An object that, because of its odd shape and composition, has its center of gravity \nlocated off center. \n \n4. Choose the correct volume for the following rectangle/square: \na) Concrete block, 9 feet long x 3 feet wide x 5 feet high \nb) Block weight = 120 cu ft x 150 lbs/cu ft = 18,000 lbs. \nc) Block weight = 130 cu ft x 150 lbs/cu ft = 19,500 lbs. \nd) Block weight = 135 cu ft x 150 lbs/cu ft = 20,250 lbs. \n \n5. While performing Pre-Use Inspection you discover the wire rope sling shows signs of \nlocalized wear, abrasion or scraping. Is the sling safe to use and why? \na) Yes, as long as it appears to be strong enough to support the load - In order to stay on \nschedule with the project. \nb) No, it is not safe to use - Slings must be removed from service when any \nsubstandard conditions exist.\nCSA Group Gas Trade Training – Chapter Questions \nUpdated: July 2019 \n \n \n© 2019 Canadian Standards Association \n \n2 \n6. When a wire rope sling is used in a basket hitch, the diameter of the load where the sling \ncontacts the load can reduce sling capacity. What is the ratio used to determine the loss of \nstrength or efficiency and is referred to as? \na) D/d Ratio \nb) R/d Ratio \nc) D/r Ratio \n \n7. Which type of sling can be used safely in explosive atmospheres? \na) Vinyl covered steel cable sling \nb) Fabric sling \nc) Synthetic sling \n \n8. When using a chain for overhead lifting, what alloy grade or grade is recommended? \na) Either grade 80 or 100 is recommended. \nb) Either grade 50 or 100 is recommended \nc) Any chain that is heavy steel. \n \n9. How often should hooks be inspected? \na) Before and after each use \nb) Before and frequently during use \nc) Weekly \nd) Annually \n \n10. What should do if your inspection reveals a small gouge in the hook?  \na) Inform your supervisor and use the hook \nb) Repair the gouge \nc) Nothing, a small gouge won’t affect the hook \nd) Remove from service \n \n11. What are three common shackles used in rigging and hoisting operations? \na) Snap, wide body, and bolt type \nb) Wide body, screw, and snap type \nc) Bolt, screw, and snap type \nd) Screw, wide body, and bolt type",
+          "content_truncated": false
+        },
+        {
+          "filename": "B149.1-20 Clause 6 Review - answer key.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems\\Exams",
+          "char_count": 41143,
+          "content": "Instructor Copy\nB149.1-20 Code Review for:\nCLAUSE 6 PIPING AND TUBING SYSTEMS, GAS HOSE, AND FITTINGS\nA gas piping or tubing system shall be of what material?\nSteel, copper, or plastic.  - Clause 6.1.1\nPiping, tubing, and fittings if removed from a gas installation, shall not be reused unless what is done?\nThe fittings must be cleaned, inspected, and ascertained to be equivalent to new material.- Clause 6.1.2\nPiping shall comply with which ASTM standards?\nASTM A 53/A 53M or ASTM A 106.  Clause 6.2.1\nA fitting used with steel pipe shall be of either malleable iron or what other material and shall comply with CSA Z662, ANSI LC-4/ASME B16 or CSA 6.32\nSteel. -  Clause 6.2.2\nNatural gas piping or propane vapour phase piping with operating pressures up to and including 125 psig (860 kPa) shall be at least what Schedule for pipe sizes up to and including NPS 10.\nSchedule 40 – Clause 6.2.3\nNatural gas piping or propane vapour phase piping with operating pressures exceeding 125 psig (860 kPa) and all liquid piping shall be at least what Schedule if joints are either threaded or threaded and back welded, for pipe sizes up to and including NPS 10?\nSchedule 80 - Clause 6.2.3\nCopper tubing used for gas systems shall be what “Type”?\nType G, K, or L  - Clause 6.2.4\nWhat  ASTM  Standard must Type G tube meet?\nASTM B 837- Clause 6.2.4\nWhat  ASTM  Standard must Type K and L tube meet?\nASTM B 88- Clause 6.2.4\nIs this statement correct?\nFlare nuts shall be forged from UNS C37700 brass and shall not be externally machined.\nYes – Clause 6.2.5\nPiping, tubing, and hose shall be of sufficient size to provide a supply of gas to meet the requirements of volume and what other factor at the point of use?\nPressure – Clause 6.3.1\nA piping or tubing system supplied at pressures up to and including 14 in w.c. (3.5 kPa) shall be designed to prevent the loss in pressure between the appliance and either the termination of the utility installation or the last-stage regulator from exceeding the maximum allowable pressure drop specified in which Code Table?\nTable 6.1. - Clause 6.3.2\nThe minimum size of pipe, tubing, and fittings shall be determined in accordance with good engineering practice, such as by the use of which Code Tables for natural gas.  This would include allowance for a reasonable number of fittings, when the maximum allowable pressure drop is 0.5 in w.c. (0.125 kPa);\nTables A.1 and A.8 of Annex A - Clause 6.3.2 (a)\nThe minimum size of pipe, tubing, and fittings shall be determined in accordance with good engineering practice, such as by the use of which Code Tables for natural gas and propane.  This would include allowance for a reasonable number of fittings, when the maximum allowable pressure drop is allowable pressure drop is 1 in w.c. (0.25 kPa);\nTables A.2 and A.9 in Annex A for natural gas\nTables B.1 and B.6 in Annex B for propane -  Clause 6.3.2 (b)\nFill in the correct missing maximum allowable pressure drop in the table below:\nA piping or tubing system operating at a pressure exceeding 14 in w.c. (3.5 kPa) shall be designed to ensure an adequate supply of gas to each appliance served at the respective designated pressure rating and to ensure that the appliance will not be what under conditions of no flow?\nOverpressured – Clause 6.3.3\nThe piping or tubing system shall be designed to provide adequate gas pressure to the 2 psig (14 kPa) pressure regulator to match what requirements.\nDownstream load requirements Clause 6.3.4\nHow shall tubing systems for residential buildings be identified?\nIn accordance with Clause 6.17.1, except that identification intervals shall not exceed 6 ft (2 m) along their entire length. - Clause 6.17.3\nBy one of the following:\nThe entire piping or tubing system shall be painted yellow;\nThe piping or tubing system shall be provided with yellow banding that has a minimum width of 1 in (25 mm); or\nThe piping or tubing system shall be labelled or marked “GAS”* or “PROPANE” as applicable, utilizing yellow labels or markings.\nEvery piping or tubing system that enters a building that has two or more gas meters shall be permanently identified with what?\nThe room number, apartment number, or the area of the building it serves. Clause 6.17.4\nA manual shut-off valve shall be of what type?\nThe plug, ball, or eccentric type, and it shall not be subjected to either\na temperature or a pressure greater than its certified rating. Clause 6.18.1\nA readily accessible manual shut-off valve for each appliance shall be installed where?\n(a) in either the drop or riser as close as possible to the valve train of a commercial- and industrial-type appliance;\n(b) in either the drop or riser of a residential appliance;\n(c) in the horizontal piping between the drop or riser and the appliance valve train; it may be the same size as the appliance connection when located within 2 ft (50 cm) of the appliance; or\n(d) within a maximum of 50 ft (17 m) of the individual residential appliance that it serves and shall be identified as to the appliance it serves by means of either\n(i) a metal tag attached to the valve; or\n(ii) a clear legible sign displayed in a permanent manner adjacent to the valve.\nClause 6.18.2\nIs it correct to say that the requirements for an individual manual shut-off valve specified in Clause 6.18.2 may be waived when a readily accessible single manual shut-off valve is installed for commercial cooking appliances manifolded in line; or installed in common supply piping to more than one direct-vent room heater that is part of a heating system in a dwelling unit, provided that it is less than 50 ft (17 m) away from each appliance.\nYes. – Clause 6.18.3\nIs it correct to say that a readily accessible manual shut-off valve shall be of either the ball, eccentric, or lubricated-plug-type where  the piping is larger than NPS 1,  the tubing is 1 in (25.4 mm) OD or larger; or  the pressure exceeds 0.5 psig (3.5 kPa)?\nYes – Clause 6.18.4\nWhen a shut-off valve controls several piping systems, it shall be readily accessible for operation at all times and provided with what type of handle?\nAn installed handle – Clause 6.18.5\nA spring-loaded valve shall be installed in a manner that will prevent its plug from being accidentally lifted off what?  The valve seat – Clause 6.18.6\nTubing fittings shall be rated for a working pressure of not less than what pressure for operating pressures of 125 psig (860 kPa) or less?\n125 psig (860 kPa) - Clause 6.2.6\nIf Type L or G Copper tubing is used underground what must be done to the tubing at the time of manufacture?\nIt must be externally coated with extruded polyethylene or PVC resin – Clause 6.2.7\nIs it acceptable to use Type K Copper tubing underground?\nYes - Clause 6.2.7\nTubing shall be corrugated stainless steel tubing (CSST), seamless copper, or what other acceptable  material?\nSeamless steel.- Clause 6.2.8\nExcept as permitted in Clause 6.2.10, every hose and hose fitting shall have a minimum of what working pressure?\n350 psig (2400 kPa) and shall comply with CSA CAN/CGA-8.1 or CSA CAN1-8.3. – Clause 6.2.9\nPlastic piping and tubing shall comply with what CSA standard?\nB137.4. - Clause 6.2.13\nIs this statement incorrect?  “Plastic pipe shall not be used in a liquid propane system”.\nNo, it is correct. Clause 6.2.15\nExcept as mentioned in Clause 6.2.19, plastic piping or tubing shall only be used where?\nFor outdoor underground service. – Clause 6.2.16\nIs this statement correct?\n“Plastic pipe shall not be used for, as a minimum, the first 3 ft (1 m) of piping on the downstream side of a vaporizer in a propane application and shall not exceed the temperatures specified in Clause  -6.2.18”\nNo, it is an incorrect statement - Clause  6.2.17 (Plastic pipe shall not be used for, as a minimum, the first 10 ft (3 m) of piping)\nIs this statement correct?\nPlastic piping or tubing may terminate above ground and outside the building, provided that (a) the aboveground portions are completely encased with a certified metallic sheathing or anodeless riser that extends a minimum of 6 in (15 cm) below grade; and (b) the plastic piping or tubing is not subject to external loading stresses created by other piping, appliances, or equipment.\nYes. - Clause 6.2.19\nIs this statement incorrect?\n“Corrugated stainless steel tubing (CSST) shall not be used as a gas connector”.\nNo it is a correct statement. – Clause 6.2.21\nWith regards to purging of piping and tubing systems and hose after leak testing, a piping system, tubing system, or hose containing either air or inert gas shall be purged in a safe manner either to the outdoors in accordance with Clause 6.23.7; or to what type of burner?\nAn approved purge burner, except as permitted in Clause 6.23. Clause 6.23.1\nIf the piping is NPS 4 or larger, and air has been used for testing, the piping shall be first purged with which inert gases and then purged with gas in accordance with Clause 6.23.7. The person doing the purging shall be in direct control of the purging gas supply during the purging operation by means of a valve having an attached operating handle. The piping for the gas being purged shall either be of a size or be reduced to a size not larger than NPS 1/2 for piping up to NPS 4.\nCarbon dioxide or nitrogen, or a mixture of these - Clause 6.23.2\nA piping or tubing system or a hose that supplies an appliance having an input up to and including 400 000 Btuh (120 kW) may be purged with the gas ignited at what type of burner, but not at a burner located in a combustion chamber, and a continuously burning flame shall be maintained at the burner port(s) until a stable gas flame is established.\nA readily accessible burner - Clause 6.23.4\nIs it correct to say that in the absence of a readily accessible burner an appliance equipped with a pilot shall be purged at the outlet of the pilot valve train after the pilot tubing has been disconnected; or an appliance not equipped with a continuous pilot shall be purged in accordance with the procedure described in Annex H.\nYes – ",
+          "content_truncated": true
+        },
+        {
+          "filename": "B149.1-20 Clause 6 Review.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems\\Exams",
+          "char_count": 46085,
+          "content": "B149.1-20 Code Review for: Clause 6:  Piping and Tubing Systems, Gas Hose, and Fittings\nInstructions: Referencing the CSA B149.1-20 Code, answer the following questions.\nA gas piping or tubing system shall be of what materials?\n_________________________________________________________   Clause______________\nPiping, tubing, and fittings if removed from a gas installation, shall not be reused unless what is done?\n_________________________________________________________   Clause______________\nPiping shall comply with which ASTM standards?\n_________________________________________________________   Clause______________\nA fitting used with steel pipe shall be of either malleable iron or what other material and shall comply with ANSI/ASME B16.3.\n_________________________________________________________   Clause______________\nNatural gas piping or propane vapour phase piping with operating pressures up to and including 125 psig (860 kPa) shall be at least what Schedule for pipe sizes up to and including NPS 10?\n_________________________________________________________   Clause______________\nNatural gas piping or propane vapour phase piping with operating pressures exceeding 125 psig (860 kPa) and all liquid piping shall be at least what Schedule if joints are either threaded or threaded and back welded, for pipe sizes up to and including NPS 10.\n_________________________________________________________   Clause______________\nCopper tubing used for gas systems shall be what “Type” ?\n_________________________________________________________   Clause______________\nWhat ASTM Standard must Type G tube meet?\n_________________________________________________________   Clause______________\nWhat ASTM Standard must Type K and L tube meet?\n_________________________________________________________   Clause______________\nIs this statement correct?\nFlare nuts shall be forged from UNS C37700 brass and shall not be externally machined.\n_________________________________________________________   Clause______________\nPiping, tubing, and hose shall be of sufficient size to provide a supply of gas to meet the requirements of volume and what other factor at the point of use?\n_________________________________________________________   Clause______________\nA piping or tubing system supplied at pressures up to and including 14 in w.c. (3.5 kPa) shall be designed to prevent the loss in pressure between the appliance and either the termination of the utility installation or the last-stage regulator from exceeding the maximum allowable pressure drop specified in which Code Table?\n_________________________________________________________   Clause______________\nThe minimum size of pipe, tubing, and fittings shall be determined in accordance with good engineering practice, such as by the use of which Code Tables for natural gas?  This would include allowance for a reasonable number of fittings, when the maximum allowable pressure drop is 0.5 in w.c. (0.125 kPa)\n_________________________________________________________   Clause______________\nThe minimum size of pipe, tubing, and fittings shall be determined in accordance with good engineering practice, such as by the use of which Code Tables for natural gas and propane?  This would include allowance for a reasonable number of fittings, when the maximum allowable pressure drop is allowable pressure drop is 1 in w.c. (0.25 kPa).\nTables for Natural Gas________________________________________   Clause______________\nTables for Propane Gas_______________________________________   Clause______________\nFill in the correct missing maximum allowable pressure drop in the table below:\nA piping or tubing system operating at a pressure exceeding 14 in w.c. (3.5 kPa) shall be designed to ensure an adequate supply of gas to each appliance served at the respective designated pressure rating and to ensure that the appliance will not be what under conditions of no flow?\n_________________________________________________________   Clause______________\nThe piping or tubing system shall be designed to provide adequate gas pressure to the 2 psig (14 kPa) pressure regulator to match what requirements.\n_________________________________________________________   Clause______________\nHow shall tubing systems for residential buildings be identified?\n________________________________________________________\n________________________________________________________\n________________________________________________________\nClause______________\nEvery piping or tubing system that enters a building that has two or more gas meters shall be permanently identified with what?\n_________________________________________________________   Clause______________\nA manual shut-off valve shall be of what type?\n_________________________________________________________   Clause______________\nA readily accessible manual shut-off valve for each appliance shall be installed where?\n_________________________________________________________________________________\n_________________________________________________________________________________\n_________________________________________________________________________________\nClause______________\nIs it correct to say that the requirements for an individual manual shut-off valve specified in Clause 6.18.2 may be waived when a readily accessible single manual shut-off valve is installed for commercial cooking appliances manifolded in line; or installed in common supply piping to more than one direct-vent room heater that is part of a heating system in a dwelling unit, provided that it is less than 50 ft (17 m) away from each appliance?\n_________________________________________________________   Clause______________\nIs it correct to say that a readily accessible manual shut-off valve shall be of either the ball, eccentric, or lubricated-plug-type where  the piping is larger than NPS 1,  the tubing is 1 in (25.4 mm) OD or larger; or  the pressure exceeds 0.5 psig (3.5 kPa)?\n_________________________________________________________   Clause______________\nWhen a shut-off valve controls several piping systems, it shall be readily accessible for operation at all times and provided with what type of handle?\n_________________________________________________________   Clause______________\nA spring-loaded valve shall be installed in a manner that will prevent its plug from being accidentally lifted off what?\n_________________________________________________________   Clause______________\nTubing fittings shall be rated for a working pressure of not less than what pressure for operating pressures of 125 psig (860 kPa) or less?\n_________________________________________________________   Clause______________\nIf Type L or G Copper tubing is used underground what must be done to the tubing at the time of manufacture?\n_________________________________________________________   Clause______________\nIs it acceptable to use Type K Copper tubing underground?\n_________________________________________________________   Clause______________\nTubing shall be corrugated stainless steel tubing (CSST), seamless copper, or what other acceptable material?\n_________________________________________________________   Clause______________\nExcept as permitted in Clause 6.2.10, every hose and hose fitting shall have a minimum of what working pressure?\n_________________________________________________________   Clause______________\nPlastic piping and tubing shall comply with which CSA standard?\n_________________________________________________________   Clause______________\nIs this statement incorrect? “Plastic pipe shall not be used in a liquid propane system”.\n_________________________________________________________   Clause______________\nExcept as mentioned in Clause 6.2.19, plastic piping or tubing shall only be used where?\n_________________________________________________________   Clause______________\nIs this statement correct?\n“Plastic pipe shall not be used for, as a minimum, the first 3 ft (1 m) of piping on the downstream side of a vaporizer in a propane application and shall not exceed the temperatures specified in Clause  6.2.18”.\n_________________________________________________________   Clause______________\nIs this statement correct?\n“Plastic piping or tubing may terminate above ground and outside the building, provided that (a) the  aboveground portions are completely encased with a certified metallic sheathing or anodeless riser that extends a minimum of 6 in (15 cm) below grade; and (b) the plastic piping or tubing is not subject to external loading stresses created by other piping, appliances, or equipment”.\n_________________________________________________________   Clause______________\nIs this statement incorrect?\n“Corrugated stainless steel tubing (CSST) shall not be used as a gas connector”.\n_________________________________________________________   Clause______________\nWith regards to purging of piping and tubing systems and hose after leak testing, a piping system, tubing system, or hose containing either air or inert gas shall be purged in a safe manner either to the outdoors in accordance with Clause 6.23.7; or to what type of burner?\n_________________________________________________________   Clause______________\nIf the piping is NPS 4 or larger, and air has been used for testing, the piping shall be first purged with which inert gases and then purged with gas in accordance with Clause 6.23.7. The person doing the purging shall be in direct control of the purging gas supply during the purging operation by means of a valve having an attached operating handle. The piping for the gas being purged shall either be of a size or be reduced to a size not larger than NPS 1/2 for piping up to NPS 4.\n_________________________________________________________   Clause______________\nA piping or tubing system or a hose that supplies an appliance having an input up to and including 400 000 Btuh (120 kW) may be purged with the gas",
+          "content_truncated": true
+        },
+        {
+          "filename": "Mod 10 final Mar 2023 Fanshawe watermarked Answers.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems\\Exams",
+          "char_count": 13943,
+          "content": "Module 10 Final Exam            Name: _________________________\nA\n26’\nM\t30’\nL\t14’\n20’\t12’        10’                        40’                                    15’\nF\t                     G         H                            I                                   J     \t11’\n24’\nB\tK\n36’\n40’\nE\n32’\nC\n40’\nD\n20 PSI/ 7-14” water column with 1” pressure drop\nNatural gas\nThreaded fittings\nSteel pipe\n1. The minimum gas pipe size required for section “A” is?\na) 1 ”\nb) 1 ¼””\nc) 1 ½”\nd) 2”\n2. The minimum gas pipe size required for section “B” is?\na) 1”\nb) 1 ¼”\nc) 1 ½”\nd) 2”\n3. The minimum gas pipe size required for section “C” is?\na) 1”\nb) 1 ¼”\nc) 1 ½”\nd) 2”\n4. The minimum gas pipe size required for section “D” is?\na) 1”\nb) 1 ¼”\nc) 1 ½”\nd) 2”\n5. The minimum gas pipe size required for section “E” is?\na) 1”\nb) 1 ¼”\nc) 1 ½”\nd) 2”\n6. The minimum gas pipe size required for section “F” is?\na) ½”\nb) ¾”\nc) 1”\nd) 1 ¼”\n7. The minimum gas pipe size required for section “G” is?\na) ¾”\nb) 1”\nc) 1 ¼”\nd) 1 ½”\n8. The minimum gas pipe size required for section “H” is?\na) ¾”\nb) 1”\nc) 1 ¼”\nd) 1 ½”\n9. The minimum gas pipe size required for section “I” is?\na) ¾”\nb) 1”\nc) 1 ¼”\nd) 1 ½”\n10. The minimum gas pipe size required for section “J” is?\na) ½”\nb) ¾”\nc) 1”\nd) 1 ¼”\n11. The minimum gas pipe size required for section “K” is?\na) ½”\nb) ¾”\nc) 1”\nd) 1 ¼”\n12. The minimum gas pipe size required for section “L” is?\na) ½”\nb) ¾”\nc) 1”\nd) 1 ¼”\n13. The minimum gas pipe size required for section “M” is?\na) ½”\nb) ¾”\nc) 1”\nd) 1 ¼”\nWhat is the maximum length of a hose used in a permanent installation?\n6’\n8’\n10’\n15’\nThe ends of all gas piping must be?\nThreaded\nReamed\nFiled\nInspected\nWhat is the proper test pressure and time required for a piping system with a supply pressure of 5 PSI, and 250 feet of pipe installed?\n15 PSI, 15 minutes\n15 PSI, 60 minutes\n50 PSI, 60 minutes\n50 PSI, 180 minutes\nWhat is the minimum distance underground a gas piping or tubing system can be located?\n12”\n15”\n18”\n24”\nLiquid propane piping or tubing must be pressure tested at what minimum pressure?\n15 PSI\n50 PSI\n150 PSI\n1.5 times the maximum operating pressure\nTubing fittings must be rated for what minimum pressure if the system pressure is 2 PSI?\n10 PSI\n25 PSI\n50 PSI\n125 PSI\nIn a residential application, what is the maximum distance from an appliance that a manual shut off valve can be installed?\n2’\n10’\n50’\n60’\nWhat type of piping or tubing material is not allowed to be used in liquid propane systems?\nPlastic\nCopper\nSteel\nWhat is the minimum diameter of a test gauge used for pressure testing gas lines?\n1 ½”\n2”\n3”\n4”\nWhat is an acceptable gas for purging gas lines?\nCarbon monoxide\nCompressed air\nCarbon dioxide\nMethane\nWhat is the maximum length of a corrugated metal connector used to connect a suspended appliance?\n2’\n3’\n4’\n6’\nWhat additional requirement must be completed when piping or tubing passes through an interior masonry wall?\nIt must be sleeved\nIt must be coated with paint\nIt must be coated with tar\nIt must be plastic\nWhen purging a gas system to the outdoors, what is the minimum distance the purging line can terminate from the building?\n5’\n10’\n15’\n20’\nWhat is the minimum time required for a meter dial test?\n6 minutes\n10 minutes\n15 minutes\n20 minutes\nWhat is the minimum distance tubing must be identified?\n4’\n5’\n6’\n7’\nA bushing used for a one pipe size change must be constructed of?\nMalleable iron\nBrass\nGalvanized steel\nSteel\nPlastic pipe shall not be used for the first ________ feet of piping on the downstream side of a vapourizer.\n5’\n6’\n8’\n10’\nWhat is the minimum diameter of piping allowed to be used in a concealed location?\n3/8”\n½”\n¾”\n1”\nWhat is the maximum allowable pressure drop for a natural gas system with a supply pressure of 6” water column?\n0.5” water column\n1” water column\n3.5” water column\n7” water column\nWhat is the minimum equivalent opening size required on a vertical pipe chase?\n¼”\n½”\n¾”\n1”\nWhen sizing a branch line, what is the minimum size of job fabricated welded fitting that can be used on a NPS 6 gas supply header?\n½” NPS\n¾” NPS\n2” NPS\n3” NPS\nAbove ground piping of which size and larger must be welded, unless the authority having jurisdiction allows threaded joints?\n1 ¼”\n1 ½”\n2”\n2 ½”\nSchedule 80 piping is required in a propane system:\nFor propane vapour under 125 psig working pressure.\nWhen steel piping is to be connected to plastic piping.\nFor propane vapour over 125 psig working pressure.\nWhen copper piping is to be connected to plastic piping.\nWhat is the equivalent length of a 2 inch NPS Schedule 40, 90 threaded elbow?\n2.06 feet\n2.41 feet\n5.17 feet\n6.16 feet\nWhen sizing a branch line, what is the maximum size of job fabricated welded fitting that can be used in a 6” NPS gas supply header?\n6” NPS\n3” NPS\n4” NPS\n2” NPS\nWhere shall a manual shut off valve be installed to control the supply of gas to a commercial or industrial type of appliance?\nIn either the drop or riser as close as possible to the valve train.\nDownstream of all controls on the valve train.\nAs close to the outlet of the gas meter as possible.\nDownstream of the pilot take-off line.\nWhat size tubing is required to supply propane to a 250,000 Btuh input appliance when installing 30 feet of copper tubing which will operate at 2 psig with a pressure drop of 1.0 psig?\n0.375” (3/8”)\n0.500” (1/2”)\n0.625” (5/8”)\n0.750” (3/4”)\nWhat diameter and length of dirt pocket is required when a drop line is 3” in diameter?\n¾” diameter, 3” long\n1” diameter, 3” long\n3” diameter, 3” long\n2” diameter, 3” long\nNatural gas piping in industrial buildings shall be identified:\nWith yellow paint or yellow bands.\nWith red paint or red bands.\nWith paint in a contrasting colour to other piping.\nWith green paint and yellow bands.\nWhen installing a 2” NPS piping system in a commercial establishment and branch connections are required for unknown additional future appliances, what size must the branch outlets be?\n1” NPS\n1 ¼” NPS\n1 ½” NPS\n2” NPS\nUnderground piping or tubing shall be tested in accordance with the:\nAppliance manufacturers installation instructions.\nRequirements established by the Ministry of Labour.\nRequirements of the B149.1 Code.\nBulletins issued by the local gas distributor.\nWhich one of the following sets of requirements must be met to weld gas pipe in the Province of Ontario?\nThe welding procedure must be registered by the Boiler and Pressure Vessels Regulation and the welder must be qualified by the Department of Labour.\nThe welding procedure must be registered and the welder must be qualified under the Boiler and Pressure Vessels Regulation.\nThe welding procedure must be acceptable and the welder must be qualified by the local gas distributor.\nThe welding procedure must be acceptable and the welder must be qualified by the Ministry of Labour.\nWhen is it necessary to purge every branch supply line in a piping system?\nNever\nAlways\nOnly when the branch supply line size is larger than 1” NPS.\nOnly when the branch supply line will be operating at a pressure in excess of 0.5 psig.\nWhat is the minimum time and pressure required to test a new welded 4” NPS piping system that 100 feet long with a supply pressure of 5 psig?\n60 minutes at 50 psig.\n180 minutes at 50 psig.\n180 minutes at 50 psig or 1.5 times the maximum operating pressure, whichever is greater.\n180 minutes at 1.5 times the maximum operating pressure.\nWhat does movement of ¼ ft. dial indicate when completing a gas meter pressure dial test?\nThe service regulator is malfunctioning.\nThe static pressure is excessive.\nThe working pressure is low.\nThe piping not gas tight.\nOn the diagram on page 10, the black lines are schedule 40 pipe in the 7” water column system, the minimum pipe size for pipe B would be?\n½”\n¾”\n1”\n1 ¼”\n1 ½”\n2”\nOn the diagram on page 10, the black lines are schedule 40 pipe in the 7” water column system, the minimum pipe size for pipe C would be?\n½”\n¾”\n1”\n1 ¼”\n1 ½”\n2”\nOn the diagram on page 10, the black lines are schedule 40 pipe in the 7” water column system, the minimum pipe size for pipe D would be?\n½”\n¾”\n1”\n1 ¼”\n1 ½”\n2”\nOn the diagram on page 10, the black lines are schedule 40 pipe in the 7” water column system, the minimum pipe size for pipe E would be?\n½”\n¾”\n1”\n1 ¼”\n1 ½”\n2”\nOn the diagram on page 10, the black lines are schedule 40 pipe in the 7” water column system, the minimum pipe size for pipe F would be?\n½”\n¾”\n1”\n1 ¼”\n1 ½”\n2”\nOn the diagram on page 10, the black lines are schedule 40 pipe in the 7” water column system, the minimum pipe size for pipe G would be?\n½”\n¾”\n1”\n1 ¼”\n1 ½”\n2”\nOn the diagram on page 10, the black lines are schedule 40 pipe in the 7” water column system, the minimum pipe size for pipe H would be?\n½”\n¾”\n1”\n1 ¼”\n1 ½”\n2”\nOn the diagram on page 10, the black lines are schedule 40 pipe in the 7” water column system, the minimum pipe size for pipe I would be?\n½”\n¾”\n1”\n1 ¼”\n1 ½”\n2”\nOn the diagram on page 10, the black lines are schedule 40 pipe in the 7” water column system, the minimum pipe size for pipe J would be?\n½”\n¾”\n1”\n1 ¼”\n1 ½”\n2”\nOn the diagram on page 10, the black lines are schedule 40 pipe in the 7” water column system, the minimum pipe size for pipe K would be?\n½”\n¾”\n1”\n1 ¼”\n1 ½”\n2”\nOn the diagram on page 10, the black lines are schedule 40 pipe in the 7” water column system, the minimum pipe size for pipe L would be?\n½”\n¾”\n1”\n1 ¼”\n1 ½”\n2”\nOn the diagram on page 10, the black lines are schedule 40 pipe in the 7” water column system, the minimum pipe size for pipe M would be?\n½”\n¾”\n1”\n1 ¼”\n1 ½”\n2”\nOn the diagram on page 10, the blue lines are schedule 40 pipe in the 5 PSIG water column system, the minimum pipe size for pipe Z would be?\n½”\n¾”\n1”\n1 ¼”\n1 ½”\n2”\nOn the diagram on page 10, the blue lines are schedule 40 pipe in the 5 PSIG water column system, the minimum pipe size for pipe Y would be?\n½”\n¾”\n1”\n1 ¼”\n1 ½”\n2”\nOn the diagram on page 10, the blue lines are schedule 40 pipe in the 5 PSIG water column system, the minimum pipe size for pipe X would be?\n½”\n¾”\n1”\n1 ¼”\n1 ½”\n2”\nOn the diagram on pag",
+          "content_truncated": true
+        },
+        {
+          "filename": "Unit 10 - Midterm Answer Key.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems\\Exams",
+          "char_count": 930,
+          "content": "Unit 10 – Gas Piping Midterm\nThe required pipe size for section “A” is:\n11/4”\n1 ½ ”\n2”\n2 ½ ’\nThe required pipe size for section “B” is:\n¾ “\n1”\n1 ¼ ”\n1 ½ ’\nThe required pipe size for section “C” is:\n1”\n1 ¼ “\n1 ½ ”\n2”\nThe required pipe size for section “D” is:\n1”\n1 ¼”\n1 ½”\n2”\nThe required pipe size for section “E” is:\n1”\n11/4”\n1 ½”\n2”\nThe required pipe size for section “F” is:\n1”\n1 ¼”\n1 ½ ”\n2”\nThe required pipe size for section “G” is:\n1”\n1 ¼\n1 ½ ”\n2”\nThe required pipe size for section “H” is:\n3/4”\n1”\n1 ¼\n½\nThe required pipe size for section “I” is:\n3/4”\n1”\n2”\nI ½ “\nThe required pipe size for section “J” is:\n3/4”\n1”\n1 ¼”\nI ½ “\nThe required pipe size for section “K” is:\n½”\n3/4”\n1”\n2 ”\nThe required pipe size for section “L” is:\n½”\n3/4”\n1”\n1 ¼”\nThe required pipe size for section “M” is:\n1 ½”\n3/4”\n1”\n1 ¼”\nThe required pipe size for section “N” is:\n1/2\n3/4”\n1”\n1 ¼”\nThe required pipe size for section “O” is:\n1/2\n3/4”\n1”\n1 ¼”",
+          "content_truncated": false
+        },
+        {
+          "filename": "Unit 10 - Midterm.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems\\Exams",
+          "char_count": 930,
+          "content": "Unit 10 – Gas Piping Midterm\nThe required pipe size for section “A” is:\n11/4”\n1 ½ ”\n2”\n2 ½ ’\nThe required pipe size for section “B” is:\n¾ “\n1”\n1 ¼ ”\n1 ½ ’\nThe required pipe size for section “C” is:\n1”\n1 ¼ “\n1 ½ ”\n2”\nThe required pipe size for section “D” is:\n1”\n1 ¼”\n1 ½”\n2”\nThe required pipe size for section “E” is:\n1”\n11/4”\n1 ½”\n2”\nThe required pipe size for section “F” is:\n1”\n1 ¼”\n1 ½ ”\n2”\nThe required pipe size for section “G” is:\n1”\n1 ¼\n1 ½ ”\n2”\nThe required pipe size for section “H” is:\n3/4”\n1”\n1 ¼\n½\nThe required pipe size for section “I” is:\n3/4”\n1”\n2”\nI ½ “\nThe required pipe size for section “J” is:\n3/4”\n1”\n1 ¼”\nI ½ “\nThe required pipe size for section “K” is:\n½”\n3/4”\n1”\n2 ”\nThe required pipe size for section “L” is:\n½”\n3/4”\n1”\n1 ¼”\nThe required pipe size for section “M” is:\n1 ½”\n3/4”\n1”\n1 ¼”\nThe required pipe size for section “N” is:\n1/2\n3/4”\n1”\n1 ¼”\nThe required pipe size for section “O” is:\n1/2\n3/4”\n1”\n1 ¼”",
+          "content_truncated": false
+        },
+        {
+          "filename": "Design Project Practical.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems\\Lab Practicals",
+          "char_count": 15117,
+          "content": "Design Project – Lab Practical\nLearning Outcome:\nAfter completion of this lab, you will understand the general steps required to take when designing and sizing a propane tank, piping, and venting system.\nInstructions:\nDesign a complete heating system utilizing the general layout of the labs bays. There will be 3 furnaces (75 mBtu each, Category 1 with draft hoods) and each furnace will be installed in whatever bays you choose. You will be designing and sizing the full gas and venting systems, as well as the placement and sizing of the propane tank(s)/cylinder(s) that will be used to supply the system. The recording sheet and module information should be able to help lead to each next step. Ask if you are unsure on how to proceed or find the information.\nThis record sheet is to be completed, along with the following:\n3 Separate Layout Drawings (10 marks each, 30 total)\nAll piping (High & Low Pressure - multiple angles can be shown to convey the layout)\nVenting\nCombined Layout (Inside only)\nAll drawings must have a legend, be neat and legible, and labeled. Include code references, and all GVR clauses that apply to your venting reductions in the legend. (Listing the clauses/GVR are acceptable as you will be explaining your work in a later question of this worksheet)\nWhat is the total Btu/h for this piping system? ____________________\nWhat is the effective load of the system? ________________\nWhat is the average lowest temperature for Woodstock? ________________\nWhat is the average winter humidity for Woodstock? ________________\nWhat size of propane tank(s)/cylinder(s) did you select? Why? Include the total Btus that the system can supply. (3 marks) _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nWhere will you be placing the propane tank(s)/cylinder(s)? ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nWhat code clauses will dictate where your tank(s)/cylinder(s) will be installed? List below.  (4 marks)\n__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nWhat is the measured length for the high pressure side? ________________\nWhat is the estimated code zone? ________________\nWhat 1st stage regulator pressure did you choose for your system? ________________\nWhat material did you select for your high pressure piping? ________________\nWhat piping table did you select for sizing? ________________\nWhat size did you select for your high pressure piping? ________________\nWhat is the total load that size material can handle at that pressure? ________________\nWhat is the equivalent length of fittings for your high side? ________________\nDoes the new length of equivalent run change your original code zone? Yes / No\nIf yes, what is the new code zone: ________________\nDoes the new code zone alter your material size? Yes / No\nIf yes, what is the new size: ________________\nWhat 2nd stage regulator pressure will be used for the system? ________________\nWhat is the longest measured run of the low pressure side? ________________\nWhat material did you select for your low pressure piping? ________________\nWhat piping table did you select for sizing? ________________\nWhat is the manifold pressure for the appliances? ________________\nWhat is the pressure test requirements for the high pressure side of the system?\n___________________________________________________________________________\nWhat is the pressure test requirements for the low pressure side of the system?\n___________________________________________________________________________\nWhat did you select for your piping identification method?\n_________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nExplain the purging procedure and list the entire process. (7 marks) _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nExplain how you would set up the system regulators:\nFirst stage regulator: (4 marks) ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nSecond stage regulator: (4 marks) ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nAppliance regulators: (4 marks) ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nWhat does a low-pressure cut-off device do? ______________________________________________________________________________________________________________________________________________________\nDoes a low-pressure cut-off device need to be used for this system? Yes / No\nIf yes, how many are needed? ________________\nWhat circuit, and how, should the low-pressure cut-off switch be wired into any domestic heating appliance? (2 marks) _________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nComplete a detailed material list for the entire piping system. Be sure to include the size and length of each pipe, regulators, tank(s)/cylinder(s), all fittings with sizes, etc. (15 marks)\n________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________",
+          "content_truncated": true
+        },
+        {
+          "filename": "Purging Practical.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 10 - Advanced Piping and Tubing Systems\\Lab Practicals",
+          "char_count": 2880,
+          "content": "Purging Practical\nLearning Outcome:\nUpon completion of this lab, you will understand the process, tools, and setup for purging a gas system.\nInstructions:\nYou will be setting up a purge tool to one to the appliances in the lab. Confirm with the instructor which appliance you will be using.\nNote: Each step must be signed off by the instructor before proceeding to the next question. Skipped sign offs will result in lost marks (5 per). Any damage to the systems components due to negligence or horseplay will result in a mark of zero for the practical.\nFollow all shop safety rules.\nWhen can a pressure test be conducted on a piping system? (2 marks)\n_________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nWhen can a leak test be conducted on a piping system? (2 marks)\n_________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nWhat section(s) of the codebook covers purging? (2 marks)\n___________________________________________________________________________\nList all the proper steps for purging: (10 marks)\n______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nFrom your appliance, what is the distance back to the meter and shut off? ______________\nHow long should the purging take place? ________________\nWhat is the design purpose for the release mechanism on the handle of the purging tool?\n______________________________________________________________________________________________________________________________________________________\nInstall the purging tool to the appliance you are purging and then leak test the connection. Let the instructor know once completed and you will explain the purging process to them. (5 marks)\nSign off: ____________________\nRemove the purging tool, reinstall the original piping and then leak test the system. Verify with the instructor when completed. (5 marks)\nSign off: ____________________",
+          "content_truncated": false
+        }
+      ],
+      "total_documents": 25,
+      "total_chars": 538303,
+      "edition": "7th Edition",
+      "is_primary": false
+    }
+  }
+}

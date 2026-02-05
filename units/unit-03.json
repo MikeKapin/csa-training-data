@@ -1,0 +1,659 @@
+{
+  "unit_name": "Unit 3 - Properties, Characteristics, and Safe Handling of Fuel Gases",
+  "unit_number": 3,
+  "editions": {
+    "8th_2025": {
+      "unit_name": "Unit 3 - Properties, Characteristics, and Safe Handling of Fuel Gases",
+      "edition": "8th Edition",
+      "publication_date": "June 2025",
+      "is_primary": true,
+      "category": "G3",
+      "total_chapters": 3,
+      "total_pages": 56,
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "chapter_name": "Properties, characteristics, and safe handling of fuel gases",
+          "pages": "9-19",
+          "topics": [
+            "Composition of LP-gases",
+            "Properties of natural gas and propane",
+            "Specific gravity (vapour and liquid)",
+            "Expansion factors",
+            "Boiling point",
+            "Temperature and pressure relationships",
+            "Calorific value",
+            "Combustion data",
+            "Limits of flammability",
+            "Ignition temperature",
+            "Flame temperature",
+            "Flame speed"
+          ],
+          "content": "Chapter 1 - Properties, characteristics, and safe handling of fuel gases\n\nComposition of LP-gases\nBoth propane and butane are extracted from petroleum oil and natural gas. After their separation into a liquefied state from wet gas, fractionation (chemical separation) into their final processed forms occurs. Processed propane is normally 100% pure; butane, when processed, is 93% pure with 7% added propane. Under normal atmospheric temperature and pressure, propane and butane are gases. At cooler temperatures and at higher pressures, both change easily into liquid form.\n\nProperties and characteristics of natural gas and propane\nSeveral physical properties are common to both natural gas and propane. It is important for a gas technician/fitter to thoroughly understand these to effectively work on fuel delivery and utilization.\n\nCommon properties\nBoth natural gas and propane are nontoxic, tasteless, colourless, invisible, and odourless.\n\nAs these gases are odourless (and not detectable by the nose), for safety, the odorant mercaptan is added. The chemical formula of ethyl mercaptan, typically added to natural gas, is C2H6S. Mercaptan helps to alert the user to a gas escape — and the consequent danger of a possible explosion or fire. In order to detect a gas leak below the gas's lower flammable limit, approximately 1 lb of mercaptan is added to every one million cubic feet of gas.\n\nOther properties\nA gas technician/fitter should be familiar with the physical properties of fuel gases such as specific gravity, expansion factors, boiling point, temperature and pressure relationships, and calorific value/heat content.\n\nSpecific gravity\nSpecific gravity (or relative density) refers to the comparison between the weight of a volume of a vapour or liquid and the weight of an equal volume of air or water. It is important to know the specific gravity of gases so you can effectively check for gas leaks, calculate flow rates through gas piping systems, and size orifices.\n\nSpecific gravity of vapour gases and air\nWhen comparing the specific gravity of gas and air, ensure that both are at the same pressure and temperature.\n\nAir has a specific gravity of 1.0. With a specific gravity of 0.60, natural gas is lighter than air, so it generally rises to the ceiling. Both propane and butane are heavier than air so they, in contrast, are likely to settle in low areas.\n\nSpecific gravity is an important consideration when trying to find the source of a gas leak or working where a leak has occurred.\n\nVapour fuel gases (and air):\n- Natural gas (CH4): 0.60\n- Air: 1.0\n- Propane (C3H8): 1.52 or 1.53\n- Butane (C4H10): 1.92 or 2\n\nLiquid specific gravity of LP-gases and water\nThe liquid specific gravity of LP-gas is normally compared to water, which has a specific gravity of 1.0.\n\nLP-gases (and water):\n- Propane (C3H8): 0.509 or 0.51\n- Butane (C4H10): 0.58\n- Water: 1.0\n\nExpansion factors\nWhen the temperature of a liquid increases, the liquid expands, which results in an increase in its volume. This is expressed in Boyle's law (p1V1 = p2V2).\n\nAllowing an expansion space between the liquid and the top of the container means filling LP-gas containers to a maximum of 80%.\n\nExpansion ratio of liquid to gas at standard atmospheric pressure:\n- Natural gas: 1:600\n- Propane: 1:270\n\nBoiling point\nAt standard atmospheric pressure:\n- Natural gas has a boiling temperature of −260 °F (−162.2 °C)\n- Propane has a boiling temperature of −44 °F (−42.2 °C)\n\nTemperature and pressure relationships\nVapour pressure is directly related to the temperature of the liquid in an enclosed container. As the temperature of an LP-gas increases, so does the pressure in the storage tank.\n\nThe liquefication of natural gas is only possible at very low temperatures, very high pressures, or a combination of these.\n\nCalorific value\nThe calorific value (or heat content) of a fuel usually refers to the energy released during the combustion of a given volume of fuel. Units of measurement are British thermal units per cubic foot (Btu/ft3) or megajoules per cubic meter (MJ/m3).\n\nGas calorific values:\n- Natural gas: 1000 Btu/ft3 (37 240 kJ/m3) or 0.293 kWh\n- Propane: 2520 Btu/ft3 (93 800 kJ/m3) or 0.738 kWh\n\nProperties summary table (approximate values):\nNatural Gas vs Propane:\n- Formula: CH4 vs C3H8\n- Toxicity: Non-toxic (both)\n- Physical properties: Colourless, tasteless, odourless (both)\n- Odorant: Mercaptan (both)\n- Specific gravity (vapour): 0.60 vs 1.52\n- Liquid specific gravity: — vs 0.51\n- Vapour expansion: 600 ft3 vs 270 ft3\n- Boiling point: −260 °F vs −44 °F\n- Calorific value: 1000 Btu/ft3 vs 2520 Btu/ft3\n\nCombustion data\n\nLimits of flammability\nLimits of flammability are the upper and lower ranges (LEL to UEL) of gas in the air-gas mixture that can support combustion. Too low an amount of fuel makes the mixture too \"lean\"; too high makes it too \"rich.\"\n\nIgnition temperature\nIgnition temperature is the temperature at which an air-gas mixture can initiate and support combustion.\n\nFlame temperature\nEach fuel gas has its own maximum flame temperature, reached at \"perfect combustion.\"\n\nFlame speed\nFlame speed is the speed at which a flame front moves towards an air-gas mixture that issues from a burner port.\n\nCombustion data (approximate values):\n- Limits of flammability: Natural gas 4 to 15%, Propane 2.4 to 9.5%\n- Ignition temperature: Natural gas 1300 °F (700 °C), Propane 920 °F (495 °C)\n- Maximum flame temperature: 3600 °F (1980 °C) for both\n- Flame speed: Natural gas 12 in/s (305 mm/s), Propane 11 in/s (280 mm/s)",
+          "assignment_questions": [
+            {
+              "question": "Which is the main component of natural gas?",
+              "options": [
+                "Butane",
+                "Methane",
+                "Propane",
+                "Carbon"
+              ],
+              "correct_answer": "b",
+              "explanation": "Methane (CH4) is the main component of natural gas"
+            },
+            {
+              "question": "What is the chemical formula of methane?",
+              "options": [
+                "C3H8",
+                "C4H10",
+                "CH4",
+                "C2H4"
+              ],
+              "correct_answer": "c",
+              "explanation": "The chemical formula of methane is CH4"
+            },
+            {
+              "question": "What is the chemical formula of propane?",
+              "options": [
+                "C4H10",
+                "CH4",
+                "C2H4",
+                "C3H8"
+              ],
+              "correct_answer": "d",
+              "explanation": "The chemical formula of propane is C3H8"
+            },
+            {
+              "question": "Which substance is added to natural gas and propane to give them a distinctive odour?",
+              "options": [
+                "Butane",
+                "Sulphur",
+                "Mercaptan"
+              ],
+              "correct_answer": "c",
+              "explanation": "Mercaptan (ethyl mercaptan) is added as an odorant for safety"
+            },
+            {
+              "question": "What is specific gravity?",
+              "options": [
+                "The comparison between the volume of a gas (or liquid) and an equal volume of air (or water)",
+                "The comparison between the weight of the volume of a gas (or liquid) and the weight of an equal volume of air (or water)",
+                "The comparison between the pressure of the volume of a gas (or liquid) and the pressure of an equal volume of air (or water)"
+              ],
+              "correct_answer": "b",
+              "explanation": "Specific gravity compares weight of equal volumes"
+            },
+            {
+              "question": "What is the specific gravity of natural gas vapour?",
+              "options": [
+                "0.60",
+                "0.75",
+                "1.25",
+                "1.52"
+              ],
+              "correct_answer": "a",
+              "explanation": "Natural gas has a specific gravity of 0.60 (lighter than air)"
+            },
+            {
+              "question": "What is the specific gravity of propane vapour?",
+              "options": [
+                "0.60",
+                "0.75",
+                "1.25",
+                "1.52"
+              ],
+              "correct_answer": "d",
+              "explanation": "Propane has a specific gravity of 1.52 (heavier than air)"
+            },
+            {
+              "question": "What is the expansion ratio (liquid to gas) for natural gas?",
+              "options": [
+                "1:270",
+                "1:600",
+                "1:1200",
+                "1:1500"
+              ],
+              "correct_answer": "b",
+              "explanation": "Natural gas expands at a ratio of 1:600 from liquid to gas"
+            },
+            {
+              "question": "What is the boiling temperature for propane?",
+              "options": [
+                "−260 °F (−162 °C)",
+                "−44 °F (−42.2 °C)",
+                "100 °F (37.78 °C)",
+                "212 °F (100 °C)"
+              ],
+              "correct_answer": "b",
+              "explanation": "Propane boils at −44 °F (−42.2 °C) at standard atmospheric pressure"
+            },
+            {
+              "question": "What is calorific value?",
+              "options": [
+                "The energy released when an unknown volume of fuel is burned",
+                "The energy released when a given volume of fuel is burned",
+                "The energy consumed when a given volume of fuel is burned"
+              ],
+              "correct_answer": "b",
+              "explanation": "Calorific value is the energy released during combustion of a given volume"
+            },
+            {
+              "question": "What is the accepted calorific value for natural gas?",
+              "options": [
+                "1000 Btu/ft3",
+                "1500 Btu/ft3",
+                "2520 Btu/ft3",
+                "3600 Btu/ft3"
+              ],
+              "correct_answer": "a",
+              "explanation": "Natural gas has a calorific value of 1000 Btu/ft3"
+            },
+            {
+              "question": "What is the limit of flammability for propane?",
+              "options": [
+                "2 to 75%",
+                "2.4 to 9.5%",
+                "4 to 15%",
+                "5 to 19%"
+              ],
+              "correct_answer": "b",
+              "explanation": "Propane has limits of flammability from 2.4 to 9.5%"
+            },
+            {
+              "question": "What is the specific gravity of liquid propane?",
+              "options": [
+                "0.51",
+                "0.58",
+                "1.54",
+                "7.6"
+              ],
+              "correct_answer": "a",
+              "explanation": "Liquid propane has a specific gravity of 0.51"
+            },
+            {
+              "question": "What is the expansion ratio (liquid to gas) for propane?",
+              "options": [
+                "1:270",
+                "1:300",
+                "1:600",
+                "1:670"
+              ],
+              "correct_answer": "a",
+              "explanation": "Propane expands at a ratio of 1:270 from liquid to gas"
+            },
+            {
+              "question": "What is the flame speed of natural gas?",
+              "options": [
+                "9 in/s",
+                "10 in/s",
+                "11 in/s",
+                "12 in/s"
+              ],
+              "correct_answer": "d",
+              "explanation": "Natural gas has a flame speed of approximately 12 in/s"
+            },
+            {
+              "question": "What are the limits of flammability for propane?",
+              "options": [
+                "2.4 to 9.5%",
+                "3 to 12%",
+                "3.5 to 8.5%",
+                "4 to 15%"
+              ],
+              "correct_answer": "a",
+              "explanation": "Propane flammability limits are 2.4 to 9.5%"
+            },
+            {
+              "question": "Propane and natural gas have the same maximum flame temperature. What is it?",
+              "options": [
+                "1600 °F (870 °C)",
+                "2600 °F (1430 °C)",
+                "3600 °F (1980 °C)",
+                "4600 °F (2540 °C)"
+              ],
+              "correct_answer": "c",
+              "explanation": "Both gases have a maximum flame temperature of 3600 °F (1980 °C)"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. _______ is the \"temperature at which an air-gas mixture initiates and supports combustion\" that \"varies according to the type of fuel gas used\".",
+              "options": [
+                "Flame temperature",
+                "Limits of flammability",
+                "Ignition temperature"
+              ],
+              "correct_answer": "c",
+              "explanation": "Ignition temperature is when combustion initiates and is sustained"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. _______ refers to the upper and lower percentages of gas in an air-gas mixture that can support combustion.",
+              "options": [
+                "Limits of flammability",
+                "Dilution range",
+                "Flame temperatures"
+              ],
+              "correct_answer": "a",
+              "explanation": "Limits of flammability define the combustible range (LEL to UEL)"
+            }
+          ]
+        },
+        {
+          "chapter_number": 2,
+          "chapter_name": "Combustion",
+          "pages": "33-43",
+          "topics": [
+            "The combustion process",
+            "Perfect combustion",
+            "Complete combustion",
+            "Incomplete combustion",
+            "Air supply categories",
+            "Primary air and secondary air",
+            "Combustion air requirements",
+            "Excess air supply",
+            "Dilution air supply",
+            "Total air supply",
+            "Calculating for high-altitude locations",
+            "Causes of incomplete combustion",
+            "Condensation of flue gas",
+            "Stable flame characteristics",
+            "Bunsen flame zones"
+          ],
+          "content": "Chapter 2 - Combustion\n\nThe combustion process\nCombustion is the rapid oxidation of fuel that results in the production of heat. For combustion to occur, three elements must be present: fuel, oxygen, and ignition.\n\nPerfect combustion\nPerfect combustion occurs when fuel and oxygen combine in exact proportions with complete oxidation of the fuel. The products are carbon dioxide (CO2), water vapour (H2O), and heat.\n\nChemical equation for perfect combustion of natural gas:\nCH4 + 2O2 + 8N2 → CO2 + 2H2O + 8N2 + heat\n\nComplete combustion\nIn practice, perfect combustion is rarely achieved. Complete combustion requires excess air to ensure all fuel is oxidized. The relationship is:\n\n1000 Btu of fuel input × 10 ft3 air = perfect combustion\nAdditional excess air (typically 50% for atmospheric burners) = complete combustion\n\nIncomplete combustion\nIncomplete combustion produces toxic products including carbon monoxide (CO) and aldehydes. This occurs when insufficient air is supplied or other conditions prevent complete oxidation.\n\nAir supply categories\n\nPrimary air\nPrimary air is mixed with fuel gas before ignition. In atmospheric burners, primary air is drawn in by the venturi effect created by gas flow through the orifice.\n\nSecondary air\nSecondary air is supplied from around the flames after ignition has occurred.\n\nCombustion air\nCombustion air is the total air required for perfect combustion (primary + secondary).\n\nExcess air supply\nExcess air is supplied beyond the combustion air requirement to ensure complete combustion. For atmospheric burners, excess air equal to 50% of the combustion air is typical.\n\nRelationship: 1000 Btu of input requires 5 ft3 of excess air supply.\n\nDilution air supply\nDilution air enters the venting system to cool and control stack action (for appliances with draft control devices).\n\nRelationship: 1000 Btu of input requires 15 ft3 of dilution air supply.\n\nTotal air supply\nTotal air is the volume required for safe and efficient operation, including combustion, excess, and dilution air.\n\nRelationship: 1000 Btu of input requires 30 ft3 of total air supply.\n\nSummary of air requirements per 1000 Btu of input:\n- Combustion air: 10 ft3\n- Excess air: 5 ft3\n- Dilution air: 15 ft3\n- Total air: 30 ft3\n\nCalculating for high-altitude locations\nAtmospheric pressure at sea level is 14.73 psia. For every 2000 ft rise in elevation, atmospheric pressure reduces by approximately 1 psia.\n\nUsing Boyle's law (p1V1 = p2V2): As altitude increases, gas becomes less dense and flows more easily through an orifice, putting the input-to-oxygen ratio out of balance.\n\nCauses of incomplete combustion\n\nFlame temperature\nCombustion must maintain approximately 1300 °F (649 °C) for natural gas and 920 °F (495 °C) for propane. If flame temperature drops below these points, incomplete combustion and toxic products result.\n\nCracked heat exchanger\nA crack in the heat exchanger allows supply air to contact hot flue gases, causing excessive air movement that adversely affects the flame and causes incomplete combustion.\n\nBlocked venting (natural draft appliance)\nIf venting becomes blocked, flue gases cannot reach outdoors and will spill from the draft hood. Lack of combustion air leads to incomplete combustion and carbon monoxide.\n\nNegative air pressure\nExcessive air exhausted from a building leads to negative air pressure, which can affect combustion and lead to incomplete combustion and down drafting.\n\nCondensation of products of combustion\n\nFlue gas condensation\nCondensing appliances extract additional heat by condensing water vapour (from burning hydrogen content) to liquid water, recovering its latent heat. This can increase efficiency by 10 to 20% over non-condensing appliances.\n\nThe condensate produced is slightly acidic (3 to 5 pH). Suitable materials for wetted areas include aluminum alloys and stainless steel (high temp areas) or polypropylene and UPVC (low temp areas).\n\nA stable flame\nA stable flame does not waver, lift off the burner, or flash back into the mixing tube.\n\nQualities of a stable Bunsen flame\n\nInner cone\nThin blue cone on the tip of the burner where initial burning occurs, forming products like aldehydes, alcohols, CO, and hydrogen. The velocity of the unburned air-gas mixture forms the shape.\n\nOuter cone\nDarker blue surrounding the inner cone, where secondary air diffuses into the flame. With sufficient secondary air, products from the inner cone are completely burned here, yielding CO2 and water vapour.\n\nOuter mantle\nColourless mantle surrounding the outer cone. Almost no unburned gases remain. Only glows due to high temperature of combustion products.\n\nRequirements of a stable flame\nBalance between flame speed and flow velocity must be maintained by adjusting primary air supply or gas flow rates.\n\nPrimary air supply adjustments:\n\nIncrease in air: As primary air increases, flame sharpens and inner cone gets smaller. At 90% air/10% gas for natural gas (94% air/6% gas for propane), flame reaches maximum speed. Beyond this, flame lifts off burner port.\n\nDecrease in air: As primary air decreases, burning speed decreases. Flame gets longer and more luminous. Further reduction results in yellow tips and carbon formation.\n\nInsufficient air supply\nAs primary or secondary air decreases, CO2 percentage in flue gases increases. Theoretical maximum CO2 is 11.7% for natural gas and 13.9% for propane. When flue gas CO2 reaches 10%+ for natural gas (11.5%+ for propane), air supply becomes insufficient and CO may be produced.\n\nGas supply (port loading)\nPort loading is the amount of air-gas mixture passing through a port, expressed as Btu/h per in2 of port area.\n\nPort loading = Input rate (Btu/h or kW) / Port area (in2 or mm2)\n\nFor natural gas, port loading between 25,000 and 30,000 Btu/h per in2 provides a stable flame.",
+          "assignment_questions": [
+            {
+              "question": "Which term refers to the chemical process in which the rapid oxidation of fuel results in the production of heat?",
+              "options": [
+                "Ignition",
+                "Explosion",
+                "Combustion"
+              ],
+              "correct_answer": "c",
+              "explanation": "Combustion is the rapid oxidation of fuel producing heat"
+            },
+            {
+              "question": "What is the approximate percentage of oxygen in air?",
+              "options": [
+                "1.2%",
+                "21%",
+                "25%",
+                "79%"
+              ],
+              "correct_answer": "b",
+              "explanation": "Air contains approximately 21% oxygen"
+            },
+            {
+              "question": "What is the approximate ignition temperature for natural gas?",
+              "options": [
+                "600 °F (315 °C)",
+                "1000 °F (538 °C)",
+                "1020 °F (495 °C)",
+                "1300 °F (700 °C)"
+              ],
+              "correct_answer": "d",
+              "explanation": "Natural gas has an ignition temperature of approximately 1300 °F (700 °C)"
+            },
+            {
+              "question": "What are the products of combustion for hydrocarbon fuels?",
+              "options": [
+                "CO4, H2O, heat",
+                "CO2, H2O2, heat",
+                "CO2, H2O, heat",
+                "2CO2, H2O, heat"
+              ],
+              "correct_answer": "c",
+              "explanation": "Complete combustion produces carbon dioxide, water, and heat"
+            },
+            {
+              "question": "What is the chemical equation for the perfect combustion of natural gas?",
+              "options": [
+                "CH4 + 2O2 + 8N2 → CO2 + 2H2O + 8N2 + heat",
+                "CH4 + 2O2 + 8N2 → 2CO + 2H2O + 8N2 + heat",
+                "CH4 + 2O2 + 8N2 →CO2 + 4H2O + 8N2 + heat"
+              ],
+              "correct_answer": "a",
+              "explanation": "Perfect combustion of CH4 produces CO2, water, nitrogen, and heat"
+            },
+            {
+              "question": "What is added to the combustion process to ensure complete combustion?",
+              "options": [
+                "Primary air",
+                "Excess air",
+                "Ventilation air",
+                "Combustion air"
+              ],
+              "correct_answer": "b",
+              "explanation": "Excess air ensures complete combustion by providing surplus oxygen"
+            },
+            {
+              "question": "What are the two products of incomplete combustion?",
+              "options": [
+                "Water vapour and carbon dioxide",
+                "Nitrogen and carbon",
+                "Carbon monoxide and aldehydes",
+                "Nitrogen and water vapour"
+              ],
+              "correct_answer": "c",
+              "explanation": "Incomplete combustion produces toxic CO and aldehydes"
+            },
+            {
+              "question": "What are the three categories of air supply?",
+              "options": [
+                "Combustion air, pressurized air, dilution air",
+                "Combustion air, primary air, excess air",
+                "Combustion air, excess air, dilution air"
+              ],
+              "correct_answer": "c",
+              "explanation": "The three categories are combustion, excess, and dilution air"
+            },
+            {
+              "question": "Which term describes the air that is mixed with fuel gas before ignition?",
+              "options": [
+                "Primary air",
+                "Excess air",
+                "Dilution air"
+              ],
+              "correct_answer": "a",
+              "explanation": "Primary air mixes with fuel before ignition"
+            },
+            {
+              "question": "What is the purpose of dilution air?",
+              "options": [
+                "Dilution air removes the hot vent gases and controls the draft influence on the combustion chamber",
+                "Dilution air increases the hot vent gases and controls the draft influence on the combustion chamber",
+                "Dilution air cools the hot vent gases and controls the draft influence on the combustion chamber"
+              ],
+              "correct_answer": "c",
+              "explanation": "Dilution air cools hot vent gases and controls draft"
+            },
+            {
+              "question": "What is the air-gas ratio that applies to all fuel gases?",
+              "options": [
+                "Each (1000 Btu of fuel input) × 10 ft3 air = perfect combustion",
+                "Each (1000 Btu of fuel input) × 10 ft3 air = complete combustion",
+                "Each (1000 Btu of fuel input) × 10 ft3 air = perfect ignition"
+              ],
+              "correct_answer": "a",
+              "explanation": "1000 Btu × 10 ft3 air = perfect combustion ratio"
+            },
+            {
+              "question": "What is considered an acceptable percentage of excess to combustion air for an atmospheric burner?",
+              "options": [
+                "10%+",
+                "50%+",
+                "100%+"
+              ],
+              "correct_answer": "b",
+              "explanation": "Atmospheric burners typically use 50% excess air"
+            },
+            {
+              "question": "What are the total air volume requirements for an atmospheric burner?",
+              "options": [
+                "10 ft3 of air for each 1000 Btu of input",
+                "15 ft3 of air for each 1000 Btu of input",
+                "30 ft3 of air for each 1000 Btu of input",
+                "50 ft3 of air for each 1000 Btu of input"
+              ],
+              "correct_answer": "c",
+              "explanation": "Total air requirement is 30 ft3 per 1000 Btu input"
+            },
+            {
+              "question": "What are the three colour zones of a stable Bunsen flame?",
+              "options": [
+                "Center cone, top cone, outer mantle",
+                "Bottom cone, top cone, outer mantle",
+                "Inner cone, outer cone, inner mantle",
+                "Inner cone, outer cone, outer mantle"
+              ],
+              "correct_answer": "d",
+              "explanation": "Bunsen flame has inner cone, outer cone, and outer mantle"
+            },
+            {
+              "question": "Which of the following is not a component of the combustion triangle?",
+              "options": [
+                "Carbon dioxide",
+                "Fuel",
+                "Ignition",
+                "Oxygen"
+              ],
+              "correct_answer": "a",
+              "explanation": "Combustion triangle consists of fuel, ignition, and oxygen"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. The chemical designation for natural gas is _______.",
+              "options": [
+                "CH2",
+                "CH3",
+                "CH4",
+                "CH5"
+              ],
+              "correct_answer": "c",
+              "explanation": "Natural gas (methane) is CH4"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. Propane has an ignition temperature of __________.",
+              "options": [
+                "920 °F",
+                "1030 °F",
+                "1040 °F",
+                "1050 °F"
+              ],
+              "correct_answer": "a",
+              "explanation": "Propane ignites at approximately 920 °F"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. _________ air can be further classified as primary air and secondary air.",
+              "options": [
+                "Combustion",
+                "Excess",
+                "Ventilation",
+                "Total"
+              ],
+              "correct_answer": "a",
+              "explanation": "Combustion air is divided into primary and secondary"
+            },
+            {
+              "question": "Which term describes the volume of air required for an appliance to operate safely and efficiently?",
+              "options": [
+                "Combustion air",
+                "Total air",
+                "Excess air",
+                "Ventilation air"
+              ],
+              "correct_answer": "b",
+              "explanation": "Total air includes combustion, excess, and dilution air"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. The volume of excess air required for the efficient operation of an atmospheric burner is equal to _________ of the combustion air requirement (or 5 ft3 for each 1000 Btu).",
+              "options": [
+                "25%",
+                "50%",
+                "75%",
+                "100%"
+              ],
+              "correct_answer": "b",
+              "explanation": "Excess air equals 50% of combustion air (5 ft3 per 1000 Btu)"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. The volume of dilution air required for an appliance equipped with a draft control device should be equal to the total combustion and excess air supplied by the burner (or 15 ft3 for each 1000 Btu).",
+              "options": [
+                "True",
+                "False"
+              ],
+              "correct_answer": "a",
+              "explanation": "Dilution air = combustion + excess air (15 ft3 per 1000 Btu)"
+            },
+            {
+              "question": "Match the types of air (1–7) to their descriptions (a–g). [Question involves matching - simplified to text]",
+              "options": [
+                "Dilution air cools hot vent gases",
+                "Excess air ensures complete combustion",
+                "Primary air mixes with fuel before ignition"
+              ],
+              "correct_answer": "a",
+              "explanation": "Air types have specific roles in the combustion process"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. The combustion process must maintain a temperature of approximately _________ for natural gas.",
+              "options": [
+                "1000 °F (538 °C)",
+                "1100 °F (593 °C)",
+                "1200 °F (649 °C)",
+                "1300 °F (704 °C)"
+              ],
+              "correct_answer": "d",
+              "explanation": "Natural gas combustion requires approximately 1300 °F"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. To achieve perfect combustion, 100 000 Btu/h requires _________ of combustion air.",
+              "options": [
+                "10 ft3",
+                "100 ft3",
+                "1000 ft3",
+                "10 000 ft3"
+              ],
+              "correct_answer": "c",
+              "explanation": "100,000 Btu × 10 ft3/1000 Btu = 1000 ft3 of combustion air"
+            }
+          ]
+        },
+        {
+          "chapter_number": 3,
+          "chapter_name": "Investigating gas leaks and incomplete combustion",
+          "pages": "47-64",
+          "topics": [
+            "Combustible gas indicators (CGI)",
+            "CGI calibration and conversion charts",
+            "CGI accessories and usage",
+            "Investigating gas leaks procedures",
+            "Response to readings above/below LEL",
+            "Evacuation procedures",
+            "Carbon monoxide (CO) testing",
+            "CO concentrations and health effects",
+            "Types of CO testers (pump, electronic)",
+            "Checking products of combustion",
+            "Venting system checks",
+            "Heat exchanger inspection",
+            "Effects of corrosive vapours",
+            "Chlorinated hydrocarbons",
+            "Spotting corrosion"
+          ],
+          "content": "Chapter 3 - Investigating gas leaks and incomplete combustion\n\nCombustible gas indicators (CGI)\nCGIs are instruments used to detect and measure concentrations of combustible gases in air. They are calibrated to specific gases and use conversion charts to test for other gases.\n\nConversion charts\nEach CGI is calibrated to a specific gas at the manufacturer's plant. A CGI calibrated for one gas may or may not read other substances correctly.\n\nCommon gases tested with CGI include: acetone, halon, naphtha, alcohol, hydrogen sulphide, natural gas, ammonia, industrial solvents, propane, butane, jet fuel, refrigerant, carbon monoxide, lacquer thinners, gasoline, methane, and smoke.\n\nCGI accessories and calibration\nUse non-conducting probes when probing overhead for electrical safety. CGIs cannot operate when filled with liquid - use liquid traps when sampling enclosed vessels. Periodically check calibration using test kits.\n\nInvestigating gas leaks\n\nStep 1 — Prepare\na) Prepare the CGI (switch on and purge in clean air)\nb) Bring useful equipment: leak detection soap solution, pressure gauge/manometer, Class 1 safety flashlight, pipe wrench\n\nStep 2 — Knock, do not use doorbell\nDo not use doorbell as it can cause ignition if gas is present near the power source.\n\nStep 3 — Communicate\na) Identify yourself\nb) Inquire about the situation\nc) Inform occupants: Do not smoke, use appliances, operate electrical switches, or use phones/pagers/cell phones in building\n\nStep 4 — Take a reading\nFor natural gas (specific gravity 0.60 - lighter than air): Test in basement stairwell near top of door\nFor propane (specific gravity 1.52 - heavier than air): Begin testing at floor level\n\nStep 5 — Take action based on LEL reading\n\nWhen reading is ABOVE the LEL (explosive limit):\n- Immediately evacuate all occupants including yourself\n- Stay calm and positive when directing people\n- Do NOT cross-ventilate (dangerous when gas concentrations near explosive limits)\n- Shut off service riser as you exit if able\n- Do NOT return to building with tools\n- Call for help from safe distance (fire department, police, gas utility)\n- Keep everyone at safe distance from hazard area\n- Remember: Buildings are replaceable, lives are not\n\nWhen reading is WELL BELOW the LEL:\n- Remain calm\n- Operate exhaust fans, open windows and doors\n- Use forced air ventilation (portable cooling fan) to create cross-draft\n- For propane, place fan low on floor\n- Remember: fans do not have spark-proof motors, only use when gas is below LEL\n\nStep 6 — Cut off ignition sources (when below LEL)\n- Open master breaker at electrical panel\n- Close valves on lines supplying gas appliances\n\nStep 7 — Determine source of leak\nUse both nose and CGI to help determine leak source.\n\nFaint smell with strong reading: Likely outside, below-ground leak that has infiltrated building\n- Gas diffuses through soil, finding way into conduits, sewer lines, foundations\n- Odorant compounds (mercaptans) adhere to soil particles, so odour may be absent\n- Call gas utility supplier\n- Go outside and assess situation on street\n- Turn off propane cylinder/tank service valve if applicable\n\nStrong smell: Likely inside leak\n- Check all conduit entry points, gas service entry, below-grade wall cracks\n- Check floor drains, sump pump holes, ceiling atmosphere\n- Check piping, fittings, manifolds, low-lying areas\n- Take dial-gauge/manometer test reading\n- Do soap test\n- Shut off all appliances and listen for gas passing\n\nCarbon monoxide (CO) testing\n\nCO characteristics\nCO is colourless, odourless, toxic gas with specific gravity of 0.98 (collects in higher locations). Although odourless, aldehydes and sulphur dioxide (also from incomplete combustion) create pungent odour that may accompany CO.\n\nCO is product of incomplete combustion. It bonds with hemoglobin 200 times more easily than oxygen, forming carboxyhemoglobin. Death occurs rapidly at high concentrations. Chronic exposure to low levels compounds preexisting health conditions with flu-like symptoms.\n\nCO concentrations and health consequences:\n- 200 ppm for 2-3 h: Slight headache, fatigue, dizziness, nausea\n- 400 ppm for 1-2 h: Frontal headache; 3 h+ life-threatening\n- 800 ppm for 45 min: Dizziness, nausea, convulsions; 2 h unconscious; 2-3 h death\n- 1600 ppm for 20 min: Headache, dizziness, nausea; 60 min death\n- 3200 ppm for 5-10 min: Headache, dizziness, nausea; 30 min death\n- 6400 ppm for 1-2 min: Headache, dizziness, nausea; 10-15 min death\n- 12,800 ppm for 1-3 min: Death\n\nCarbon monoxide testers\n\nPump-type CO testers:\n- Tube-type (Draeger, Gastec): Single-use tube with dry chemical that discolors\n- Liquid-type: Partially filled with liquid that absorbs CO and expands\n- Continuous sampling: Takes continuous sample with dial indicator or printout\n\nElectronic CO testers:\n- Portable handheld solid-state instruments (e.g., Bacharach Monoxor III)\n- Continuous readout digital displays\n- Measure 0 to 2000 ppm CO\n- Sensor probe inserted into flue or airspace\n\nInvestigating incomplete combustion\n\nStep 1 — Check products of combustion\nCheck (air-free basis) products of combustion on all vented appliances. If vented appliance produces more than 400 ppm CO (air-free) and cannot be adjusted, disconnect and red-tag. Under normal operation, appliance should produce less than 50 ppm CO air-free.\n\nIf products of combustion test normal, check house atmosphere for CO. If indoor CO exceeds 35 ppm, ventilate building and shut off appliances.\n\nStep 2 — Check appliance venting system\nCheck venting is working properly with appliances off and on. If chimney/vent is reversing or down drafting, determine cause: active fireplace, exhaust fans, combustion/ventilation air adequacy, chimney height, termination location, rain cap on Type B vent.\n\nStep 3 — Check other fuel-burning appliances\nCheck for other fuel-burning appliances (ovens, ranges, fireplaces, water heaters, wood stoves, oil-fired appliances). Check venting system sizing is appropriate for number and type of appliances. Check condition and clean debris from chimney cleanout.\n\nStep 4 — Check furnace heat exchanger\nCheck for cracks. If found, inform customer heat exchanger needs replacement or new furnace. Check for secondary heat exchanger and verify it's acceptable type in good condition.\n\nStep 5 — Check appliance input\nClock gas meter to determine input for each vented residential appliance. Perform operational check of industrial/commercial equipment. Check for other odour causes (paint/solvent fumes, kerosene heaters, auto engines).\n\nEffects of corrosive vapours\n\nCorrosive substances\nMost common corrosive element is chlorinated hydrocarbons (solvents, cleaners, refrigerants). When heated, molecules break down to form corrosive substances.\n\nBe suspicious of: degreasing materials, jewellery cleaners, electronic component cleaners, glues (except water-based), grease/wax/ink removers, aerosol spray propellants, freon-type refrigerants, paint/varnish strippers, dry-cleaning solvents, swimming pool chlorine, cat litter, bleaches.\n\nIf chemical name contains \"chlor\" or \"fluor\", likely problematic. Known substances: chlordane, refrigerants, methylene chloride, perchloride, trichlorophenol, trichlorfon.\n\nChemistry of corrosion\nSimplified equation: CH2Cl2 + O2 = CO2 + 2HCl\n(methylene chloride + oxygen = carbon dioxide + hydrogen chloride)\n\nHydrogen chloride is very soluble in water. With slightest trace of water, forms hydrochloric acid which attacks appliances and heating system components.\n\nAt beginning and end of each burner cycle, heat exchanger is cool and water in combustion products condenses. Hydrogen chloride dissolves to form hydrochloric acid, which is extremely corrosive.\n\nSpotting corrosion\nLooks like ordinary rust with fine red powder or large rusty scales/flakes. Additional characteristic: whitish powdery streaks running downward and drying on galvanized steel vents. Inner surfaces show white powder. In fresh corrosion, streaks may be wet and appear oily.\n\nCorrective measures\nDo not install appliance in room with corrosive vapours atmosphere. When corrosion discovered, take corrective measures before replacing equipment.\n\nHelpful measures:\n1) Store, transfer, use solvent in closed, fan-ventilated room with no gas-fired equipment\n2) Remove partially used containers of solvent\n3) Consider direct vent/roof-mounted heaters (all combustion air from outdoors), or hot water/steam heating with boiler/water heater in enclosed area away from solvent",
+          "assignment_questions": [
+            {
+              "question": "Which of the following is a type of CGI?",
+              "options": [
+                "Handheld",
+                "Pump",
+                "Filament",
+                "Wand"
+              ],
+              "correct_answer": "b",
+              "explanation": "Pump-type is a common CGI category"
+            },
+            {
+              "question": "How are CGIs calibrated?",
+              "options": [
+                "By applying a known concentration of gas to the instrument, then checking the response",
+                "By applying an unknown concentration of gas to the instrument, then checking the response",
+                "By checking the response of the instrument at a test point"
+              ],
+              "correct_answer": "a",
+              "explanation": "CGIs are calibrated using known gas concentrations"
+            },
+            {
+              "question": "What must be the first concern when responding to a gas leak call?",
+              "options": [
+                "Your response time",
+                "The type of odour present",
+                "Safety (both your own and the public's)"
+              ],
+              "correct_answer": "c",
+              "explanation": "Safety is always the primary concern in gas leak situations"
+            },
+            {
+              "question": "Where is an appropriate place to test for combustible gas if a natural gas appliance is located in the basement?",
+              "options": [
+                "In the basement stairwell",
+                "At the front door of the house",
+                "At the vent termination of an appliance"
+              ],
+              "correct_answer": "a",
+              "explanation": "Natural gas (lighter than air) rises to upper areas like stairwells"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. In general, one of the viable methods to ventilate combustible gas is to open doors and windows.",
+              "options": [
+                "True",
+                "False"
+              ],
+              "correct_answer": "a",
+              "explanation": "Opening doors and windows is a viable ventilation method when safe to do so"
+            },
+            {
+              "question": "How quickly can death occur if a person is exposed to a concentration of 800 ppm of CO?",
+              "options": [
+                "30 min",
+                "1 h",
+                "2 to 3 h",
+                "8 h"
+              ],
+              "correct_answer": "c",
+              "explanation": "800 ppm CO exposure for 2-3 hours can be fatal"
+            },
+            {
+              "question": "What must be done if a crack is found in a furnace heat exchanger?",
+              "options": [
+                "The furnace heat exchanger must be welded",
+                "The furnace heat exchanger must be patched with furnace cement",
+                "Nothing — the furnace is safe to use.",
+                "The heat exchanger (or entire furnace) must be replaced"
+              ],
+              "correct_answer": "d",
+              "explanation": "Cracked heat exchangers must be replaced for safety"
+            },
+            {
+              "question": "What can exposure to a CO concentration of 1600 ppm for 20 min cause?",
+              "options": [
+                "Dizziness, nausea, and convulsions",
+                "Headache, dizziness, and nausea",
+                "Death",
+                "Unconsciousness"
+              ],
+              "correct_answer": "b",
+              "explanation": "1600 ppm for 20 min causes headache, dizziness, and nausea"
+            },
+            {
+              "question": "What can exposure to a CO concentration of 800 ppm for 45 min cause?",
+              "options": [
+                "Slight headache, tiredness, dizziness, and nausea",
+                "Severe headache, dizziness, and nausea",
+                "Dizziness and nausea",
+                "Dizziness, nausea, and convulsions"
+              ],
+              "correct_answer": "d",
+              "explanation": "800 ppm for 45 min causes dizziness, nausea, and convulsions"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. Down-draft spillage of a vent can be caused by the draw of an exhaust fan elsewhere in the building.",
+              "options": [
+                "True",
+                "False"
+              ],
+              "correct_answer": "a",
+              "explanation": "Exhaust fans can create negative pressure causing down-draft spillage"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. The operation of a fireplace on the main floor of a home can cause a chimney, to which a basement furnace is venting, to reverse its venting action.",
+              "options": [
+                "True",
+                "False"
+              ],
+              "correct_answer": "a",
+              "explanation": "Fireplace operation can create pressure differences causing vent reversal"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

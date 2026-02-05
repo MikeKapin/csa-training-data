@@ -1,0 +1,937 @@
+{
+  "unit_name": "Unit 19 - Forced warm-air heating systems",
+  "unit_number": 19,
+  "category": "G2",
+  "editions": {
+    "8th_2025": {
+      "unit_name": "Unit 19 - Forced warm-air heating systems",
+      "edition": "8th Edition",
+      "publication_date": "June 2025",
+      "is_primary": true,
+      "category": "G2",
+      "total_chapters": 3,
+      "total_pages": 96,
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "chapter_name": "Air conditioning, condensate, venting, sizing, and commissioning",
+          "pages": "27-36",
+          "topics": [
+            "Air conditioning as common addition to furnace heating system",
+            "Cased coil added downstream of furnace",
+            "Simple air-conditioning system with furnace (118 psig, 473 psig, 95 °F outdoor, 75 °F return, 55 °F supply)",
+            "Fused disconnect, condensing unit, concrete pad, control panel access wrapper",
+            "Condensate removal from combustion process",
+            "Condensate drain piping for liquid waste",
+            "Manufacturers incorporate condensate collection in appliance design",
+            "Additional condensate drainage for some vent pipe installations",
+            "Downward vent drainage (40 in upflow/downflow furnace, 6 in min, max 15 equivalent feet)",
+            "Horizontal pipes supported at maximum 3 ft intervals, slope 1/4 in per ft",
+            "Drain tee or inline fitting in vent pipe for condensate removal",
+            "Grade all vent piping towards appliance and condensate-removal fitting",
+            "Insulate piping if runs through unheated section",
+            "Condensate piping slopes downward to DWV system",
+            "Condensate pump or sump pump if no floor drain near furnace",
+            "Place piping where condensate won't freeze",
+            "Local jurisdictions may require neutralizer due to corrosive effects on DWV",
+            "Cap in piping to check and clear blockages",
+            "Blocked condensate drain causes condensate to run back into furnace (shutdown or damage)",
+            "Condensate safety-level sensor detects condensate running back, causes shutdown",
+            "High-efficiency furnaces must have condensate trap (separates vent system pressure from drain system)",
+            "Improperly installed trap or two traps creates air pocket preventing drainage",
+            "Venting practices (B-vents per CSA B149.1, Category-IV furnaces use Type BH vent or special systems)",
+            "Type BH vent material (ULC S636, factory-made parts, PVC plastic, CPVC plastic, PP polypropylene, stainless steel)",
+            "Combustion air supply pipe only needs manufacturer certification (PVC, CPVC, ABS)",
+            "Sizing per manufacturer literature (each fitting accounted as equivalent length)",
+            "Installation requirements (pipe grade, pipe-support, expansion/contraction accommodation)",
+            "Canadian applications require primer and cement from single-system manufacturer",
+            "Terminations per CSA B149.1 requirements",
+            "Category IV furnaces allow through-the-roof or sidewall terminations",
+            "Sidewall venting easier (saves time, materials, labour, interior living space)",
+            "Caution for sidewall vents (exhaust dissipation, frost/ice buildup on adjacent building)",
+            "Moisture absorption in building materials over long period impacts durability",
+            "Rooftop termination (min 12 in/300 mm above anticipated snow level, max 24 in/600 mm above roof level)",
+            "Sidewall termination (min 24 in/600 mm clearance to overhang, 12 in/300 mm between intake and vent bottom)",
+            "Application and approval of furnace installation",
+            "Some municipalities require heat-loss calculation with building permit application",
+            "Gas technician/fitter can do heat-loss calculations if trained",
+            "Some jurisdictions require certificate for heat-loss/heat-gain calculations competency",
+            "Furnace installed per codes unless AHJ approves alteration",
+            "Appliance only used for purpose made for, per manufacturer specifications",
+            "Must be certified by recognized certification organization (e.g., CSA Group)",
+            "Confirm with AHJ acceptable certification mark (e.g., Technical Safety BC directive)",
+            "Appliance may need conversion for another type of gas",
+            "Before pipeline gas appliance activation, notify distributor of appliance type and address",
+            "Sizing forced-air furnace (understand heat transfer and rate of transfer)",
+            "Undersizing leads to heating problems, oversizing creates inefficient energy usage",
+            "Incorrect direction creates uneven heating",
+            "Heat loss or gain varies during day, comfort temperature varies with activity level",
+            "Heat loss and heat gain factors (building materials, infiltration, occupants and activities, heating/cooling equipment capacity)",
+            "Replacing furnaces (electric with gas, oil-burning with gas, older gas with more efficient)",
+            "Heat-loss calculation must be done before replacing (old furnace may not have been sized properly, home may have been upgraded)",
+            "Heat-loss calculations per relevant codes and standards using acceptable methods per AHJ",
+            "Evaluate other gas-fired appliances dependent on existing furnace system for venting",
+            "Type B vented hot-water tank vent combined with furnace vent must be evaluated after new furnace installation",
+            "Orphaned domestic hot-water tank may need venting changes",
+            "Existing old common vent may be oversized and need resizing (typically liner system)",
+            "Startup and commissioning (verify and adjust so system performs per manufacturer and owner requirements)",
+            "Series of tests with instrumentation, compare against acceptable values",
+            "Results recorded on commissioning checklist and provided to homeowner",
+            "HRAI and TECA documentation provides specific guidance",
+            "Commissioning process: inspect system components, check manifold gas pressure (manufacturer nameplate value)",
+            "Clock the meter (high-firing rate must not be outside 10% of rated Btu/h input)",
+            "Calculate furnace temperature rise (measure supply and return air temperature)",
+            "Confirm temperature rise within manufacturer stated tolerance",
+            "Two-stage gas-valve furnace measured at both high fire and low fire",
+            "Adjust blower speed to change temperature rise if required",
+            "Old low/mid-efficiency furnaces had single-speed or multi-speed motors",
+            "Modern high-efficiency furnaces use variable speed technology",
+            "Complete ESP test and confirm aligned with HRAI recommendations or TECA",
+            "Complete ductwork modifications as necessary",
+            "Set up and program thermostat for optimal operation and customer comfort",
+            "Newer digital thermostats can have several dozen options",
+            "Review operation and maintenance requirements with homeowner (CSA B149.1 requirement)",
+            "Provide all furnace-related documentation and inform of location (e.g., furnace pocket)",
+            "Document all testing on commissioning checklist and record outstanding issues"
+          ],
+          "content": "Chapter 1 covers air conditioning, condensate removal, venting practices, application and approval, sizing, and commissioning of forced warm-air heating systems. Air conditioning is common addition to furnace heating system. Cased coil added downstream of furnace can have significant effect on appliance operation. Gas technician/fitter needs basic understanding of air-conditioning system and associated components. Simple air-conditioning system with furnace shows 118 psig liquid line, 473 psig at condensing unit, outdoor air at 95 °F, 75 °F return air temperature, 55 °F supply air temperature. Components include fused disconnect, control panel access wrapper, condensing unit on concrete pad with 1 ft 0 in space required from unit to wall, and access cover on furnace.\n\nCondensate removal: condensate drain piping drains all liquid waste produced by combustion process. Manufacturers of condensing furnaces incorporate condensate collection into appliance design, but some vent pipe installations may require additional condensate drainage. Downward vent drainage requires 40 in upflow or downflow furnace with 6 in minimum height, downward vent length limited to maximum 15 equivalent feet, all horizontal pipes supported at maximum 3 ft intervals, slope 1/4 in per ft. Furnace may be in vertical or horizontal configuration.\n\nInstall drain tee or inline fitting in vent pipe to provide means for condensate removal that may form in venting system. Grade all vent piping towards appliance and condensate-removal fitting (must be as close to appliance as possible or at any point where condensate may form, more than one fitting if required). If vent piping runs through unheated section of building, insulate piping.\n\nCondensate piping from appliance slopes downward and terminates into DWV system. If no floor drain near furnace, condensate pump or sump pump may be required to pump condensate to drain. Place piping where condensate won't freeze so pipes won't become blocked. Due to potential corrosive effects of condensate on DWV system, local jurisdictions may require neutralizer be installed. Install cap in piping to allow checking and clearing pipe of any blockages. If condensate drain piping becomes blocked, condensate can run back down piping and into furnace causing furnace to shut down or damaging furnace. Sometimes condensate safety-level sensor can be installed to detect when condensate running back into furnace (sensor causes furnace to shut down).\n\nHigh-efficiency furnaces must have condensate trap to separate pressure of vent system from drain system. If condensate trap improperly installed or there are two condensate traps, air pocket between traps quickly prevents draining of system.\n\nVenting practices: sizing and configuration criteria for B-vents covered in CSA B149.1. Modern Category-IV furnaces use Type BH vent or special venting systems and installed using manufacturer instructions. Furnace manufacturers have information in literature on recommended practices. Overview of vent material, sizing, installation requirements, and terminations.\n\nMaterial: when selecting material for vent of direct-vent appliance, material needs to be Type BH vent material. CSA B149.1 states Type BH vent is \"vent complying with ULC S636 consisting entirely of factory-made parts, each designed to be assembled with others without requiring field fabrication, and intended for venting gas appliances\". Typical ULC S636 materials for venting condensing direct-vent appliance are PVC plastic, CPVC plastic, PP (polypropylene) plastic, and stainless steel. Combustion air supply pipe for direct-vent appliance only needs to be certified for use by manufacturer (most likely does not need ULC S636-certified). Common pipe materials for combustion air supply can be PVC plastic, CPVC plastic, and ABS.\n\nSizing: sizing of vent and combustion air-supply pipes for direct-vent appliance done using manufacturer literature information. Each pipe size has maximum length to ensure appliance operation not affected. Each fitting installed on vent or combustion air piping must be accounted for as equivalent length of pipe.\n\nInstallation requirements: manufacturer installation requirements must be followed. Pipe grade and pipe-support requirements very important to long-term operation. All materials expand and contract as heat and cool so movement must be accommodated. Canadian applications require primer and cement from single-system manufacturer. Pipe manufacturers include guidelines on correct primer and cement for each material type as well as application instructions.\n\nTerminations: vents must be properly terminated per CSA B149.1 requirements. Category IV furnace manufacturers allow through-the-roof or sidewall terminations. Sidewall venting easier for builders and equipment installers (saves time, materials, labour, interior living space by avoiding flue chases) in both new construction and renovations. These inherent advantages made sidewall venting increasingly popular in Canada. Caution must be used when designing and installing sidewall vents to ensure exhaust dissipated away from building and occupants. Significant chance of frost and ice buildup on adjacent building if vent not located correctly. If frost and ice buildup occur, moisture absorption within building materials not noticeable immediately but over long period can have big impact on durability.\n\nRooftop termination shows preferred method for Category IV appliance. Combustion air intake minimum 12 inches (300 mm) above anticipated snow level, maximum 24 inches (600 mm) above roof level. 4 3/4 inch (115 mm) for 2 inch pipe, 7 3/8 inch (190 mm) for 3 inch pipe. Maximum 18 inches (450 mm) separation. Preferred method is two small roof openings as opposed to one larger one due to ease of sealing.\n\nSidewall termination shows vent elbow perpendicular to side wall, minimum 24 inch (600 mm) clearance to any overhang, 12 inch (300 mm) between bottom of intake and bottom of vent, minimum 12 inch (300 mm) above anticipated snow level. Different configurations for installation below or above anticipated snow level.\n\nApplication and approval: some municipalities require heat-loss calculation accompany application for building permit for new building. Heat-loss calculations can be done by gas technician/fitter if trained in this practice. Some jurisdictions require certificate proving competency in heat-loss/heat-gain calculations. Gas technician/fitter can take additional third-party training to receive this certification.\n\nFurnace must be installed per codes unless AHJ has approved alteration. Appliance may only be used for purpose it was made for. Must be installed and used per manufacturer specifications and suitable for type and pressure of gas available. Appliance must be certified by recognized certification organization (e.g., CSA Group). Confirm with AHJ that furnace has acceptable certification mark (e.g., Technical Safety BC issued directive titled \"Approved certification marks for gas appliances\" to help gas technicians/fitters). Appliance may need to be converted for another type of gas. In some jurisdictions, before appliance using gas delivered by pipeline is activated, gas technician/fitter must notify distributor (natural gas utility or propane distributor) of appliance type and address where appliance being installed.\n\nSizing forced-air furnace: as part of correctly sizing, gas technician/fitter must understand how heat is transferred and rate of transfer. Otherwise system may be undersized (lead to problems in heating areas), oversized (create inefficient energy usage), or directed to incorrect areas (create uneven heating). Heat loss or gain can vary considerably during day. Temperature that feels comfortable when people active may not feel comfortable when resting.\n\nHeat loss and heat gain: heat is form of energy so cannot be created or destroyed, only transferred. Many factors contribute including building materials, infiltration factors, number of building occupants and activities, and capacity of heating and cooling equipment being used. Calculation of heat loss and gain and requirements for heat transfer in various building types discussed in detail in Air handling unit.\n\nReplacing various types of furnaces: gas technician/fitter usually required to change furnace currently in operation rather than redesign whole system. Can involve replacing electric furnace with gas furnace, oil-burning furnace with gas furnace, or older gas furnace with more efficient furnace. In these three cases, system must be sized so replacement furnace operates properly.\n\nBefore replacing electric, oil-fired, or older gas-fired furnace with higher-efficiency gas furnace, heat-loss calculation must be done. Important as old furnace may not have been sized properly or home may have been upgraded after furnace installed. Heat-loss calculations must be completed per relevant codes and standards using acceptable methods of practice as recognized by AHJ.\n\nWhen updating to more efficient furnace, gas technician/fitter needs to evaluate other gas-fired appliances that may be dependent on existing furnace system for venting. These can include Type B vented hot-water tanks and other equipment related to home HVAC system. For example, Type B vented hot-water tank vent combined with furnace vent must be evaluated after new furnace installed to determine whether venting changes required to accommodate \"orphaned\" domestic hot-water tank. After checking size of vent, may be determined existing old common vent is oversized and needs to be resized, typically by installing liner system.\n\nStartup and commissioning: processes through which new furnace system is verified and adjusted so performs per manufacturer and owner requirements. Beyond visual inspection of components, series of tests should be completed with help of instrumentation. Results of testing compared against acceptable values (often manufacturer-specified) to calibrate new furnace. Results recorded on commissioning checklist and provided to homeowner. Specific guidance on procedures and equipment needed for commissioning provided in HRAI and TECA documentation.\n\nSimplified commissioning process includes at least: inspect individual system components, check manifold gas pressure to confirm meets manufacturer's nameplate value, check firing rate of furnace by \"clocking the meter\" (high-firing rate must not be outside 10% of rated Btu/h input), calculate furnace temperature rise by measuring air temperature of supply and return air respectively (confirm temperature rise lies within manufacturer's stated tolerance, e.g., measure temperature rise on two-stage gas-valve furnace at both high fire and low fire, if required adjustment can be made to blower speed to change temperature rise, older low-efficiency and medium-efficiency furnaces had single-speed or multi-speed motors driving blower but modern high-efficiency furnaces use variable speed technology), complete ESP test and confirm tested value aligned with HRAI recommendations or TECA (complete ductwork modifications as necessary), set up and program thermostat to achieve optimal furnace operation and customer comfort (newer digital thermostats can have several dozen options requiring decisions from homeowner), review operation and maintenance requirements of furnace with homeowner (always provide homeowner with all furnace-related documentation and inform of its location e.g., furnace pocket once commissioned - this is CSA B149.1 requirement), document all testing information on commissioning checklist and record any outstanding issues for follow-up with homeowner.\n\nSample diagram used with furnace commissioning worksheet shows four key measurements: 1) Gas line and manifold pressure (gas meter to gas line), 2) Clocking the meter, 3) Temperature rise (T1 return, T2 supply), 4) External static pressure test.",
+          "assignment_questions": [
+            {
+              "question": "If the venting on a high-efficiency furnace runs through an unheated space, what must be done?",
+              "options": [
+                "a) It must be insulated",
+                "b) It must be protected from damage",
+                "c) It must be increased by one pipe size"
+              ],
+              "correct_answer": "a) It must be insulated"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. To determine that the existing ductwork is adequately sized for a new high-efficiency furnace, the installer would _______.",
+              "options": [
+                "a) Complete a heat-loss calculation",
+                "b) Check the blower motor amp draw",
+                "c) Perform an ESP test",
+                "d) Confirm that the temperature rise is within manufacturer specifications"
+              ],
+              "correct_answer": "c) Perform an ESP test"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. If an HRV is used in conjunction with a furnace, its warm air supply is connected to the furnace system _______.",
+              "options": [
+                "a) On the return air ducting but at least 3 m from the furnace",
+                "b) On the supply air ducting but at least 3 m from the furnace",
+                "c) On the return air ducting but no more than 3 m from the furnace",
+                "d) On the supply air ducting but no more than 3 m from the furnace"
+              ],
+              "correct_answer": "a) On the return air ducting but at least 3 m from the furnace"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. If a furnace system has air-conditioning added, the cased coil goes _______.",
+              "options": [
+                "a) Downstream of the burner and downstream of the blower",
+                "b) Upstream of the burner and upstream of the blower",
+                "c) Downstream of the burner but upstream of the blower",
+                "d) Upstream of the burner but downstream of the blower"
+              ],
+              "correct_answer": "c) Downstream of the burner but upstream of the blower"
+            },
+            {
+              "question": "In which of the following position(s) can a condensing furnace be installed?",
+              "options": [
+                "a) Up or horizontal left only",
+                "b) Up, horizontal left, horizontal right",
+                "c) Up, down, horizontal right, horizontal left",
+                "d) Only positions approved by the manufacturer"
+              ],
+              "correct_answer": "d) Only positions approved by the manufacturer"
+            },
+            {
+              "question": "What is the AFUE rating of a high-efficiency (condensing) furnace?",
+              "options": [
+                "a) 83% or greater",
+                "b) Greater than 83%",
+                "c) 90% or greater",
+                "d) Greater than 90%"
+              ],
+              "correct_answer": "c) 90% or greater"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. A high-efficiency furnace is _______.",
+              "options": [
+                "a) Category I",
+                "b) Category II",
+                "c) Category III",
+                "d) Category IV"
+              ],
+              "correct_answer": "d) Category IV"
+            },
+            {
+              "question": "Which of the following type(s) of furnace use an inducer fan?",
+              "options": [
+                "a) Mid-efficiency only",
+                "b) High-efficiency only",
+                "c) Mid-efficiency, high-efficiency",
+                "d) Low-efficiency, mid-efficiency, high-efficiency"
+              ],
+              "correct_answer": "c) Mid-efficiency, high-efficiency"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. Condensate is corrosive because _______.",
+              "options": [
+                "a) It has a low pH and low acidity",
+                "b) It has a high pH and low acidity",
+                "c) It has a high pH and high acidity",
+                "d) It has a low pH and high acidity."
+              ],
+              "correct_answer": "d) It has a low pH and high acidity."
+            },
+            {
+              "question": "Complete the following sentence with the correct option. The draft pressure in the vent from a condensing furnace is _______.",
+              "options": [
+                "a) Neutral",
+                "b) Positive",
+                "c) Negative",
+                "d) Positive or negative (depending on the input)"
+              ],
+              "correct_answer": "b) Positive"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. Type BH vents are sized _______.",
+              "options": [
+                "a) Using the furnace manufacturer's literature",
+                "b) Using the vent-pipe manufacturer's literature",
+                "c) Using the vent-sizing tables in CSA B149.1",
+                "d) Using the outlet size of the vent on the appliance and increasing one size for every 50 ft"
+              ],
+              "correct_answer": "a) Using the furnace manufacturer's literature"
+            },
+            {
+              "question": "When upgrading to a high-efficiency furnace from a low-efficiency model, the appliance input is decided _______.",
+              "options": [
+                "a) By completing a heat-loss calculation",
+                "b) By replacing the old furnace with the same input",
+                "c) By choosing a model that has the same size supply air plenum",
+                "d) By choosing a modulating furnace with a minimum output equal to 50% of the old furnace input"
+              ],
+              "correct_answer": "a) By completing a heat-loss calculation"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. The vent from a condensing appliance can be connected to the Type B vent of the appliance it will replace.",
+              "options": [
+                "a) True (if the existing vent is the correct size)",
+                "b) True (if the existing Type B vent is a sidewall termination)",
+                "c) True (if an aluminum liner of the correct size is installed)",
+                "d) False (a new vent needs to be installed)"
+              ],
+              "correct_answer": "d) False (a new vent needs to be installed)"
+            },
+            {
+              "question": "In what way is vent piping graded for a sidewall installation?",
+              "options": [
+                "a) Perfectly horizontal",
+                "b) Toward the appliance",
+                "c) Away from the appliance",
+                "d) To a low point created midway in the system"
+              ],
+              "correct_answer": "b) Toward the appliance"
+            }
+          ]
+        },
+        {
+          "chapter_number": 2,
+          "chapter_name": "Servicing forced-air heating systems",
+          "pages": "54-64",
+          "topics": [
+            "Check gas piping to furnace (approved method: combustible-gas leak detector, chloride-free soap and water, equivalent non-flammable solution)",
+            "Repair or replace defective parts",
+            "Clean/replace air filter(s) (remove and clean or replace as required)",
+            "Consult manufacturer literature for high-efficiency filters with high pressure drop",
+            "Many furnace manufacturers have filter chart specifying size and type",
+            "Some furnaces contain more than one filter",
+            "Convert gas valve (furnace conversion from natural gas to propane or vice versa)",
+            "Change orifices and manifold pressure",
+            "Resize burner orifices based on fuel used",
+            "If furnace ignition includes pilot, change orifice in assembly",
+            "Propane orifices smaller than natural gas orifices",
+            "If not supplied by manufacturer, size using Table I.3 of CSA B149.1",
+            "Change combination gas valve outlet pressure (manifold pressure) per manufacturer method",
+            "Usually simple as replacing spring in servo-regulator",
+            "After conversion check input rate and temperature rise within design parameters",
+            "Check and adjust manifold gas pressure (power off, turn off gas supply, remove plug from gas valve outlet pressure tap)",
+            "Connect manometer or gauge to pressure tap, turn on gas supply, energize furnace calling for heat",
+            "Read pressure on gauge or manometer once operating",
+            "Check rating plate or manufacturer instructions for recommended manifold pressure",
+            "Two-stage gas valve: check manifold pressure at both low and high fires",
+            "Make adjustments to manifold pressure on gas valve per installation and operation instructions",
+            "Sealed combustion appliance: manifold pressure must be referenced to burner box",
+            "Install tee and section of tube in tubing between tee from burner box tube and gas valve manifold pressure measurement fitting",
+            "Referenced manifold pressure test setup",
+            "Clock appliance to verify correct input",
+            "Confirm adequate combustion air supply",
+            "Modern direct-vent sealed-combustion appliances take air directly from outdoors to combustion chamber and vent directly to outdoors",
+            "Air supply and venting sized and installed per manufacturer literature",
+            "Older natural-draft appliances supplied with combustion, excess, and (if required) dilution air",
+            "Air supply sized by Clauses 8.2, 8.3, and 8.4 of CSA B149.1",
+            "May be necessary to check sizing of combustion-air supply if combustion analysis indicates concerns",
+            "Combustion air pipes or ducts can become blocked or damaged, thorough check required during annual servicing",
+            "Inspect and clean heat exchanger",
+            "Heat exchanger transfers energy from one substance to another without allowing mixing",
+            "High-efficiency furnaces use two heat exchangers (primary and secondary)",
+            "Primary heat exchanger typical gas-fired forced-air furnace is clam-type curved heat exchanger",
+            "Clam-type heat exchanger consists of several clams (two curved sheets of metal welded together with space in middle)",
+            "Opening at bottom for gas burner, opening at top for flue gas to escape",
+            "Number of clams joined together to make up heat exchanger",
+            "Heat exchanger curved to protect from damage as expands/contracts with changing temperatures",
+            "Allows more surface presented to supply air without interfering with air flow",
+            "Most heat exchangers made of stainless steel or aluminized steel, normally coated with vitreous enamel for corrosion resistance",
+            "Heat exchanger must be durable so does not crack (if cracks, products of combustion mix with supply air causing dangerous situation)",
+            "Most heat exchangers should cause air temperature rise of 45 °F (25 °C) to 100 °F (56 °C)",
+            "Temperature rises on newer high-efficiency furnace models usually lower than standard or mid-efficiency units",
+            "Always check manufacturer specifications for temperature rise",
+            "Secondary heat exchanger is condensing heat exchanger",
+            "Used to draw off heat from combustion products vented from primary heat exchanger",
+            "Furnace using only one heat exchanger loses a lot of heat when flue gas vented (vent piping feels hot)",
+            "High-efficiency furnace: heat normally lost is transferred to return air",
+            "Fuel gas ignited in primary heat exchanger, combustion heats primary heat exchanger",
+            "Hot flue gas drawn through primary heat exchanger into secondary heat exchanger",
+            "Warm flue gas transfers heat to secondary heat exchanger by giving off more heat and condensing water vapours in products of combustion",
+            "When gas condenses gives off heat (latent heat)",
+            "Secondary heat exchanger needs to be properly drained of condensate formed in it",
+            "Most heat of combustion process transferred to heat exchangers, flue gas no longer has enough energy to vent naturally",
+            "Power venter used to vent flue gas",
+            "Return air passes first over secondary heat exchanger where heated",
+            "Warm air passes over primary heat exchanger and further heated",
+            "Because air already warm when passes over primary heat exchanger, condensation does not take place (extends lifetime of primary heat exchanger)",
+            "Heated air ducted to areas in building needing warmth",
+            "Two heat exchangers work together to transfer most heat given off in combustion process to return air",
+            "Efficiencies greater than 90% achieved using this process",
+            "Heat exchangers require regular inspection and maintenance to operate safely and efficiently",
+            "If gas technician/fitter suspects heat exchanger compromised, thorough investigation must be done",
+            "Recommended steps to inspect furnace heat exchanger",
+            "Look for flame disturbances (start furnace, observe changes in flame pattern as circulating air blower starts)",
+            "Look for floating flames, flame rollout, or flame distortion (indicates possible split seam, open crack, severe deterioration, or physical separation)",
+            "Flame disturbance after blower comes on indicates problem may exist in lower portion of heat exchanger (upflow furnace)",
+            "Measure CO levels in airstream (with furnace operating, measure CO level in return air duct near furnace and record)",
+            "Measure CO level in supply ducting leaving furnace and record",
+            "If no measurable difference in CO level in return and supply airstreams, likely furnace not leaking CO into airstream",
+            "If CO in supply air ducting greater than CO in return air, likely furnace supplying CO through heat exchanger",
+            "Measure O2 levels in vent (induced-draft furnaces less likely to leak products into circulating air stream than natural-draft furnace due to negative pressure inside heat exchanger created by inducer fan)",
+            "Insert flue gas analyzer probe into vent, observe O2 level",
+            "If significant increase occurs when circulating fan energized, possible heat exchanger is damaged",
+            "Visually inspect heat exchanger (occasionally holes formed by rust or cracks can be seen with eye or mirror)",
+            "Often only 20% of total surface visible even with mirror once furnace installed",
+            "Some holes or cracks visible only when thermal expansion causes cracks to open (difficult to observe when furnace operating)",
+            "If furnace fails any of three preceding steps, careful attention to visual inspection",
+            "May require removal of circulating fan to see bottom of heat exchanger",
+            "May require cutting access door into supply plenum to see top of heat exchanger",
+            "Pay particular attention to welds, seams, joints, and discoloured spots",
+            "If burners removed, flashlight may be directed into each heat exchanger and visually inspected from outside looking for signs of light",
+            "If available, inspection camera can be inserted into each heat exchanger",
+            "Clause 4.21 of CSA B149.1 lists requirements if heat exchanger found defective in dwelling",
+            "Provides provisions to temporarily repair heat exchanger",
+            "After inspection and determination to be in good operational condition, may require cleaning",
+            "Always consult manufacturer instructions for cleaning procedures",
+            "Never use wire brush to clean outside of heat exchanger (damages exchanger)",
+            "Cleaning primary heat exchanger: check for dirt in upper part with flashlight and mirror",
+            "Attach vacuum exhaust pipe to flue outlet and blow dirt at top to bottom burner area",
+            "Use wire brush to clean bottom then vacuum to remove loose dirt",
+            "Use soft brush to clean outside of heat exchanger",
+            "Cleaning secondary heat exchanger: blocked secondary coil surface may cause furnace to cycle on-off on high-limit control and reduce heating effectiveness and efficiency",
+            "Clean outside of secondary heat exchanger using soft brush",
+            "To clean inside: remove from casing, plug either inlet or outlet pipe, fill with hot water and plug other pipe, shake vigorously and drain, flush with hard stream of water",
+            "Reassembly: ensure burner assembly put back together properly after cleaning and everything reconnected",
+            "Once reassembled perform operational check on furnace and flue-gas analysis",
+            "Observe operation of vent damper if equipped",
+            "Automatic vent-damper devices reduce heat loss up vent on mid-efficiency appliances",
+            "Popular on boilers due to large mass, some furnace manufacturers install on furnaces",
+            "Open when burner fires, close during off cycle",
+            "Used for improving efficiency of conventional-vented, standard, and mid-efficiency furnaces (must be approved)",
+            "Dampers neither needed nor used on high-efficiency furnaces",
+            "Automatic vent dampers located downstream of draft hood",
+            "Two methods of operation: electrical (electricity to open/close), thermal (heat of vent gas to open)",
+            "On call for heat damper automatically opens and burner lights",
+            "When heating cycle ends burner turns off and damper automatically closes",
+            "Heating system efficiency increased because closed damper reduces loss of residual appliance heat and heated room air through draft diverter",
+            "Check operation procedure: turn on power supply, set heat anticipator at 0.13 A if using thermostat, set thermostat or controller to 10 °F (6 °C) above room temperature to call for heat",
+            "Check damper opens before gas valve opens and pilot or main burner ignites",
+            "Turn thermostat or controller at 10 °F (6 °C) below room temperature, check damper closes",
+            "Cycle heating system at least three times using thermostat or controller to assure system operating safely",
+            "Explain to homeowner yearly inspection by trained experienced service technician necessary for safe efficient operation of vent damper and heating system",
+            "Between service calls homeowner should check for deterioration from corrosion or other sources",
+            "Inspect condensate drain system if applicable",
+            "Condensing furnaces have several condensate drain points within cabinet and externally on vents and piping to DWV system",
+            "Some installations include accessory equipment (neutralizers and pumps)",
+            "All piping, tubing, and accessory equipment need inspection and cleaned/repaired as necessary",
+            "Some older DWV piping cannot accommodate low pH (high acidity) associated with condensate",
+            "Some municipalities require condensate from furnaces passed through pH neutralizer prior to entering drain network",
+            "Neutralizer cartridges require recharging with new pellets to keep working at peak levels",
+            "Properly size neutralizer for capacity of condensate produced by appliance",
+            "Failure to size correctly creates problems for safe and efficient operation",
+            "Always check with AHJ to determine neutralizer requirements",
+            "Condensate pump may be required if lowest drain point on appliance cannot drain by gravity to DWV system",
+            "Corrosion-resistant condensate pump must be used",
+            "Must be installed with provisions to prevent winter freeze-up of condensate drain line",
+            "Frozen condensate blocks drains resulting in possible furnace shutdown if pump has high-level alarm interlocked with furnace control system",
+            "Option to prevent freezing: install self-regulating or thermostatically controlled heat tape",
+            "Flexible condensate tubing used for internal drains",
+            "External drains (outside furnace cabinet) need to be rigid PVC piping to maintain grade to DWV system",
+            "Condensate pumps and acid neutralizer can be sold separately or combined into one unit (NeutraPump condensate neutralization tank with pump)"
+          ],
+          "content": "Chapter 2 covers servicing procedures for forced-air heating systems. Check gas piping to furnace: all gas-piping fittings and connections should be checked by approved method such as combustible-gas leak detector, chloride-free soap and water, or equivalent non-flammable solution. Repair or replace any part(s) of system found defective.\n\nClean/replace air filter(s): remove air filter and clean or replace as required. When replacing filters consult manufacturer literature as some high-efficiency filters have high pressure drop which can be beyond manufacturer limitations. Many furnace manufacturers have filter chart in literature specifying size and type of filter required. Some furnaces may contain more than one filter.\n\nConvert gas valve: if furnace needs conversion from natural gas to propane or propane to natural gas, gas technician/fitter needs to change orifices and manifold pressure. Orifices at burners need to be resized based on which fuel used. If furnace ignition system includes pilot, orifice in this assembly needs to be changed as well. Propane orifices are smaller than natural gas orifices and, if not supplied by manufacturer, can be sized using Table I.3 of CSA B149.1. If applicable, manufacturer includes method to change combination gas valve outlet pressure (manifold pressure), usually as simple as replacing spring in servo-regulator. Once conversion completed, gas technician/fitter must check input rate and temperature rise to ensure furnace operating within design parameters.\n\nCheck and adjust manifold gas pressure: to check manifold pressure in furnace, first make sure power is off. Turn off gas supply at furnace and remove plug from gas valve outlet pressure tap (manifold pressure tap). Connect manometer or gauge to pressure tap, turn on gas supply, and energize furnace calling for heat. Once furnace operating, read pressure on gauge or manometer. Check rating plate of appliance or manufacturer instructions for particular furnace to determine recommended manifold pressure. If furnace has two-stage gas valve, check manifold pressure at both low and high fires. Can typically make adjustments to manifold pressure on gas valve as necessary by following installation and operation instructions.\n\nTo obtain accurate manifold pressure measurement on sealed combustion appliance, manifold pressure must be referenced to burner box since burner box pressure tap equalizes gas-valve pressure regulator. To do so, install tee and section of tube (field supplied) in tubing between tee coming from burner box tube and gas valve manifold pressure measurement fitting. This tube and tee in addition to tube attached to gas valve pressure tap on outlet side of gas valve. Set-up method for manifold pressure test shows slope gauge connects to burner box pressure hose with field supplied barb fitting on gas valve to attach hose.\n\nClock appliance to verify correct input: for information on clocking refer to Meters section in Pressure regulators, overpressure protection, meters, and fuel containers unit.\n\nConfirm adequate combustion air supply: gas technician/fitter may work on any type or category of furnace so understanding of combustion air requirements essential. Modern direct-vent sealed-combustion appliances take air directly from outdoors to combustion chamber and vent directly to outdoors. These furnaces must have air supply and venting sized and installed per manufacturer literature. Older natural-draft appliances must be supplied with combustion, excess, and (if required) dilution air. This air supply sized by Clauses 8.2, 8.3, and 8.4 of CSA B149.1. May be necessary to check sizing of combustion-air supply (pipe or duct) of existing appliance if combustion analysis indicates concerns with combustion process. Combustion air pipes or ducts can become blocked or damaged at any time so thorough check of entire system required during annual servicing.\n\nInspect and clean heat exchanger: heat exchanger is any device that transfers energy from one substance to another without allowing two substances to mix. High-efficiency furnaces make use of two heat exchangers: primary heat exchanger and secondary heat exchanger. Primary heat exchanger in typical gas-fired forced-air furnace is clam-type curved heat exchanger. This heat exchanger consists of several clams. Each clam consists of two curved sheets of metal welded together with space in middle. There is opening at bottom of clam for gas burner and opening at top for flue gas to escape. Number of clams joined together to make up heat exchanger.\n\nHeat exchanger curved to protect from damage as expands and contracts with changing temperatures. This also allows more surface to be presented to supply air and does not interfere with flow of air as heat exchanger expands or contracts. Most heat exchangers made of stainless steel or aluminized steel and normally coated with vitreous enamel to provide corrosion resistance. Heat exchanger must be made of durable material so does not crack. If cracks, products of combustion (which can be toxic) mix with supply air causing dangerous situation in building.\n\nMost heat exchangers should cause air temperature rise of between 45 °F (25 °C) and 100 °F (56 °C). Temperature rises on newer high-efficiency furnace models usually lower than on standard or mid-efficiency units. Always check manufacturer specifications for temperature rise. Secondary heat exchanger is condensing heat exchanger used to draw off heat from combustion products vented from primary heat exchanger.\n\nIn furnace using only one heat exchanger, lot of heat lost when flue gas vented out of system (vent piping of these systems feels hot). In high-efficiency furnace, heat normally lost is transferred to return air. In high-efficiency furnace, fuel gas ignited in primary heat exchanger. This combustion heats primary heat exchanger. Hot flue gas then drawn through primary heat exchanger into secondary heat exchanger. Warm flue gas transfers heat to secondary heat exchanger by giving off more of its heat and condensing water vapours in products of combustion. When gas condenses gives off heat (latent heat). Secondary heat exchanger needs to be properly drained of condensate formed in it.\n\nMost heat of combustion process now transferred to heat exchangers and flue gas no longer has enough energy to vent naturally to atmosphere. Power venter then used to vent flue gas. Return air passes first over secondary heat exchanger where heated. This warm air then passes over primary heat exchanger and further heated. Because air already warm when passes over primary heat exchanger, condensation does not take place in this heat exchanger. This extends lifetime of primary heat exchanger. Finally, heated air ducted to areas in building needing warmth. In this way two heat exchangers work together to transfer most heat given off in combustion process to return air. Efficiencies greater than 90% can be achieved using this process.\n\nAppliance heat exchangers require regular inspection and maintenance to operate safely and efficiently. If gas technician/fitter suspects heat exchanger is compromised, thorough investigation must be done to ensure safety of occupants. Recommended steps to inspect furnace's heat exchanger:\n\nLook for flame disturbances: start furnace and observe any changes in flame pattern as circulating air blower starts operating. Look for floating flames, flame rollout, or flame distortion. These conditions indicate possible split seam, open crack, severe deterioration of heat exchanger or gasketing material, or physical separation of connected parts. If flame disturbance occurs after blower comes on, good indication problem may exist in lower portion of heat exchanger (upflow furnace).\n\nMeasure CO levels in airstream: with furnace operating, measure CO level in return air duct near furnace and record value. Next measure CO level in supply ducting leaving furnace. Record this value. If no measurable difference in CO level in return and supply airstreams, likely furnace not leaking CO into airstream. If CO in supply air ducting greater than CO in return air, likely furnace supplying CO through heat exchanger.\n\nMeasure O2 levels in vent: induced-draft furnaces less likely to leak products of combustion into circulating air stream than natural-draft furnace due to negative pressure inside heat exchanger created by inducer fan. Insert flue gas analyzer probe into vent. Observe O2 level. If significant increase occurs when circulating fan energized, possible heat exchanger is damaged.\n\nVisually inspect heat exchanger: occasionally holes formed by rust or cracks can be seen with eye or with aid of mirror, but often only 20% of total surface of heat exchanger visible to view even with mirror once furnace installed. Some holes or cracks visible only when thermal expansion causes cracks to open (can be difficult to observe when furnace operating). If furnace fails any of three preceding steps, careful attention should be paid to visual inspection. This may require removal of circulating fan to see bottom of heat exchanger and cutting access door into supply plenum to see top of heat exchanger. Pay particular attention to welds, seams, joints, and discoloured spots on heat exchanger(s). If burners removed, flashlight may be directed into each heat exchanger and visually inspected from outside looking for signs of light. If available, inspection camera can be inserted into each heat exchanger.\n\nClause 4.21 of CSA B149.1 lists requirements that must be followed if heat exchanger found defective in dwelling. It also provides provisions to temporarily repair heat exchanger. After inspection of heat exchanger and its determination to be in good operational condition, may require cleaning. Always consult manufacturer instructions for cleaning procedures. Never use wire brush to clean outside of heat exchanger as this damages exchanger.\n\nCleaning primary heat exchanger: check for dirt in upper part of heat exchanger with flashlight and mirror, attach exhaust pipe from vacuum to flue outlet of heat exchanger and blow any dirt at top of exchanger to bottom burner area, use wire brush to clean bottom of heat exchanger and then vacuum cleaner to remove all loose dirt, use soft brush to clean outside of heat exchanger.\n\nCleaning secondary heat exchanger: blocked secondary coil surface may cause furnace to cycle on and off on high-limit control and reduce furnace heating effectiveness and efficiency. Clean outside of secondary heat exchanger using soft brush. To clean inside of secondary heat exchanger: remove it from casing, plug either inlet or outlet pipe, fill heat exchanger with hot water and plug other pipe, shake vigorously and drain exchanger, finally flush exchanger with hard stream of water.\n\nReassembly: ensure burner assembly put back together properly after cleaning and everything has been reconnected. Once furnace reassembled perform operational check on furnace and flue-gas analysis.\n\nObserve operation of vent damper if equipped: automatic vent-damper devices used to reduce heat loss up vent on mid-efficiency appliances. Although popular on boilers because of large mass, some furnace manufacturers install these components on furnaces. They open when burner fires and close during off cycle. Although these dampers used for improving efficiency of conventional-vented, standard, and mid-efficiency furnaces, must be approved. Dampers neither needed nor used on high-efficiency furnaces.\n\nAutomatic vent dampers located downstream of draft hood. Two methods of operation: electrical (electricity to open/close), thermal (heat of vent gas to open). On call for heat damper automatically opens and burner lights. When heating cycle ends burner turns off and damper automatically closes. Heating system efficiency increased because closed damper reduces loss of residual appliance heat and heated room air through draft diverter.\n\nTo check operation of damper: turn on power supply, if using thermostat set heat anticipator at 0.13 A, set thermostat or controller to 10 °F (6 °C) above room temperature to call for heat, check damper opens before gas valve opens and pilot or main burner ignites, turn thermostat or controller at 10 °F (6 °C) below room temperature and check damper closes, cycle heating system at least three times using thermostat or controller to assure system operating safely. Explain to homeowner that yearly inspection by trained experienced service technician necessary for safe efficient operation of vent damper and heating system. Between service calls homeowner should check for deterioration from corrosion or other sources.\n\nInspect condensate drain system if applicable: condensing furnaces have several condensate drain points within cabinet of appliance as well as externally on vents and piping to DWV system. Some installation also includes accessory equipment such as neutralizers and pumps. All piping, tubing, and accessory equipment need to be inspected and cleaned/repaired as necessary.\n\nSince some older DWV piping cannot accommodate low pH (high acidity) associated with condensate, some municipalities require condensate from furnaces to be passed through pH neutralizer prior to entering drain network. These neutralizer cartridges require recharging with new pellets to keep working at peak levels. Make sure to properly size neutralizer for capacity of condensate that can be produced by appliance. Failure to size neutralizer correctly creates problems for safe and efficient operation of appliance. Always best to check with AHJ to determine neutralizer requirements.\n\nCondensate pump may be required if lowest drain point on appliance cannot drain by gravity to DWV system. Corrosion-resistant condensate pump must be used and must be installed with provisions to prevent winter freeze-up of condensate drain line. Frozen condensate blocks drains resulting in possible furnace shutdown if pump has high-level alarm interlocked with furnace control system. Option to prevent freezing of drain lines is to install self-regulating or thermostatically controlled heat tape.\n\nFlexible condensate tubing used for internal drains and external drains (outside furnace cabinet) need to be rigid PVC piping to maintain grade to DWV system. Condensate pumps and acid neutralizer can be sold separately or combined into one unit (NeutraPump condensate neutralization tank with pump).",
+          "assignment_questions": [
+            {
+              "question": "Indicate whether the given statement is true, false, or true/false under certain conditions. A defective heat exchanger in a dwelling unit must be replaced immediately.",
+              "options": [
+                "a) True",
+                "b) True (if the CO level is above the maximum acceptable for the appliance)",
+                "c) False (it can be temporarily repaired)",
+                "d) False (it can be permanently repaired)"
+              ],
+              "correct_answer": "c) False (it can be temporarily repaired)"
+            },
+            {
+              "question": "How many heat exchanges are incorporated by a high-efficiency furnace?",
+              "options": [
+                "a) One",
+                "b) Two (primary and tertiary)",
+                "c) Two (primary and secondary)",
+                "d) Three"
+              ],
+              "correct_answer": "c) Two (primary and secondary)"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. A gas technician/fitter uses an incline manometer _______.",
+              "options": [
+                "a) To check the manifold pressure",
+                "b) To complete an ESP test",
+                "c) To confirm the operation of the high-limit switch",
+                "d) To set the outlet pressure of a line-pressure regulator"
+              ],
+              "correct_answer": "a) To check the manifold pressure"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. The purpose of a flame roll-out switch is _______.",
+              "options": [
+                "a) To open in the event of spillage",
+                "b) To open when the combustion air is blocked",
+                "c) To protect the burner area from unusually high temperatures",
+                "d) To protect the heat exchanger area from unusually high temperatures"
+              ],
+              "correct_answer": "c) To protect the burner area from unusually high temperatures"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. The purpose of a diaphragm-style pressure switch on a condensing furnace is _______.",
+              "options": [
+                "a) To confirm the gas pressure is correct",
+                "b) To confirm the induced-draft fan is operating",
+                "c) To confirm the blower assembly is operating",
+                "d) To confirm the air supply differential pressure is within limitations"
+              ],
+              "correct_answer": "b) To confirm the induced-draft fan is operating"
+            },
+            {
+              "question": "On which type of furnace(s) would you see a combination high-limit/fan control?",
+              "options": [
+                "a) Low-efficiency only",
+                "b) High-efficiency only",
+                "c) Low-efficiency and mid-efficiency",
+                "d) Mid-efficiency and high-efficiency"
+              ],
+              "correct_answer": "c) Low-efficiency and mid-efficiency"
+            },
+            {
+              "question": "Which material is recommended for condensate piping after the point at which it is connected to the appliance?",
+              "options": [
+                "a) Rigid PVC piping",
+                "b) Flexible PVC tubing",
+                "c) Any steel pipe material",
+                "d) Any plastic pipe material"
+              ],
+              "correct_answer": "a) Rigid PVC piping"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. Temperature rise is determined by _______.",
+              "options": [
+                "a) Adding the ambient temperature to the room air temperature.",
+                "b) Adding the return air temperature to the supply air temperature.",
+                "c) Subtracting the supply air temperature from the return air temperature.",
+                "d) Subtracting the return air temperature from the supply air temperature."
+              ],
+              "correct_answer": "d) Subtracting the return air temperature from the supply air temperature."
+            },
+            {
+              "question": "Which type(s) of furnace use a vent damper?",
+              "options": [
+                "a) Mid-efficiency only",
+                "b) Low efficiency only",
+                "c) Low-efficiency and mid-efficiency",
+                "d) All types of furnaces"
+              ],
+              "correct_answer": "c) Low-efficiency and mid-efficiency"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. To clean the outside of a heat exchanger, you should _______.",
+              "options": [
+                "a) Use a soft brush",
+                "b) Use a wire brush",
+                "c) Use a sanding block",
+                "d) Stop — do not clean the outside of a heat exchanger"
+              ],
+              "correct_answer": "a) Use a soft brush"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. A condensate pump is required _______.",
+              "options": [
+                "a) For all condensing appliance installations",
+                "b) When a condensate trap cannot be installed",
+                "c) When the condensate cannot drain by gravity to the DWV system",
+                "d) When the condensate drain needs to be graded more than ¼ in/ft"
+              ],
+              "correct_answer": "c) When the condensate cannot drain by gravity to the DWV system"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. In a condensing appliance system, condensate forms _______.",
+              "options": [
+                "a) Only in the primary heat exchanger",
+                "b) Only in the secondary heat exchanger",
+                "c) In the primary and secondary heat exchangers",
+                "d) In the secondary heat exchanger and the venting system"
+              ],
+              "correct_answer": "d) In the secondary heat exchanger and the venting system"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. On a residential furnace, manifold pressure is measured _______.",
+              "options": [
+                "a) Upstream of the combination gas valve with the appliance shut off",
+                "b) Downstream of the combination gas valve with the appliance shut off",
+                "c) Upstream of the combination gas valve with the appliance operating",
+                "d) Downstream of the combination gas valve with the appliance operating"
+              ],
+              "correct_answer": "d) Downstream of the combination gas valve with the appliance operating"
+            },
+            {
+              "question": "Complete the following sentence with the correct option. A combustion analysis is performed _______.",
+              "options": [
+                "a) In the combustion chamber",
+                "b) After any draft control devices",
+                "c) Before any draft control devices",
+                "d) At the area where the primary and secondary air enters the appliance"
+              ],
+              "correct_answer": "b) After any draft control devices"
+            }
+          ]
+        },
+        {
+          "chapter_number": 3,
+          "chapter_name": "Airflow, blower operation, control circuits, and troubleshooting",
+          "pages": "79-96",
+          "topics": [
+            "Furnace airflow (CFM) vs. external static pressure (INS. w.g.)",
+            "Table 3-2 Furnace airflow showing various models and speed taps",
+            "Speed tap nomenclature (4-HIGH-Black, 3-MED. HIGH-Blue, 2-MED. LOW-Yellow, 1-LOW-Red)",
+            "External static pressure range from 0.10 to 0.90 INS. w.g.",
+            "Various furnace models (UC1-B040A9241A, UC1-B060A9361A, UC1-B080A9421A, UC1-B100A9281A, UC1-B100A9601A, UC1-B120A9601A)",
+            "After initial indoor blower speed selected and furnace operational, perform ESP test",
+            "Ensure appliance operating within temperature rise and ESP specifications",
+            "Test procedure for acquiring ESP reading described in Air handling unit",
+            "Once indoor blower speed finalized, IFC module controls indoor blower",
+            "Blower start usually fixed at approximately 45 sec after ignition",
+            "Fan-off period field-selectable via user-interface menu (60, 100, 140, or 180 sec, factory setting usually 100 sec)",
+            "Heating mode blower speed preset to approximately 50% of cooling speed (user-determined selectable range)",
+            "Procedure usually same whether furnace uses PSC or ECM motor (always check manufacturer literature)",
+            "Control and safety circuits (several electrical circuits to control furnace and make safe to operate)",
+            "Thermostats (simplest measures room temperature, starts and stops burner to maintain set level)",
+            "Must be well-placed to sense average room temperature",
+            "Thermostat location (not exposed to hot or cold drafts or spots on wall, on inside wall, free from vibration)",
+            "Since thermostat uses mercury switch, must be properly levelled when mounted and placed in area free from vibration",
+            "Heating-cooling thermostat (two combined into one, two mercury bulbs mounted on same bimetal coil)",
+            "Heating and cooling anticipators mounted near coil",
+            "Single transformer used",
+            "Two mercury bulbs can be combined into one (one common electrode, one heating electrode, one cooling electrode)",
+            "When bulb tilted in one direction closes heating contacts, in other direction cooling contacts closed",
+            "System switches (unless switch provided in heating-cooling thermostat, thermostat continuously switches back and forth)",
+            "Switch provides means to throw control to cooling while disconnecting heating circuit",
+            "When switch moved to heating, connects heating components while electrically isolating cooling circuit",
+            "When switch in centre \"off\" position, neither heating nor cooling circuits energized",
+            "Fan switch allows homeowner to control blower operation independently of \"cool-off-heat\" switch",
+            "Fan switch at \"auto\": blower runs only when call for heating or cooling, when thermostat satisfied blower shuts off",
+            "Continuous blower position normally marked \"on\", blower runs all time",
+            "Anticipator improves comfort control of furnace",
+            "Programmable thermostats (electronic, solid-state or microprocessor boards, do not use mercury switches)",
+            "Do not require heat anticipation",
+            "Some models operate wirelessly for easier installation",
+            "Gas technician/fitter needs to field wire and set up thermostat for specific furnace application",
+            "Applications: single-stage furnace with single-stage thermostat",
+            "Single-stage furnace combined with single-stage cooling using single-stage thermostat",
+            "Two-stage furnace combined with single-stage cooling using single-stage thermostat",
+            "Two-stage furnace combined with single-stage cooling using two-stage thermostat",
+            "Two-stage furnace combined with two-stage cooling using two-stage thermostat",
+            "Twinning two single-stage furnaces using single-stage thermostat",
+            "Modulating furnace using smart thermostat",
+            "Modulating furnace combined with single-speed cooling",
+            "Modulating furnace combined with heat pump",
+            "Wi-Fi-enabled programmable thermostat with remote monitor and control of heating and cooling system",
+            "Field wiring must match specific combination of furnace, thermostat, and optional equipment",
+            "Consult furnace manufacturer literature, thermostat manufacturer literature, and other equipment literature during setup",
+            "Installation, setup, and operation involve several programming steps per manufacturer instructions",
+            "Follow prompts on screen to select appropriate options",
+            "Mercury notice: if product replacing control containing mercury in sealed tube, do not place old control in trash",
+            "Contact HRAI Thermostat Recovery Program for recycling instructions",
+            "Gas valves (operation detailed in Controls: Fundamentals unit)",
+            "Same principles used in forced-air furnaces",
+            "In most cases in central furnaces gas valve forms part of combination control",
+            "Main gas valve controlled by thermostat",
+            "On call for heat coil energized, main gas valve opens, main burner ignites",
+            "When circuit to coil opened, coil de-energizes and valve closes",
+            "Limit and roll-out switches (number of different switches used as safety checks)",
+            "Limit or roll-out switch essentially bimetal element placed in area where temperature must be sensed",
+            "Switch normally in closed position, connected in control circuit in series with gas valve",
+            "As temperature rises bimetal bends or capillary expands until breaks electrical contact to open circuit",
+            "Most limit and roll-out switches reset automatically as cool down, some need to be manually reset",
+            "General reasons for limit switches functioning: faulty fuel valve, broken blower belt, blocked air filter, faulty blower motor",
+            "If limit switch causes furnace to shut down, check must be made for reason and problem fixed",
+            "High-limit switch (safety device to shut burner off if outlet air overheats)",
+            "Calibrated by manufacturer, prevents air leaving furnace from exceeding set temperature limit",
+            "High-limit switch in normally closed position",
+            "May use either bimetal sensing element or capillary fluid-filled sensing element (both perform same function)",
+            "Two main types: standalone safety limit switch, combination fan and limit switch",
+            "Standalone safety limit switch (purely safety switch to shut down burner if supply air in plenum exceeds certain set temperature, normally about 200 °F/93 °C)",
+            "When this type used, separate switch controls operation of fan",
+            "Combination fan and limit switch (limit set pointer preset by manufacturer, must not be adjusted)",
+            "Limit switches act as safety controls to prevent runaway temperatures that can cause fire hazard",
+            "If limit control functions to shut off burner, condition should be assessed to determine cause and appropriate corrective action taken",
+            "Secondary limit control (downflow and horizontal furnaces use these, sometimes called auxiliary limit controls)",
+            "Protects fan motor on top of unit from damage",
+            "When fan off heat rises to top of furnace, high-limit switch does not detect this heat",
+            "Additional switch used to protect motor and air filters from rising heat",
+            "Condition may occur if fan fails or if reversed airflow condition",
+            "Secondary limit control location: installed above heat exchanger near or in supply air inlet",
+            "Secondary limit switch operation: connected in series with high-limit switch",
+            "If temperature at this limit switch rises above set level, switch opens and burners shut down",
+            "Typically secondary limit switch set to open at point below high-limit switch setting",
+            "Exhaust limit switch (shuts down burner if temperature of flue gas exceeds certain limit)",
+            "May happen if soot buildup inside heat exchangers or lint buildup on secondary heat exchanger",
+            "Prevents heat transfer from heat exchangers, heat exchangers must be cleaned",
+            "Exhaust limit switch location: typically located on exhaust blower housing",
+            "Exhaust limit switch operation: in normally closed position",
+            "When temperature rises above set limit switch opens and gas valve closes shutting burner down",
+            "Switch resets itself when temperature falls below set level",
+            "Roll-out switch (senses problems in flow of combustion products)",
+            "Problems may be caused by blockages in heat exchangers and flue or failure of combustion air blower or exhaust blower",
+            "Can lead to flame rollout",
+            "If flame rollout sensed switch causes burner to shut down",
+            "If this occurred blockages must be removed and cause of problem corrected",
+            "Roll-out switch location: located on burner shield",
+            "Roll-out switch operation: normally closed snap-disc-type switch or capillary-type switch",
+            "When high temperatures sensed switch opens breaking contact with burner control system",
+            "Once system drops below set temperature switch may have to be manually reset depending on furnace model",
+            "Some roll-out switches reset automatically",
+            "Flame-rollout safety switch must never be jumped",
+            "If switch does shut furnace down check must be made for reason of shutdown",
+            "Vent-outlet pressure switches (shuts burner down if blockage in vent outlet or internal flue-gas passages)",
+            "Also shuts burner down if failure of combustion air fan or motor",
+            "If switch shut burner down blockages must be removed or combustion air fan or motor fixed or replaced",
+            "Vent-outlet pressure switch location: normally located at appliance flue outlet",
+            "Vent-outlet pressure switch operation: connected in series to thermostat circuit",
+            "In furnace without power venter switch in normally closed position",
+            "If blockage in exhaust outlet pipe pressure in vent outlet rises and pressure switch opens (opens thermostat circuit and closes gas valve)",
+            "If mechanical draft being used switch in normally open position",
+            "When call for heat mechanical-draft blower motor activates and switch closes",
+            "If mechanical draft fails switch opens shutting burner down",
+            "As with other furnaces if blockage sensed in exhaust outlet pipe shuts down furnace as well as mechanical-draft blower motor",
+            "Mechanical-draft blower motor equipped with differential pressure switch",
+            "If required pressure differential not sensed switch closes and burner cannot operate because switch interlocked with burner",
+            "Switch automatically resets when blockage removed",
+            "Sometimes temperature switch mounted in draft hood used to perform same purpose as pressure switch",
+            "Combustion safety controls (shuts down burner if burner malfunctions)",
+            "Combustion safety control monitors firing to make sure ignition occurs and flame remains on when call for heat",
+            "Troubleshooting (gas technician/fitter must successfully troubleshoot electrical problems to fix forced-air furnace)",
+            "Necessary to be able to read electrical-wiring diagrams",
+            "Testing supply voltage, amperage draw, 24-V systems, thermocouple systems, and flame rectification detailed in Basic electricity and Controls: Fundamentals units",
+            "Faults with mechanical parts may impact electrical components and vice versa",
+            "Gas technician/fitter must take this into account when troubleshooting",
+            "Troubleshooting technique: observe furnace and compare to customer description of problem",
+            "Always read electrical drawing to determine sequence of operations",
+            "Determine electrical circuit giving problem and test for voltage at its load",
+            "Work around circuit with voltage tests to locate problem",
+            "Double-check findings with secondary check against known normal values of resistance, pressure, temperature, etc.",
+            "Replace device and observe operation",
+            "Table 3-3 Forced-air furnace troubleshooting chart showing faults, symptoms, and corrections",
+            "Low gas pressure (pilot goes out when main burner valve energized, check supply and piping system)",
+            "Open thermostat (no noise or action from furnace, check for loose connections or burned heat anticipator)",
+            "Transformer warm, fan comes on when manual switch activated, replace if necessary",
+            "Inoperable draft-inducer motor (motor warm, slight humming sound, no other action, check for obstruction or low voltage, replace)",
+            "Open transformer winding (transformer cool, fan comes on when manual fan switch activated, check with ohmmeter, determine cause of failure)",
+            "High-limit open (transformer cool, fan comes on when manual fan switch activated, replace)",
+            "High-limit inoperable when fan fails (burners do not shut off when fan disabled, check electrical connections, replace if necessary)",
+            "Unit cycles off high-limit (fan running constantly, correct airflow problem)",
+            "Burners cycle on-off and open high-limit switch verified with voltage test at limit control (check for oversized furnace or undersized ductwork)",
+            "Roll-out or spillage switch activated (symptoms depend on manufacturer electrical design, determine cause of rollout)",
+            "Erratic fan cycling (fan cycles on-off during burn period or runs or both for very short period after burners deactivate or fan restarts after one complete cycle)",
+            "Set fan-off setting so plenum temperature 90 to 100 °F (32 to 38 °C)",
+            "If at shutdown set fan-on temperature to 50 °F (28 °C) above fan-off temperature",
+            "Most furnace manufacturers offer troubleshooting solutions in literature",
+            "Troubleshooting flow chart example shows getting started steps",
+            "Check if high voltage power supplied to unit, if not repair high voltage connection",
+            "Close and hold door switch, check if IFC LED flashing",
+            "Check if 24VAC low voltage present from transformer and fuse good",
+            "Check if connections and wiring in working condition",
+            "See fault LED flash codes page for specific fault light flash code",
+            "Combination control normal differential setting approximately 25 °F (14 °C)",
+            "Mid-efficiency furnace fan shuts off under normal operating conditions when fan control cools down enough to open circuit",
+            "Auxiliary limit control found on horizontal or downflow furnaces",
+            "Not all roll-out switches have to be manually reset (some automatic)",
+            "Temperature rise calculation: if return air temperature 70 °F and temperature rise 75 °F, supply temperature is 145 °F",
+            "If blockage in vent, pressure switch designed to cause burner to shut down",
+            "Required airflow calculation example: furnace with rated input 60 000 Btu/h, 95% efficient, temperature rise 40 to 60 °F",
+            "IFC receives 24 V ac from thermostat circuit on call for heat",
+            "Indoor-blower circuit energized on furnace incorporating IFC via IFC using electronic time delay",
+            "Typical modulating furnace range between 40 and 100% of capacity",
+            "ESP test recommended after retrofitting furnace to existing ductwork to confirm operating within temperature rise limits, ESP limits, and not overfiring"
+          ],
+          "content": "Chapter 3 covers airflow and blower operation, control and safety circuits, and troubleshooting for forced warm-air heating systems. Table 3-2 shows Furnace airflow (CFM) vs. external static pressure (INS. w.g.) for various models. Speed taps include 4-HIGH-Black, 3-MED. HIGH-Blue, 2-MED. LOW-Yellow, 1-LOW-Red. External static pressure ranges from 0.10 to 0.90 INS. w.g. Various furnace models listed include UC1-B040A9241A, UC1-B060A9361A, UC1-B080A9421A, UC1-B100A9281A, UC1-B100A9601A, UC1-B120A9601A with corresponding CFM values for each static pressure level and speed tap.\n\nAfter initial indoor blower speed selected and furnace operational, gas technician/fitter should perform ESP test to ensure appliance operating within temperature rise and ESP specifications. Test procedure for acquiring ESP reading described in Air handling unit. Once indoor blower speed finalized, IFC module controls indoor blower. Blower start usually fixed at approximately 45 sec after ignition. Fan-off period field-selectable via user-interface menu and can include times such as 60, 100, 140, or 180 sec (factory setting usually approximately 100 sec). For heating mode, blower speed preset to be approximately 50% of cooling speed but could have user-determined selectable range. This procedure usually same whether furnace uses PSC or ECM motor but always check manufacturer's literature.\n\nControl and safety circuits: several electrical circuits in forced-air furnace used to control furnace as well as make safe to operate. Many controls detailed in other units. Following content focuses on application of controls as applies to furnaces.\n\nThermostats: thermostat used to control operation of furnace. Simplest thermostat measures room temperature and starts and stops burner so temperature maintained at set level. Needs to be well-placed so furnace operates correctly. Location: thermostat must be placed so senses average room temperature, not exposed to hot or cold drafts or hot or cold spots on wall, must be located so can best sense average temperature of entire room (e.g., on inside wall not too low down or behind objects on bookcase). Since thermostat uses mercury switch must be properly levelled when mounted and placed in area free from vibration.\n\nHeating-cooling thermostat: when heating and cooling combined for year-round comfort, impractical to use separate thermostat for each. Therefore two combined into one heating-cooling thermostat. Bulk and expense of two separate bimetal coils (one for heating one for cooling) avoided when two mercury bulbs mounted on same bimetal coil. Heating and cooling anticipators mounted near coil. Single transformer used. Two mercury bulbs can be combined into one: done by using one common electrode, one heating electrode, and one cooling electrode. When bulb tilted in one direction closes heating contacts, in other direction cooling contacts closed.\n\nSystem switches: unless switch provided in heating-cooling thermostat, thermostat continuously switches back and forth from heating to cooling. In effect heating and cooling fight battle with each other. Switch provides means to throw control to cooling while disconnecting heating circuit. Likewise when switch moved to heating, switch connects heating components while electrically isolating cooling circuit. When switch in centre \"off\" position, neither heating nor cooling circuits energized.\n\nMany thermostats (heating, cooling, or combination) equipped with fan switch. Purpose of this switch to allow homeowner to control blower operation independently of \"cool-off-heat\" switch. When fan switch at \"auto\" blower runs only when call for heating or cooling, when thermostat satisfied blower shuts off. Continuous blower position normally marked \"on\", when this switch turned to \"on\" blower runs all time.\n\nAnticipator improves comfort control of furnace.\n\nProgrammable thermostats: electronic programmable thermostats used on modern high-efficiency furnaces. They are solid-state or microprocessor boards that do not use mercury switches and do not require heat anticipation. Some models even operate wirelessly making for easier installation. Gas technician/fitter needs to field wire and set up thermostat for specific furnace application.\n\nSome applications: single-stage furnace using single-stage thermostat, single-stage furnace combined with single-stage cooling using single-stage thermostat, two-stage furnace combined with single-stage cooling using single-stage thermostat, two-stage furnace combined with single-stage cooling using two-stage thermostat, two-stage furnace combined with two-stage cooling using two-stage thermostat, twinning two single-stage furnaces using single-stage thermostat, modulating furnace using smart thermostat, modulating furnace combined with single-speed cooling, modulating furnace combined with heat pump, Wi-Fi-enabled programmable thermostat with remote monitor and control of heating and cooling system.\n\nField wiring must match specific combination of furnace, thermostat, and any other optional equipment. Furnace manufacturer's literature, thermostat manufacturer's literature, and other equipment literature must all be consulted during setup of thermostat. Installation, setup, and operation of programmable thermostats involve several programming steps and must be done per manufacturer instructions. To complete thermostat setup follow prompts on screen to select appropriate options.\n\nMercury notice: if this product replacing control containing mercury in sealed tube, do not place old control in trash. Contact HRAI Thermostat Recovery Program for recycling instructions in your area.\n\nGas valves: operation of gas valves in gas-fired appliances detailed in Controls: Fundamentals unit. Same principles used in forced-air furnaces. In most cases in central furnaces gas valve forms part of combination control. Main gas valve controlled by thermostat. On call for heat coil energized, main gas valve opens, and main burner ignites. When circuit to coil opened, coil de-energizes and valve closes.\n\nLimit and roll-out switches: number of different switches used in furnaces as safety checks. Limit or roll-out switch essentially bimetal element placed in area where temperature must be sensed. Switch normally in closed position and connected in control circuit in series with gas valve. As temperature rises bimetal bends or capillary expands until at some point breaks electrical contact to open circuit. Most limit and roll-out switches reset automatically as cool down but some need to be manually reset. Some general reasons for limit switches functioning to open circuit and shut down burner: faulty fuel valve, broken blower belt, blocked air filter, or faulty blower motor. If limit switch causes furnace to shut down check must be made for reason and problem fixed.\n\nHigh-limit switch: safety device used to shut burner off if outlet air overheats. Calibrated by manufacturer. Prevents air leaving furnace from exceeding set temperature limit. High-limit switch in normally closed position. These switches may use either bimetal sensing element or capillary fluid-filled sensing element (both perform same function). Two main types: standalone safety limit switch and combination fan and limit switch.\n\nStandalone safety limit switch: purely safety switch used to shut down burner if supply air in plenum exceeds certain set temperature, normally about 200 °F (93 °C). When this type of limit switch used, separate switch controls operation of fan.\n\nCombination fan and limit switch: limit set pointer on limit control that controls high-limit switch preset by manufacturer and must not be adjusted. Limit switches act as safety controls to prevent runaway temperatures that can cause fire hazard. If limit control functions to shut off burner, condition should be assessed to determine cause and appropriate corrective action taken.\n\nSecondary limit control: downflow and horizontal furnaces make use of secondary limit controls (sometimes called auxiliary limit controls). Secondary limit control protects fan motor on top of unit from damage. When fan off heat rises to top of furnace. High-limit switch does not detect this heat so additional switch used to protect motor and air filters from this rising heat. This condition may occur if fan fails or if reversed airflow condition. Location: secondary limit control installed above heat exchanger near or in supply air inlet. Operation: secondary limit switch connected in series with high-limit switch. If temperature at this limit switch rises above set level switch opens and burners shut down. Typically secondary limit switch set to open at point below high-limit switch setting.\n\nExhaust limit switch: used to shut down burner if temperature of flue gas exceeds certain limit. May happen if soot buildup inside heat exchangers or lint buildup on secondary heat exchanger. This prevents heat transfer from heat exchangers. If this case then heat exchangers must be cleaned. Location: exhaust limit switch typically located on exhaust blower housing. Operation: exhaust limit switch in normally closed position. When temperature rises above set limit switch opens and gas valve closes shutting burner down. Switch resets itself when temperature falls below set level.\n\nRoll-out switch: used to sense problems in flow of combustion products. These problems may be caused by blockages in heat exchangers and flue or may be failure of combustion air blower or exhaust blower to function properly which can lead to flame rollout. If flame rollout sensed switch causes burner to shut down. If this occurred blockages must be removed and cause of problem corrected. Location: roll-out switch located on burner shield. Operation: roll-out switch is normally closed snap-disc-type switch or capillary-type switch. When high temperatures sensed switch opens breaking contact with burner control system. Once system drops below set temperature switch may have to be manually reset depending on model of furnace. Some roll-out switches reset automatically. Flame-rollout safety switch must never be jumped. If switch does shut furnace down check must be made for reason of shutdown.\n\nVent-outlet pressure switches: vent-outlet pressure switch used to shut burner down if blockage of some form in vent outlet or internal flue-gas passages. Also shuts burner down if failure of combustion air fan or motor. If switch shut burner down blockages must be removed or combustion air fan or motor fixed or replaced. Location: vent-outlet pressure switch normally located at appliance flue outlet. Operation: vent-outlet pressure switch connected in series to thermostat circuit. In furnace without power venter switch in normally closed position. If blockage in exhaust outlet pipe pressure in vent outlet rises and pressure switch opens (opens thermostat circuit and closes gas valve). If mechanical draft being used switch in normally open position. When call for heat mechanical-draft blower motor activates and switch closes. If mechanical draft fails switch opens shutting burner down. As with other types of furnaces if blockage sensed in exhaust outlet pipe shuts down furnace as well as mechanical-draft blower motor. Mechanical-draft blower motor equipped with differential pressure switch. If required pressure differential not sensed switch closes and burner cannot operate because switch interlocked with burner. Switch automatically resets when blockage removed. Sometimes temperature switch mounted in draft hood used to perform same purpose as pressure switch.\n\nCombustion safety controls: combustion safety control used to shut down burner if burner malfunctions. Combustion safety control monitors firing to make sure ignition occurs and flame remains on when call for heat.\n\nTroubleshooting: gas technician/fitter must be able to successfully troubleshoot electrical problems to fix forced-air furnace. To do this necessary to be able to read electrical-wiring diagrams. Testing supply voltage, amperage draw, 24-V systems, thermocouple systems, and flame rectification detailed in Basic electricity for gas-fired equipment and Controls: Fundamentals units. Faults with mechanical parts of furnace may impact electrical components and faults with electrical components of furnace may impact mechanical parts. Gas technician/fitter must take this into account when troubleshooting furnace.\n\nTroubleshooting electrical problems technique: observe furnace and compare to customer's description of problem, always read electrical drawing to determine sequence of operations, determine electrical circuit giving problem and test for voltage at its load, work around circuit with voltage tests to locate problem, double-check findings with secondary check against known normal values of resistance, pressure, temperature, etc. to identify device not acting normally, replace device and observe operation.\n\nGeneral faults corrected using Table 3-3. Low gas pressure (pilot goes out when main burner valve energized, check supply and piping system). Open thermostat (no noise or action from furnace, check for loose connections or burned heat anticipator, transformer warm, fan comes on when manual switch activated, replace if necessary). Inoperable draft-inducer motor (motor warm, slight humming sound, no other action, check for obstruction or low voltage, replace). Open transformer winding (transformer cool, fan comes on when manual fan switch activated, check with ohmmeter, determine cause of failure). High-limit open (transformer cool, fan comes on when manual fan switch activated, replace). High-limit inoperable when fan fails (burners do not shut off when fan disabled, check electrical connections, replace if necessary). Unit cycles off high-limit (fan running constantly, correct airflow problem, burners cycle on-off and open high-limit switch verified with voltage test at limit control, check for oversized furnace or undersized ductwork). Roll-out or spillage switch activated (symptoms depend on manufacturer's electrical design, determine cause of rollout). Erratic fan cycling (fan cycles on-off during burn period or runs or both for very short period after burners deactivate or fan restarts after one complete cycle, set fan-off setting so plenum temperature 90 to 100 °F/32 to 38 °C, if at shutdown set fan-on temperature to 50 °F/28 °C above fan-off temperature).\n\nMost furnace manufacturers offer troubleshooting solutions in literature. Example of troubleshooting flow chart shows getting started: check if high voltage power supplied to unit (if not repair high voltage connection to unit), close and hold door switch, check if IFC LED flashing (if not replace IFC), check if connections and wiring in working condition (if not repair connections), check if 24VAC low voltage present from transformer and fuse good (if not repair low voltage wiring, replace transformer, or fuse as needed), see fault LED flash codes page for specific flash code.\n\nAssignment questions cover: combination control normal differential setting approximately 25 °F (14 °C), mid-efficiency furnace fan shuts off when fan control cools down enough to open circuit under normal operating conditions, auxiliary limit control found on horizontal or downflow furnaces, not all roll-out switches require manual reset (some automatic), temperature rise calculation (return air 70 °F + temperature rise 75 °F = supply temperature 145 °F), pressure switch designed to cause burner shutdown if blockage in vent, airflow calculation example (furnace with rated input 60 000 Btu/h, 95% efficient, temperature rise 40 to 60 °F), IFC receives 24 V ac from thermostat circuit on call for heat, indoor-blower circuit energized via IFC using electronic time delay, typical modulating furnace range between 40 and 100% of capacity, ESP test recommended after retrofitting to confirm operating within temperature rise limits, ESP limits, and not overfiring.",
+          "assignment_questions": [
+            {
+              "question": "Referencing a combination control, what is the approximate normal differential setting of the fan control?",
+              "options": [
+                "a) 25 °F (14 °C)",
+                "b) 35 °F (19 °C)",
+                "c) 45 °F (25 °C)",
+                "d) 55 °F (30 °C)"
+              ],
+              "correct_answer": "a) 25 °F (14 °C)"
+            },
+            {
+              "question": "Referencing a mid-efficiency furnace, what would cause the fan to shut off under normal operating conditions?",
+              "options": [
+                "a) The pressure-switch circuit opens",
+                "b) The IFC fan-off timer is activated",
+                "c) The fan control cools down enough to open the circuit",
+                "d) The thermostat has reached a setpoint temperature and opens the fan-off circuit"
+              ],
+              "correct_answer": "c) The fan control cools down enough to open the circuit"
+            },
+            {
+              "question": "On which types of furnaces would you find an auxiliary limit control?",
+              "options": [
+                "a) Only central furnaces",
+                "b) Downflow furnaces only",
+                "c) Horizontal or downflow furnaces",
+                "d) Upflow, horizontal, and downflow furnaces"
+              ],
+              "correct_answer": "c) Horizontal or downflow furnaces"
+            },
+            {
+              "question": "Indicate whether the given statement is true or false. All roll-out switches have to be manually reset.",
+              "options": [
+                "a) True",
+                "b) False"
+              ],
+              "correct_answer": "b) False"
+            },
+            {
+              "question": "If the return air temperature is 70 °F (21 °C) and the temperature rise is 75 °F (42 °C), what is the supply temperature?",
+              "options": [
+                "a) 5 °F (−15 °C)",
+                "b) 70 °F (21 °C)",
+                "c) 75 °F (24 °C)",
+                "d) 145 °F (63 °C)"
+              ],
+              "correct_answer": "d) 145 °F (63 °C)"
+            },
+            {
+              "question": "If there is a blockage in the vent, which component is designed to cause the burner to shut down?",
+              "options": [
+                "a) High limit",
+                "b) Pressuretrol",
+                "c) Roll-out switch",
+                "d) Pressure switch"
+              ],
+              "correct_answer": "d) Pressure switch"
+            },
+            {
+              "question": "What is the required airflow if a furnace has a rated input of 60 000 Btu/h, is 95% efficient, and the rating plate specifies a temperature rise of 40 to 60 °F?",
+              "options": [
+                "a) 880 CFM",
+                "b) 926 CFM",
+                "c) 1 056 CFM",
+                "d) 1 111 CFM"
+              ],
+              "correct_answer": "c) 1 056 CFM"
+            },
+            {
+              "question": "What voltage does the IFC receive from the thermostat circuit on a call for heat?",
+              "options": [
+                "a) 24 V ac",
+                "b) 24 V dc",
+                "c) 120 V ac",
+                "d) 120 V dc"
+              ],
+              "correct_answer": "a) 24 V ac"
+            },
+            {
+              "question": "How is the indoor-blower circuit energized on a furnace incorporating an IFC?",
+              "options": [
+                "a) The IFC uses electronic time delay",
+                "b) The IFC uses a temperature-activated switch",
+                "c) The furnace uses a separate fan control board",
+                "d) The fan-on switch closes in a combination high-limit/fan control."
+              ],
+              "correct_answer": "a) The IFC uses electronic time delay"
+            },
+            {
+              "question": "What is the range of a typical modulating furnace?",
+              "options": [
+                "a) Between 0 and 100% of input",
+                "b) Between 40 and 100% of input",
+                "c) Between 0 and 100% of capacity",
+                "d) Between 40 and 100% of capacity"
+              ],
+              "correct_answer": "d) Between 40 and 100% of capacity"
+            },
+            {
+              "question": "Why is it recommended to perform an ESP after retrofitting a furnace to existing ductwork?",
+              "options": [
+                "a) To confirm the furnace is operating within the ESP limits",
+                "b) To confirm the furnace is operating within the temperature-rise limits",
+                "c) To confirm the furnace is operating within the temperature-rise limits and the ESP limits",
+                "d) To confirm the furnace is operating within the temperature rise limits, the ESP limits, and is not overfiring"
+              ],
+              "correct_answer": "d) To confirm the furnace is operating within the temperature rise limits, the ESP limits, and is not overfiring"
+            }
+          ]
+        }
+      ]
+    },
+    "7th": {
+      "unit_name": "Unit 19 - Forced Warm Air Heating Systems",
+      "category": "G2",
+      "documents": [
+        {
+          "filename": "CSA Unit 19 - Forced warm air appliances - Final.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 19 - Forced Warm Air Heating Systems",
+          "char_count": 111440,
+          "content": "CSA Unit 19 - Forced Warm \nAir Appliances\nChapter 1                                    \nForced-air Furnaces\nGas technicians/fitters are commonly required to install and maintain \nforced-air furnaces. Correct installation and maintenance require the \ntechnician/fitter to understand the operation of the basic components of \nthe furnace, as well as how they fit together into a complete system. The \ntechnician/fitter must be familiar with the various Code requirements \nand other regulations that regulate the installation of these devices.\nMK by Mike Kapin\nCreated\nCopywrite 2025\nObjectives\nCode Requirements\nDescribe Code and other requirements governing \ninstallation of forced-air furnaces\nBuilding Types\nDistinguish between building types and locate Code \nrequirements governing installation of forced-air \nfurnaces in various building types\nFurnace Configurations\nDescribe common furnace configurations, \nefficiencies, and types\nVenting Requirements\nDescribe venting requirements for forced-air furnaces\nSelection Factors\nDescribe the factors that must be considered in \nselecting a furnace\nStart-up and Commissioning\nDescribe start-up and commissioning of a furnace\nKey Terminology\nTerm\nAbbreviation (Symbol)\nDefinition\nAnnual fuel utilization efficiency\nAFUE\nFurnace efficiency which take into \naccount losses during steady state \nburner operating, warm-up, cool-\ndown, and standby periods\nDrain, waste and vent system\nDWV\nThe assembly of pipes, fittings, and \nappurtenances used to convey \nsewage, clear-water waste, or \nstorm water to a public sewer\nFlammable vapours ignition \nresistant\nFVIR\nA standard that incorporates new \ndesign features to make gas-fired \nappliances resistant to igniting \nflammable vapours outside of the \nappliance\nHeating, Refrigeration, and Air-\nconditioning Institute of Canada\nHRAI\nA non-profit national trade \nassociation representing the \nHVACR industries\nLatent heat of vapourization\nLatent heat\nHeat that causes a change of state \nin a substance\nCSA Gas Trade Training \nMaterials\nThe CSA Group Gas Trade Training Materials align with Red Seal \nrequirements, covering essential topics for gas technicians. These \nmaterials ensure comprehensive training on various aspects of gas-fired \nsystems, from basic electricity and controls to installation, testing, and \nmaintenance procedures.\nAdditional Terminology\nTerm\nAbbreviation (Symbol)\nDefinition\nPlenum\nA chamber forming part of an \nair duct system. Typically, the \nsupply and return air plenums \nare the sheet metal \ncomponents directly adjacent \nto the furnace\nSpecial venting system\nA venting system certified \nwith the appliance and either \nsupplied or specified by the \nappliance manufacturer\nThermal Environmental \nComfort Association\nTECA\nA not-for-profit society with a \nfocus on training in the \nHVACR industries\nULC S636 standard\nS636\nUnderwriters Laboratories of \nCanada Standard for Type BH \ngas venting systems\nMajor Furnace Components\nBurner and Control Devices\nThe components responsible for igniting and regulating the gas flow to create controlled combustion \nwithin the furnace.\nCombustion Chamber\nThe enclosed area where the burning of fuel occurs, designed to contain and direct the heat produced.\nHeat Exchanger\nThe component that transfers heat from the combustion gases to the air that circulates through the \nhome.\nBlower Compartment\nContains the fan that moves air through the furnace and ductwork system to distribute heated air \nthroughout the building.\nMajor Furnace Classifications\nHigh Boy\nTall, upright furnaces that can be \nconfigured as up-flow or down-flow \nunits.\nLow Boy\nShorter furnaces with components \narranged horizontally, designed for \nspaces with height limitations.\nHorizontal\nFurnaces designed to be installed in a \nhorizontal position, often used in \ncrawl spaces or attics.\nThe end user requirements and the installation site determine the choice of furnace type. Each classification has specific \nairflow patterns and installation requirements.\nHigh Boy Up-Flow Furnace\nReturn Air Entry\nReturn air enters the furnace either at the bottom, rear, or one \nof the sides, depending on where the furnace is located\nBlower Operation\nThe blower is mounted beneath the heat exchanger and forces \nthe return air up over the heat exchanger\nHeated Air Distribution\nThe heated air then leaves through the top of the furnace\nThe high boy up-flow furnace is the most popular gas-fired furnace and is \nusually located in basements, although it may also be located in first floor \nutility rooms.\nHigh Boy Down-Flow Furnace\nReturn Air Entry\nReturn air enters the top of the furnace and is forced down over the \nheat exchanger\nHeat Exchange\nAir passes over the heat exchanger, gaining thermal energy from \nthe combustion process\nHeated Air Distribution\nThe heated air is then blown out the bottom of the furnace\nThese furnaces have an additional limit switch placed above the heat exchanger \nfor sensing the rising warm air and to turn the burner off. If the furnace did not \nhave this switch, the air filter and/or motor would quickly overheat.\nDown-Flow Furnace Installation \nNote\nInstallation Caution\nSome down-flow furnaces have been certified for installation on a non-combustible \nfloor only.\nCombustible Flooring\nThese furnaces should not be installed on combustible flooring unless installed on a \nspecial base that has been specifically certified for this purpose.\nThe high boy down-flow furnace is also known as the high boy counter-flow furnace. These \nfurnaces are normally installed in first floor utility rooms or slab constructed buildings. The \nair is distributed through crawl spaces.\nLow Boy Forced-Air Furnace\nAir Intake\nThe blower pulls in air through the top of the furnace\nHeat Exchange\nThe blower pushes air over the heat exchanger\nAir Distribution\nThe heated air then leaves through the top of the furnace\nLow boy forced-air furnaces are used mainly in basements. In this type of low boy furnace, the blower is placed next to the heat exchanger. The gas-fired low boy furnace \ndesign is fast disappearing from the marketplace since new compact high-boy designs can accommodate the height spacing left behind from the removal of an old low \nboy furnace.\nHorizontal Forced-Air \nFurnace\nThe horizontal forced-air furnace is used in areas where there is limited \nhead room, or where it can be suspended from the ceiling and be out of \nthe way. They are often used in automotive garages, crawl spaces, and \nattics.\nFlexible Configuration\nThe components in a horizontal furnace can often be rearranged \nso that the air can move from left to right or from right to left.\nSpace Efficiency\nDesigned specifically for installation in areas with height \nrestrictions where vertical furnaces cannot fit.\nMulti-Position Forced-Air \nFurnace\nSome furnaces are designed so they can be installed in any one of several \npositions. The orientation of the components will change as the position changes.\nUpflow Configuration\nAir enters at the bottom and exits \nat the top, ideal for basement \ninstallations.\nDownflow Configuration\nAir enters at the top and exits at \nthe bottom, suitable for \ninstallations on main floors or in \nclosets.\nHorizontal Configuration\nAir flows horizontally through the unit, perfect for attics, crawlspaces, or \nother areas with limited headroom.\nFurnace Efficiency Classifications\nConventional/Low Efficiency\nBelow 78% efficient\nMedium/Mid Efficiency\n78% to 89% efficient\nHigh Efficiency/Condensing\n90% efficient and above\nEnergy Star\n95% efficient and above\nNatural Resources Canada (NRCan) Energy Efficiency regulations mandate the efficiency of furnaces. Since 2010, the minimum AFUE efficiency \nfor residential furnaces (65.92kW/225,000 Btu/h using single-phase electric current) has been 90%. Although there are furnaces installed with \ndifferent efficiencies, only high-efficiency furnaces are currently manufactured and sold in Canada.\nLow-Efficiency Furnace \nCharacteristics\nStanding Pilot\nContinuously burning pilot light that wastes energy when heating is not required\nNatural-Draft Burners\nRely on the natural rise of hot gases for combustion air flow\nDraft Hoods\nControl the draft influence on the combustion chamber\nHigh Flue Temperatures\nTemperatures well above the dew point ensure no condensation in heat exchanger or \nventing\nThese models represent most central furnaces sold prior to the mid-1980s. They typically had a \nbelt-drive blower assembly and electro-mechanical type safety and operating controls.\nMid-Efficiency Furnace \nCharacteristics\nElectronic Ignition\nReplaced standing pilots, requiring a control module (circuit board) for \noperation\nRedesigned Heat Exchanger\nConstructed of thinner material with multiple passes for better heat \ntransfer\nDraft-Inducing Fan\nHelps draw the products of combustion from the burner to the venting \nsystem\nEfficiency Range\nGenerally achieve AFUEs of 78-82%\nHigh-Efficiency Furnace \nCharacteristics\nCondensing Technology\nProducts of combustion are purposely cooled below the dew point by advanced \nheat transfer methods\nDual Heat Exchangers\nUtilizes primary and secondary heat exchangers for maximum efficiency\nCondensate Management\nRequires proper drainage systems for the acidic condensate produced\nHigh AFUE Rating\nEfficiency levels well into the 90% range\nSince January 1st, 2012, all gas-fired furnaces sold in Canada are required to be high \nefficiency (90% and above) as determined by the AFUE testing guidelines.\nFurnace Categories\nCategory\nVent Static Pressure\nFlue Loss\nType and Efficiency\nCategory I\nNon-positive (zero or negative)\nNot less than 17% (maximum 83% \nefficient)\nMedium-efficiency furnaces with \ndraft hood-equipped or fan-\nassisted for venting into Type B \nvents\nCategory II\nNon-positive (zero or negative)\nLess than 17% (84% or greater \nefficiency)\nHigh-efficiency furnaces (90-\n98%) with condensation that must \nbe properly disposed\nCategory III\nPositive\nNot less than 17% (maximum 83% \nefficient)\nMost are medium-efficiency \nfurnaces\nCategory IV\nPositive\n",
+          "content_truncated": true
+        },
+        {
+          "filename": "CSA Unit 19 - Forced warm air appliances - Final.pptx",
+          "file_type": "powerpoint",
+          "relative_path": "CSA Units\\Unit 19 - Forced Warm Air Heating Systems",
+          "char_count": 115671,
+          "content": "CSA Unit 19 - Forced Warm Air Appliances\nChapter 1                                    Forced-air Furnaces\nGas technicians/fitters are commonly required to install and maintain forced-air furnaces. Correct installation and maintenance require the technician/fitter to understand the operation of the basic components of the furnace, as well as how they fit together into a complete system. The technician/fitter must be familiar with the various Code requirements and other regulations that regulate the installation of these devices.\nMK\nby Mike Kapin\nCreated\nCopywrite 2025\nObjectives\nCode Requirements\nDescribe Code and other requirements governing installation of forced-air furnaces\nBuilding Types\nDistinguish between building types and locate Code requirements governing installation of forced-air furnaces in various building types\nFurnace Configurations\nDescribe common furnace configurations, efficiencies, and types\nVenting Requirements\nDescribe venting requirements for forced-air furnaces\nSelection Factors\nDescribe the factors that must be considered in selecting a furnace\nStart-up and Commissioning\nDescribe start-up and commissioning of a furnace\nKey Terminology\nTerm\nAbbreviation (Symbol)\nDefinition\nAnnual fuel utilization efficiency\nAFUE\nFurnace efficiency which take into account losses during steady state burner operating, warm-up, cool-down, and standby periods\nDrain, waste and vent system\nDWV\nThe assembly of pipes, fittings, and appurtenances used to convey sewage, clear-water waste, or storm water to a public sewer\nFlammable vapours ignition resistant\nFVIR\nA standard that incorporates new design features to make gas-fired appliances resistant to igniting flammable vapours outside of the appliance\nHeating, Refrigeration, and Air-conditioning Institute of Canada\nHRAI\nA non-profit national trade association representing the HVACR industries\nLatent heat of vapourization\nLatent heat\nHeat that causes a change of state in a substance\nCSA Gas Trade Training Materials\nThe CSA Group Gas Trade Training Materials align with Red Seal requirements, covering essential topics for gas technicians. These materials ensure comprehensive training on various aspects of gas-fired systems, from basic electricity and controls to installation, testing, and maintenance procedures.\nAdditional Terminology\nTerm\nAbbreviation (Symbol)\nDefinition\nPlenum\nA chamber forming part of an air duct system. Typically, the supply and return air plenums are the sheet metal components directly adjacent to the furnace\nSpecial venting system\nA venting system certified with the appliance and either supplied or specified by the appliance manufacturer\nThermal Environmental Comfort Association\nTECA\nA not-for-profit society with a focus on training in the HVACR industries\nULC S636 standard\nS636\nUnderwriters Laboratories of Canada Standard for Type BH gas venting systems\nMajor Furnace Components\nBurner and Control Devices\nThe components responsible for igniting and regulating the gas flow to create controlled combustion within the furnace.\nCombustion Chamber\nThe enclosed area where the burning of fuel occurs, designed to contain and direct the heat produced.\nHeat Exchanger\nThe component that transfers heat from the combustion gases to the air that circulates through the home.\nBlower Compartment\nContains the fan that moves air through the furnace and ductwork system to distribute heated air throughout the building.\nMajor Furnace Classifications\nHigh Boy\nTall, upright furnaces that can be configured as up-flow or down-flow units.\nLow Boy\nShorter furnaces with components arranged horizontally, designed for spaces with height limitations.\nHorizontal\nFurnaces designed to be installed in a horizontal position, often used in crawl spaces or attics.\nThe end user requirements and the installation site determine the choice of furnace type. Each classification has specific airflow patterns and installation requirements.\nHigh Boy Up-Flow Furnace\nReturn Air Entry\nReturn air enters the furnace either at the bottom, rear, or one of the sides, depending on where the furnace is located\nBlower Operation\nThe blower is mounted beneath the heat exchanger and forces the return air up over the heat exchanger\nHeated Air Distribution\nThe heated air then leaves through the top of the furnace\nThe high boy up-flow furnace is the most popular gas-fired furnace and is usually located in basements, although it may also be located in first floor utility rooms.\nHigh Boy Down-Flow Furnace\nReturn Air Entry\nReturn air enters the top of the furnace and is forced down over the heat exchanger\nHeat Exchange\nAir passes over the heat exchanger, gaining thermal energy from the combustion process\nHeated Air Distribution\nThe heated air is then blown out the bottom of the furnace\nThese furnaces have an additional limit switch placed above the heat exchanger for sensing the rising warm air and to turn the burner off. If the furnace did not have this switch, the air filter and/or motor would quickly overheat.\nDown-Flow Furnace Installation Note\nInstallation Caution\nSome down-flow furnaces have been certified for installation on a non-combustible floor only.\nCombustible Flooring\nThese furnaces should not be installed on combustible flooring unless installed on a special base that has been specifically certified for this purpose.\nThe high boy down-flow furnace is also known as the high boy counter-flow furnace. These furnaces are normally installed in first floor utility rooms or slab constructed buildings. The air is distributed through crawl spaces.\nLow Boy Forced-Air Furnace\nAir Intake\nThe blower pulls in air through the top of the furnace\nHeat Exchange\nThe blower pushes air over the heat exchanger\nAir Distribution\nThe heated air then leaves through the top of the furnace\nLow boy forced-air furnaces are used mainly in basements. In this type of low boy furnace, the blower is placed next to the heat exchanger. The gas-fired low boy furnace design is fast disappearing from the marketplace since new compact high-boy designs can accommodate the height spacing left behind from the removal of an old low boy furnace.\nHorizontal Forced-Air Furnace\nThe horizontal forced-air furnace is used in areas where there is limited head room, or where it can be suspended from the ceiling and be out of the way. They are often used in automotive garages, crawl spaces, and attics.\nFlexible Configuration\nThe components in a horizontal furnace can often be rearranged so that the air can move from left to right or from right to left.\nSpace Efficiency\nDesigned specifically for installation in areas with height restrictions where vertical furnaces cannot fit.\nMulti-Position Forced-Air Furnace\nSome furnaces are designed so they can be installed in any one of several positions. The orientation of the components will change as the position changes.\nUpflow Configuration\nAir enters at the bottom and exits at the top, ideal for basement installations.\nDownflow Configuration\nAir enters at the top and exits at the bottom, suitable for installations on main floors or in closets.\nHorizontal Configuration\nAir flows horizontally through the unit, perfect for attics, crawlspaces, or other areas with limited headroom.\nFurnace Efficiency Classifications\nConventional/Low Efficiency\nBelow 78% efficient\nMedium/Mid Efficiency\n78% to 89% efficient\nHigh Efficiency/Condensing\n90% efficient and above\nEnergy Star\n95% efficient and above\nNatural Resources Canada (NRCan) Energy Efficiency regulations mandate the efficiency of furnaces. Since 2010, the minimum AFUE efficiency for residential furnaces (65.92kW/225,000 Btu/h using single-phase electric current) has been 90%. Although there are furnaces installed with different efficiencies, only high-efficiency furnaces are currently manufactured and sold in Canada.\nLow-Efficiency Furnace Characteristics\nStanding Pilot\nContinuously burning pilot light that wastes energy when heating is not required\nNatural-Draft Burners\nRely on the natural rise of hot gases for combustion air flow\nDraft Hoods\nControl the draft influence on the combustion chamber\nHigh Flue Temperatures\nTemperatures well above the dew point ensure no condensation in heat exchanger or venting\nThese models represent most central furnaces sold prior to the mid-1980s. They typically had a belt-drive blower assembly and electro-mechanical type safety and operating controls.\nMid-Efficiency Furnace Characteristics\nElectronic Ignition\nReplaced standing pilots, requiring a control module (circuit board) for operation\nRedesigned Heat Exchanger\nConstructed of thinner material with multiple passes for better heat transfer\nDraft-Inducing Fan\nHelps draw the products of combustion from the burner to the venting system\nEfficiency Range\nGenerally achieve AFUEs of 78-82%\nHigh-Efficiency Furnace Characteristics\nCondensing Technology\nProducts of combustion are purposely cooled below the dew point by advanced heat transfer methods\nDual Heat Exchangers\nUtilizes primary and secondary heat exchangers for maximum efficiency\nCondensate Management\nRequires proper drainage systems for the acidic condensate produced\nHigh AFUE Rating\nEfficiency levels well into the 90% range\nSince January 1st, 2012, all gas-fired furnaces sold in Canada are required to be high efficiency (90% and above) as determined by the AFUE testing guidelines.\nFurnace Categories\nCategory\nVent Static Pressure\nFlue Loss\nType and Efficiency\nCategory I\nNon-positive (zero or negative)\nNot less than 17% (maximum 83% efficient)\nMedium-efficiency furnaces with draft hood-equipped or fan-assisted for venting into Type B vents\nCategory II\nNon-positive (zero or negative)\nLess than 17% (84% or greater efficiency)\nHigh-efficiency furnaces (90-98%) with condensation that must be properly disposed\nCategory III\nPositive\nNot less than 17% (maximum 83% efficient)\nMost are medium-efficiency furnaces\nCategory IV\nPositive\nLess than 17% (84% or greater efficiency)\nHigh-efficiency furnaces (90-98%) with condensation that must b",
+          "content_truncated": true
+        },
+        {
+          "filename": "CSA Unit 19 - Question Bank.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 19 - Forced Warm Air Heating Systems",
+          "char_count": 18284,
+          "content": "CSA Unit 19 - Forced Warm Air Appliances Test (100 Questions)\nMultiple Choice Test\nWhat does AFUE stand for? a) Annual Fuel Usage Efficiency b) Annual Fuel Utilization Efficiency c) Average Fuel Usage Efficiency d) Average Fuel Utilization Efficiency\nWhat is the minimum AFUE efficiency required for residential furnaces in Canada since 2010? a) 78% b) 85% c) 90% d) 95%\nWhich furnace type is most popular and usually located in basements? a) High boy down-flow b) Low boy c) Horizontal d) High boy up-flow\nWhat is the standard clearance to combustible material for the burner side of a furnace? a) 6 inches b) 12 inches c) 18 inches d) 24 inches\nWhat is the minimum clearance above-grade-level for a forced-air furnace in a storage garage? a) 12 inches b) 18 inches c) 24 inches d) 36 inches\nFor a repair garage, what is the minimum clearance above-grade-level for furnace components? a) 18 inches b) 3 feet c) 4.5 feet d) 6 feet\nWhat does FVIR stand for? a) Fire Vapour Ignition Resistant b) Flammable Vapours Ignition Resistant c) Fuel Vapour Ignition Resistant d) Forced Vapour Ignition Resistant\nWhich Code governs the installation of forced-air furnaces in Canada? a) CSA B149.2 b) CSA B149.1 c) CSA B140 d) NBC\nWhat is the opening size requirement for crawl space access? a) 18 by 24 inches b) 24 by 30 inches c) 30 by 36 inches d) 36 by 42 inches\nWhat is the required height and width of a crawl path? a) 24 by 24 inches b) 30 by 30 inches c) 36 by 36 inches d) 42 by 42 inches\nWhich efficiency category do condensing furnaces fall into? a) Low efficiency b) Mid efficiency c) High efficiency d) Standard efficiency\nWhat is the efficiency range for Energy Star furnaces? a) 90% and above b) 92% and above c) 95% and above d) 98% and above\nCategory I furnaces have what type of vent static pressure? a) Positive b) Non-positive c) Variable d) High positive\nCategory IV furnaces are characterized by: a) Non-positive vent pressure and high flue loss b) Positive vent pressure and high flue loss c) Non-positive vent pressure and low flue loss d) Positive vent pressure and low flue loss\nWhat temperature range indicates vent gas will condense? a) 100-110°F b) 115-125°F c) 127-130°F d) 140-150°F\nWhat does DWV stand for? a) Drain, waste and valve system b) Drain, waste and vent system c) Drain, water and vent system d) Discharge, waste and vent system\nWhat does HRV stand for? a) Heat Recovery Ventilator b) Heat Recycling Ventilator c) Home Recovery Ventilator d) High Recovery Ventilator\nWhat does ESP stand for? a) External Service Pressure b) External Static Pressure c) External System Pressure d) Exhaust Static Pressure\nWhat is the typical temperature rise range for most heat exchangers? a) 25-50°F b) 35-75°F c) 45-100°F d) 55-125°F\nWhat does CFM stand for? a) Cubic feet per meter b) Cubic feet per minute c) Cubic flow per minute d) Constant flow measurement\nWhat is the formula for calculating required CFM? a) CFM = (Btu/h output) ÷ (1.08 × temperature rise) b) CFM = (Btu/h input) ÷ (1.08 × temperature rise) c) CFM = (Btu/h output) × (1.08 × temperature rise) d) CFM = (Btu/h output) ÷ (temperature rise × 0.108)\nThe constant 1.08 in the CFM formula is derived from what? a) The specific heat of air at standard conditions b) The Btu required to raise 1 ft³ of air by 1°F times 60 minutes c) The density of air at room temperature d) The thermal conductivity of air\nWhat does IFC stand for? a) Integrated Furnace Control b) Internal Furnace Control c) Intelligent Furnace Control d) Ignition and Flame Control\nWhat is the typical fan-on delay for high-efficiency furnaces? a) 30 seconds b) 45 seconds c) 60 seconds d) 90 seconds\nWhat does HRAI stand for? a) Heating, Refrigeration, and Air-conditioning Institute b) Heating, Refrigeration, and Air-conditioning Institute of Canada c) Home Refrigeration and Air-conditioning Institute d) Heating and Refrigeration Association International\nWhat does TECA stand for? a) Thermal Environmental Control Association b) Technical Equipment Control Association c) Thermal Environmental Comfort Association d) Technical Environmental Certification Authority\nWhat does S636 refer to? a) ULC Standard for Type B gas venting systems b) ULC Standard for Type BH gas venting systems c) CSA Standard for gas piping d) CSA Standard for furnace installation\nIn a down-flow furnace, where does return air enter? a) Bottom b) Top c) Side d) Rear\nWhat additional safety feature do down-flow furnaces require? a) Secondary gas valve b) Additional limit switch above heat exchanger c) Backup ignition system d) Extra pressure switch\nWhat is another name for a high boy down-flow furnace? a) Counter-flow furnace b) Reverse-flow furnace c) Inverted-flow furnace d) Bottom-flow furnace\nWhere is the blower located in a low boy furnace? a) Above the heat exchanger b) Below the heat exchanger c) Next to the heat exchanger d) Behind the heat exchanger\nWhat type of furnace is designed for areas with limited headroom? a) Low boy b) High boy c) Horizontal d) Multi-position\nWhat can often be rearranged in horizontal furnaces? a) The gas valve b) The heat exchanger c) The components for left-to-right or right-to-left airflow d) The electrical connections\nStanding pilot lights are characteristic of which furnace type? a) High efficiency b) Mid efficiency c) Low efficiency d) Condensing\nWhat do mid-efficiency furnaces typically use instead of standing pilots? a) Hot surface ignition b) Electronic ignition c) Spark ignition d) All of the above\nWhat is the main feature of high-efficiency furnaces? a) Electronic ignition b) Improved heat exchanger c) Condensing technology d) Variable speed blowers\nWhen did all gas-fired furnaces sold in Canada become required to be high efficiency? a) January 1, 2010 b) January 1, 2011 c) January 1, 2012 d) January 1, 2015\nWhat happens to combustion products in high-efficiency furnaces? a) They are vented at high temperature b) They are cooled below the dew point c) They are filtered before venting d) They are recirculated\nWhat must be properly managed in high-efficiency furnaces? a) Gas pressure b) Air flow c) Condensate drainage d) Electrical connections\nWhat efficiency level defines Energy Star furnaces? a) 90% and above b) 92% and above c) 95% and above d) 98% and above\nWhat is the maximum efficiency for Category I furnaces? a) 78% b) 83% c) 85% d) 90%\nWhich categories have positive vent static pressure? a) Categories I and II b) Categories II and IV c) Categories III and IV d) Categories I and III\nWhat is the minimum flue loss for Categories I and III? a) 10% b) 15% c) 17% d) 20%\nWhich categories produce condensation that must be disposed of? a) Categories I and III b) Categories II and IV c) Categories I and II d) Categories III and IV\nWhat clause in CSA B149.1 describes installer responsibilities? a) Clause 4.2 b) Clause 4.3 c) Clause 4.4 d) Clause 4.5\nWho is responsible for ensuring Code compliance after installation? a) The homeowner b) The gas technician/fitter c) The inspector d) The manufacturer\nWhat must electrical work comply with? a) CSA B149.1 only b) Local electrical codes only c) Canadian Electrical Code and local regulations d) Manufacturer specifications only\nWhat should be done with used appliances during installation? a) Install them normally b) Install with particular care to ensure safety c) Refuse to install them d) Install only with manufacturer approval\nWhat is the minimum service clearance on the burner and controls side? a) 18 inches b) 24 inches c) 30 inches d) 36 inches\nWhat is NOT allowed in a crawl space? a) Gas piping b) Electrical connections c) Cold air return d) Condensate drainage\nIf a rating plate doesn't show clearances, what are the standard clearances to combustible material for top, back, sides, and bottom? a) 3 inches b) 6 inches c) 12 inches d) 18 inches\nFor attic installation, what must the rating plate state? a) That the furnace is approved for basement installation b) That the furnace is approved for attic installation c) That the furnace is approved for garage installation d) That the furnace is high efficiency\nWhat is required for attic furnace installation access? a) A ladder b) A permanent substantial walkway to the control side c) Emergency lighting d) Ventilation fans\nAt what building height is fixed access required for rooftop furnaces? a) 10-20 feet b) 13-26 feet c) 15-30 feet d) 20-35 feet\nHow far must rooftop furnaces be from the building edge? a) 1 meter (3 feet) b) 1.5 meters (5 feet) c) 2 meters (6 feet) d) 3 meters (10 feet)\nThe 18-inch clearance requirement for storage garages does NOT apply if the appliance is: a) High efficiency b) FVIR certified c) Electronically controlled d) Direct vent\nWhat clause covers combined heating systems? a) Clause 4.17 b) Clause 4.18 c) Clause 4.19 d) Clause 4.20\nFor heating residences under construction, what should be used? a) The permanent furnace b) An approved construction heater c) Portable heaters d) Temporary heating\nWhat can void a furnace warranty during construction? a) Improper electrical connections b) Drywall dust and dirt coating the heat exchanger c) Inadequate gas pressure d) Poor venting\nWhat code should be referenced for mobile home furnace installation? a) CSA B149.1 only b) CSA Z240.4.1 c) CSA Z240.4.2 d) NBC\nWhat type of furnace is required for recreational vehicles? a) High efficiency b) Mid efficiency c) Direct-vent type d) Induced draft\nWhat must recreational vehicle furnaces be certified for? a) Natural gas use b) Propane use c) Both natural gas and propane d) Electricity backup\nWhen should ignition sources be turned off in recreational vehicles? a) During maintenance b) During storage c) Before refueling d) At night\nWhat determines furnace configuration choice? a) Homeowner preference b) On-site considerations c) Cost factors d) Efficiency requirements\nWhat is required to determine furnace size? a) Square footage calculation b) Heat loss calculation c) Manufacturer recommendation d) Previous furnace size\nWhat",
+          "content_truncated": true
+        },
+        {
+          "filename": "Assignments_GT2_19-01_Force-air_furn_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 19 - Forced Warm Air Heating Systems\\Assignments",
+          "char_count": 3879,
+          "content": "Gas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 19 – Chapter 01: Forced-air furnaces \n \n1. If the venting on a high efficiency furnace runs through unheated spaces, what must be \ndone? \na) It must be insulated \nb) It must be protected from damage \nc) It must be increased by one pipe size \nd) Vents from condensing appliances can NOT go through unheated spaces \n \n2. How would an installer determine the existing ductwork is adequately sized for the new \nhigh-efficient furnace? \na) Complete a heat loss calculation \nb) Check the blower motor amp draw \nc) Perform an external static pressure test \nd) Confirm the temperature rise is within the manufacturer’s specifications \n \n3. If an HRV is used in conjunction with a furnace, where is the HRV’s warm air supply \nconnected to the furnace system? \na) On the return air ducting but at least 3 m from the furnace \nb) On the supply air ducting but at least 3 m from the furnace  \nc) On the return air ducting but no more than 3 m from the furnace \nd) On the supply air ducting but no more than 3 m from the furnace \n \n4. If a furnace system has air-conditioning added, where does the cased coil go? \na) Downstream of the burner and downstream of the blower \nb) Upstream of the burner and upstream of the blower \nc) Downstream of the burner but upstream of the blower \nd) Upstream of the burner but downstream of the blower\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n5. In what position(s) can condensing furnaces be installed? \na) Up or horizontal left only \nb) Up or horizontal left or horizontal right \nc) Up, down, horizontal right and horizontal left \nd) Only positions approved by the manufacturer \n \n6. What is the AFUE rating of a high-efficiency (condensing) furnace? \na) 83% or greater \nb) Greater than 83% \nc) 90% or greater \nd) Greater than 90% \n \n7. Which category of furnace is a high-efficiency appliance? \na) Category I \nb) Category II \nc) Category III \nd) Category IV \n \n8. What type(s) of furnace(s) use an inducer fan? \na) Mid-efficiency only \nb) High-efficiency only \nc) Mid-efficiency and high-efficiency \nd) Low-efficiency, mid-efficiency, and high-efficiency \n \n9. Why is condensate considered corrosive? \na) It has a low pH and low acidity \nb) It has a high pH and low acidity \nc) It has a high pH and high acidity \nd) It has a low pH and high acidity\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n3 \n10. What is the draft pressure in the vent from a condensing furnace? \na) Neutral \nb) Positive \nc) Negative \nd) Positive or negative depending on input \n \n11. How are Type BH vents sized? \na) Using the furnace manufacturer’s literature \nb) Using the vent pipe manufacturer’s literature \nc) Using the vent sizing tables in the CSA B149.1 Code \nd) Using the outlet size of the vent on the appliance and increasing one size for every 50 \nfeet \n \n12. When upgrading to a high-efficiency furnace from a low-efficiency model how is the \nappliance input decided? \na) Complete a heat loss calculation \nb) Replace the old furnace with the same input \nc) Choose a model that has the same size supply air plenum \nd) Choose a modulating furnace with a minimum output equal to 50% of the old furnace \ninput \n \n13. Can the vent from a condensing appliance be connected to the B-vent of the appliance it \nreplaces? \na) No, a new vent needs to be installed \nb) Yes, if the existing vent is the correct size \nc) Yes, if the existing B-vent is a side-wall termination  \nd) Yes, if an aluminum liner of the correct size is installed \n \n14. How is vent piping graded for a side-wall installation? \na) Perfectly horizontal \nb) Toward the appliance \nc) Away from the appliance \nd) To a low point created mid-way in the system",
+          "content_truncated": false
+        },
+        {
+          "filename": "Assignments_GT2_19-02_Servic_mech_compon_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 19 - Forced Warm Air Heating Systems\\Assignments",
+          "char_count": 3860,
+          "content": "Gas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 19 – Chapter 02: Servicing of \nmechanical components \n \n1. Must a defective heat exchanger in a dwelling unit be replaced immediately? \na) Yes \nb) No, it can be temporarily repaired \nc) No, it can be permanently repaired No, only if the CO level is above the maximum \nacceptable for the appliance \n \n2. A high efficiency furnace incorporates how many heat exchangers? \na) One \nb) Two, a primary and a tertiary \nc) Two, a primary and a secondary \nd) Three \n \n3. When would a gas technician/fitter use an incline manometer? \na) To check the manifold pressure \nb) To complete an external static pressure test \nc) To confirm the operation of the high-limit switch  \nd) To set the outlet pressure of a line-pressure regulator \n \n4. What is the purpose of a flame rollout switch? \na) Open in the event of spillage \nb) Open when the combustion air is blocked \nc) Protect the burner area from unusually high temperatures \nd) Protect the heat exchanger area from unusually high temperatures \n \n5. What is the purpose of a diaphragm-style pressure switch on a condensing furnace? \na) To confirm the gas pressure is correct \nb) To confirm induced draft fan is operating \nc) To confirm the blower assembly is operating \nd) To confirm the air supply differential pressure is within limitations\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n \n6. On what type of furnace(s) could you see a combination high-limit/fan control? \na) Low-efficiency only  \nb) High-efficiency only \nc) Low-efficiency and mid-efficiency \nd) Mid-efficiency and high-efficiency \n \n7. What material is recommended for condensate piping after connecting to the appliance? \na) Rigid PVC piping \nb) Flexible PVC tubing \nc) Any steel pipe material  \nd) Any plastic pipe material \n \n8. How is temperature rise determined? \na) The ambient temperature plus the room air temperature \nb) Add the return air temperature to the supply air temperature  \nc) Subtract the supply air temperature from the return air temperature \nd) Subtract the return air temperature from the supply air temperature \n \n9. What type of furnace would use a vent damper? \na) Mid-efficiency only  \nb) Low efficiency only \nc) Low-efficiency and mid-efficiency \nd) All types of furnaces use vent dampers in the ducting system \n \n10. What tool should be used to clean the outside of a heat exchanger? \na) Soft brush \nb) Wire brush \nc) Sanding block \nd) Never clean the outside of a heat exchanger\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n3 \n11. When is a condensate pump required? \na) All condensing appliance installation \nb) When a condensate trap cannot be installed  \nc) When the condensate cannot drain by gravity to the DWV system \nd) When the condensate drain needs to be graded more than ¼ inch per foot \n \n12. Where does condensate form in a condensing appliance system? \na) Only in the primary heat exchanger \nb) Only in the secondary heat exchanger \nc) In the primary and secondary heat exchangers \nd) In the secondary heat exchanger and the venting system \n \n13. How is manifold pressure measured on a residential furnace? \na) Upstream of the combination gas valve with the appliance shut off \nb) Downstream of the combination gas valve with the appliance shut off \nc) Upstream of the combination gas valve with the appliance operating \nd) Downstream of the combination gas valve with the appliance operating \n \n14. Where is a combustion analysis performed?  \na) In the combustion chamber \nb) Should be measured after any draft control devices  \nc) Should be measured before any draft control devices \nd) At the area where the primary and secondary air enters the appliance",
+          "content_truncated": false
+        },
+        {
+          "filename": "Assignments_GT2_19-03_Elect_circuts_compon_STUD.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 19 - Forced Warm Air Heating Systems\\Assignments",
+          "char_count": 2836,
+          "content": "Gas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 19 – Chapter 03: Electrical circuits and \ncomponents \n \n1. Referencing a combination control, what is the approximate normal differential setting of \nthe fan control? \na) 25°F (14°C) \nb) 35°F (19°C) \nc) 45°F (25°C) \nd) 55°F (30°C) \n \n2. Referencing a mid-efficiency furnace, what causes the fan to shut off under normal \noperating conditions? \na) The pressure switch circuit opens \nb) The IFC Fan-OFF timer is activated \nc) The fan control cools down enough to open the circuit. \nd) The thermostat has reached setpoint temperature and opens the Fan-OFF circuit \n \n3. On which types of furnaces would you find an auxiliary limit control? \na) Only central furnaces \nb) Downflow furnaces only \nc) Horizontal or downflow furnaces \nd) Upflow, horizontal, and downflow furnaces \n \n4. Do all rollout switches have to be manually reset? \na) Yes \nb) No\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n5. If the return air temperature is 70°F (21°C) and the temperature rise is 75°F (42°C), what is \nthe supply temperature? \na) 5°F (-15°C) \nb) 70°F (21°C) \nc) 75°F (24°C) \nd) 145°F (63°C) \n \n6. What component is designed to cause the burner to shut down if there is a blockage in the \nvent? \na) High-limit \nb) Pressuretrol \nc) Roll-out switch  \nd) Pressure switch \n \n7. What would be the required air flow if a furnace has a rated input of 60,000 Btuh, is 95% \nefficient, and the rating plate specifies a temperature rise of 40°- 60°F? \na) 880 CFM \nb) 926 CFM \nc) 1056 CFM \nd) 1,111 CFM \n \n8. What voltage does the IFC receive from the thermostat circuit on a call for heat? \na) 24 VAC \nb) 24 VDC \nc) 120 VAC \nd) 120 VDC \n \n9. How is the indoor blower circuit energized on a furnace incorporating an IFC? \na) The IFC uses electronic time delay  \nb) The IFC uses a temperature-activated switch \nc) The furnace uses a separate fan control board  \nd) The Fan-ON switch closes in a combination high-limit/fan control\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n3 \n10. What is the range of a typical modulating furnace? \na) Between 0% and 100% of input  \nb) Between 40% and 100% of input \nc) Between 0% and 100% of capacity \nd) Between 40% and 100% of capacity \n \n11. Why is it recommended to perform an ESP after retrofitting a furnace to existing ductwork? \na) To ensure the furnace is operating within the ESP limits \nb) To ensure the furnace is operating within the temperature rise limits \nc) To ensure the furnace is operating within the temperature rise limits and the ESP limits \nd) To ensure the furnace is operating within the temperature rise limits, the ESP limits, \nand is not over-firing",
+          "content_truncated": false
+        },
+        {
+          "filename": "Assignments_GT2_19-01_Force-air_furn_INST.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 19 - Forced Warm Air Heating Systems\\Assignments\\Answer Keys",
+          "char_count": 3879,
+          "content": "Gas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 19 – Chapter 01: Forced-air furnaces \n \n1. If the venting on a high efficiency furnace runs through unheated spaces, what must be \ndone? \na) It must be insulated \nb) It must be protected from damage \nc) It must be increased by one pipe size \nd) Vents from condensing appliances can NOT go through unheated spaces \n \n2. How would an installer determine the existing ductwork is adequately sized for the new \nhigh-efficient furnace? \na) Complete a heat loss calculation \nb) Check the blower motor amp draw \nc) Perform an external static pressure test \nd) Confirm the temperature rise is within the manufacturer’s specifications \n \n3. If an HRV is used in conjunction with a furnace, where is the HRV’s warm air supply \nconnected to the furnace system? \na) On the return air ducting but at least 3 m from the furnace \nb) On the supply air ducting but at least 3 m from the furnace  \nc) On the return air ducting but no more than 3 m from the furnace \nd) On the supply air ducting but no more than 3 m from the furnace \n \n4. If a furnace system has air-conditioning added, where does the cased coil go? \na) Downstream of the burner and downstream of the blower \nb) Upstream of the burner and upstream of the blower \nc) Downstream of the burner but upstream of the blower \nd) Upstream of the burner but downstream of the blower\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n5. In what position(s) can condensing furnaces be installed? \na) Up or horizontal left only \nb) Up or horizontal left or horizontal right \nc) Up, down, horizontal right and horizontal left \nd) Only positions approved by the manufacturer \n \n6. What is the AFUE rating of a high-efficiency (condensing) furnace? \na) 83% or greater \nb) Greater than 83% \nc) 90% or greater \nd) Greater than 90% \n \n7. Which category of furnace is a high-efficiency appliance? \na) Category I \nb) Category II \nc) Category III \nd) Category IV \n \n8. What type(s) of furnace(s) use an inducer fan? \na) Mid-efficiency only \nb) High-efficiency only \nc) Mid-efficiency and high-efficiency \nd) Low-efficiency, mid-efficiency, and high-efficiency \n \n9. Why is condensate considered corrosive? \na) It has a low pH and low acidity \nb) It has a high pH and low acidity \nc) It has a high pH and high acidity \nd) It has a low pH and high acidity\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n3 \n10. What is the draft pressure in the vent from a condensing furnace? \na) Neutral \nb) Positive \nc) Negative \nd) Positive or negative depending on input \n \n11. How are Type BH vents sized? \na) Using the furnace manufacturer’s literature \nb) Using the vent pipe manufacturer’s literature \nc) Using the vent sizing tables in the CSA B149.1 Code \nd) Using the outlet size of the vent on the appliance and increasing one size for every 50 \nfeet \n \n12. When upgrading to a high-efficiency furnace from a low-efficiency model how is the \nappliance input decided? \na) Complete a heat loss calculation \nb) Replace the old furnace with the same input \nc) Choose a model that has the same size supply air plenum \nd) Choose a modulating furnace with a minimum output equal to 50% of the old furnace \ninput \n \n13. Can the vent from a condensing appliance be connected to the B-vent of the appliance it \nreplaces? \na) No, a new vent needs to be installed \nb) Yes, if the existing vent is the correct size \nc) Yes, if the existing B-vent is a side-wall termination  \nd) Yes, if an aluminum liner of the correct size is installed \n \n14. How is vent piping graded for a side-wall installation? \na) Perfectly horizontal \nb) Toward the appliance \nc) Away from the appliance \nd) To a low point created mid-way in the system",
+          "content_truncated": false
+        },
+        {
+          "filename": "Assignments_GT2_19-02_Servic_mech_compon_INST.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 19 - Forced Warm Air Heating Systems\\Assignments\\Answer Keys",
+          "char_count": 3860,
+          "content": "Gas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 19 – Chapter 02: Servicing of \nmechanical components \n \n1. Must a defective heat exchanger in a dwelling unit be replaced immediately? \na) Yes \nb) No, it can be temporarily repaired \nc) No, it can be permanently repaired No, only if the CO level is above the maximum \nacceptable for the appliance \n \n2. A high efficiency furnace incorporates how many heat exchangers? \na) One \nb) Two, a primary and a tertiary \nc) Two, a primary and a secondary \nd) Three \n \n3. When would a gas technician/fitter use an incline manometer? \na) To check the manifold pressure \nb) To complete an external static pressure test \nc) To confirm the operation of the high-limit switch  \nd) To set the outlet pressure of a line-pressure regulator \n \n4. What is the purpose of a flame rollout switch? \na) Open in the event of spillage \nb) Open when the combustion air is blocked \nc) Protect the burner area from unusually high temperatures \nd) Protect the heat exchanger area from unusually high temperatures \n \n5. What is the purpose of a diaphragm-style pressure switch on a condensing furnace? \na) To confirm the gas pressure is correct \nb) To confirm induced draft fan is operating \nc) To confirm the blower assembly is operating \nd) To confirm the air supply differential pressure is within limitations\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n \n6. On what type of furnace(s) could you see a combination high-limit/fan control? \na) Low-efficiency only  \nb) High-efficiency only \nc) Low-efficiency and mid-efficiency \nd) Mid-efficiency and high-efficiency \n \n7. What material is recommended for condensate piping after connecting to the appliance? \na) Rigid PVC piping \nb) Flexible PVC tubing \nc) Any steel pipe material  \nd) Any plastic pipe material \n \n8. How is temperature rise determined? \na) The ambient temperature plus the room air temperature \nb) Add the return air temperature to the supply air temperature  \nc) Subtract the supply air temperature from the return air temperature \nd) Subtract the return air temperature from the supply air temperature \n \n9. What type of furnace would use a vent damper? \na) Mid-efficiency only  \nb) Low efficiency only \nc) Low-efficiency and mid-efficiency \nd) All types of furnaces use vent dampers in the ducting system \n \n10. What tool should be used to clean the outside of a heat exchanger? \na) Soft brush \nb) Wire brush \nc) Sanding block \nd) Never clean the outside of a heat exchanger\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n3 \n11. When is a condensate pump required? \na) All condensing appliance installation \nb) When a condensate trap cannot be installed  \nc) When the condensate cannot drain by gravity to the DWV system \nd) When the condensate drain needs to be graded more than ¼ inch per foot \n \n12. Where does condensate form in a condensing appliance system? \na) Only in the primary heat exchanger \nb) Only in the secondary heat exchanger \nc) In the primary and secondary heat exchangers \nd) In the secondary heat exchanger and the venting system \n \n13. How is manifold pressure measured on a residential furnace? \na) Upstream of the combination gas valve with the appliance shut off \nb) Downstream of the combination gas valve with the appliance shut off \nc) Upstream of the combination gas valve with the appliance operating \nd) Downstream of the combination gas valve with the appliance operating \n \n14. Where is a combustion analysis performed?  \na) In the combustion chamber \nb) Should be measured after any draft control devices  \nc) Should be measured before any draft control devices \nd) At the area where the primary and secondary air enters the appliance",
+          "content_truncated": false
+        },
+        {
+          "filename": "Assignments_GT2_19-03_Elect_circuts_compon_INST.pdf",
+          "file_type": "pdf",
+          "relative_path": "CSA Units\\Unit 19 - Forced Warm Air Heating Systems\\Assignments\\Answer Keys",
+          "char_count": 2837,
+          "content": "Gas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n1 \nUnit 19 – Chapter 03: Electrical circuits and \ncomponents \n \n1. Referencing a combination control, what is the approximate normal differential setting of \nthe fan control? \na) 25°F (14°C) \nb) 35°F (19°C) \nc) 45°F (25°C) \nd) 55°F (30°C) \n \n2. Referencing a mid-efficiency furnace, what causes the fan to shut off under normal \noperating conditions? \na) The pressure switch circuit opens \nb) The IFC Fan-OFF timer is activated \nc) The fan control cools down enough to open the circuit. \nd) The thermostat has reached setpoint temperature and opens the Fan-OFF circuit \n \n3. On which types of furnaces would you find an auxiliary limit control? \na) Only central furnaces \nb) Downflow furnaces only \nc) Horizontal or downflow furnaces \nd) Upflow, horizontal, and downflow furnaces \n \n4. Do all rollout switches have to be manually reset? \na) Yes \nb) No\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n2 \n5. If the return air temperature is 70°F (21°C) and the temperature rise is 75°F (42°C), what is \nthe supply temperature? \na) 5°F (-15°C) \nb) 70°F (21°C) \nc) 75°F (24°C) \nd) 145°F (63°C) \n \n6. What component is designed to cause the burner to shut down if there is a blockage in the \nvent? \na) High-limit \nb) Pressuretrol \nc) Roll-out switch  \nd) Pressure switch \n \n7. What would be the required air flow if a furnace has a rated input of 60,000 Btuh, is 95% \nefficient, and the rating plate specifies a temperature rise of 40°- 60°F? \na) 880 CFM \nb) 926 CFM \nc) 1056 CFM \nd) 1,111 CFM \n \n8. What voltage does the IFC receive from the thermostat circuit on a call for heat? \na) 24 VAC \nb) 24 VDC \nc) 120 VAC \nd) 120 VDC \n \n9. How is the indoor blower circuit energized on a furnace incorporating an IFC? \na) The IFC uses electronic time delay  \nb) The IFC uses a temperature-activated switch \nc) The furnace uses a separate fan control board  \nd) The Fan-ON switch closes in a combination high-limit/fan control\nGas Trade Training – Chapter Questions \nUpdated: November 2019 \n \n \n© 2019 Canadian Standards Association  \n \n3 \n10. What is the range of a typical modulating furnace? \na) Between 0% and 100% of input  \nb) Between 40% and 100% of input \nc) Between 0% and 100% of capacity \nd) Between 40% and 100% of capacity \n \n11. Why is it recommended to perform an ESP after retrofitting a furnace to existing ductwork? \na) To ensure the furnace is operating within the ESP limits \nb) To ensure the furnace is operating within the temperature rise limits \nc) To ensure the furnace is operating within the temperature rise limits and the ESP \nlimits \nd) To ensure the furnace is operating within the temperature rise limits, the ESP limits, \nand is not over-firing",
+          "content_truncated": false
+        },
+        {
+          "filename": "Furnace Replacement Practical - CE.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 19 - Forced Warm Air Heating Systems\\Lab Practicals",
+          "char_count": 6650,
+          "content": "Furnace Replacement Practical\nLearning Outcome:\nUpon completion of this shop project, you will understand the process of removing an old furnace, prepping the new furnace for installation, sizing up a new transition fitting, and then the installation of the new furnace.\nInstructions:\nUsing the manufacturer’s installation instructions, the CSA modules, and instructions from your in-lab training, answer the questions below to replace and install a mock furnace install.\nNote: Each step must be signed off by the instructor before proceeding to the next question. Skipped sign offs will result in lost marks (2 per). Any damage to the system’s components due to negligence or horseplay will result in a mark of zero for the practical.\nFollow all shop safety rules.\nWhat bay number were you assigned: ____________________\nWhat type of furnace is currently installed in this spot? ____________________\nWho is the manufacturer of this furnace? ____________________\nWhat is the model number of the current furnace? ____________________\nWhat is the serial number of the current furnace? ____________________\nWhat is the BTU input of the current furnace? ____________________\nWhat is the BTU output is the current furnace? ____________________\nWhat is the efficiency of the furnace? ____________________\nWhat is the category of the furnace? ____________________\nOn the next page is a generic diagram of a furnace. Fill in all dimensions on the sheet (ask if you are unsure of what certain dimension lines are indicating). Once completed, ask the instructor to verify your measurements and receive a sign off. Another furnace will then be selected for you to mock install.\nA: __________ B: __________ C: __________ D: __________ E: __________ F: __________\nG: __________ H: __________ I: __________ J: __________ K: __________ L: __________\nM: __________ N: __________ O: __________ P: __________ Q: __________ R: __________\nInstructor signature: ____________________\nWho is the manufacturer of the new furnace? ____________________\nWhat is the model number of the new furnace? ____________________\nWhat is the serial number of the new furnace? ____________________\nWhat is the BTU input of the new furnace? ____________________\nWhat is the BTU output is the new furnace? ____________________\nWhat is the efficiency of the furnace? ____________________\nWhat is the category of the furnace? ____________________\nTake measurements of the opening on the top of the new furnace and record them below. Using the original plenum size and the new furnace opening, sketch the sheet metal fitting required to reconnect ductwork furnace. Note all dimensions of the fitting, and any special instructions for the layout (flat on any side, etc). Have instructor initial when complete.\nPlenum opening: ____________________\tFurnace opening: ____________________\nSpecial instructions: ________________________________________\t\t(8 marks)\nInstructor signature: ____________________\nList the steps taken to properly lock out and tag this furnace: (4 marks)\n_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nAssume that the gas, wiring, return ductwork and filter rack are all able to reconnect to the new furnace without any modifications. New venting needs to be added as the old furnace was C vented into a chimney. There is a drain within a few feet of the furnace. There is also an A-coil installed for the air conditioner. List all general steps for the removal of the old furnace: (15 marks) ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nList all general steps for the installation of the new furnace: (20 marks)\n_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________",
+          "content_truncated": false
+        },
+        {
+          "filename": "Furnace Replacement Practical - Daytime.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 19 - Forced Warm Air Heating Systems\\Lab Practicals",
+          "char_count": 5848,
+          "content": "Furnace Replacement Practical\nLearning Outcome:\nUpon completion of this shop project, you will understand the process of removing an old furnace, prepping the new furnace for installation, sizing up a new transition fitting, and then the installation of the new furnace.\nInstructions:\nUsing the manufacturer’s installation instructions, the CSA modules, and instructions from your previous in-lab training, answer the questions below to replace and install your furnace. The installation will be marked on neatness overall and functionality when completed.\nNote: Each step must be signed off by the instructor before proceeding to the next question. Skipped sign offs will result in lost marks (5 per). Any damage to the system’s components due to negligence or horseplay will result in a mark of zero for the practical.\nFollow all shop safety rules.\nWhat bay number were you assigned: ____________________\nWhat type of furnace is currently installed in this spot? ____________________\nWho is the manufacturer of this furnace? ____________________\nWhat is the model number of the current furnace? ____________________\nWhat is the serial number of the current furnace? ____________________\nWhat is the BTU input of the current furnace? ____________________\nWhat is the BTU output is the current furnace? ____________________\nWhat is the efficiency of the furnace? ____________________\nWhat is the category of the furnace? ____________________\nOn the next page is a generic diagram of a furnace. Fill in all applicable dimensions on the sheet. Once completed, ask the instructor to verify your measurements and receive a sign off. Another furnace will then be selected for you to mock install.\nA: __________ B: __________ C: __________ D: __________ E: __________ F: __________\nG: __________ H: __________ I: __________ J: __________ K: __________ L: __________\nM: __________ N: __________ O: __________ P: __________ Q: __________ R: __________\nInstructor signature: ____________________\nWho is the manufacturer of the new furnace? ____________________\nWhat is the model number of the new furnace? ____________________\nWhat is the serial number of the new furnace? ____________________\nWhat is the BTU input of the new furnace? ____________________\nWhat is the BTU output is the new furnace? ____________________\nWhat is the efficiency of the furnace? ____________________\nWhat is the category of the furnace? ____________________\nList the steps taken to properly lock out and tag a furnace: (4 marks)\n_________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nRecord the new plenum opening and the new furnace opening below. Sketch the sheet metal fitting required to reconnect the plenum to the furnace. The bottom connection to the furnace must have a ½” folded safety around all edges. Note all dimensions of the transition fitting, and any special instructions for the layout (flat on any side, etc). Have the instructor initial when complete. (15 marks)\nPlenum opening: ____________________\tFurnace opening: ____________________\nHeight from furnace top to plenum: ____________________\nSpecial instructions: __________________________________________________________\nInstructor signature: ____________________\nTake the dimensions from the above questions and build your transition piece. Each incorrectly made piece that needs to be thrown out will be 2 marks docked per. Verify with the instructor when completed before installation. (15 marks)\nInstructor signature: ____________________\nOnce the transition is completed and signed off, you can start installing the furnace. Verify with the instructor about any special installation instructions that your group will have to add to your project.\nAll furnaces will have a condensate pump.\nFilter rack:  4”  /  1”  /  NA\nElectrical connection: Hardwired  /  Plug end\nElectronic Air Cleaner:  Yes  /  No\nElectrostatic filter:  Yes  /  No\nOnce the furnace has been fully installed with the modifications, verify with the instructor and receive a sign off. This mark will be based on the overall neatness and professionalism of the installation. (50 marks)\nInstructor signature: ____________________\nSet the manifold pressure(s) of the furnace.\nWhat is the rated manifold pressure(s)? _______________\nWhat is the measured manifold pressure(s)? _______________\nWhat is the rated temperature rise of the furnace? ____________________\nWhat is the measured temperature rise of the furnace? ____________________\nConduct a flue gas analysis on the furnace and staple the print out to the front page.\nList all general steps taken for the installation of the new furnace below: (15 marks)\n__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________",
+          "content_truncated": false
+        },
+        {
+          "filename": "HRV Install Practical.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 19 - Forced Warm Air Heating Systems\\Lab Practicals",
+          "char_count": 7350,
+          "content": "HRV Install Practical\nLearning Outcome:\nUpon completion of this shop project, you will understand the installation method and tools, wiring, correct operation, and maintenance required for a Heat Recovery Ventilator.\nInstructions:\nUsing the manufacturer’s instructions, CSA modules, and in class training, complete the following questions and then the installation.\nNote: Each step must be signed off by the instructor before proceeding to the next question. Skipped sign offs will result in lost marks (2 per). Any damage to the systems components due to negligence or horseplay will result in a mark of zero for the practical.\nFollow all shop safety rules.\nList the installation instructions below: (12 marks)\n_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nList the tools and materials required for installation: (10 marks)\n_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nWould an ERV or HRV be required for each climate type?\nSevere conditions: ____________________\nModerate conditions: ____________________\nPacific conditions: ____________________\nArid zone: ____________________\nExtreme area: ____________________\nWhat is the difference between an HRV and an ERV? (3 marks) ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nWhat is the recommended Relative Humidity (RH) for a residence? ____________________\nShould the HRV be installed on the duct supply or return? Why? (2 marks)\n_________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nWhat is the maintenance frequency of the HRV? ____________________\nWhat maintenance is required for the HRV? (5 marks) ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nWhat is the material that makes up the core? ______________________________\nWhat rated power source does the HRV use? ____________________\nWhat rated amperage does the HRV use? ____________________\nWhat is the rated control voltage? ____________________\nHow many fan speeds does the HRV have? ____________________\nWhat size are the duct connections of the HRV? ____________________\nWhy is the highest rated external static pressure 0.5” W.C.? (2 marks) _________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nWhat optional add-ons are available for the HRV? (4 marks) _________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nWhy does an HRV need a defrost cycle? (2 marks) _________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nComplete the wiring diagram below for the HRV: (3 marks)\nWhy does the HRV have to be wired like this? (3 marks) ____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nInstructor signature: ____________________\nWire up the HRV as per the manufacturer installation instructions. (5 marks)\nBe sure to adhere to all safety rules of the lab and ensure that power is off when making electrical connections. DO NOT PROCEED to the installation without instructor sign off on question 19. It is an automatic failure if you do.\nInstructor signature: ____________________\nWhat is the measured current draw when the HRV is running? ____________________\nWhat is the measured control wire voltage when the HRV is running? __________________\nWhat is the measured control wire current when the HRV is running? __________________\nAssume the instructor is the customer. Instruct the customer of the proper use and care for the HRV. (2 marks)\nInstructor signature: ____________________\nShut off power to the furnace and HRV. Remove the wiring and replace the existing thermostat connections. When completed and signed off from question 24. (3 marks)\nInstructor signature: ____________________\nWhy does an HRV have to be balanced once installed? (2 marks) _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nHow do you balance the HRV? (5 marks) ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________",
+          "content_truncated": false
+        },
+        {
+          "filename": "Maintenance checklist.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 19 - Forced Warm Air Heating Systems\\Lab Practicals",
+          "char_count": 1079,
+          "content": "Service and Maintenance Checklist\nName: _____________________________________________________\nAddress: ___________________________________________________\nPhone #: _____________________ Email:_________________________\nReason for call: ______________________________________________\nMake:                                                                           Model: ________________________________________\nSerial:                                                                           Age of equipment:                                        Date: ________\nFurnace completes full cycle – Yes            No                                        Tag issued – Yes             No\nComments : __________________________________________________________________\n____________________________________________________________________________\nTotal\n____________________________________________________________________________\n_____________________________________________________________________________\nCustomer : ____________________________________________________________________",
+          "content_truncated": false
+        },
+        {
+          "filename": "Simulation Furnace Practical.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 19 - Forced Warm Air Heating Systems\\Lab Practicals",
+          "char_count": 2922,
+          "content": "Furnace Simulation Boards - Wiring Practical\nLearning Outcome:\nUpon completion of this shop project, you will understand the sequence of operation and wiring for a standard, mid, or high efficiency furnace.\nInstructions:\nAsk the instructor to verify the board you will be working on. Answer the following questions, complete the schematic, and then wire up the board.\nNote: Each step must be signed off by the instructor before proceeding to the next question. Skipped sign offs will result in lost marks (2 per). Any damage to the systems components due to negligence or horseplay will result in a mark of zero for the practical.\nFollow all shop safety rules.\nWhat number board are you using? ____________________\nWhat type of furnace is this simulating? ____________________\nWhat parts are included with this board? (6 marks) __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nWhat is the sequence of operation for the board? (10 marks)\n____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nDraw the schematic/wiring diagram for the circuit below. The drawing should be neat, utilize proper electrical symbols for all components, parts should be labeled (in full, or provide a legend for short forms), and voltages should be shown. If you are unsure of how to draw any part of the circuit, ASK! Once you have completed the schematic, verify with the instructor. (15 marks)\nInstructor signature: ____________________\nWire up the board. Verify with the Instructor before powering on or starting up the board. Reminder that any damaged parts due to premature powering of the board will result in a zero for this practical. (20 marks)\nInstructor signature: ____________________",
+          "content_truncated": false
+        },
+        {
+          "filename": "Troubleshooting Practical.docx",
+          "file_type": "word",
+          "relative_path": "CSA Units\\Unit 19 - Forced Warm Air Heating Systems\\Lab Practicals",
+          "char_count": 2375,
+          "content": "Troubleshooting Practical\nIMPORTANT NOTE: These furnaces ARE NOT meant to be taken apart! Nothing should have to be removed or cut. Anything broken or damaged in these furnaces will result in a ZERO for this lab mark. They are only meant to be checked for readings for troubleshooting purposes. Make sure all readings are taken through the manufacturer’s plug connectors or terminal connections. If you are unsure with how to proceed on the fault you are working on, ask for assistance from the instructor.\nWhich number workstation are you working in? ____________________\nWhat number fault switch is tripped? ____________________\nWhat are the symptoms you are getting from the fault?\n____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nWITHOUT doing any troubleshooting, using your sequence of operations, what indication do the symptoms give you?\n____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nStart troubleshooting and list the steps and readings that you take below. When you have determined the fault, let the instructor know so we can verify and start onto the next fault.\n______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________\nInstructor signature: ____________________",
+          "content_truncated": false
+        }
+      ],
+      "total_documents": 15,
+      "total_chars": 292770,
+      "edition": "7th Edition",
+      "is_primary": false
+    }
+  }
+}
